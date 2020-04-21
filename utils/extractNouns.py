@@ -1,4 +1,7 @@
 import nltk
+import spacy
+
+nlp = spacy.load("en_core_web_sm")
 
 def extractNouns(text):
     ''' 
@@ -17,7 +20,11 @@ def extractNouns(text):
     return concepts
 
 
-def extractConcepts(text):
+def extractNounsSapcy(text):
     '''
     '''
-    pass
+    doc = nlp(text)
+    for chunk in doc.noun_chunks:
+        print(chunk.text, chunk.root.text, chunk.root.dep_,
+            chunk.root.head.text)
+    return(chunk.text)
