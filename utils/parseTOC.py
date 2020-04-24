@@ -7,6 +7,7 @@ from nltk.tokenize import sent_tokenize
 
 def parseTOCContent(text, chapterNumber='0'):
     '''
+    Creting a dictionary of the concept with page ranges
     '''
     contents = text.splitlines()
     contents = [content.split(',') for content in contents]
@@ -23,8 +24,11 @@ def parseTOCContent(text, chapterNumber='0'):
     return(chapter_dict)
 
 
-def extractConceptHierarchyFromTOC(path='data', filename="Cloud Computing Bible.pdf", tocPages=(18,27), output="results\\"):
+# Entry Point
+def extractConceptHierarchyFromTOC(path='data', filename="Cloud Computing Bible.pdf", tocPages=(16,17), \
+                                    lastPage=496, output="results\\"):
     '''
+    Load textbook, iterate over pages and create concept dictionary
     '''
     # Ref : https://www.geeksforgeeks.org/working-with-pdf-files-in-python/
     doc = fitz.open(path+"\\"+filename)
@@ -35,12 +39,19 @@ def extractConceptHierarchyFromTOC(path='data', filename="Cloud Computing Bible.
         text = page.getText()
         chapter_dict = parseTOCContent(text)
         all_concepts_dict.update(chapter_dict)
-    json_dict = json.dumps(all_concepts_dict)
-    f = open(output + filename+"_TOC.json", "w+")
-    f.write(json_dict)
-    f.close()
+    
+    chapter_dict = {}
+    start_value = 0
+    chapter_id = 0
+    for key, value in all_concepts_dict.items():
+        end_value = value
+        chapter_dict[chapter_id] = (start_value, end_value, key)
+        chapter_id += 1
+        start_value = value
 
-    return all_concepts_dict
+    chapter_dict[chapter_id] = (start_value, lastPage)
+    return chapter_dict
+
+extractConceptHierarchyFromTOC()
 
  
-#extractConceptHierarchyFromTOC()

@@ -52,6 +52,7 @@ def extractConceptsFromIndexPage(content_with_pns):
     return concept_dict
 
 
+# Entry Point
 def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", indexPages=(496,528), output="results\\"):
     '''
     To load data from pdf
@@ -74,5 +75,6 @@ def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", i
     f.close()
     return all_concepts_dict
 
-extractConceptFromIndex()
+all_concepts_dict = extractConceptFromIndex()
+print(len(list(all_concepts_dict.keys())))
     
