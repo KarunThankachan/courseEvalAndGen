@@ -18,7 +18,7 @@ def createReferenceFeatures(prefix="results\\"):
     '''
     '''
     concept_features = []
-    with open(prefix+'concepts.csv') as csv_file:
+    with open(prefix+'concepts2.csv') as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
             concept_features.append(row)
@@ -79,7 +79,7 @@ def createReferenceFeatures(prefix="results\\"):
         curr_concept_count += 1
         print("Concept ", curr_concept_count, " completed of total ", concept_count)
 
-    with open("results\concepts_features.csv", 'a', newline="") as concept_file:
+    with open("results\concepts_features2.csv", 'a', newline="") as concept_file:
         for key,value in concept_refs.items():
             out_val = key[0] + "," + key[1] + "," + str(value[0]) + "," + str(value[1]) + "," + \
                 str(value[2]) + "," + str(value[3]) + "," + str(value[4]) + "," + \

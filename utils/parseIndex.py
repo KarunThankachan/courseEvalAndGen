@@ -48,7 +48,6 @@ def extractConceptsFromIndexPage(content_with_pns):
         if len(curr_pages) > 0:
             concept_dict.update({curr_concept:curr_pages for curr_concept in curr_concepts})
 
-    # return {concepts:[page numbers, ....]}
     return concept_dict
 
 
@@ -73,8 +72,18 @@ def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", i
     f = open(output + filename+"_concepts.json", "w+")
     f.write(json_dict)
     f.close()
-    return all_concepts_dict
 
-all_concepts_dict = extractConceptFromIndex()
-print(len(list(all_concepts_dict.keys())))
+
+    # return {concepts:[page numbers, ....]}
+    concept_names_raw = list(all_concepts_dict.keys())
+    concept_names = []
+    for concept_name in concept_names_raw:
+        if (concept_name not in concept_names) and (concept_name+"s" 
+                    not in concept_names) and (concept_name[:-1] not in concept_names):
+            concept_names.append(concept_name)
+
+    return concept_names
+
+concepts = extractConceptFromIndex()
+print(len(concepts))
     
