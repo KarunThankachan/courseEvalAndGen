@@ -52,7 +52,7 @@ def extractConceptsFromIndexPage(content_with_pns):
 
 
 # Entry Point
-def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", indexPages=(496,528), output="results\\"):
+def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", indexPages=(849,889), output="results\\"):
     '''
     To load data from pdf
     Args : filename, name of pdf file
@@ -84,6 +84,7 @@ def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", i
 
     return concept_names
 
-# concepts = extractConceptFromIndex()
+# concepts = extractConceptFromIndex(path="AL-CPL\\textbooks\\", filename='Networking.pdf')
+# print(concepts)
 # print(len(concepts))
     

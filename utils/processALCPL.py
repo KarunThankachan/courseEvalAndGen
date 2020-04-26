@@ -19,10 +19,10 @@ def processALCPLdata(path='AL-CPL\\features\\', filename='network_relation_v2.cs
 
     print("Processed Dataset")
 
-processALCPLdata(filename='data_mining_relation_v2.csv')
-processALCPLdata(filename='precalculus_relation_v2.csv')
-processALCPLdata(filename='database_relation_v2.csv')
-processALCPLdata(filename='geometry_relation_v2.csv')
-processALCPLdata(filename='macroeconomics_relation_v2.csv')
-processALCPLdata(filename='network_relation_v2.csv')
-processALCPLdata(filename='physics-grade_relation_v2.csv')
+# processALCPLdata(filename='data_mining_relation_v2.csv')
+# processALCPLdata(filename='precalculus_relation_v2.csv')
+# processALCPLdata(filename='database_relation_v2.csv')
+# processALCPLdata(filename='geometry_relation_v2.csv')
+# processALCPLdata(filename='macroeconomics_relation_v2.csv')
+# processALCPLdata(filename='network_relation_v2.csv')
+# processALCPLdata(filename='physics-grade_relation_v2.csv')

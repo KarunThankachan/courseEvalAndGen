@@ -52,6 +52,6 @@ def extractConceptHierarchyFromTOC(path='data', filename="Cloud Computing Bible.
     chapter_dict[chapter_id] = (start_value, lastPage)
     return chapter_dict
 
-extractConceptHierarchyFromTOC()
+# extractConceptHierarchyFromTOC()
 
  
