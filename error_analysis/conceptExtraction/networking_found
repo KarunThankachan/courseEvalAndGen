@@ -1,0 +1,1231 @@
+aac (advanced audio coding)
+abramson
+norman
+abr atm network service
+abr (available bit-rate)
+spare available bandwidth advantage
+access control and snmpv3
+access control lists
+access delay
+access isp
+access networks
+cable internet access
+dial-up access
+dsl (digital subscriber line)
+enterprises
+ethernet
+ftth (fiber to the home)
+home access
+link-layer switches
+lte (long-term evolution)
+optical distribution network
+satellite links
+wireless networks
+wide-area wireless access
+wireless lans
+access routers
+accounting management
+acknowledgments
+piggybacked
+tcp (transmission control protocol)
+telnet
+ack (positive acknowledgments)
+ack receipt
+adapters
+mac addresses
+routers
+adaptive congestion control
+adaptive playout delay
+adaptive streaming
+adaptive http streaming
+address aggregation
+address indirection
+internet
+processes
+icann
+ad hoc networks
+802.15.1 networks
+wireless hosts
+adleman
+leonard
+aes (advanced encryption standard)
+agent advertisement
+agent discovery
+agent solicitation
+aging time
+ah (authentication header) protocol
+decrease) algorithm
+akamai
+alias hostname
+alohanet
+aloha protocol
+alternating-bit protocols
+amazon cloud
+analog audio
+anchor foreign agent
+anchor msc
+andreessen
+marc
+systems)
+anonymity
+anycast
+aons (active optical networks)
+ap (access points)
+apache web server
+api (application programming interface)
+application architecture
+application gateways
+deep packet inspection
+application-layer messages
+application-layer protocols
+dns (domain name system)
+electronic mail
+ftp (file transfer protocol)
+http (hypertext transfer protocol)
+internet e-mail application
+proprietary
+public domain
+security
+protocol)
+rithms
+area border routers
+agency)
+arp (address resolution protocol)
+arpanet
+arp messages 467
+arp tables
+cols
+asn.1 (abstract syntax notation one)
+asn (autonomous system number)
+as-path attribute
+ass (autonomous systems)
+association
+assured forwarding phb
+control
+atm (asynchronous transfer mode)
+complexity and cost
+services
+multiple service models
+q2931b protocol
+glitches
+human speech
+mp3 (mpeg 1 layer 3)
+pcm (pulse code modulation)
+properties
+quantization
+removing jitter at receiver
+cryptographic techniques
+end-point
+802.11i
+md5
+networks
+secret password
+snmpv3
+wep (wired equivalent privacy)
+802.11 wireless lans
+wireless station
+authentication key
+authentication protocol examples
+authoritative dns servers
+hostnames
+ip addresses
+names
+average throughput
+backbone area
+bandwidth
+guaranteed minimal
+link-level allocation
+use-it-or-lose-it resource
+video
+bandwidth flooding
+bandwidth provisioning
+bandwidth-sensitive applications
+baran
+paul
+base html file
+base stations
+handoff between
+beacon frames
+bellman-ford equation
+bellovin
+steven m.
+ber (basic encoding rules)
+ber (bit error rate)
+berners-lee
+tim
+best-effort delivery service
+best-effort networks
+best-effort service
+bgp (border gateway protocol)
+attributes
+bgp peers
+bgp sessions
+complexity
+dv (distance-vector) algorithm
+ebgp (external bgp) session
+elimination rules for routes
+ibgp (internal bgp) session
+inter-as routing protocols
+peers
+prefix bits
+route advertisement
+routes
+route selection
+routing policy
+routing tables
+session
+tcp connections
+bidirectional data transfer
+binary exponential backoff algorithm
+bind (berkeley internet name domain)
+bit-level error detection and correction
+bitnet
+bits
+propagation delay
+bittorrent
+hosts
+chunks
+developing
+kademlia dht
+p2p (peer-to-peer) protocol
+swarming data principles
+trading algorithm
+blades
+block ciphers
+bluetooth
+boggs
+david
+border routers
+botnet
+bottleneck link
+broadcasting (link layer)
+channels
+channel propagation delay
+frame
+links
+broadcast routing algorithms
+broadcast storm
+flooding
+n-way-unicast
+sequence number
+spanning-tree broadcast
+browsers
+client processes
+http requests directed to web cache
+bsc (base station controller)
+bss (base station system)
+bss (basic service set)
+mac address
+mobility among
+bts (base transceiver station)
+buffered distributors
+packets
+streaming video
+packet loss
+switch output interfaces
+burst size
+bursty traffic
+bus
+switching via
+docsis protocol
+link-layer protocols
+cable modems
+ca (certification authority)
+certifying public keys
+call admission
+call setup protocol
+canonical hostnames
+carrier sensing
+cbc (cipher-block chaining)
+cdma (code division multiple access)
+cdns (content distribution networks)
+service providers)
+cluster selection strategy
+data centers
+measurements
+dns intercept/redirect
+ip anycast
+netflix
+operation
+replicating content across clusters
+growth of
+internet access
+architecture
+cells
+handoffs in gsm
+managing mobility
+routing calls to cellular user
+2g
+3g
+4g networks
+cerf
+vinton g.
+cert coordination center
+certificates
+channel numbers
+channel partitioning protocols
+protocol
+ing)
+tdm (time-division multiplexing)
+fer
+losing packets
+checksums
+ack/nak packets
+calculation
+poor cryptographic hash function
+udp (user datagram protocol)
+chipping rate
+choke packet
+chosen-plaintext attack
+delaying playout
+ci (congestion indication) bit
+cidr (classless interdomain routing)
+ciphertext
+ciphertext-only attack
+end-to-end connection
+multiplexing
+versus packet switching
+reserving time slots
+sending packets
+telephone networks
+circuit-switched routing algorithm
+cisco systems
+routers and switches
+dominating network core
+clark
+dave
+classful addressing
+cleartext
+client application buffer
+client buffering
+clients
+initiating contact with server
+http
+queries
+port number
+prefetching video
+receiving and processing packets from
+tcp socket creation
+web caches as
+tcp
+udp
+well-known port number
+client side socket interface
+client socket
+networking
+system)
+cname record
+coa (care-of-address)
+coaxial cable
+collision detection
+collisions
+switch elimination
+comcast
+providers)
+communication satellite
+history of
+computer networks
+conditional get
+confidentiality
+configuration management
+causes and costs
+dropping packets
+large queuing delays
+transmission capacity wasted
+unneeded retransmissions by sender
+congestion avoidance
+congestion control
+abr (available bit-rate) service
+multiplicative-decrease)
+approaches
+end-to-end
+network-assisted
+principles
+source quench message
+congestion window
+connection-establishment request
+connectionless service
+datagram protocol)
+connection-oriented service
+(transmission control protocol)
+connection replay attack
+persistent
+connection setup
+connection sockets and processes
+connection state
+ters)
+content provider networks
+continuous playout
+control connection
+controlled flooding
+control plane software
+conversational applications
+cookies
+correspondent
+corrupted acks or naks
+countdown timer
+coverage area
+crc (cyclic redundancy check) codes
+crossbar switch
+cryptographic hash functions
+cryptography
+decryption algorithm
+encryption algorithm
+keys
+plaintext
+public key encryption
+symmetric key cryptography
+csma (carrier sense multiple access)
+with collision avoidance)
+with collision detection)
+efficiency
+csnet (computer science network)
+cts (clear to send) control frame
+cumulative acknowledgments
+customer isps
+customer-provider relationship
+databases
+implementing in p2p network
+data center networks
+networks)
+centers)
+costs
+hierarchy of routers and switches
+work protocols
+internet services
+load balancing
+servers
+data definition language
+equivalent privacy)
+data frame
+datagram networks
+datagrams
+detecting bit errors
+extending ip header
+fragmentation
+internet protocol (ip) v4 format
+labeling
+length
+moving between hosts
+passed to transport layer
+reassembling in end systems
+sending off subnet
+source and destination ip addresses
+tos (type of service) bits
+transport-layer segments
+ttl (time-to-live) field
+datagram service and network layer
+data integrity
+data link layer
+data plane and hardware
+data smtp command
+data transfer
+bidirectional
+reliable
+ssl (secure sockets layer)
+unidirectional
+unreliable
+vc (virtual-circuit) networks
+attacks
+decnet architecture
+decentralized routing algorithm
+deering
+steve
+default name server
+default router
+tion delays
+end systems
+nodal processing
+packetization
+packet-switched networks
+processing
+propagation
+queuing
+total nodal
+transmission
+delay-sensitive
+demultiplexing
+connectionless
+connection-oriented
+des (data encryption standard)
+destination port numbers
+destination router
+ip addresses dynamically assigned
+dhcp request message
+dhcp servers
+dhts (distributed hash tables)
+diameter protocol
+differentiated service
+diffie-hellman algorithm
+diffserv
+difs (distributed inter-frame space)
+digital audio
+digital signatures
+tication code)
+hash functions
+message integrity
+tion
+pgp (pretty good privacy)
+public key certification
+public-key cryptography
+dijkstra’s least-cost path algorithm
+ospf (open-shortest path first)
+dimensioning best-effort networks
+directory service
+direct routing
+distance vector
+distributed applications
+dmz (demilitarized zone)
+dns database
+attacks and vulnerabilities
+caching
+cdn requests
+client-server paradigm
+ddos attack against targeted host
+distributed and hierarchical database
+host aliasing
+improving delay performance
+iterative queries
+load distribution
+obtaining presence in
+operational overview
+querying and replaying messages
+query messages
+recursive queries
+reply messages
+rotation
+rrs (resource records)
+secure communication
+services provided by
+update option
+dns servers
+domain)
+ddos bandwidth-flooding attack
+discarding cached information
+distant centralized database
+hierarchy
+local dns server
+recursion
+root dns servers
+single point of failure
+tld (top-level domain) dns servers
+interface specifications)
+dos (denial-of-service) attacks
+fragmentation and
+syn flood attack
+dotted-decimal notation
+drop-tail
+multiplexer)
+cdma)
+dual-stack approach
+duplicate acks
+duplicate data packets
+routing protocol)
+dynamic routing algorithm
+eap (extensible authentication protocol)
+eavesdropping
+ebgp (external bgp)
+ec2
+edge router
+indication) bit
+802.11n wireless network
+802.1q frames
+address fields
+aps (access points)
+authentication
+avoidance)
+data rates
+frequency band
+link-layer frames
+mac protocols
+reducing transmission rate
+transmitting frames
+elastic applications
+electromagnetic noise
+e-mail
+access protocols
+web-based e-mail system
+encapsulation
+ip
+encryption
+end-point authentication
+interface)
+applications running on
+communication links
+connecting
+datagram reassembly
+delays
+tcp protocol
+transport-layer protocols
+end-to-end congestion control
+end-to-end delay
+traceroute program
+end-to-end principle
+end-to-end throughput
+enterprises and access networks
+epc (evolved packet core)
+er (explicit rate) field
+parity checks
+transport layer
+error concealment
+tocols
+checksumming methods
+parity bits
+two-dimensional parity scheme
+esp (encapsulation security payload)
+established state
+estrin
+deborah
+broadcast link
+carrier-sensing random access
+collision-detection algorithm
+csma/cd protocol
+frame format
+home networks
+local area networking
+mss (maximum segment size)
+mtu (maximum transmission unit)
+multiplexing network-layer protocols
+physical-layer protocols
+standardized
+store-and-forward packet switching
+switch-based star topology
+switches
+10base-2
+10base-t
+10gbase-t
+average)
+expedited forwarding phb
+extended fsm (finite-state machine)
+aimd algorithm
+congestion-control mechanism
+parallel tcp connections
+fault management
+fcfs (first-come-first-served) scheduling
+fddi (fiber distributed data interface)
+fdm (frequency-division multiplexing)
+fdm/tdm systems
+fec (forward error correction)
+spectrum)
+fiber optics
+100 mbps ethernet
+fifo (first-in-first-out)
+file sharing
+file transfer
+filtering
+fin bit
+fios service
+firewalls
+authorized traffic
+blocking packets
+connection table
+malicious packet attacks
+fixed-length labels
+fixed playout delay
+flag field
+flow control
+different from congestion control
+flow (of packets)
+foreign address
+foreign agent
+mobile ip
+receiving and decapsulating datagram
+registration with home agent
+foreign networks
+forwarding
+forwarding function
+forwarding plane
+forwarding tables
+adding entries
+configuring
+routing algorithms
+vc networks
+4g systems
+fragmentation of datagrams
+fsm (finite-state machine)
+extended
+initial state
+full-duplex service
+full-table block ciphers
+fully connected topology
+gateway routers
+import policy
+packet filtering
+prefixes
+gbn (go-back-n) protocol
+generator
+geographically closest
+geostationary satellites
+get method
+ggsns (gateway gprs support nodes)
+gigabit ethernet
+global routing algorithm
+switching center)
+google
+service)
+graphs
+ground stations
+communications)
+encoding audio
+handoffs
+network)
+indirect routing
+mobility
+routing cells to mobile user
+visited network
+guaranteed delivery
+guided media
+gsm
+handshake
+hard guarantee
+hardware data plane
+hardware-implemented protocols
+hdlc (high-level data link control)
+header checksum
+header fields
+hfc (hybrid fiber coax)
+hidden terminals
+hierarchical routing
+works and mobility
+hlr (home location register)
+hmac standard
+hol (head-of-the-line) blocking
+home agents
+home msc
+mobile nodes
+work)
+wifi
+alias
+canonical
+translating to ip addresses
+aliasing
+assigning ip addresses to
+changing base station
+connected into network
+dhcp discovery message
+dial-up modem connection
+interfaces
+link-layer addresses
+load balancer
+monitoring
+moving datagrams between
+network-layer addresses
+network-layer protocols
+process-to-process delivery service
+storing routing information
+wireless
+hot-potato routing
+hsp (high speed packet access)
+html
+client program
+get request
+if-modified-since: header line
+message format
+non-persistent connections
+persistent connections
+pull protocol
+post method
+put method
+response message
+server program
+smtp comparison with
+stateless
+ssl security
+stateless protocols
+tcp and
+web caching
+http streaming
+hubs
+hulu
+streaming stored video
+human protocols
+hypertext
+ibgp (internal bgp)
+ibm sna architecture
+assigned names and numbers)
+messages
+ipv6
+idea
+identification field (ip)
+idss (intrusion detection systems)
+ing group
+committee
+ieee managing mac address space
+ietf (internet engineering task force)
+standards for cas
+ike (internet key exchange)
+imap (internet mail access protocol)
+imap server
+in-band
+mobile ip standard
+triangle routing problem
+infrastructure wireless networks
+in-order packet delivery
+input ports
+packet queues
+switching to output ports
+input processing
+instantaneous throughput
+instant messaging
+intel 8254x controller
+interactivity
+inter-as routing
+interconnection network
+interior gateway protocols
+interleaving
+address assignment strategy
+addressing
+best-effort service model
+cellular access
+commercialization
+connecting end systems
+connectivity
+delivering data
+difficulty making changes to
+flag day
+global traffic
+inter-domain protocol
+intra-as routing
+isps (internet service providers)
+ixps (internet exchange points)
+layered architecture
+link-layer overview
+mobile devices
+multicast routing
+network layer
+network of networks
+obtaining presence on
+packet forwarding
+protocol stack
+routing protocols
+service classes
+service provider private networks
+services description
+standards
+3g and 4g cellular networks
+tld (top-level domain) servers
+transport layer overview
+transport services
+web
+wireless access
+internet api
+internet applications
+internet checksum
+internet commerce
+cloud
+internet phone application
+internet registrar
+internet routing protocols
+framework
+internet telephony
+skype
+internetting
+internet transport protocols
+intra-domain routing and dns servers
+intrusion detection
+allocating
+block
+classful addressing
+destination
+distinguishing among devices
+dns
+globally unique
+hierarchical structure
+increasing size of
+ip broadcast
+lease time
+obtaining
+prefix
+private addresses
+range
+setting up call to known
+source
+subnets
+translating hostnames to
+ip broadcast address 344
+ip datagrams
+attacks and
+encryption of payloads
+ethernet frames
+ip header
+ip-in-ip encapsulation
+ip (internet protocol)
+confining internet’s development
+de facto standard for internetworking
+internet addressing and forwarding
+multicasting
+pervasiveness
+separation from tcp
+ip multicast
+ipng (next generation ip)
+ipsec
+ips (intrusion prevention system)
+ip spoofing
+ip subnet
+ip tunnels
+iptv
+ipv4 addresses
+ipv6 addresses
+ipv4 addressing
+ipv4 datagrams
+format
+ipv6 datagrams
+ipv4 header
+ipv6 header
+ipv4 (ip protocol version 4)
+transitioning to ipv6
+ipv6 (ip protocol version 6)
+flow labeling and priority
+transitioning from ipv4
+tunneling
+ipv6/ipv4 nodes
+intermediate-system)
+is-is protocol
+standardization)
+end-to-end service
+global transit
+low-tier and upper-tier
+multi-homing
+naming and addressing conventions
+obtaining set of addresses from
+peering agreements
+union)
+jacobson
+van
+java and client-server programming
+jitter
+kahn
+robert
+kankan
+key derivation
+key management
+kleinrock
+known-plaintext attack
+label-switched routers
+lam
+simon s.
+lans (local area networks)
+broadcast address
+configured hierarchically
+hub-based star topology
+vlans (virtual local area networks)
+last-modified: header line
+layer-2 packet switch
+layer-4 switch
+ldns (local dns server)
+leaky bucket mechanism
+least-cost path
+leo (low-earth orbiting) satellites
+limelight
+limited-scope flooding
+vector) algorithm
+link-layer acknowledgments
+link-layer addressing
+error detection and correction
+link layer
+broadcast channels
+niques
+ieee protocols
+implementation
+multiple access protocols
+networks as
+point-to-point communication link
+wireless links
+link rates
+broadcast
+heterogeneous
+mpls header format
+point-to-point
+transmission rates
+priority queuing
+round robin queuing discipline
+wfq (weighted fair queuing)
+pline
+link-state broadcast
+link-state messages
+link-state protocols
+link-state routing algorithms
+link virtualization
+link weights
+load-insensitive routing algorithm
+local isp
+logical communication between processes
+longest prefix matching rule
+loss recovery schemes
+loss-tolerant
+lost packets
+lsas (link-state advertisements)
+ap (access point)
+bss
+flat structure
+no two adapters have same
+permanent
+mac (message authentication code)
+compared with digital signatures
+mac (multiple access protocols)
+mail access protocols
+mailbox
+mail clients
+mail servers
+(domain name system)
+malware
+managed device
+managed objects
+managing entity
+manets (mobile ad hoc networks)
+manifest file
+map message
+mbone multicast network
+mcr (minimum cell transmission rate)
+mdcs (modular data centers)
+md5 hash algorithm
+message digests
+secure e-mail system
+message queue
+application-layer
+authenticating
+breaking into shorter segments
+encrypted
+http format
+integrity
+segmentation
+semantics of fields
+syntax
+transmitting and receiving
+metcalfe
+bob
+metering function
+method field
+mib (management information base)
+mib modules
+mib objects
+microsoft
+middleboxes
+antennas
+minimum spanning tree
+minitel project
+mk (master key)
+power management
+location protocol
+permanent address
+permanent home
+registering with foreign agent
+routing to
+sending datagrams to correspondent
+mobile-node-to-foreign-agent protocol
+cellular network management
+in ip subnet
+management
+network-layer functionality required
+routing to mobile node
+scalability
+mobility-related services
+modems
+modular arithmetic
+modulo arithmetic
+mpeg
+mpls (multiprotocol label switching)
+mpls paths
+msc (mobile switching center)
+ms (master secret)
+number)
+multicast addresses
+multicast group
+multicast packets
+multicast protocols
+multicast trees and rtp packets
+multi-homed stub network
+multi-hop wireless networks
+multihop paths
+network supported for
+system-level approach for delivering
+voip (voice-over-ip)
+multimedia applications
+audio properties
+bandwidth sensitive
+conversational voice
+improving quality
+streaming live audio and video
+streaming stored audio and video
+types
+video over ip
+video properties
+multipath propagation
+multi-player online games
+multiple access links
+multiple access problem
+characteristics
+random access protocols
+taking-turns protocols
+multiple classes of service
+circuit-switched networks
+multi-tier hierarchy
+mx record
+naks (negative acknowledgments)
+named data
+initiation protocol)
+napster
+nat (network address translation)
+ncp (network-control protocol)
+neighbors
+neighbor-to-neighbor communication
+netscape communications corporation
+network adapter
+network applications
+creation
+principles of
+processes communicating
+network-assisted congestion control
+network attacks
+network cache servers
+circuit switching
+packet switching
+network dimensioning
+network-layer components
+network-layer datagram
+algorithms
+network-layer packets
+constrained by service model
+difficulty changing
+hosts supporting multiple
+logical communication between hosts
+broadcast protocols
+connection service
+datagram service
+into ip datagram
+host-to-host communication
+host-to-host services
+ip protocol
+passing segments to
+path between sender and receiver
+reporting errors in datagrams
+reserving resources
+routing
+services offered by
+transport layer relationship
+network-layer service models
+accounting management
+comcast case study
+configuration management
+definition
+fault management
+host monitoring
+infrastructure
+monitoring traffic
+network management protocol
+performance management
+security management
+slas (service level agreements)
+network management agent
+network mapping
+network prefix
+network protocols
+circuit-switched
+cellular
+components
+crossbar
+dimensioning best-effort
+foreign
+interconnecting
+linking universities
+as link layer
+packet delay and loss
+packet-switched
+service) guarantees
+physical media
+private
+programs communicating on
+scheduling mechanisms
+sockets
+switched local area networks
+vc (virtual-circuit)
+visited
+wireless lans
+network service models
+next-hop attribute
+ni (no increase) bit
+nmap port scanning tool
+noc (network operations center)
+nomadic computing
+nonces
+discipline
+non-real-time applications
+techniques
+nslookup program
+object identifier data type
+objects
+oc (optical carrier) standard link
+odd parity schemes
+offered load
+olt (optical line terminator)
+ont (optical network terminator)
+operational security
+options field
+origin authentication
+model
+router authentication
+os vulnerability attacks
+out-of-band
+out-of-order segments
+output buffers
+output ports
+packet scheduler
+output queue
+overlapping fragments
+overlay network
+packet classification
+packet delay
+packet-discarding policy
+predicting imminent
+recovering from
+packet marking
+packet-radio networks
+packet repetition
+average rate
+bit errors
+buffering
+delivering
+destination ip address
+detecting loss
+dropping
+duplicate
+format of
+moving between nodes
+path
+payload fields
+peak rate
+prefix destination address
+processing delays
+queuing delays
+round-robin queuing
+round-trip delays
+rtt (round-trip time)
+same priority class
+sender’s source address
+sending
+sending multiple
+source address
+switching
+tracing
+transmitting
+uncontrolled flooding
+vc number
+what to do when loss occurs
+where queuing occurs
+packet satellite
+packet sniffers
+transmission delays
+packet switches
+facilitating exchange of data
+store-and-forward transmission
+alternative to circuit switching
+queuing theory
+secure voice over military networks
+vc (virtual-circuit) approach
+packet-switching networks
+paging
+passive spanning
+passwords
+least-cost
+multihop
+pbxs (private branch exchanges)

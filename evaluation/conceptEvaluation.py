@@ -17,10 +17,10 @@ def extractConceptsFromGT(path='AL-CPL\\features\\', filename='proc_network_rela
     
     concepts = list(set(concepts))
 
-    for concept in concepts:
-        print(concept)
+    # for concept in concepts:
+    #     print(concept)
 
-    print("=="*20)
+    # print("=="*20)
     return concepts
 
 
@@ -30,6 +30,11 @@ def evaluateConceptExtraction(path="", filename=""):
     '''
     concepts =  extractConceptFromIndex(path="AL-CPL\\textbooks\\", filename='Networking.pdf')
     concepts = [concept.lower() for concept in concepts]
+
+    f = open("networking_found","w")
+    for concept in concepts:
+        f.write(concept+"\n")
+    f.close()
 
     gt_concepts = extractConceptsFromGT()
 
