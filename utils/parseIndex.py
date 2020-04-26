@@ -84,6 +84,6 @@ def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", i
 
     return concept_names
 
-concepts = extractConceptFromIndex()
-print(len(concepts))
+# concepts = extractConceptFromIndex()
+# print(len(concepts))
     
