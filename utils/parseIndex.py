@@ -13,9 +13,11 @@ def parseIndexText(text):
     '''
     contents = text.splitlines()
     content_with_pns = []
-    for i in range(len(contents)-1):
+    for i in range(len(contents)):
         # check if the next line is numbers only
-        if re.search('[a-zA-Z]+', contents[i]) is not None:   
+        if (len(content_with_pns) > 1) and (re.search('[0-9]+',content_with_pns[-1]) is None):
+            content_with_pns[-1] =  content_with_pns[-1] + " " + contents[i]
+        elif re.search('[a-zA-Z]+', contents[i]) is not None:   
             # if not add to list
             content_with_pns.append(contents[i])
         elif len(content_with_pns) > 1:
@@ -38,9 +40,11 @@ def extractConceptsFromIndexPage(content_with_pns):
         curr_concepts = []
         curr_pages = []
         for concept in concepts:
+            # name of the concepts
             if re.search('[a-zA-Z]+', concept) is not None:
                 curr_concepts.append(concept.strip())
             else:
+            # page number of concept
                 concept = concept.strip()
                 if len(concept) > 0:
                     curr_pages.append(concept.replace("–","-").strip())
@@ -84,7 +88,7 @@ def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", i
 
     return concept_names
 
-# concepts = extractConceptFromIndex(path="AL-CPL\\textbooks\\", filename='Networking.pdf')
+concepts = extractConceptFromIndex(path="AL-CPL\\textbooks\\", filename='Networking.pdf')
 # print(concepts)
 # print(len(concepts))
     
