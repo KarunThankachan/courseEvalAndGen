@@ -41,7 +41,8 @@ def extractConceptPositionalFeatures(concepts=['and'], path='data', filename="Cl
                     concept_location.append([concept, str(chapterId), str(pageNumber), str(i), str(word_idx)])
 
         # write the concepts in this page
-        with open("results\concepts2.csv", 'a', newline="") as concept_file:
+        out_file = filename.split(".")[0] + "_concepts.csv"
+        with open("results\\"+ out_file, 'a', newline="") as concept_file:
             wr = csv.writer(concept_file)
             wr.writerows(concept_location)
         
@@ -53,9 +54,8 @@ def extractConceptPositionalFeatures(concepts=['and'], path='data', filename="Cl
     print("Concept Feature Extraction Done")
 
 
-concepts = extractConceptFromIndex()
-print(concepts)
-chapters = extractConceptHierarchyFromTOC()
-print(chapters)
-concept_location_dict = extractConceptPositionalFeatures(concepts = concepts, filename="Cloud Computing Bible.pdf", 
-                                         pages=(25,495), chapters=chapters)
+concepts = extractConceptFromIndex(path="AL-CPL\\textbooks\\", filename='Networking.pdf')
+chapters = extractConceptHierarchyFromTOC(path='AL-CPL\\textbooks', filename="Networking.pdf", tocPages=(17,25), \
+                                    lastPage=849, output="results\\")
+concept_location_dict = extractConceptPositionalFeatures(concepts = concepts, path="AL-CPL\\textbooks\\", filename='Networking.pdf',
+                                         pages=(27,816), chapters=chapters)

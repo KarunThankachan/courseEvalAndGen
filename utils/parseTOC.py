@@ -5,23 +5,24 @@ import fitz
 import json
 from nltk.tokenize import sent_tokenize
 
+
+def RepresentsInt(s):
+    try: 
+        int(s)
+        return True
+    except ValueError:
+        return False
+
 def parseTOCContent(text, chapterNumber='0'):
     '''
-    Creting a dictionary of the concept with page ranges
+    Creating a dictionary of the concept with page ranges
     '''
     contents = text.splitlines()
-    contents = [content.split(',') for content in contents]
-    chapter_dict = {}
+    chapter_pages = []
     for content in contents:
-        newChapterNames = re.findall('[a-zA-z\s\(\)]+', content[0])
-        newChapterPageNumber = re.findall('[0-9]+$', content[0])
-        if len(newChapterNames) > 1 :
-            newChapterName = newChapterNames[1]
-        elif len(newChapterNames) > 0:
-            newChapterName = newChapterNames[0]
-        if len(newChapterPageNumber) > 0:
-            chapter_dict[newChapterName.strip()] = int(newChapterPageNumber[0])
-    return(chapter_dict)
+        if RepresentsInt(content):
+            chapter_pages.append(content)
+    return(chapter_pages)
 
 
 # Entry Point
@@ -32,26 +33,30 @@ def extractConceptHierarchyFromTOC(path='data', filename="Cloud Computing Bible.
     '''
     # Ref : https://www.geeksforgeeks.org/working-with-pdf-files-in-python/
     doc = fitz.open(path+"\\"+filename)
-    all_concepts_dict = {}
+    all_chapters = []
 
     for pageNumber in range(*tocPages):
         page = doc.loadPage(pageNumber)
         text = page.getText()
-        chapter_dict = parseTOCContent(text)
-        all_concepts_dict.update(chapter_dict)
+        chapter_pages = parseTOCContent(text)
+        all_chapters += chapter_pages
     
     chapter_dict = {}
     start_value = 0
     chapter_id = 0
-    for key, value in all_concepts_dict.items():
-        end_value = value
-        chapter_dict[chapter_id] = (start_value, end_value, key)
+    for value in all_chapters:
+        end_value = int(value)
+        if start_value > end_value:
+            print("Parsing Error: ", start_value, end_value)
+        chapter_dict[chapter_id] = (start_value, end_value)
         chapter_id += 1
-        start_value = value
+        start_value = int(value)
 
     chapter_dict[chapter_id] = (start_value, lastPage)
+    print(chapter_dict)
     return chapter_dict
 
-# extractConceptHierarchyFromTOC()
+# extractConceptHierarchyFromTOC(path='AL-CPL\\textbooks', filename="Networking.pdf", tocPages=(17,25), \
+#                                     lastPage=849, output="results\\")
 
  
