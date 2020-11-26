@@ -1,0 +1,8449 @@
+check constraint,111,200,0,441
+check constraint,111,200,2,121
+check constraint,111,200,4,54
+check constraint,117,214,2,236
+deductive database,536,847,0,3
+deductive database,536,847,6,26
+deductive database,540,853,0,0
+deductive database,547,862,0,123
+deductive database,548,865,0,0
+deductive database,553,874,19,30
+deductive database,553,874,22,48
+deductive database,553,875,0,50
+deductive database,676,1037,14,34
+deductive database,676,1045,72,14
+deductive database,676,1053,31,39
+deductive database,676,1053,33,12
+deductive database,676,1061,11,16
+deductive database,676,1065,9,50
+deductive database,676,1065,12,29
+deductive database,676,1066,45,20
+deductive database,676,1071,66,38
+deductive database,676,1071,81,20
+deductive database,676,1074,21,4
+data integrity,11,43,3,3
+relational database,6,37,7,86
+relational database,6,38,15,86
+relational database,8,40,14,27
+relational database,25,61,10,125
+relational database,25,62,1,110
+relational database,46,91,5,24
+relational database,46,92,13,0
+relational database,47,93,5,48
+relational database,49,95,19,2
+relational database,49,95,20,4
+relational database,53,103,3,118
+relational database,57,107,4,31
+relational database,57,108,8,89
+relational database,58,109,3,115
+relational database,66,121,5,212
+relational database,69,129,5,28
+relational database,69,129,17,82
+relational database,70,131,2,112
+relational database,71,132,13,97
+relational database,71,132,17,37
+relational database,71,132,20,25
+relational database,84,160,1,87
+relational database,438,718,4,59
+relational database,499,803,15,111
+relational database,500,805,9,184
+relational database,500,805,10,51
+relational database,526,831,4,47
+relational database,610,957,5,125
+relational database,610,957,7,118
+relational database,611,958,9,24
+relational database,627,976,18,5
+relational database,635,983,0,92
+relational database,657,1022,6,64
+relational database,676,1036,52,23
+relational database,676,1037,52,0
+relational database,676,1041,43,24
+relational database,676,1045,36,0
+relational database,676,1045,42,62
+relational database,676,1045,75,31
+relational database,676,1047,30,43
+relational database,676,1047,67,53
+relational database,676,1047,69,17
+relational database,676,1048,61,13
+relational database,676,1049,64,50
+relational database,676,1051,32,43
+relational database,676,1054,53,26
+relational database,676,1055,41,12
+relational database,676,1056,42,52
+relational database,676,1057,90,16
+relational database,676,1059,43,15
+relational database,676,1059,78,15
+relational database,676,1060,11,41
+relational database,676,1060,30,34
+relational database,676,1062,60,10
+relational database,676,1066,84,24
+relational database,676,1067,60,27
+relational database,676,1068,70,48
+relational database,676,1070,2,26
+relational database,676,1070,9,33
+relational database,676,1073,21,22
+domain relational calculus,80,151,0,51
+domain relational calculus,82,156,1,6
+domain relational calculus,86,162,16,128
+weak entity,33,70,4,30
+weak entity,33,70,5,2
+weak entity,33,70,6,72
+weak entity,33,70,7,72
+weak entity,33,70,8,8
+weak entity,33,70,10,27
+weak entity,34,71,0,48
+weak entity,34,71,2,44
+weak entity,34,71,5,24
+weak entity,39,77,15,21
+weak entity,44,85,19,10
+weak entity,44,86,3,41
+weak entity,63,116,0,31
+weak entity,63,116,1,121
+weak entity,63,116,3,24
+weak entity,63,116,5,37
+weak entity,66,120,3,68
+weak entity,69,129,9,37
+sql,8,40,14,4
+sql,8,40,15,0
+sql,12,46,13,77
+sql,18,50,14,37
+sql,20,53,10,17
+sql,20,53,11,27
+sql,20,54,3,16
+sql,46,91,4,55
+sql,46,91,7,88
+sql,46,92,0,13
+sql,46,92,1,125
+sql,46,92,2,25
+sql,46,92,3,80
+sql,46,92,4,36
+sql,46,92,5,10
+sql,46,92,6,42
+sql,46,92,7,61
+sql,46,92,8,16
+sql,46,92,12,189
+sql,46,92,17,115
+sql,47,93,0,121
+sql,47,93,3,100
+sql,47,93,4,220
+sql,47,93,6,28
+sql,49,95,4,16
+sql,49,96,1,45
+sql,49,96,2,14
+sql,49,96,8,125
+sql,52,100,0,33
+sql,52,100,2,1
+sql,52,101,8,122
+sql,52,102,0,41
+sql,53,103,6,64
+sql,53,103,7,11
+sql,53,103,10,69
+sql,54,104,0,228
+sql,54,104,5,0
+sql,55,105,5,0
+sql,55,105,15,0
+sql,56,106,3,56
+sql,56,106,10,0
+sql,57,107,7,0
+sql,57,107,8,20
+sql,57,107,9,158
+sql,57,107,13,173
+sql,57,108,6,32
+sql,58,109,2,121
+sql,58,109,7,157
+sql,59,110,8,203
+sql,59,112,6,56
+sql,60,113,4,14
+sql,60,113,10,14
+sql,62,115,1,85
+sql,62,115,2,78
+sql,62,115,8,63
+sql,62,115,12,58
+sql,65,118,5,65
+sql,66,120,11,6
+sql,67,122,6,4
+sql,67,122,19,12
+sql,68,123,0,59
+sql,68,123,2,18
+sql,68,123,4,0
+sql,68,123,8,300
+sql,68,123,11,41
+sql,69,125,14,43
+sql,69,125,15,27
+sql,69,128,1,4
+sql,69,128,11,21
+sql,69,128,15,39
+sql,69,128,16,50
+sql,69,129,2,19
+sql,69,129,6,56
+sql,69,129,14,9
+sql,69,129,15,29
+sql,69,129,19,54
+sql,69,130,5,13
+sql,69,130,6,31
+sql,69,130,7,12
+sql,69,130,8,12
+sql,69,130,9,12
+sql,69,130,11,26
+sql,69,130,14,70
+sql,69,130,19,6
+sql,69,130,22,7
+sql,69,130,25,6
+sql,70,131,0,149
+sql,70,131,3,9
+sql,70,131,4,81
+sql,70,131,5,97
+sql,70,131,8,19
+sql,70,131,9,212
+sql,70,131,10,20
+sql,71,132,10,22
+sql,72,133,1,18
+sql,72,133,8,18
+sql,73,134,0,96
+sql,74,135,3,161
+sql,78,144,8,67
+sql,78,144,9,112
+sql,78,146,5,53
+sql,78,146,6,23
+sql,80,150,14,97
+sql,80,151,1,36
+sql,88,164,0,2
+sql,88,164,1,8
+sql,88,164,2,32
+sql,88,164,3,47
+sql,88,164,4,14
+sql,88,164,12,18
+sql,88,164,19,67
+sql,88,165,0,4
+sql,88,165,1,64
+sql,88,165,4,4
+sql,88,165,7,68
+sql,88,165,8,0
+sql,88,165,9,34
+sql,88,165,10,4
+sql,88,165,11,41
+sql,88,165,12,17
+sql,88,165,13,56
+sql,88,165,16,54
+sql,88,165,18,33
+sql,88,165,19,56
+sql,88,166,2,0
+sql,88,166,4,23
+sql,88,166,5,8
+sql,88,166,7,130
+sql,88,166,11,12
+sql,88,166,13,25
+sql,88,166,15,17
+sql,88,166,16,195
+sql,88,167,0,0
+sql,88,167,1,30
+sql,88,167,4,225
+sql,88,167,5,24
+sql,88,167,8,21
+sql,88,168,3,31
+sql,89,169,0,0
+sql,89,169,8,72
+sql,90,170,3,117
+sql,90,170,4,38
+sql,90,170,13,73
+sql,90,170,14,75
+sql,90,171,3,168
+sql,91,172,2,78
+sql,91,173,0,0
+sql,91,173,11,52
+sql,91,174,1,96
+sql,91,174,2,25
+sql,91,174,8,3
+sql,91,174,10,13
+sql,92,175,0,0
+sql,92,175,7,23
+sql,92,175,8,72
+sql,92,175,10,33
+sql,92,175,12,0
+sql,92,175,13,2
+sql,92,175,16,165
+sql,93,177,0,0
+sql,93,177,5,59
+sql,94,178,6,56
+sql,95,179,0,0
+sql,95,179,1,35
+sql,95,179,2,28
+sql,95,179,7,84
+sql,96,181,0,0
+sql,97,182,7,0
+sql,97,183,0,0
+sql,97,184,0,519
+sql,98,185,0,0
+sql,98,185,1,26
+sql,98,185,2,44
+sql,98,185,4,37
+sql,98,185,7,0
+sql,98,185,12,94
+sql,98,186,4,34
+sql,98,186,9,133
+sql,98,186,10,55
+sql,98,188,0,39
+sql,98,188,1,11
+sql,98,188,11,62
+sql,98,188,12,203
+sql,99,189,10,3
+sql,99,189,13,31
+sql,99,189,14,3
+sql,99,190,7,105
+sql,99,191,0,0
+sql,99,191,4,0
+sql,99,192,1,2
+sql,100,193,1,308
+sql,100,193,5,347
+sql,104,195,0,0
+sql,104,195,2,75
+sql,107,196,1,27
+sql,107,196,2,5
+sql,107,196,14,0
+sql,107,196,17,99
+sql,108,197,0,0
+sql,108,197,6,0
+sql,108,197,18,16
+sql,109,198,2,4
+sql,109,198,10,129
+sql,109,198,19,0
+sql,110,199,5,70
+sql,110,199,6,37
+sql,110,199,7,87
+sql,111,200,5,100
+sql,111,200,8,0
+sql,111,201,1,0
+sql,111,201,2,135
+sql,111,201,3,73
+sql,111,201,4,228
+sql,111,201,5,72
+sql,111,201,13,26
+sql,115,203,0,0
+sql,115,203,8,30
+sql,115,203,9,5
+sql,115,204,0,320
+sql,115,204,6,0
+sql,115,204,7,223
+sql,115,204,8,148
+sql,115,204,12,39
+sql,115,207,0,0
+sql,115,207,9,32
+sql,115,207,10,38
+sql,115,207,12,44
+sql,115,207,14,18
+sql,115,207,15,37
+sql,115,207,20,72
+sql,115,207,21,47
+sql,115,208,3,31
+sql,115,208,5,16
+sql,115,208,11,240
+sql,115,208,13,31
+sql,115,209,9,31
+sql,115,210,1,40
+sql,115,210,18,199
+sql,115,211,0,0
+sql,115,211,8,9
+sql,115,211,12,127
+sql,115,212,6,113
+sql,115,212,9,69
+sql,115,212,10,35
+sql,115,212,11,35
+sql,115,212,13,152
+sql,115,212,19,86
+sql,115,213,0,0
+sql,115,213,3,13
+sql,115,213,4,58
+sql,115,213,5,41
+sql,115,213,23,64
+sql,117,214,2,177
+sql,117,214,10,60
+sql,117,214,11,44
+sql,117,214,12,0
+sql,117,214,13,47
+sql,117,214,14,70
+sql,117,214,15,22
+sql,117,214,16,38
+sql,117,214,17,53
+sql,117,214,18,40
+sql,117,214,19,0
+sql,117,214,20,41
+sql,117,214,21,14
+sql,117,215,0,0
+sql,117,215,2,16
+sql,117,215,4,78
+sql,120,219,5,11
+sql,120,219,7,26
+sql,120,219,8,82
+sql,120,219,9,42
+sql,120,219,10,91
+sql,120,219,11,188
+sql,121,220,1,34
+sql,121,220,2,0
+sql,121,220,4,45
+sql,121,220,5,23
+sql,121,220,8,78
+sql,121,220,9,50
+sql,121,220,10,19
+sql,121,220,16,65
+sql,121,220,18,48
+sql,121,221,0,113
+sql,121,221,1,11
+sql,121,221,2,22
+sql,121,221,4,39
+sql,121,221,5,15
+sql,121,221,6,0
+sql,121,221,7,0
+sql,121,221,8,65
+sql,121,221,9,72
+sql,121,221,11,36
+sql,121,221,12,108
+sql,121,221,13,1
+sql,121,221,14,39
+sql,121,221,15,39
+sql,121,221,16,35
+sql,121,221,17,65
+sql,121,222,0,16
+sql,121,222,3,178
+sql,121,222,4,4
+sql,121,222,5,74
+sql,121,222,6,27
+sql,121,222,7,4
+sql,121,222,8,0
+sql,121,222,9,0
+sql,121,222,11,27
+sql,121,222,13,32
+sql,121,222,14,10
+sql,121,222,15,3
+sql,121,223,0,83
+sql,121,223,1,0
+sql,121,223,2,3
+sql,121,223,3,79
+sql,121,223,4,43
+sql,121,223,7,51
+sql,121,223,10,140
+sql,121,224,4,152
+sql,121,224,9,74
+sql,121,224,12,80
+sql,123,225,6,36
+sql,123,225,7,0
+sql,123,225,8,133
+sql,123,226,1,178
+sql,126,228,0,29
+sql,126,228,1,109
+sql,126,228,2,71
+sql,126,228,3,0
+sql,126,228,4,91
+sql,126,228,5,76
+sql,126,228,6,23
+sql,126,228,8,43
+sql,126,228,9,48
+sql,126,228,10,25
+sql,126,228,11,49
+sql,126,228,12,49
+sql,126,228,13,37
+sql,126,228,14,86
+sql,127,229,0,155
+sql,127,229,2,24
+sql,127,229,3,21
+sql,127,229,10,114
+sql,127,229,11,48
+sql,127,229,16,68
+sql,127,230,4,40
+sql,128,231,5,126
+sql,128,231,12,72
+sql,128,231,14,0
+sql,128,231,16,0
+sql,128,231,19,0
+sql,128,231,21,0
+sql,129,232,16,51
+sql,129,233,0,197
+sql,129,233,4,154
+sql,129,233,6,9
+sql,130,234,0,51
+sql,130,234,9,0
+sql,130,234,10,67
+sql,130,234,11,16
+sql,130,234,15,79
+sql,130,234,17,64
+sql,130,234,18,82
+sql,130,234,19,46
+sql,130,234,21,10
+sql,131,235,0,77
+sql,131,235,1,265
+sql,131,235,4,85
+sql,131,235,5,80
+sql,131,235,6,39
+sql,131,236,4,31
+sql,131,236,9,18
+sql,131,236,10,111
+sql,131,236,11,80
+sql,132,237,0,39
+sql,132,237,1,0
+sql,132,237,2,25
+sql,132,237,3,74
+sql,132,237,5,11
+sql,132,237,6,3
+sql,133,238,1,0
+sql,133,238,3,104
+sql,133,238,5,27
+sql,133,239,0,274
+sql,133,239,3,40
+sql,135,240,1,7
+sql,135,240,2,0
+sql,135,240,3,39
+sql,135,240,4,32
+sql,135,240,5,21
+sql,135,240,6,27
+sql,135,240,7,1
+sql,135,240,8,318
+sql,135,240,9,0
+sql,135,240,11,12
+sql,136,241,0,99
+sql,136,241,1,56
+sql,136,241,2,29
+sql,136,241,3,0
+sql,136,241,4,66
+sql,136,241,5,14
+sql,136,241,6,21
+sql,136,241,7,44
+sql,136,242,0,100
+sql,136,242,1,6
+sql,136,242,2,49
+sql,136,242,3,4
+sql,136,242,4,3
+sql,136,242,6,24
+sql,136,242,8,34
+sql,136,242,15,105
+sql,136,242,18,82
+sql,137,243,0,49
+sql,137,243,1,169
+sql,137,243,2,5
+sql,137,243,3,56
+sql,137,243,4,79
+sql,137,243,6,159
+sql,137,243,10,96
+sql,137,244,1,31
+sql,137,244,2,172
+sql,137,244,3,34
+sql,137,244,11,245
+sql,137,244,12,246
+sql,138,245,0,272
+sql,138,245,1,80
+sql,138,245,3,42
+sql,138,245,5,157
+sql,138,246,0,62
+sql,138,246,1,40
+sql,138,246,3,3
+sql,138,246,4,24
+sql,138,246,5,34
+sql,138,246,8,14
+sql,140,247,0,372
+sql,140,247,2,6
+sql,140,247,6,2
+sql,140,247,8,56
+sql,140,247,9,38
+sql,140,248,1,100
+sql,140,249,4,7
+sql,140,250,2,158
+sql,140,250,8,48
+sql,140,250,9,62
+sql,142,251,0,59
+sql,142,251,2,76
+sql,142,251,4,34
+sql,142,251,11,68
+sql,142,251,14,26
+sql,142,251,18,49
+sql,142,251,19,45
+sql,142,251,25,33
+sql,144,252,0,94
+sql,144,252,2,54
+sql,144,252,4,3
+sql,144,253,2,21
+sql,154,272,9,144
+sql,154,272,12,43
+sql,156,274,1,0
+sql,167,303,1,73
+sql,191,333,5,29
+sql,191,333,6,4
+sql,191,333,7,45
+sql,191,334,19,23
+sql,209,356,8,87
+sql,209,356,11,10
+sql,210,357,7,10
+sql,210,357,8,0
+sql,213,361,0,96
+sql,213,361,4,13
+sql,216,365,2,20
+sql,216,367,4,24
+sql,216,367,5,57
+sql,229,391,6,36
+sql,229,393,0,86
+sql,229,393,5,8
+sql,245,428,1,0
+sql,255,438,3,26
+sql,256,439,7,23
+sql,263,448,6,17
+sql,265,453,4,61
+sql,287,480,3,10
+sql,287,481,0,56
+sql,291,486,2,10
+sql,291,487,4,12
+sql,302,503,16,30
+sql,302,503,17,44
+sql,303,509,6,72
+sql,306,512,0,51
+sql,306,512,7,18
+sql,306,512,8,17
+sql,306,512,10,27
+sql,307,513,5,345
+sql,307,513,7,17
+sql,307,513,10,68
+sql,308,514,0,293
+sql,308,514,3,4
+sql,308,514,5,47
+sql,308,515,2,68
+sql,308,515,3,4
+sql,308,515,7,69
+sql,311,519,0,100
+sql,311,519,5,10
+sql,311,519,6,3
+sql,314,522,2,20
+sql,316,526,9,4
+sql,317,530,4,13
+sql,317,530,5,0
+sql,317,534,0,80
+sql,320,538,1,41
+sql,320,538,3,211
+sql,320,540,0,60
+sql,320,540,2,10
+sql,320,540,4,137
+sql,320,541,1,52
+sql,320,542,0,30
+sql,320,543,0,147
+sql,320,544,0,228
+sql,320,546,24,59
+sql,320,547,13,59
+sql,323,550,16,23
+sql,323,550,17,51
+sql,326,553,6,9
+sql,326,553,8,328
+sql,327,554,12,347
+sql,332,560,3,8
+sql,340,569,5,28
+sql,340,569,6,29
+sql,340,569,7,415
+sql,340,569,8,3
+sql,340,569,14,6
+sql,340,570,0,66
+sql,340,570,2,52
+sql,340,570,12,45
+sql,341,571,2,52
+sql,341,571,3,155
+sql,341,571,14,81
+sql,341,571,18,24
+sql,342,572,6,99
+sql,342,572,12,0
+sql,342,572,13,38
+sql,343,573,2,324
+sql,345,574,3,46
+sql,345,574,6,105
+sql,346,578,20,66
+sql,346,578,24,101
+sql,346,579,0,101
+sql,347,580,20,46
+sql,347,580,21,136
+sql,348,581,1,50
+sql,348,581,6,50
+sql,348,581,13,3
+sql,348,581,15,29
+sql,348,583,10,354
+sql,354,589,15,16
+sql,355,590,3,22
+sql,361,600,2,24
+sql,363,607,1,141
+sql,363,607,2,12
+sql,365,611,6,14
+sql,365,611,10,61
+sql,365,611,14,61
+sql,365,611,18,61
+sql,365,611,22,105
+sql,365,612,14,86
+sql,367,616,0,107
+sql,404,678,2,10
+sql,404,678,4,11
+sql,410,685,6,0
+sql,410,685,7,0
+sql,413,692,8,165
+sql,417,697,8,174
+sql,419,699,3,34
+sql,419,699,4,30
+sql,419,699,9,43
+sql,428,707,3,32
+sql,434,713,2,153
+sql,438,718,1,149
+sql,443,726,2,67
+sql,443,727,6,204
+sql,443,729,16,5
+sql,443,729,18,34
+sql,443,731,1,22
+sql,443,731,5,5
+sql,443,731,12,27
+sql,443,732,4,30
+sql,444,735,3,11
+sql,447,739,9,22
+sql,450,743,1,35
+sql,456,751,3,275
+sql,456,751,8,44
+sql,457,755,24,21
+sql,457,755,28,19
+sql,483,775,6,33
+sql,483,775,10,80
+sql,490,786,0,133
+sql,501,806,0,88
+sql,502,808,0,21
+sql,502,808,1,0
+sql,502,808,2,47
+sql,502,808,4,0
+sql,502,808,7,26
+sql,502,808,15,32
+sql,502,808,16,0
+sql,502,809,1,687
+sql,503,810,1,180
+sql,503,810,4,35
+sql,503,810,5,266
+sql,503,810,11,53
+sql,504,811,8,27
+sql,504,811,11,0
+sql,504,811,16,3
+sql,507,812,2,13
+sql,507,812,9,6
+sql,507,812,11,205
+sql,508,813,0,114
+sql,508,813,14,176
+sql,509,814,2,82
+sql,509,814,19,36
+sql,510,815,1,157
+sql,510,815,13,322
+sql,511,816,4,65
+sql,511,816,13,47
+sql,513,818,7,0
+sql,513,818,8,4
+sql,519,822,11,3
+sql,519,822,12,1
+sql,519,822,14,0
+sql,521,823,10,45
+sql,521,823,12,24
+sql,521,824,6,10
+sql,522,826,3,28
+sql,523,828,0,60
+sql,527,833,7,23
+sql,527,834,3,94
+sql,527,835,2,19
+sql,527,835,4,59
+sql,527,835,5,94
+sql,527,835,6,134
+sql,530,838,10,83
+sql,530,839,2,103
+sql,533,840,5,0
+sql,533,840,6,1
+sql,534,841,7,60
+sql,534,841,10,43
+sql,536,842,4,32
+sql,536,843,8,18
+sql,536,844,21,27
+sql,536,845,0,180
+sql,536,845,14,36
+sql,536,846,20,15
+sql,536,846,21,34
+sql,536,846,28,27
+sql,536,846,29,22
+sql,536,846,30,29
+sql,536,847,0,64
+sql,537,848,4,37
+sql,537,848,5,97
+sql,537,848,6,21
+sql,537,848,8,4
+sql,537,848,10,102
+sql,538,849,2,59
+sql,538,849,4,189
+sql,546,861,0,26
+sql,546,861,2,140
+sql,546,861,3,204
+sql,546,861,4,12
+sql,546,861,5,28
+sql,547,862,18,148
+sql,547,863,2,25
+sql,547,863,5,0
+sql,551,869,6,113
+sql,551,871,10,96
+sql,553,872,6,45
+sql,553,872,13,226
+sql,553,873,4,26
+sql,553,873,7,53
+sql,553,873,10,30
+sql,553,875,3,91
+sql,553,875,4,57
+sql,553,876,2,8
+sql,553,876,3,12
+sql,554,877,7,15
+sql,554,877,14,20
+sql,554,878,2,68
+sql,554,878,4,117
+sql,554,878,5,11
+sql,554,878,7,0
+sql,555,879,0,104
+sql,555,879,1,43
+sql,555,879,12,3
+sql,557,884,5,44
+sql,557,884,8,34
+sql,558,886,9,26
+sql,559,887,1,37
+sql,559,887,2,147
+sql,559,887,3,87
+sql,559,887,5,0
+sql,559,887,7,305
+sql,559,889,0,68
+sql,559,889,1,17
+sql,559,889,2,114
+sql,559,889,10,42
+sql,559,889,11,72
+sql,559,889,12,39
+sql,559,889,13,38
+sql,559,889,14,44
+sql,560,891,6,75
+sql,561,892,14,129
+sql,563,893,4,302
+sql,566,896,3,10
+sql,566,896,11,169
+sql,566,896,12,12
+sql,568,899,4,84
+sql,573,903,4,478
+sql,578,907,5,71
+sql,578,908,3,81
+sql,580,912,2,12
+sql,582,913,0,57
+sql,582,914,14,25
+sql,582,914,18,25
+sql,582,914,20,25
+sql,582,914,21,53
+sql,582,914,22,39
+sql,582,914,23,122
+sql,582,914,24,15
+sql,582,914,26,33
+sql,582,917,21,0
+sql,582,917,22,48
+sql,583,920,17,69
+sql,583,920,18,0
+sql,584,921,0,37
+sql,584,921,4,133
+sql,587,925,13,29
+sql,603,944,5,87
+sql,603,944,7,12
+sql,603,944,8,1
+sql,603,944,11,53
+sql,603,944,14,4
+sql,603,944,20,45
+sql,603,944,22,116
+sql,609,952,6,133
+sql,623,974,0,89
+sql,623,974,9,132
+sql,623,974,15,59
+sql,628,978,0,81
+sql,628,978,1,51
+sql,628,978,2,55
+sql,631,981,5,32
+sql,635,983,9,55
+sql,635,984,12,306
+sql,635,984,14,36
+sql,635,985,7,64
+sql,635,986,0,87
+sql,638,997,5,128
+sql,638,997,17,133
+sql,639,999,0,45
+sql,639,999,4,5
+sql,669,1030,4,231
+sql,671,1031,23,85
+sql,671,1032,14,191
+sql,673,1033,1,136
+sql,676,1042,13,3
+sql,676,1042,17,36
+sql,676,1043,46,62
+sql,676,1044,55,54
+sql,676,1045,33,18
+sql,676,1045,45,22
+sql,676,1046,74,9
+sql,676,1046,88,0
+sql,676,1049,85,24
+sql,676,1051,15,40
+sql,676,1056,17,17
+sql,676,1060,59,9
+sql,676,1060,62,22
+sql,676,1060,65,0
+sql,676,1060,78,6
+sql,676,1062,22,50
+sql,676,1062,38,21
+sql,676,1072,8,28
+active database,88,164,12,313
+active database,88,165,3,153
+active database,88,166,17,82
+active database,113,202,4,195
+active database,115,205,3,324
+active database,115,205,4,79
+active database,115,205,6,51
+active database,117,215,0,98
+active database,117,215,5,12
+active database,117,215,6,41
+active database,117,215,8,13
+active database,117,215,10,77
+active database,676,1036,67,58
+active database,676,1042,43,34
+active database,676,1042,61,45
+active database,676,1049,29,61
+active database,676,1072,63,0
+sqlj,98,185,2,44
+sqlj,120,219,5,11
+sqlj,120,219,7,103
+sqlj,121,220,10,19
+sqlj,135,240,1,7
+sqlj,135,240,2,0
+sqlj,135,240,5,21
+sqlj,135,240,6,27
+sqlj,135,240,8,318
+sqlj,135,240,9,0
+sqlj,135,240,11,12
+sqlj,136,241,0,107
+sqlj,136,241,3,0
+sqlj,136,241,4,66
+sqlj,136,241,5,14
+sqlj,136,241,6,21
+sqlj,136,242,0,100
+sqlj,136,242,1,6
+sqlj,136,242,2,49
+sqlj,136,242,3,4
+sqlj,136,242,4,3
+sqlj,136,242,6,24
+sqlj,138,245,5,157
+sqlj,140,248,1,100
+sqlj,142,251,14,26
+sqlj,142,251,18,60
+sqlj,142,251,19,45
+sqlj,142,251,25,33
+sqlj,144,253,2,21
+sqlj,156,274,1,0
+sqlj,502,808,2,93
+grid file,638,998,7,275
+grid file,639,999,5,447
+grid file,642,1004,11,53
+grid file,643,1005,0,52
+grid file,645,1008,10,5
+grid file,645,1008,12,0
+grid file,647,1009,1,29
+grid file,647,1009,9,100
+grid file,647,1010,2,4
+grid file,647,1010,6,48
+grid file,647,1010,13,120
+grid file,647,1011,8,253
+grid file,647,1011,10,273
+grid file,648,1012,2,19
+grid file,657,1019,7,63
+grid file,657,1019,8,35
+grid file,657,1019,9,39
+grid file,657,1020,14,27
+grid file,657,1020,15,12
+grid file,657,1020,17,57
+grid file,657,1020,18,22
+grid file,657,1021,8,32
+grid file,676,1049,32,29
+grid file,676,1062,65,4
+multivalued dependency,400,669,7,96
+temporal database,667,1029,5,5
+temporal database,676,1072,28,47
+xml schema,145,256,2,137
+xml schema,152,268,1,138
+xml schema,152,268,3,0
+xml schema,676,1040,39,5
+embedded sql,88,166,4,28
+embedded sql,115,212,6,221
+embedded sql,115,212,9,60
+embedded sql,115,212,10,26
+embedded sql,115,212,11,26
+embedded sql,115,212,13,143
+embedded sql,115,212,19,77
+embedded sql,120,219,7,17
+embedded sql,121,220,5,14
+embedded sql,121,221,1,65
+embedded sql,121,221,4,30
+embedded sql,121,221,5,6
+embedded sql,121,221,14,190
+embedded sql,121,223,0,483
+embedded sql,121,223,10,131
+embedded sql,123,226,1,169
+embedded sql,126,228,10,16
+embedded sql,126,228,13,28
+embedded sql,126,228,14,77
+embedded sql,127,229,2,15
+embedded sql,127,229,3,12
+embedded sql,131,236,9,146
+embedded sql,135,240,3,30
+embedded sql,135,240,9,90
+embedded sql,136,241,0,90
+embedded sql,136,241,2,20
+embedded sql,136,242,15,96
+embedded sql,138,245,0,263
+embedded sql,140,247,8,47
+embedded sql,142,251,4,67
+embedded sql,142,251,18,40
+embedded sql,144,252,0,85
+embedded sql,144,252,2,45
+embedded sql,144,252,4,13
+cartesian product,76,139,1,171
+where,7,39,14,145
+where,20,55,2,78
+where,27,64,1,131
+where,29,66,2,8
+where,29,67,5,370
+where,46,92,14,102
+where,49,96,8,90
+where,50,97,1,150
+where,50,97,2,4
+where,50,97,5,134
+where,51,99,21,49
+where,54,104,0,39
+where,57,107,9,194
+where,57,107,11,33
+where,57,108,1,138
+where,57,108,4,199
+where,66,121,0,28
+where,67,122,9,104
+where,68,124,2,163
+where,69,130,13,17
+where,69,130,21,55
+where,70,131,0,82
+where,70,131,11,388
+where,75,137,5,201
+where,76,138,5,106
+where,80,149,12,148
+where,80,149,13,46
+where,80,151,4,61
+where,80,151,12,173
+where,80,152,0,83
+where,80,152,5,64
+where,82,156,2,69
+where,82,156,6,80
+where,85,161,13,44
+where,88,167,8,92
+where,88,168,1,13
+where,89,169,7,103
+where,90,170,2,88
+where,90,170,9,27
+where,90,171,4,42
+where,91,172,4,128
+where,91,172,5,78
+where,91,172,10,12
+where,91,173,3,12
+where,91,173,6,53
+where,91,173,9,42
+where,91,173,12,80
+where,91,174,4,12
+where,91,174,5,72
+where,92,175,9,5
+where,92,175,16,12
+where,93,176,0,75
+where,93,176,4,72
+where,93,176,10,65
+where,93,177,0,75
+where,93,177,7,12
+where,93,177,9,212
+where,94,178,0,45
+where,94,178,2,136
+where,94,178,4,114
+where,94,178,5,198
+where,94,178,11,40
+where,95,179,3,58
+where,95,179,4,42
+where,95,179,6,212
+where,96,180,0,16
+where,96,180,3,12
+where,96,180,8,30
+where,96,181,11,79
+where,96,181,17,74
+where,97,182,7,37
+where,97,182,10,28
+where,97,182,18,106
+where,97,183,4,28
+where,97,183,5,10
+where,97,183,10,12
+where,97,184,0,223
+where,97,184,2,30
+where,97,184,3,96
+where,98,185,14,90
+where,98,185,15,93
+where,98,186,7,80
+where,98,186,10,134
+where,98,187,4,90
+where,98,187,6,88
+where,98,187,10,145
+where,98,187,12,95
+where,98,188,6,97
+where,98,188,9,132
+where,98,188,12,285
+where,99,189,14,193
+where,99,189,18,12
+where,99,190,4,268
+where,99,190,10,265
+where,99,192,3,80
+where,99,192,4,110
+where,99,192,8,69
+where,100,193,1,78
+where,100,193,4,401
+where,100,193,5,263
+where,103,194,2,12
+where,103,194,8,12
+where,103,194,9,291
+where,104,195,0,118
+where,104,195,1,81
+where,104,195,9,54
+where,107,196,3,18
+where,108,197,19,38
+where,109,198,20,305
+where,111,200,0,305
+where,115,205,3,260
+where,115,206,3,91
+where,115,207,24,69
+where,115,210,19,79
+where,115,211,16,57
+where,121,221,6,52
+where,121,222,15,82
+where,121,223,4,162
+where,121,224,4,173
+where,121,224,7,37
+where,121,224,11,95
+where,123,226,1,140
+where,123,226,5,326
+where,126,228,4,127
+where,130,234,19,37
+where,130,234,20,19
+where,135,240,5,128
+where,135,240,7,66
+where,136,241,7,249
+where,136,242,12,81
+where,137,244,2,95
+where,137,244,11,93
+where,140,247,0,185
+where,140,249,0,169
+where,144,252,4,96
+where,146,257,3,20
+where,149,263,18,0
+where,149,264,6,38
+where,150,265,11,123
+where,150,266,2,33
+where,150,266,13,76
+where,152,267,25,128
+where,152,268,10,23
+where,154,272,12,124
+where,156,274,5,116
+where,156,275,13,54
+where,157,277,17,79
+where,158,278,4,42
+where,158,278,9,99
+where,158,279,2,22
+where,158,279,8,153
+where,158,280,11,109
+where,158,281,6,111
+where,161,283,9,41
+where,162,285,17,146
+where,162,286,0,342
+where,164,290,13,128
+where,165,293,7,53
+where,165,293,12,87
+where,165,294,9,33
+where,166,300,27,22
+where,166,301,1,31
+where,166,301,7,172
+where,167,302,1,24
+where,167,302,9,132
+where,167,303,1,105
+where,174,310,14,36
+where,176,313,2,64
+where,176,313,10,44
+where,179,317,18,41
+where,180,318,15,104
+where,186,325,9,49
+where,187,326,6,0
+where,187,327,13,153
+where,187,328,2,89
+where,187,328,16,88
+where,191,331,2,146
+where,191,331,6,124
+where,191,332,0,9
+where,191,332,2,55
+where,191,332,5,130
+where,191,333,13,5
+where,193,336,14,60
+where,193,336,16,30
+where,196,340,4,123
+where,198,342,5,86
+where,199,345,17,25
+where,199,346,7,73
+where,204,348,6,121
+where,204,348,22,251
+where,205,349,10,79
+where,205,350,8,127
+where,206,351,19,81
+where,209,355,4,104
+where,212,359,1,22
+where,212,360,1,23
+where,213,361,18,64
+where,216,365,11,95
+where,219,373,11,27
+where,224,379,1,127
+where,224,379,10,65
+where,224,382,0,135
+where,224,382,3,63
+where,225,385,7,91
+where,225,386,2,75
+where,225,386,4,36
+where,232,397,4,119
+where,236,404,8,96
+where,237,410,2,166
+where,237,411,2,128
+where,237,412,17,101
+where,239,418,8,93
+where,239,419,6,81
+where,243,423,1,81
+where,244,424,10,41
+where,250,432,10,92
+where,258,440,0,16
+where,262,447,13,83
+where,263,448,6,79
+where,264,452,25,79
+where,265,453,5,254
+where,267,457,16,39
+where,272,464,12,29
+where,274,468,2,171
+where,275,470,1,195
+where,277,472,13,113
+where,279,473,11,23
+where,281,475,2,49
+where,281,475,7,25
+where,281,475,15,97
+where,285,478,13,20
+where,288,482,9,85
+where,291,485,4,3
+where,291,485,9,60
+where,291,485,22,49
+where,291,486,15,90
+where,292,489,9,33
+where,292,491,2,43
+where,293,495,25,103
+where,293,496,9,68
+where,295,499,2,112
+where,298,501,2,32
+where,298,501,3,32
+where,298,501,5,183
+where,302,505,0,186
+where,302,508,22,82
+where,308,514,0,16
+where,308,514,1,4
+where,308,514,6,12
+where,308,515,8,62
+where,308,517,8,77
+where,308,517,10,18
+where,308,517,11,31
+where,308,517,12,131
+where,308,517,14,91
+where,311,519,9,47
+where,314,522,2,170
+where,314,522,11,51
+where,316,525,4,51
+where,316,526,0,16
+where,317,527,3,154
+where,317,528,11,252
+where,317,529,2,88
+where,317,529,5,87
+where,317,531,0,115
+where,317,531,4,77
+where,317,531,8,88
+where,317,532,2,41
+where,317,534,5,153
+where,318,535,8,105
+where,318,535,18,93
+where,318,536,0,84
+where,318,536,6,46
+where,319,537,12,82
+where,320,538,1,109
+where,320,538,3,64
+where,320,538,4,103
+where,320,539,0,90
+where,320,540,4,93
+where,320,543,2,133
+where,320,544,1,214
+where,320,544,5,75
+where,320,544,17,74
+where,320,545,23,84
+where,320,547,1,12
+where,320,547,13,227
+where,322,548,14,61
+where,322,548,20,45
+where,322,549,4,45
+where,322,549,17,45
+where,341,571,3,74
+where,346,579,17,27
+where,354,589,9,144
+where,354,589,16,41
+where,355,590,9,82
+where,360,599,5,82
+where,363,604,7,82
+where,364,610,15,273
+where,365,611,32,71
+where,367,616,3,44
+where,367,616,4,91
+where,370,618,12,163
+where,382,639,5,3
+where,389,647,6,91
+where,396,659,7,148
+where,404,674,6,69
+where,404,679,11,17
+where,405,680,11,60
+where,410,686,0,96
+where,410,686,2,148
+where,411,687,12,188
+where,411,688,12,64
+where,411,688,17,159
+where,412,689,2,97
+where,412,690,3,95
+where,412,690,16,104
+where,413,691,4,55
+where,413,692,11,163
+where,414,693,2,192
+where,414,693,13,90
+where,417,695,0,37
+where,417,695,10,126
+where,417,696,10,131
+where,417,696,13,105
+where,419,699,7,146
+where,420,700,15,53
+where,423,702,3,121
+where,425,704,15,11
+where,428,706,10,223
+where,428,707,3,154
+where,431,710,3,98
+where,431,710,4,49
+where,431,710,5,79
+where,431,710,15,55
+where,432,711,2,119
+where,435,714,0,45
+where,438,717,10,89
+where,438,722,13,46
+where,439,723,9,112
+where,440,724,6,77
+where,440,724,7,35
+where,441,725,0,55
+where,443,726,11,50
+where,443,730,16,162
+where,443,732,0,9
+where,443,734,6,72
+where,446,738,7,157
+where,447,739,13,61
+where,449,740,8,30
+where,449,742,10,226
+where,454,746,0,229
+where,456,751,9,49
+where,471,768,10,157
+where,476,771,7,216
+where,482,774,2,53
+where,482,774,10,94
+where,484,776,5,98
+where,484,776,7,58
+where,484,776,10,7
+where,484,778,0,33
+where,487,781,14,67
+where,490,786,2,43
+where,490,786,4,211
+where,491,787,14,151
+where,491,788,0,149
+where,491,788,2,181
+where,491,788,3,95
+where,491,788,4,57
+where,493,790,3,61
+where,498,795,3,166
+where,498,796,15,111
+where,498,797,21,182
+where,498,799,0,79
+where,498,800,8,103
+where,498,800,11,104
+where,498,800,15,60
+where,498,800,18,60
+where,500,805,7,234
+where,501,807,16,138
+where,503,810,1,83
+where,503,810,5,12
+where,508,813,14,66
+where,510,815,7,33
+where,519,822,9,52
+where,522,826,5,95
+where,523,827,10,307
+where,523,828,8,276
+where,527,835,2,48
+where,530,838,0,9
+where,533,840,7,38
+where,536,844,0,178
+where,536,844,2,90
+where,536,844,14,154
+where,536,844,17,60
+where,536,845,0,127
+where,537,848,6,166
+where,539,852,0,16
+where,539,852,3,181
+where,542,855,7,208
+where,546,861,3,53
+where,554,878,2,101
+where,557,884,16,142
+where,558,886,5,62
+where,558,886,11,84
+where,558,886,12,74
+where,559,887,0,18
+where,559,887,7,42
+where,560,890,0,176
+where,560,891,9,116
+where,560,891,14,29
+where,563,893,4,166
+where,563,893,11,201
+where,564,894,11,120
+where,567,898,14,192
+where,573,903,4,255
+where,573,903,6,161
+where,576,905,1,121
+where,576,905,2,125
+where,576,905,4,48
+where,576,906,2,286
+where,578,908,5,437
+where,578,909,6,46
+where,578,909,14,76
+where,580,912,3,52
+where,582,914,23,12
+where,582,916,4,263
+where,582,916,9,78
+where,582,916,14,25
+where,582,916,15,78
+where,582,918,12,63
+where,588,926,1,13
+where,588,926,10,187
+where,588,927,14,65
+where,597,935,4,185
+where,597,935,5,58
+where,597,935,16,35
+where,597,936,2,73
+where,597,936,3,72
+where,598,937,14,30
+where,600,939,9,133
+where,600,940,0,16
+where,603,944,13,70
+where,604,946,12,106
+where,605,947,4,122
+where,605,947,5,59
+where,610,957,12,65
+where,615,962,0,27
+where,616,964,11,69
+where,619,967,8,55
+where,623,974,15,43
+where,627,976,17,43
+where,630,979,7,72
+where,630,979,13,86
+where,630,979,15,34
+where,631,980,0,267
+where,631,980,2,210
+where,631,980,3,92
+where,631,980,5,101
+where,635,983,8,46
+where,635,984,12,121
+where,635,984,13,54
+where,635,985,0,12
+where,635,985,4,23
+where,635,986,4,55
+where,635,986,5,261
+where,638,994,22,121
+where,638,994,33,48
+where,638,994,35,43
+where,638,995,5,169
+where,638,995,22,169
+where,638,995,24,251
+where,638,995,27,90
+where,638,996,1,4
+where,638,996,8,153
+where,640,1000,23,81
+where,641,1003,12,264
+where,648,1012,7,60
+where,649,1013,7,81
+where,650,1014,16,105
+where,651,1016,8,37
+where,658,1023,7,38
+where,658,1023,9,42
+where,660,1024,2,62
+relational calculus,18,50,7,0
+relational calculus,73,134,4,12
+relational calculus,73,134,5,49
+relational calculus,73,134,6,112
+relational calculus,74,135,2,44
+relational calculus,78,144,9,88
+relational calculus,80,150,11,4
+relational calculus,80,150,14,0
+relational calculus,80,151,0,58
+relational calculus,80,151,2,47
+relational calculus,80,151,4,8
+relational calculus,82,156,1,13
+relational calculus,84,158,10,81
+relational calculus,84,158,12,41
+relational calculus,84,159,3,28
+relational calculus,84,160,0,123
+relational calculus,85,161,0,38
+relational calculus,85,161,2,27
+relational calculus,85,161,3,64
+relational calculus,85,161,5,40
+relational calculus,85,161,9,39
+relational calculus,85,161,17,57
+relational calculus,86,162,15,57
+relational calculus,86,162,16,135
+relational calculus,95,179,1,239
+relational calculus,539,852,10,63
+relational calculus,676,1056,55,38
+information system,7,39,12,123
+information system,666,1028,8,16
+information system,676,1067,35,75
+information system,676,1072,49,14
+relational model,8,40,9,133
+relational model,8,40,13,18
+relational model,11,44,13,155
+relational model,11,45,3,10
+relational model,11,45,6,7
+relational model,12,46,6,424
+relational model,12,46,7,113
+relational model,12,46,8,30
+relational model,12,46,9,19
+relational model,18,50,6,33
+relational model,23,58,23,44
+relational model,25,61,8,199
+relational model,38,76,7,69
+relational model,46,90,2,102
+relational model,46,91,0,6
+relational model,46,92,9,28
+relational model,46,92,12,11
+relational model,46,92,14,4
+relational model,46,92,16,28
+relational model,47,93,3,40
+relational model,47,93,5,289
+relational model,47,93,7,181
+relational model,47,93,8,24
+relational model,48,94,6,29
+relational model,49,95,15,45
+relational model,50,98,8,60
+relational model,66,119,6,268
+relational model,66,121,8,82
+relational model,69,126,4,108
+relational model,69,129,19,22
+relational model,71,132,11,24
+relational model,71,132,14,37
+relational model,71,132,15,18
+relational model,71,132,21,43
+relational model,72,133,8,124
+relational model,72,133,12,99
+relational model,74,136,1,371
+relational model,84,158,8,94
+relational model,107,196,1,6
+relational model,115,208,1,26
+relational model,216,365,6,223
+relational model,504,811,10,40
+relational model,504,811,13,26
+relational model,529,836,7,44
+relational model,628,977,6,79
+relational model,676,1068,90,29
+concurrency control,20,53,3,101
+concurrency control,20,55,5,35
+concurrency control,20,55,7,11
+concurrency control,22,57,28,3
+concurrency control,186,325,8,104
+concurrency control,229,393,1,32
+concurrency control,327,554,6,442
+concurrency control,327,554,9,52
+concurrency control,327,554,12,115
+concurrency control,332,560,2,28
+concurrency control,336,564,16,2
+concurrency control,336,564,17,16
+concurrency control,341,571,1,50
+concurrency control,346,575,17,190
+concurrency control,346,578,15,65
+concurrency control,346,579,18,232
+concurrency control,348,583,0,3
+concurrency control,348,583,7,22
+concurrency control,348,583,8,32
+concurrency control,348,583,9,24
+concurrency control,350,584,9,73
+concurrency control,357,593,0,0
+concurrency control,358,595,13,7
+concurrency control,361,600,6,5
+concurrency control,361,600,8,18
+concurrency control,361,600,10,14
+concurrency control,361,601,0,0
+concurrency control,361,602,3,46
+concurrency control,361,602,5,42
+concurrency control,363,603,12,23
+concurrency control,363,603,13,16
+concurrency control,363,604,0,35
+concurrency control,363,606,1,128
+concurrency control,363,606,3,20
+concurrency control,363,608,2,39
+concurrency control,363,608,4,48
+concurrency control,363,608,6,41
+concurrency control,363,608,15,148
+concurrency control,363,608,21,88
+concurrency control,363,609,1,282
+concurrency control,363,609,5,348
+concurrency control,363,609,7,15
+concurrency control,363,609,15,14
+concurrency control,363,609,16,15
+concurrency control,363,609,17,19
+concurrency control,364,610,11,169
+concurrency control,365,611,22,40
+concurrency control,365,611,23,157
+concurrency control,365,612,15,45
+concurrency control,365,612,18,0
+concurrency control,365,612,20,2
+concurrency control,365,612,21,29
+concurrency control,365,612,23,27
+concurrency control,365,612,24,26
+concurrency control,365,612,25,17
+concurrency control,365,612,27,32
+concurrency control,365,612,29,12
+concurrency control,365,612,32,59
+concurrency control,366,613,7,51
+concurrency control,366,614,4,125
+concurrency control,366,614,5,643
+concurrency control,367,616,4,35
+concurrency control,376,630,2,43
+concurrency control,379,636,13,33
+concurrency control,379,636,14,27
+concurrency control,428,708,10,54
+concurrency control,435,714,2,84
+concurrency control,460,758,15,188
+concurrency control,491,787,3,30
+concurrency control,491,787,4,40
+concurrency control,491,787,5,72
+concurrency control,491,787,9,19
+concurrency control,491,787,11,59
+concurrency control,498,801,6,33
+concurrency control,499,803,1,55
+concurrency control,499,803,17,0
+concurrency control,499,803,19,0
+concurrency control,499,803,22,13
+concurrency control,499,803,24,5
+concurrency control,499,803,25,0
+concurrency control,499,803,27,11
+concurrency control,499,803,40,41
+concurrency control,500,805,4,125
+concurrency control,533,840,1,66
+concurrency control,533,840,14,110
+concurrency control,612,959,10,52
+concurrency control,651,1016,7,7
+concurrency control,651,1016,10,22
+concurrency control,652,1017,2,256
+concurrency control,652,1017,6,5
+concurrency control,657,1019,13,10
+concurrency control,657,1020,17,26
+concurrency control,657,1021,15,0
+concurrency control,658,1023,6,92
+concurrency control,660,1024,11,74
+concurrency control,673,1033,15,69
+concurrency control,676,1036,2,0
+concurrency control,676,1036,6,11
+concurrency control,676,1039,41,32
+concurrency control,676,1039,47,0
+concurrency control,676,1039,53,13
+concurrency control,676,1039,65,0
+concurrency control,676,1039,69,47
+concurrency control,676,1040,1,0
+concurrency control,676,1041,63,27
+concurrency control,676,1046,58,58
+concurrency control,676,1049,1,0
+concurrency control,676,1049,9,0
+concurrency control,676,1052,62,0
+concurrency control,676,1054,10,50
+concurrency control,676,1057,35,27
+concurrency control,676,1058,91,12
+concurrency control,676,1059,59,0
+concurrency control,676,1060,41,4
+concurrency control,676,1061,32,13
+concurrency control,676,1063,38,23
+concurrency control,676,1065,83,14
+concurrency control,676,1067,24,23
+concurrency control,676,1069,40,22
+concurrency control,676,1069,88,0
+concurrency control,676,1070,78,34
+concurrency control,676,1070,85,0
+concurrency control,676,1072,45,26
+referential integrity,46,90,3,20
+referential integrity,52,101,2,574
+referential integrity,54,104,1,15
+referential integrity,54,104,4,123
+referential integrity,69,129,2,83
+referential integrity,69,129,27,8
+referential integrity,69,130,10,10
+referential integrity,71,132,21,90
+referential integrity,72,133,13,20
+referential integrity,94,178,0,135
+referential integrity,488,785,10,100
+referential integrity,521,824,7,30
+referential integrity,523,828,0,34
+referential integrity,524,829,8,415
+referential integrity,676,1042,25,37
+referential integrity,676,1060,11,5
+update,16,49,15,156
+update,46,91,7,127
+update,50,97,0,85
+update,50,97,1,91
+update,50,97,5,92
+update,52,101,5,55
+update,52,102,6,144
+update,53,103,9,103
+update,53,103,12,12
+update,54,104,0,3
+update,54,104,4,9
+update,55,105,3,68
+update,55,105,5,62
+update,55,105,6,192
+update,55,105,7,72
+update,55,105,9,7
+update,55,105,14,137
+update,56,106,0,194
+update,67,122,1,6
+update,67,122,4,42
+update,67,122,6,27
+update,67,122,8,3
+update,68,123,3,20
+update,68,123,5,42
+update,68,123,7,46
+update,68,123,10,140
+update,68,123,11,22
+update,68,124,6,279
+update,69,125,5,59
+update,69,125,6,70
+update,69,125,14,154
+update,69,125,15,65
+update,69,129,14,53
+update,70,131,11,589
+update,70,131,12,64
+update,72,133,9,51
+update,113,202,10,22
+update,115,206,3,174
+update,115,206,17,61
+update,115,212,17,46
+update,115,213,1,87
+update,115,213,6,66
+update,115,213,16,76
+update,121,224,3,23
+update,123,225,9,193
+update,123,225,10,44
+update,123,226,0,46
+update,123,226,1,95
+update,123,226,5,148
+update,123,226,7,121
+update,124,227,7,61
+update,130,234,21,14
+update,131,235,1,244
+update,131,235,4,35
+update,131,235,5,11
+update,131,235,8,64
+update,133,238,5,319
+update,137,244,10,3
+update,137,244,11,76
+update,140,248,2,404
+update,140,248,16,41
+update,140,249,4,633
+update,140,250,4,76
+update,140,250,5,53
+update,140,250,7,15
+update,154,272,6,36
+update,163,288,5,93
+update,165,293,14,88
+update,166,296,30,26
+update,166,297,6,18
+update,166,300,37,133
+update,166,300,44,18
+update,175,311,7,99
+update,186,325,7,157
+update,187,326,8,61
+update,187,327,2,262
+update,187,327,3,53
+update,191,330,11,48
+update,193,336,20,25
+update,194,337,0,54
+update,194,337,2,33
+update,199,346,18,157
+update,205,349,1,36
+update,205,350,4,295
+update,210,357,18,125
+update,219,373,1,256
+update,224,380,2,24
+update,225,386,7,74
+update,225,386,8,46
+update,232,398,3,145
+update,232,398,10,14
+update,232,398,11,49
+update,247,429,12,87
+update,259,442,12,128
+update,302,504,13,128
+update,313,521,2,47
+update,326,553,8,201
+update,334,563,2,35
+update,334,563,4,74
+update,340,569,7,195
+update,342,572,16,22
+update,346,576,4,25
+update,346,576,5,171
+update,346,576,14,73
+update,346,578,7,104
+update,353,588,1,254
+update,353,588,2,184
+update,353,588,6,55
+update,354,589,15,20
+update,354,589,16,65
+update,355,590,3,26
+update,355,590,4,50
+update,355,590,12,74
+update,355,590,13,14
+update,355,590,14,29
+update,355,590,15,14
+update,363,605,2,52
+update,363,607,6,96
+update,363,608,14,19
+update,364,610,15,218
+update,366,613,8,136
+update,366,615,0,31
+update,366,615,2,8
+update,368,617,1,55
+update,368,617,9,15
+update,368,617,10,32
+update,368,617,12,149
+update,368,617,15,106
+update,368,617,16,0
+update,370,618,1,107
+update,370,618,3,3
+update,370,618,5,12
+update,370,618,6,106
+update,370,618,8,106
+update,370,618,9,276
+update,370,618,11,94
+update,370,618,12,29
+update,371,619,1,208
+update,371,619,4,122
+update,371,620,0,155
+update,371,620,3,73
+update,372,621,0,108
+update,373,623,11,128
+update,373,624,3,4
+update,373,624,5,13
+update,373,624,7,104
+update,373,624,8,61
+update,373,624,9,63
+update,373,624,11,190
+update,373,624,13,30
+update,373,624,19,32
+update,373,625,0,89
+update,373,625,2,72
+update,373,625,10,4
+update,373,625,12,90
+update,373,625,13,105
+update,373,625,18,82
+update,373,625,19,73
+update,374,626,12,0
+update,374,626,22,105
+update,375,627,6,64
+update,375,627,7,139
+update,375,627,8,58
+update,375,627,9,13
+update,376,628,5,114
+update,376,628,7,140
+update,376,628,9,4
+update,376,629,6,81
+update,376,630,0,38
+update,376,632,25,28
+update,376,632,28,38
+update,376,633,0,54
+update,378,634,0,69
+update,378,634,15,115
+update,378,635,0,51
+update,378,635,1,202
+update,382,639,7,49
+update,383,641,0,7
+update,383,641,17,74
+update,384,642,8,64
+update,386,644,15,50
+update,393,652,3,50
+update,400,666,4,114
+update,400,667,6,241
+update,404,675,0,399
+update,408,683,12,115
+update,410,684,13,156
+update,410,685,16,13
+update,410,685,17,49
+update,410,686,2,21
+update,410,686,3,14
+update,410,686,4,6
+update,410,686,5,30
+update,410,686,7,0
+update,410,686,9,19
+update,410,686,10,121
+update,411,687,11,162
+update,411,688,6,80
+update,411,688,7,74
+update,411,688,10,76
+update,411,688,16,79
+update,412,689,12,151
+update,412,689,13,51
+update,412,689,14,81
+update,417,696,6,29
+update,421,701,14,86
+update,423,702,17,55
+update,425,703,1,21
+update,425,703,9,133
+update,428,707,9,22
+update,428,708,11,56
+update,432,712,8,63
+update,434,713,6,41
+update,435,714,2,34
+update,435,714,8,84
+update,436,715,0,64
+update,436,715,1,3
+update,436,715,2,43
+update,436,715,14,296
+update,436,715,17,4
+update,438,717,11,54
+update,438,720,6,90
+update,438,721,2,54
+update,438,721,3,60
+update,438,721,22,51
+update,438,721,23,64
+update,440,724,1,33
+update,443,730,2,16
+update,443,730,11,76
+update,443,731,15,229
+update,443,732,5,53
+update,443,732,6,69
+update,443,732,7,111
+update,447,739,10,61
+update,456,749,4,486
+update,456,751,12,363
+update,456,752,0,195
+update,456,752,2,50
+update,456,753,1,40
+update,457,755,22,30
+update,471,768,12,168
+update,476,771,14,56
+update,482,774,12,141
+update,482,774,15,143
+update,488,782,3,17
+update,488,782,4,58
+update,488,782,5,85
+update,488,782,7,35
+update,488,782,11,69
+update,488,782,13,199
+update,488,783,4,10
+update,488,783,13,282
+update,488,784,5,44
+update,488,784,6,69
+update,488,784,9,62
+update,488,784,20,100
+update,488,785,1,41
+update,488,785,2,127
+update,488,785,3,187
+update,488,785,10,71
+update,490,786,10,95
+update,498,794,8,97
+update,498,799,14,82
+update,498,799,23,114
+update,498,799,25,94
+update,498,799,26,110
+update,498,800,1,10
+update,498,802,16,34
+update,523,827,4,230
+update,523,827,6,2
+update,523,827,7,64
+update,523,827,8,116
+update,523,828,7,175
+update,527,833,11,20
+update,527,833,13,149
+update,549,866,5,52
+update,549,866,11,24
+update,553,873,12,61
+update,553,873,14,43
+update,554,877,1,21
+update,556,883,7,87
+update,566,896,1,145
+update,570,901,15,154
+update,575,904,7,144
+update,579,910,9,95
+update,579,911,14,61
+update,579,911,16,4
+update,579,911,17,63
+update,579,911,19,0
+update,579,911,21,47
+update,580,912,3,108
+update,580,912,13,32
+update,604,946,10,96
+update,604,946,12,112
+update,605,948,14,23
+update,612,959,3,2
+update,612,959,4,177
+update,612,959,6,95
+update,623,972,7,8
+update,623,972,8,93
+update,623,973,0,97
+update,624,975,3,18
+update,624,975,5,23
+update,624,975,7,24
+update,638,996,22,25
+update,651,1016,8,62
+update,658,1023,8,115
+update,676,1038,21,0
+update,676,1044,30,26
+update,676,1045,54,30
+update,676,1053,31,63
+update,676,1055,67,33
+update,676,1057,90,5
+update,676,1061,51,74
+update,676,1063,35,43
+update,676,1066,20,35
+atomicity,326,553,7,42
+atomicity,326,553,8,34
+atomicity,329,555,8,88
+atomicity,330,556,5,46
+atomicity,330,556,6,21
+atomicity,330,556,7,7
+atomicity,330,556,14,36
+atomicity,330,556,15,27
+atomicity,330,556,20,32
+atomicity,345,574,13,107
+atomicity,345,574,14,11
+atomicity,346,577,18,64
+atomicity,346,578,4,7
+atomicity,346,579,14,23
+atomicity,353,588,12,0
+atomicity,491,787,7,36
+tree structure,219,373,9,122
+tree structure,221,375,3,38
+tree structure,224,379,1,10
+tree structure,234,402,4,37
+tree structure,234,402,5,118
+tree structure,234,403,17,8
+tree structure,259,442,7,156
+tree structure,638,995,21,35
+tree structure,644,1006,20,18
+tree structure,648,1012,12,30
+bitmap index,566,896,13,7
+bitmap index,567,897,11,22
+bitmap index,567,897,15,8
+bitmap index,582,915,5,55
+spatial database,676,1041,16,103
+spatial database,676,1047,44,62
+use case,43,81,16,0
+use case,45,89,25,44
+b-tree,636,987,0,59
+b-tree,636,987,3,105
+b-tree,636,987,4,15
+b-tree,636,987,6,24
+b-tree,636,987,7,29
+b-tree,676,1038,64,29
+b-tree,676,1045,1,15
+b-tree,676,1048,2,3
+b-tree,676,1069,40,15
+database transaction,9,41,1,62
+database transaction,327,554,10,59
+database transaction,676,1068,32,27
+data dictionary,247,429,3,94
+relation,6,37,0,67
+relation,6,37,7,86
+relation,6,38,7,2
+relation,6,38,15,86
+relation,7,39,14,128
+relation,8,40,8,116
+relation,8,40,9,133
+relation,8,40,11,74
+relation,8,40,13,18
+relation,8,40,14,27
+relation,9,41,10,24
+relation,11,44,1,17
+relation,11,44,6,144
+relation,11,44,9,56
+relation,11,44,13,155
+relation,11,44,15,52
+relation,11,45,0,67
+relation,11,45,3,10
+relation,11,45,4,58
+relation,11,45,6,7
+relation,11,45,7,79
+relation,11,45,8,36
+relation,11,45,10,45
+relation,11,45,12,152
+relation,12,46,6,37
+relation,12,46,7,113
+relation,12,46,8,30
+relation,12,46,9,19
+relation,12,46,10,43
+relation,13,47,1,5
+relation,13,47,2,44
+relation,13,47,3,66
+relation,13,47,4,60
+relation,15,48,1,52
+relation,15,48,2,59
+relation,15,48,3,74
+relation,15,48,5,75
+relation,15,48,9,115
+relation,15,48,10,71
+relation,15,48,11,25
+relation,15,48,12,71
+relation,15,48,15,146
+relation,16,49,1,99
+relation,16,49,3,55
+relation,16,49,7,0
+relation,16,49,8,38
+relation,16,49,9,20
+relation,16,49,10,107
+relation,16,49,15,105
+relation,18,50,3,39
+relation,18,50,6,33
+relation,18,50,7,0
+relation,18,50,8,0
+relation,18,50,11,101
+relation,20,53,9,113
+relation,20,54,3,312
+relation,20,54,4,53
+relation,20,54,5,101
+relation,21,56,3,80
+relation,21,56,7,5
+relation,22,57,1,13
+relation,23,58,23,44
+relation,24,59,6,83
+relation,24,59,10,154
+relation,25,61,8,199
+relation,25,61,10,22
+relation,25,61,11,126
+relation,25,62,1,93
+relation,25,62,3,38
+relation,27,63,22,22
+relation,27,63,23,29
+relation,27,64,0,107
+relation,27,64,1,2
+relation,27,64,2,26
+relation,27,64,3,18
+relation,27,64,4,42
+relation,27,64,5,24
+relation,27,64,6,64
+relation,27,64,7,2
+relation,27,64,8,16
+relation,27,64,10,17
+relation,27,64,11,67
+relation,28,65,1,29
+relation,28,65,2,37
+relation,28,65,4,191
+relation,28,65,5,5
+relation,28,65,6,115
+relation,28,65,7,39
+relation,29,66,1,26
+relation,29,66,3,334
+relation,29,66,4,28
+relation,29,66,5,26
+relation,29,66,7,45
+relation,29,66,9,21
+relation,29,67,0,145
+relation,29,67,2,101
+relation,29,67,3,64
+relation,29,67,5,182
+relation,29,67,6,28
+relation,30,68,0,112
+relation,30,68,1,28
+relation,30,68,3,29
+relation,30,68,4,56
+relation,30,68,8,119
+relation,30,69,1,25
+relation,30,69,3,67
+relation,30,69,4,43
+relation,33,70,6,123
+relation,33,70,7,5
+relation,34,71,0,72
+relation,34,71,1,169
+relation,34,71,2,86
+relation,35,72,2,114
+relation,35,72,6,85
+relation,36,73,9,49
+relation,36,73,11,59
+relation,36,73,12,41
+relation,36,73,13,30
+relation,36,73,15,15
+relation,36,73,17,36
+relation,36,73,18,25
+relation,36,73,19,12
+relation,36,73,20,41
+relation,36,73,22,100
+relation,37,74,3,51
+relation,37,74,4,23
+relation,37,74,5,48
+relation,37,74,6,49
+relation,37,74,7,27
+relation,37,74,9,40
+relation,37,74,11,50
+relation,37,74,12,17
+relation,37,74,13,32
+relation,37,75,1,229
+relation,37,75,5,126
+relation,37,75,10,103
+relation,38,76,1,120
+relation,38,76,4,80
+relation,38,76,5,126
+relation,38,76,7,69
+relation,38,76,8,20
+relation,38,76,9,26
+relation,39,77,3,28
+relation,39,77,4,110
+relation,39,77,8,83
+relation,39,77,9,136
+relation,39,77,12,28
+relation,40,78,3,60
+relation,40,78,4,95
+relation,40,79,0,68
+relation,40,79,1,40
+relation,40,79,3,89
+relation,40,79,5,5
+relation,40,79,6,12
+relation,40,79,7,24
+relation,40,79,9,33
+relation,40,79,12,101
+relation,40,79,13,61
+relation,40,79,14,96
+relation,42,80,1,53
+relation,43,81,0,113
+relation,44,82,3,192
+relation,44,82,4,21
+relation,44,82,5,9
+relation,44,82,6,47
+relation,44,82,7,53
+relation,44,82,8,0
+relation,44,82,9,141
+relation,44,82,11,65
+relation,44,82,12,83
+relation,44,82,16,14
+relation,44,84,6,12
+relation,44,84,11,63
+relation,44,85,0,121
+relation,44,85,3,28
+relation,44,85,5,59
+relation,44,85,17,36
+relation,44,85,23,156
+relation,44,86,0,100
+relation,44,86,1,12
+relation,44,86,6,80
+relation,44,86,15,61
+relation,44,87,2,53
+relation,45,88,16,62
+relation,45,89,26,14
+relation,46,90,2,102
+relation,46,90,3,66
+relation,46,90,4,11
+relation,46,91,0,6
+relation,46,91,5,24
+relation,46,91,7,17
+relation,46,91,8,69
+relation,46,92,1,70
+relation,46,92,9,28
+relation,46,92,10,10
+relation,46,92,11,145
+relation,46,92,12,11
+relation,46,92,13,0
+relation,46,92,14,4
+relation,46,92,16,28
+relation,46,92,17,193
+relation,47,93,0,4
+relation,47,93,3,40
+relation,47,93,5,48
+relation,47,93,7,181
+relation,47,93,8,24
+relation,47,93,9,2
+relation,47,93,10,4
+relation,47,93,11,22
+relation,47,93,12,25
+relation,47,93,13,29
+relation,47,93,14,114
+relation,48,94,0,47
+relation,48,94,1,17
+relation,48,94,2,2
+relation,48,94,3,10
+relation,48,94,4,28
+relation,48,94,6,29
+relation,48,94,7,90
+relation,48,94,9,26
+relation,48,94,10,347
+relation,49,95,5,2
+relation,49,95,6,104
+relation,49,95,8,45
+relation,49,95,14,62
+relation,49,95,15,45
+relation,49,95,16,36
+relation,49,95,17,23
+relation,49,95,18,33
+relation,49,95,19,2
+relation,49,95,20,4
+relation,49,95,21,69
+relation,49,95,22,17
+relation,49,96,0,32
+relation,49,96,1,29
+relation,49,96,5,25
+relation,50,97,0,4
+relation,50,97,5,549
+relation,50,98,8,60
+relation,50,98,9,104
+relation,50,98,11,123
+relation,50,98,12,44
+relation,50,98,14,81
+relation,50,98,15,113
+relation,50,98,16,28
+relation,51,99,0,4
+relation,51,99,5,80
+relation,51,99,8,43
+relation,51,99,10,17
+relation,51,99,11,16
+relation,51,99,12,8
+relation,51,99,14,2
+relation,51,99,15,54
+relation,51,99,18,86
+relation,52,100,6,68
+relation,52,100,7,14
+relation,52,100,8,21
+relation,52,100,9,33
+relation,52,100,10,56
+relation,52,100,13,73
+relation,52,101,0,4
+relation,52,101,2,522
+relation,52,101,5,139
+relation,52,101,6,42
+relation,52,102,4,124
+relation,52,102,10,44
+relation,53,103,0,4
+relation,53,103,3,118
+relation,53,103,8,85
+relation,55,105,0,4
+relation,56,106,5,60
+relation,56,106,6,449
+relation,57,107,0,4
+relation,57,107,4,13
+relation,57,107,7,56
+relation,57,107,8,60
+relation,57,107,9,38
+relation,57,107,11,168
+relation,57,108,1,284
+relation,57,108,3,157
+relation,57,108,6,9
+relation,57,108,7,35
+relation,57,108,8,89
+relation,58,109,0,4
+relation,58,109,3,115
+relation,58,109,4,57
+relation,59,110,0,19
+relation,59,110,1,25
+relation,59,110,2,15
+relation,59,110,3,28
+relation,59,110,4,36
+relation,59,110,5,59
+relation,59,110,7,23
+relation,59,110,8,101
+relation,59,111,0,4
+relation,59,111,5,33
+relation,59,112,0,31
+relation,59,112,2,46
+relation,59,112,3,13
+relation,59,112,6,12
+relation,59,112,7,49
+relation,60,113,0,4
+relation,60,113,3,157
+relation,60,113,4,48
+relation,60,113,5,39
+relation,60,113,6,17
+relation,60,113,7,108
+relation,60,113,8,18
+relation,62,115,0,4
+relation,62,115,3,79
+relation,62,115,4,34
+relation,62,115,9,234
+relation,62,115,12,139
+relation,62,115,13,21
+relation,62,115,14,20
+relation,62,115,15,121
+relation,62,115,16,86
+relation,63,116,0,110
+relation,63,116,5,138
+relation,64,117,0,4
+relation,64,117,1,14
+relation,64,117,2,4
+relation,64,117,7,41
+relation,64,117,8,4
+relation,64,117,10,154
+relation,65,118,2,147
+relation,65,118,3,107
+relation,65,118,6,232
+relation,65,118,7,17
+relation,65,118,8,59
+relation,66,119,0,4
+relation,66,119,1,23
+relation,66,119,3,86
+relation,66,119,4,88
+relation,66,119,5,132
+relation,66,119,6,12
+relation,66,120,3,50
+relation,66,120,8,35
+relation,66,121,0,4
+relation,66,121,3,339
+relation,66,121,5,212
+relation,66,121,6,58
+relation,66,121,7,11
+relation,66,121,8,82
+relation,66,121,9,34
+relation,66,121,10,39
+relation,67,122,3,101
+relation,68,123,0,4
+relation,68,123,12,22
+relation,69,125,0,4
+relation,69,126,4,108
+relation,69,128,7,12
+relation,69,128,8,24
+relation,69,128,9,39
+relation,69,128,11,63
+relation,69,128,12,39
+relation,69,129,0,4
+relation,69,129,5,28
+relation,69,129,7,32
+relation,69,129,8,8
+relation,69,129,17,65
+relation,69,129,18,47
+relation,69,129,19,22
+relation,69,129,21,94
+relation,69,129,23,51
+relation,69,129,28,26
+relation,69,130,0,65
+relation,69,130,1,78
+relation,69,130,3,43
+relation,69,130,5,61
+relation,69,130,6,19
+relation,69,130,14,100
+relation,69,130,16,45
+relation,69,130,22,51
+relation,69,130,25,49
+relation,70,131,0,192
+relation,70,131,2,112
+relation,70,131,3,37
+relation,70,131,5,65
+relation,70,131,8,47
+relation,70,131,9,126
+relation,70,131,10,63
+relation,71,132,1,14
+relation,71,132,2,85
+relation,71,132,3,53
+relation,71,132,6,49
+relation,71,132,7,70
+relation,71,132,8,41
+relation,71,132,11,24
+relation,71,132,13,97
+relation,71,132,14,37
+relation,71,132,15,18
+relation,71,132,17,37
+relation,71,132,20,25
+relation,71,132,21,43
+relation,72,133,0,4
+relation,72,133,8,124
+relation,72,133,12,99
+relation,72,133,13,66
+relation,73,134,0,2
+relation,73,134,2,12
+relation,73,134,4,12
+relation,73,134,5,49
+relation,73,134,6,17
+relation,73,134,8,102
+relation,73,134,10,106
+relation,74,135,2,21
+relation,74,135,4,69
+relation,74,135,5,38
+relation,74,135,6,51
+relation,74,135,8,55
+relation,74,135,9,12
+relation,74,135,12,79
+relation,74,135,13,61
+relation,74,135,16,38
+relation,74,136,0,52
+relation,74,136,1,272
+relation,74,136,3,82
+relation,74,136,4,75
+relation,74,136,6,5
+relation,74,136,7,133
+relation,75,137,0,0
+relation,75,137,1,57
+relation,75,137,2,37
+relation,75,137,3,47
+relation,75,137,7,67
+relation,75,137,8,63
+relation,75,137,9,51
+relation,75,137,12,32
+relation,76,138,2,39
+relation,76,138,3,100
+relation,76,138,4,27
+relation,76,138,5,22
+relation,76,138,7,149
+relation,76,138,8,164
+relation,76,138,9,26
+relation,76,138,10,113
+relation,76,138,14,35
+relation,76,139,0,0
+relation,76,139,4,72
+relation,76,139,10,120
+relation,77,140,2,327
+relation,77,140,4,82
+relation,77,140,7,45
+relation,77,140,8,19
+relation,77,140,10,57
+relation,78,141,0,0
+relation,78,141,4,71
+relation,78,141,8,106
+relation,78,141,11,122
+relation,78,142,7,36
+relation,78,143,1,11
+relation,78,143,6,13
+relation,78,143,10,81
+relation,78,144,4,109
+relation,78,144,9,88
+relation,78,145,0,0
+relation,78,145,3,50
+relation,78,145,5,346
+relation,78,145,6,30
+relation,78,145,7,23
+relation,78,146,1,68
+relation,78,146,4,65
+relation,78,146,6,60
+relation,78,146,9,150
+relation,78,146,15,41
+relation,79,147,0,0
+relation,79,147,1,45
+relation,79,147,2,2
+relation,79,147,7,87
+relation,79,147,8,61
+relation,79,147,10,144
+relation,80,148,2,34
+relation,80,148,8,344
+relation,80,149,12,238
+relation,80,150,4,201
+relation,80,150,5,27
+relation,80,150,6,81
+relation,80,150,11,4
+relation,80,150,14,0
+relation,80,150,15,69
+relation,80,151,0,58
+relation,80,151,2,47
+relation,80,151,4,8
+relation,80,151,8,93
+relation,80,151,11,13
+relation,80,152,0,519
+relation,80,152,4,19
+relation,81,153,0,0
+relation,81,153,2,241
+relation,81,153,11,293
+relation,81,153,12,30
+relation,81,154,4,64
+relation,82,155,0,0
+relation,82,155,5,154
+relation,82,156,1,13
+relation,82,156,6,95
+relation,84,157,9,62
+relation,84,158,8,94
+relation,84,158,10,41
+relation,84,158,12,41
+relation,84,159,0,0
+relation,84,159,3,28
+relation,84,159,5,20
+relation,84,160,0,123
+relation,84,160,1,24
+relation,84,160,2,71
+relation,84,160,3,45
+relation,84,160,5,25
+relation,84,160,7,53
+relation,84,160,14,49
+relation,84,160,22,72
+relation,85,161,0,0
+relation,85,161,2,27
+relation,85,161,3,64
+relation,85,161,5,40
+relation,85,161,9,16
+relation,85,161,10,64
+relation,85,161,11,64
+relation,85,161,13,23
+relation,85,161,16,12
+relation,85,161,17,31
+relation,86,162,14,259
+relation,86,162,15,31
+relation,86,162,16,58
+relation,87,163,0,0
+relation,87,163,9,110
+relation,87,163,10,21
+relation,87,163,11,23
+relation,87,163,14,20
+relation,87,163,19,29
+relation,88,164,4,38
+relation,88,164,12,45
+relation,88,166,15,132
+relation,88,167,1,91
+relation,88,168,2,42
+relation,88,168,3,10
+relation,89,169,2,64
+relation,89,169,6,672
+relation,90,170,2,114
+relation,90,170,3,80
+relation,90,170,14,34
+relation,91,172,2,182
+relation,91,172,6,114
+relation,91,172,12,60
+relation,91,173,1,187
+relation,92,175,7,0
+relation,93,177,9,71
+relation,94,178,5,232
+relation,95,179,1,12
+relation,97,184,0,480
+relation,98,185,6,52
+relation,98,185,7,90
+relation,98,186,8,93
+relation,98,186,9,153
+relation,98,188,0,16
+relation,98,188,5,115
+relation,98,188,6,87
+relation,99,190,3,17
+relation,107,196,1,6
+relation,108,197,5,64
+relation,109,198,0,100
+relation,111,200,7,53
+relation,115,203,5,68
+relation,115,203,10,141
+relation,115,207,6,89
+relation,115,207,17,11
+relation,115,207,23,26
+relation,115,208,1,26
+relation,115,208,12,36
+relation,115,209,8,212
+relation,115,209,20,27
+relation,115,210,0,37
+relation,115,210,16,36
+relation,115,210,17,81
+relation,115,211,7,50
+relation,115,212,13,111
+relation,115,212,16,35
+relation,115,212,20,36
+relation,115,213,2,36
+relation,115,213,3,53
+relation,115,213,6,86
+relation,117,214,0,41
+relation,117,214,1,83
+relation,117,214,12,42
+relation,120,219,9,2
+relation,121,223,0,220
+relation,121,223,5,104
+relation,121,223,7,32
+relation,123,225,9,300
+relation,127,230,12,79
+relation,131,236,10,81
+relation,133,239,1,83
+relation,138,246,2,81
+relation,166,296,1,94
+relation,166,296,3,154
+relation,170,307,4,15
+relation,187,327,10,105
+relation,187,327,15,160
+relation,187,329,1,37
+relation,191,333,8,41
+relation,191,333,11,157
+relation,191,333,18,12
+relation,192,335,1,206
+relation,192,335,14,24
+relation,192,335,17,51
+relation,193,336,2,105
+relation,193,336,18,37
+relation,194,337,3,37
+relation,209,356,18,181
+relation,216,365,6,223
+relation,218,371,6,171
+relation,218,371,7,60
+relation,218,371,8,72
+relation,229,393,6,43
+relation,229,393,7,86
+relation,234,402,1,54
+relation,234,402,11,53
+relation,236,404,7,367
+relation,236,405,10,74
+relation,239,418,11,53
+relation,239,420,19,31
+relation,243,423,1,25
+relation,244,427,6,22
+relation,245,428,1,52
+relation,245,428,2,6
+relation,245,428,5,281
+relation,245,428,7,140
+relation,245,428,11,17
+relation,247,429,1,110
+relation,247,430,7,47
+relation,248,431,0,431
+relation,248,431,5,110
+relation,248,431,7,99
+relation,248,431,8,56
+relation,250,432,0,73
+relation,250,432,9,6
+relation,251,434,18,26
+relation,255,438,13,99
+relation,255,438,14,24
+relation,255,438,19,43
+relation,256,439,0,304
+relation,256,439,2,18
+relation,256,439,6,95
+relation,258,440,0,140
+relation,258,440,1,85
+relation,259,442,6,67
+relation,259,442,8,79
+relation,263,448,1,280
+relation,263,448,2,112
+relation,263,448,4,40
+relation,263,448,5,0
+relation,263,449,2,12
+relation,263,449,3,6
+relation,263,450,7,23
+relation,263,451,8,38
+relation,263,451,9,66
+relation,263,451,22,48
+relation,264,452,2,37
+relation,264,452,3,68
+relation,264,452,9,155
+relation,264,452,15,58
+relation,264,452,25,25
+relation,264,452,28,26
+relation,265,453,4,83
+relation,265,453,5,35
+relation,265,453,13,76
+relation,266,454,5,165
+relation,267,457,0,75
+relation,279,473,0,14
+relation,279,473,9,108
+relation,279,474,0,77
+relation,279,474,2,58
+relation,279,474,3,146
+relation,279,474,4,250
+relation,281,475,0,11
+relation,281,475,7,130
+relation,281,475,14,82
+relation,281,475,17,173
+relation,283,476,11,35
+relation,284,477,0,11
+relation,284,477,11,63
+relation,284,477,17,133
+relation,285,478,2,99
+relation,287,481,0,11
+relation,287,481,14,116
+relation,288,482,9,20
+relation,288,482,17,46
+relation,288,482,19,26
+relation,290,483,0,12
+relation,290,483,5,43
+relation,290,483,7,43
+relation,290,483,20,4
+relation,290,484,1,63
+relation,291,485,0,11
+relation,291,485,2,98
+relation,291,485,22,86
+relation,291,486,5,52
+relation,291,486,12,101
+relation,291,486,15,141
+relation,291,487,0,11
+relation,291,487,12,167
+relation,291,487,13,41
+relation,291,487,14,34
+relation,291,487,15,122
+relation,291,487,16,38
+relation,291,487,17,27
+relation,291,488,1,85
+relation,291,488,3,18
+relation,291,488,20,130
+relation,291,488,23,90
+relation,291,488,25,25
+relation,292,489,1,50
+relation,292,489,2,28
+relation,292,489,4,5
+relation,292,489,5,108
+relation,292,489,6,61
+relation,292,489,7,53
+relation,292,489,8,65
+relation,292,490,2,131
+relation,292,490,3,39
+relation,292,490,9,209
+relation,292,490,19,53
+relation,292,490,20,55
+relation,292,491,0,11
+relation,292,492,17,91
+relation,292,492,20,106
+relation,292,493,0,11
+relation,292,493,1,58
+relation,292,493,2,47
+relation,292,493,10,192
+relation,292,493,14,10
+relation,293,495,0,11
+relation,293,495,1,10
+relation,293,495,6,10
+relation,293,495,10,55
+relation,293,495,11,25
+relation,293,495,14,59
+relation,293,495,20,100
+relation,293,495,27,58
+relation,293,496,2,91
+relation,293,496,4,46
+relation,293,496,5,85
+relation,293,496,6,55
+relation,293,496,7,37
+relation,293,496,9,102
+relation,293,496,12,184
+relation,293,497,0,249
+relation,293,497,3,428
+relation,295,499,0,11
+relation,298,500,1,136
+relation,298,500,3,52
+relation,298,500,8,208
+relation,298,500,10,39
+relation,298,500,11,8
+relation,298,500,15,61
+relation,298,501,0,13
+relation,298,501,2,78
+relation,298,501,3,77
+relation,298,501,5,173
+relation,298,501,6,50
+relation,300,502,0,159
+relation,300,502,2,61
+relation,300,502,11,59
+relation,300,502,17,44
+relation,302,503,0,12
+relation,302,504,0,170
+relation,302,504,6,130
+relation,302,504,13,15
+relation,302,505,0,11
+relation,302,505,1,19
+relation,302,505,2,7
+relation,302,505,9,51
+relation,302,506,4,83
+relation,302,506,5,56
+relation,302,506,8,149
+relation,302,506,9,73
+relation,302,506,10,60
+relation,302,506,12,65
+relation,302,506,13,31
+relation,302,507,0,13
+relation,302,507,9,38
+relation,302,508,2,57
+relation,302,508,9,87
+relation,302,508,22,25
+relation,302,508,25,26
+relation,303,509,0,11
+relation,303,509,8,4
+relation,303,509,9,119
+relation,305,510,2,87
+relation,305,510,4,0
+relation,305,510,5,0
+relation,305,510,6,15
+relation,305,510,7,8
+relation,305,511,0,11
+relation,305,511,2,163
+relation,305,511,3,0
+relation,305,511,5,15
+relation,305,511,7,323
+relation,305,511,13,59
+relation,305,511,14,59
+relation,305,511,16,60
+relation,305,511,20,37
+relation,306,512,0,13
+relation,306,512,1,34
+relation,306,512,6,20
+relation,306,512,8,108
+relation,306,512,9,51
+relation,307,513,0,83
+relation,307,513,2,13
+relation,307,513,5,86
+relation,307,513,8,10
+relation,307,513,9,158
+relation,308,514,6,376
+relation,308,515,0,53
+relation,308,515,4,72
+relation,308,515,8,168
+relation,308,515,9,44
+relation,308,516,6,172
+relation,308,516,11,76
+relation,308,516,14,57
+relation,308,517,0,58
+relation,308,517,9,141
+relation,308,517,15,99
+relation,308,518,0,138
+relation,308,518,8,74
+relation,308,518,20,192
+relation,308,518,21,132
+relation,311,519,2,90
+relation,311,519,12,285
+relation,311,519,13,43
+relation,314,522,0,20
+relation,314,522,2,118
+relation,314,522,13,105
+relation,316,523,0,90
+relation,316,523,4,29
+relation,316,523,6,105
+relation,316,523,8,84
+relation,316,523,9,107
+relation,316,524,0,142
+relation,316,526,0,155
+relation,316,526,2,169
+relation,316,526,5,94
+relation,316,526,6,14
+relation,317,527,6,99
+relation,317,528,6,38
+relation,317,528,7,1
+relation,317,528,8,14
+relation,317,529,2,183
+relation,317,529,3,187
+relation,317,529,13,158
+relation,317,529,16,184
+relation,317,529,18,14
+relation,317,530,7,82
+relation,317,530,8,106
+relation,317,530,16,16
+relation,317,531,0,39
+relation,317,531,1,37
+relation,317,531,2,64
+relation,317,531,4,63
+relation,317,531,6,137
+relation,317,531,7,25
+relation,317,531,8,35
+relation,317,531,9,232
+relation,317,531,11,20
+relation,317,531,12,28
+relation,317,532,0,16
+relation,317,532,1,28
+relation,317,532,3,107
+relation,317,532,4,47
+relation,317,532,5,97
+relation,317,532,6,152
+relation,317,532,16,47
+relation,317,532,18,16
+relation,317,532,19,9
+relation,317,533,0,140
+relation,317,533,3,30
+relation,317,533,4,90
+relation,317,533,6,14
+relation,317,533,9,203
+relation,317,533,11,301
+relation,317,534,1,61
+relation,318,535,7,330
+relation,318,535,14,240
+relation,318,535,17,107
+relation,318,535,21,62
+relation,318,536,7,53
+relation,318,536,11,73
+relation,319,537,1,131
+relation,319,537,2,17
+relation,319,537,3,74
+relation,319,537,10,64
+relation,319,537,17,158
+relation,320,538,3,167
+relation,320,538,6,141
+relation,320,538,7,161
+relation,320,539,4,54
+relation,320,539,6,98
+relation,320,539,8,49
+relation,320,539,11,148
+relation,320,539,15,86
+relation,320,539,17,129
+relation,320,540,1,31
+relation,320,540,2,146
+relation,320,540,9,151
+relation,320,540,12,36
+relation,320,540,14,74
+relation,320,541,12,95
+relation,320,542,2,72
+relation,320,542,3,40
+relation,320,542,11,33
+relation,320,542,15,74
+relation,320,542,19,81
+relation,320,542,21,39
+relation,320,543,10,25
+relation,320,543,12,14
+relation,320,544,0,250
+relation,320,544,1,35
+relation,320,544,3,4
+relation,320,546,14,76
+relation,320,546,15,14
+relation,320,546,16,125
+relation,320,546,24,37
+relation,320,547,1,160
+relation,320,547,2,56
+relation,320,547,11,33
+relation,320,547,13,37
+relation,322,548,16,21
+relation,322,549,18,21
+relation,323,550,0,71
+relation,323,550,5,209
+relation,323,550,6,178
+relation,323,550,12,68
+relation,331,557,9,66
+relation,348,581,0,370
+relation,348,581,5,211
+relation,348,581,11,227
+relation,357,594,0,261
+relation,357,594,1,145
+relation,357,594,2,116
+relation,358,595,4,78
+relation,360,599,0,92
+relation,364,610,15,41
+relation,382,639,4,49
+relation,382,639,7,378
+relation,382,639,8,61
+relation,383,640,0,70
+relation,383,640,9,32
+relation,383,640,10,2
+relation,383,640,11,103
+relation,383,641,3,11
+relation,383,641,4,131
+relation,383,641,5,73
+relation,383,641,11,39
+relation,383,641,14,46
+relation,384,642,7,34
+relation,384,642,16,61
+relation,384,642,17,247
+relation,386,643,0,69
+relation,386,643,2,42
+relation,386,643,3,93
+relation,386,643,9,81
+relation,386,643,11,29
+relation,386,644,2,95
+relation,386,644,3,5
+relation,386,644,4,41
+relation,386,644,5,21
+relation,386,644,7,81
+relation,386,644,8,90
+relation,386,644,9,52
+relation,386,644,10,57
+relation,386,644,11,74
+relation,386,644,12,98
+relation,386,644,15,95
+relation,386,644,19,67
+relation,387,645,1,11
+relation,387,645,5,139
+relation,387,645,9,132
+relation,387,645,11,31
+relation,387,645,12,102
+relation,389,646,1,83
+relation,389,646,4,51
+relation,389,646,8,75
+relation,389,646,16,59
+relation,389,647,5,67
+relation,390,649,0,281
+relation,390,649,2,26
+relation,390,649,5,5
+relation,390,649,8,63
+relation,390,649,9,2
+relation,390,649,10,57
+relation,390,649,15,11
+relation,390,649,24,5
+relation,392,650,1,23
+relation,392,650,2,63
+relation,392,650,4,104
+relation,392,650,5,93
+relation,392,650,7,53
+relation,392,650,9,136
+relation,392,651,2,37
+relation,392,651,4,8
+relation,392,651,6,86
+relation,392,651,7,17
+relation,392,651,8,36
+relation,392,651,9,11
+relation,392,651,13,22
+relation,392,651,16,93
+relation,393,652,2,42
+relation,393,652,6,100
+relation,393,652,7,41
+relation,393,652,11,165
+relation,395,653,0,48
+relation,395,653,3,12
+relation,395,653,9,11
+relation,395,653,12,91
+relation,395,653,14,46
+relation,395,653,15,91
+relation,395,653,19,29
+relation,395,653,20,22
+relation,395,653,22,54
+relation,395,654,6,68
+relation,395,654,8,67
+relation,395,654,9,27
+relation,395,654,10,103
+relation,395,654,11,27
+relation,395,654,13,51
+relation,395,654,14,40
+relation,395,654,15,113
+relation,395,655,1,15
+relation,395,655,2,235
+relation,395,655,4,37
+relation,395,655,7,114
+relation,395,655,8,104
+relation,395,655,11,11
+relation,395,655,17,22
+relation,395,655,18,45
+relation,396,656,0,114
+relation,396,656,12,33
+relation,396,656,13,183
+relation,396,656,14,5
+relation,396,656,15,101
+relation,396,656,16,111
+relation,396,656,17,82
+relation,396,657,8,18
+relation,396,657,9,49
+relation,396,657,10,23
+relation,396,657,14,283
+relation,396,657,17,51
+relation,396,658,2,32
+relation,396,658,3,79
+relation,396,658,4,59
+relation,396,658,6,147
+relation,396,658,8,96
+relation,396,658,10,98
+relation,396,659,1,31
+relation,396,659,3,86
+relation,396,659,5,69
+relation,399,661,3,443
+relation,399,661,5,40
+relation,399,661,11,27
+relation,399,661,12,24
+relation,399,661,13,58
+relation,400,662,2,44
+relation,400,662,4,288
+relation,400,662,5,91
+relation,400,662,6,80
+relation,400,662,9,28
+relation,400,662,10,27
+relation,400,662,13,29
+relation,400,662,15,70
+relation,400,663,11,43
+relation,400,663,12,19
+relation,400,663,15,151
+relation,400,663,20,57
+relation,400,663,21,52
+relation,400,663,23,84
+relation,400,664,0,81
+relation,400,664,5,46
+relation,400,664,7,221
+relation,400,664,11,25
+relation,400,664,12,108
+relation,400,664,13,72
+relation,400,664,15,128
+relation,400,664,18,80
+relation,400,665,4,66
+relation,400,665,5,17
+relation,400,665,6,127
+relation,400,665,7,157
+relation,400,665,8,110
+relation,400,665,10,28
+relation,400,666,3,97
+relation,400,666,4,95
+relation,400,666,7,19
+relation,400,666,8,104
+relation,400,667,6,84
+relation,400,667,7,46
+relation,400,667,10,102
+relation,400,667,11,110
+relation,400,667,15,116
+relation,400,668,5,55
+relation,400,668,10,333
+relation,400,669,2,58
+relation,400,669,3,46
+relation,400,669,4,69
+relation,400,669,5,76
+relation,400,669,7,11
+relation,400,669,9,87
+relation,400,669,10,173
+relation,401,670,11,11
+relation,402,671,2,4
+relation,402,671,3,94
+relation,402,671,8,5
+relation,402,671,10,64
+relation,402,671,12,11
+relation,402,671,13,44
+relation,402,671,14,4
+relation,402,672,2,24
+relation,402,672,3,168
+relation,402,672,6,74
+relation,402,672,7,117
+relation,402,672,9,70
+relation,402,672,11,27
+relation,404,673,3,179
+relation,404,673,4,62
+relation,404,673,5,84
+relation,404,673,6,39
+relation,404,673,10,92
+relation,404,673,11,100
+relation,404,673,13,16
+relation,404,673,15,89
+relation,404,673,16,97
+relation,404,674,7,460
+relation,404,674,8,10
+relation,404,674,10,15
+relation,404,674,15,61
+relation,404,674,17,100
+relation,404,674,19,75
+relation,404,675,1,124
+relation,404,675,2,120
+relation,404,676,14,38
+relation,404,676,16,48
+relation,404,676,21,83
+relation,404,676,23,23
+relation,404,676,25,45
+relation,404,677,12,15
+relation,404,677,13,29
+relation,404,677,14,16
+relation,404,677,17,21
+relation,404,677,18,25
+relation,404,677,22,27
+relation,404,677,23,53
+relation,404,677,24,72
+relation,404,677,25,51
+relation,404,677,26,44
+relation,404,678,1,13
+relation,404,678,7,51
+relation,404,678,8,17
+relation,404,678,10,14
+relation,404,678,11,65
+relation,404,678,12,234
+relation,404,678,17,60
+relation,404,679,2,65
+relation,404,679,3,49
+relation,404,679,8,103
+relation,404,679,12,39
+relation,404,679,13,226
+relation,404,679,20,26
+relation,404,679,21,23
+relation,404,679,23,46
+relation,404,679,26,236
+relation,405,680,0,82
+relation,405,680,1,111
+relation,405,680,3,48
+relation,405,680,4,147
+relation,405,680,5,66
+relation,405,680,6,18
+relation,405,680,8,25
+relation,406,681,2,26
+relation,406,681,5,23
+relation,406,681,14,26
+relation,406,681,19,132
+relation,406,681,20,105
+relation,406,681,24,48
+relation,406,681,25,8
+relation,406,681,26,58
+relation,406,681,29,58
+relation,406,681,30,58
+relation,406,681,32,55
+relation,406,681,33,123
+relation,407,682,4,23
+relation,407,682,10,36
+relation,407,682,19,86
+relation,410,684,1,90
+relation,410,684,5,337
+relation,410,685,18,67
+relation,410,686,3,65
+relation,410,686,12,190
+relation,410,686,17,153
+relation,411,687,0,98
+relation,411,687,3,145
+relation,411,687,12,17
+relation,411,688,16,54
+relation,412,689,1,77
+relation,412,689,4,65
+relation,412,689,6,41
+relation,412,689,8,90
+relation,412,689,10,127
+relation,412,689,11,183
+relation,412,690,3,136
+relation,413,691,6,82
+relation,413,691,7,68
+relation,413,692,10,103
+relation,413,692,11,18
+relation,413,692,16,46
+relation,413,692,18,109
+relation,414,693,4,169
+relation,414,693,12,145
+relation,414,693,16,19
+relation,416,694,0,113
+relation,416,694,1,63
+relation,416,694,2,59
+relation,416,694,3,69
+relation,416,694,5,29
+relation,416,694,6,261
+relation,417,695,5,42
+relation,417,695,7,232
+relation,417,696,2,116
+relation,417,696,3,32
+relation,417,696,8,183
+relation,417,696,9,113
+relation,417,696,11,150
+relation,417,697,0,155
+relation,417,697,4,103
+relation,417,697,5,131
+relation,417,697,6,118
+relation,423,702,3,324
+relation,423,702,14,101
+relation,425,703,2,115
+relation,425,703,5,165
+relation,425,703,12,57
+relation,425,703,15,55
+relation,425,703,16,65
+relation,425,704,0,158
+relation,425,704,1,66
+relation,425,704,2,82
+relation,427,705,4,136
+relation,427,705,5,29
+relation,427,705,6,32
+relation,427,705,15,28
+relation,428,706,0,80
+relation,428,706,1,38
+relation,428,706,3,30
+relation,428,706,5,11
+relation,428,706,8,25
+relation,428,706,9,113
+relation,428,706,10,177
+relation,428,706,14,39
+relation,428,706,20,54
+relation,428,706,21,69
+relation,428,707,1,123
+relation,428,707,10,80
+relation,428,708,0,45
+relation,428,708,3,42
+relation,428,708,6,37
+relation,428,708,9,121
+relation,428,708,13,25
+relation,428,708,14,147
+relation,428,708,16,90
+relation,428,708,17,61
+relation,430,709,3,52
+relation,430,709,6,31
+relation,430,709,14,78
+relation,431,710,10,38
+relation,431,710,11,84
+relation,432,711,0,115
+relation,432,711,1,62
+relation,432,711,2,473
+relation,432,711,4,147
+relation,432,711,5,134
+relation,432,711,6,256
+relation,432,711,7,101
+relation,432,711,8,101
+relation,432,712,9,55
+relation,432,712,10,32
+relation,434,713,6,54
+relation,434,713,7,57
+relation,435,714,2,22
+relation,435,714,14,126
+relation,435,714,15,121
+relation,436,715,2,115
+relation,436,715,5,39
+relation,436,715,8,27
+relation,436,715,15,89
+relation,438,716,8,25
+relation,438,716,9,63
+relation,438,716,10,131
+relation,438,717,17,108
+relation,438,718,4,59
+relation,438,720,16,44
+relation,438,721,13,42
+relation,438,722,13,25
+relation,438,722,15,82
+relation,438,722,21,86
+relation,438,722,24,42
+relation,439,723,2,63
+relation,439,723,4,157
+relation,439,723,6,89
+relation,439,723,8,42
+relation,439,723,11,58
+relation,439,723,12,66
+relation,439,723,13,165
+relation,439,723,15,89
+relation,439,723,20,42
+relation,440,724,1,50
+relation,440,724,5,90
+relation,443,730,14,134
+relation,449,741,0,47
+relation,456,751,5,51
+relation,457,754,24,25
+relation,457,755,3,73
+relation,457,755,19,59
+relation,457,755,23,167
+relation,457,755,26,153
+relation,457,755,30,88
+relation,460,758,3,84
+relation,461,759,0,96
+relation,461,759,6,194
+relation,461,760,14,90
+relation,463,761,2,2
+relation,463,761,9,68
+relation,465,762,1,53
+relation,465,762,5,317
+relation,465,762,16,146
+relation,465,762,17,193
+relation,467,763,0,126
+relation,467,763,1,62
+relation,467,763,7,21
+relation,467,763,9,83
+relation,467,763,10,47
+relation,467,763,14,14
+relation,467,764,0,88
+relation,467,764,2,57
+relation,467,764,8,18
+relation,467,764,10,78
+relation,467,764,12,130
+relation,467,765,2,35
+relation,469,767,10,66
+relation,469,767,11,78
+relation,469,767,13,52
+relation,471,768,10,178
+relation,476,771,5,61
+relation,476,771,6,63
+relation,476,771,7,12
+relation,476,771,8,59
+relation,476,771,9,90
+relation,476,771,10,97
+relation,479,772,7,105
+relation,479,772,8,9
+relation,479,772,11,133
+relation,479,772,12,28
+relation,479,772,14,14
+relation,480,773,0,114
+relation,480,773,1,10
+relation,480,773,2,43
+relation,480,773,3,19
+relation,480,773,5,40
+relation,480,773,6,81
+relation,480,773,7,139
+relation,480,773,9,29
+relation,480,773,10,27
+relation,482,774,0,101
+relation,482,774,2,63
+relation,482,774,3,28
+relation,482,774,4,28
+relation,482,774,10,49
+relation,482,774,12,123
+relation,482,774,13,12
+relation,482,774,15,103
+relation,482,774,16,21
+relation,483,775,1,164
+relation,483,775,3,47
+relation,483,775,4,21
+relation,483,775,5,50
+relation,483,775,6,65
+relation,483,775,7,36
+relation,483,775,8,25
+relation,483,775,9,65
+relation,483,775,10,54
+relation,483,775,11,158
+relation,483,775,12,68
+relation,483,775,15,87
+relation,484,776,6,275
+relation,484,776,7,120
+relation,484,776,13,48
+relation,484,777,1,50
+relation,484,777,2,41
+relation,484,777,6,45
+relation,484,777,7,25
+relation,484,778,2,44
+relation,484,778,12,96
+relation,484,779,4,106
+relation,484,779,6,92
+relation,484,779,7,85
+relation,484,779,10,123
+relation,484,779,12,78
+relation,484,779,20,133
+relation,487,781,9,31
+relation,487,781,11,120
+relation,487,781,14,45
+relation,488,782,2,149
+relation,488,782,4,41
+relation,488,782,7,22
+relation,488,783,13,56
+relation,488,783,15,51
+relation,488,784,5,110
+relation,488,784,6,183
+relation,488,784,15,83
+relation,488,785,0,31
+relation,488,785,5,33
+relation,490,786,0,92
+relation,490,786,14,78
+relation,498,796,5,18
+relation,498,796,8,20
+relation,498,796,12,100
+relation,498,796,13,46
+relation,498,798,0,90
+relation,498,798,3,57
+relation,498,798,5,5
+relation,498,798,6,15
+relation,498,798,9,17
+relation,498,798,21,84
+relation,498,798,23,57
+relation,498,798,26,30
+relation,498,799,3,48
+relation,498,799,11,54
+relation,498,799,16,178
+relation,498,800,15,132
+relation,498,800,19,43
+relation,498,802,22,74
+relation,499,803,15,111
+relation,499,804,8,31
+relation,500,805,7,174
+relation,500,805,9,184
+relation,500,805,10,12
+relation,500,805,11,78
+relation,500,805,12,23
+relation,501,806,2,460
+relation,501,806,6,89
+relation,501,806,9,207
+relation,501,806,11,70
+relation,501,807,4,164
+relation,501,807,19,66
+relation,502,808,8,66
+relation,502,808,19,76
+relation,502,808,21,116
+relation,502,808,22,65
+relation,502,808,24,61
+relation,502,809,9,26
+relation,503,810,11,18
+relation,504,811,3,80
+relation,504,811,10,40
+relation,504,811,13,26
+relation,507,812,5,24
+relation,510,815,2,33
+relation,510,815,3,37
+relation,510,815,13,167
+relation,511,816,8,18
+relation,511,817,6,7
+relation,511,817,9,71
+relation,511,817,12,13
+relation,514,819,2,35
+relation,514,819,13,23
+relation,517,821,3,26
+relation,521,825,7,11
+relation,521,825,22,61
+relation,523,828,0,113
+relation,523,828,8,139
+relation,524,829,7,97
+relation,524,829,8,104
+relation,526,831,4,47
+relation,527,835,7,106
+relation,527,835,10,90
+relation,527,835,13,2
+relation,527,835,14,3
+relation,527,835,15,45
+relation,529,836,5,78
+relation,529,836,7,44
+relation,529,836,10,45
+relation,529,836,14,127
+relation,529,837,4,200
+relation,529,837,5,25
+relation,530,839,5,15
+relation,530,839,11,2
+relation,533,840,0,16
+relation,533,840,2,266
+relation,534,841,17,89
+relation,536,844,19,71
+relation,536,844,21,67
+relation,536,845,1,42
+relation,536,845,2,30
+relation,536,845,13,41
+relation,536,845,16,41
+relation,536,846,15,15
+relation,536,846,16,24
+relation,536,846,17,71
+relation,536,846,18,30
+relation,536,846,26,85
+relation,537,848,5,130
+relation,537,848,9,102
+relation,537,848,10,172
+relation,537,848,14,19
+relation,537,848,17,16
+relation,538,849,3,59
+relation,538,849,4,164
+relation,538,849,5,69
+relation,538,849,7,161
+relation,538,849,8,3
+relation,538,849,9,31
+relation,538,849,10,242
+relation,539,850,9,123
+relation,539,851,6,66
+relation,539,851,7,82
+relation,539,851,10,44
+relation,539,852,0,103
+relation,539,852,3,250
+relation,539,852,4,7
+relation,539,852,5,29
+relation,539,852,6,116
+relation,539,852,7,59
+relation,539,852,8,65
+relation,539,852,10,63
+relation,539,852,12,124
+relation,539,852,16,35
+relation,540,853,1,62
+relation,540,853,2,5
+relation,540,853,5,27
+relation,540,853,6,239
+relation,540,853,7,42
+relation,541,854,8,109
+relation,542,855,6,90
+relation,542,855,7,16
+relation,542,855,8,34
+relation,542,855,9,96
+relation,542,855,12,71
+relation,542,855,13,105
+relation,542,855,14,68
+relation,543,856,6,339
+relation,543,856,8,85
+relation,543,856,10,130
+relation,543,856,15,14
+relation,543,856,17,48
+relation,543,856,18,185
+relation,545,858,2,68
+relation,545,858,3,73
+relation,545,858,6,0
+relation,545,858,7,99
+relation,546,860,4,39
+relation,546,860,10,0
+relation,546,860,11,58
+relation,546,861,6,6
+relation,546,861,7,44
+relation,547,862,1,88
+relation,547,862,2,26
+relation,547,862,8,49
+relation,547,862,16,80
+relation,547,864,0,59
+relation,547,864,2,205
+relation,547,864,3,109
+relation,547,864,4,70
+relation,548,865,13,46
+relation,549,866,5,22
+relation,549,867,1,163
+relation,550,868,10,153
+relation,550,868,14,86
+relation,553,872,5,15
+relation,553,872,13,74
+relation,553,873,1,66
+relation,553,873,14,21
+relation,553,873,20,35
+relation,553,873,22,47
+relation,553,874,1,20
+relation,553,875,4,77
+relation,554,877,6,13
+relation,554,877,14,177
+relation,554,878,3,87
+relation,554,878,16,37
+relation,554,878,17,18
+relation,555,879,14,88
+relation,556,880,8,71
+relation,556,882,9,258
+relation,556,882,10,70
+relation,557,884,8,135
+relation,559,888,3,5
+relation,560,890,2,36
+relation,563,893,9,121
+relation,564,894,11,267
+relation,565,895,7,187
+relation,566,896,1,131
+relation,567,897,11,54
+relation,567,898,12,100
+relation,567,898,15,81
+relation,568,899,19,20
+relation,568,899,20,22
+relation,568,899,21,65
+relation,570,901,6,62
+relation,570,901,8,30
+relation,570,901,17,31
+relation,571,902,18,4
+relation,575,904,6,84
+relation,578,907,6,60
+relation,580,912,0,84
+relation,580,912,16,13
+relation,580,912,22,77
+relation,582,913,19,16
+relation,582,913,23,16
+relation,582,913,28,41
+relation,582,914,2,90
+relation,582,914,3,48
+relation,582,914,12,49
+relation,582,914,13,35
+relation,582,914,15,35
+relation,582,914,16,57
+relation,582,914,25,58
+relation,582,915,5,38
+relation,582,915,22,66
+relation,582,915,23,75
+relation,582,916,7,205
+relation,582,916,12,16
+relation,582,917,10,101
+relation,582,917,11,162
+relation,582,917,24,10
+relation,583,920,19,6
+relation,585,922,15,42
+relation,587,923,2,56
+relation,587,923,21,53
+relation,587,924,2,47
+relation,587,924,3,55
+relation,587,924,5,26
+relation,587,924,8,34
+relation,587,925,7,249
+relation,587,925,12,31
+relation,587,925,13,203
+relation,587,925,14,170
+relation,587,925,17,118
+relation,588,926,3,5
+relation,588,926,6,20
+relation,588,926,9,29
+relation,588,927,10,47
+relation,591,929,3,104
+relation,591,929,6,98
+relation,591,929,9,257
+relation,592,930,1,24
+relation,592,930,4,17
+relation,592,930,9,44
+relation,593,931,3,39
+relation,593,931,5,80
+relation,593,931,6,133
+relation,593,931,11,50
+relation,595,933,9,105
+relation,595,933,10,50
+relation,595,933,11,40
+relation,595,933,16,39
+relation,595,933,17,65
+relation,595,933,18,44
+relation,597,936,4,127
+relation,599,938,8,76
+relation,599,938,11,237
+relation,600,939,0,209
+relation,600,939,11,41
+relation,600,940,4,78
+relation,600,940,7,215
+relation,603,944,5,13
+relation,605,948,6,75
+relation,605,948,9,14
+relation,605,948,14,105
+relation,606,949,0,93
+relation,609,952,5,271
+relation,609,953,8,27
+relation,609,953,15,42
+relation,609,954,0,311
+relation,609,956,4,51
+relation,610,957,2,149
+relation,610,957,5,98
+relation,610,957,7,118
+relation,611,958,9,24
+relation,612,959,1,0
+relation,612,959,2,20
+relation,613,960,4,69
+relation,623,971,7,15
+relation,623,972,9,56
+relation,623,974,9,4
+relation,624,975,6,85
+relation,624,975,13,94
+relation,627,976,15,168
+relation,627,976,18,5
+relation,628,977,6,79
+relation,630,979,6,9
+relation,633,982,2,59
+relation,633,982,3,32
+relation,633,982,6,95
+relation,633,982,10,12
+relation,633,982,14,61
+relation,633,982,19,37
+relation,633,982,22,64
+relation,633,982,23,81
+relation,633,982,24,54
+relation,635,983,0,69
+relation,635,983,6,98
+relation,635,983,7,6
+relation,635,983,8,56
+relation,635,983,12,20
+relation,635,983,15,50
+relation,635,984,1,39
+relation,635,984,2,14
+relation,635,984,6,63
+relation,635,984,8,144
+relation,635,984,9,33
+relation,635,984,12,254
+relation,635,984,14,83
+relation,635,985,0,149
+relation,635,985,3,37
+relation,635,985,4,75
+relation,635,985,5,98
+relation,635,985,6,205
+relation,635,985,10,11
+relation,635,985,11,45
+relation,635,985,13,66
+relation,635,985,14,62
+relation,635,985,15,93
+relation,635,985,16,75
+relation,636,989,27,60
+relation,636,989,28,57
+relation,636,989,29,21
+relation,638,993,6,12
+relation,638,993,19,12
+relation,638,994,21,12
+relation,638,996,8,28
+relation,638,996,9,47
+relation,638,997,4,18
+relation,640,1000,20,69
+relation,640,1001,3,17
+relation,640,1001,10,19
+relation,641,1003,12,133
+relation,657,1019,26,16
+relation,657,1022,4,59
+relation,657,1022,6,64
+relation,662,1025,3,83
+relation,665,1027,2,39
+relation,667,1029,17,96
+relation,671,1032,2,20
+relation,673,1033,1,61
+relation,674,1034,11,76
+relation,675,1035,46,8
+relation,676,1036,44,62
+relation,676,1036,52,23
+relation,676,1036,57,21
+relation,676,1036,73,10
+relation,676,1037,17,34
+relation,676,1037,30,13
+relation,676,1037,52,0
+relation,676,1038,21,21
+relation,676,1038,35,27
+relation,676,1038,78,85
+relation,676,1039,29,31
+relation,676,1039,38,27
+relation,676,1040,39,19
+relation,676,1040,71,23
+relation,676,1041,1,69
+relation,676,1041,27,29
+relation,676,1041,43,24
+relation,676,1042,8,29
+relation,676,1043,7,28
+relation,676,1043,10,52
+relation,676,1043,33,24
+relation,676,1043,95,11
+relation,676,1044,20,108
+relation,676,1044,36,52
+relation,676,1044,53,7
+relation,676,1044,64,2
+relation,676,1044,67,40
+relation,676,1044,70,0
+relation,676,1044,75,23
+relation,676,1045,36,0
+relation,676,1045,42,62
+relation,676,1045,48,23
+relation,676,1045,54,51
+relation,676,1045,63,52
+relation,676,1045,75,31
+relation,676,1046,38,24
+relation,676,1047,30,43
+relation,676,1047,33,34
+relation,676,1047,67,53
+relation,676,1047,69,17
+relation,676,1047,74,18
+relation,676,1048,53,27
+relation,676,1048,56,29
+relation,676,1048,61,13
+relation,676,1048,73,58
+relation,676,1049,57,9
+relation,676,1049,64,50
+relation,676,1051,32,43
+relation,676,1051,57,13
+relation,676,1051,86,35
+relation,676,1052,68,43
+relation,676,1052,76,24
+relation,676,1054,1,37
+relation,676,1054,53,26
+relation,676,1055,13,42
+relation,676,1055,41,12
+relation,676,1055,89,50
+relation,676,1056,42,52
+relation,676,1056,55,15
+relation,676,1057,46,16
+relation,676,1057,90,16
+relation,676,1059,31,19
+relation,676,1059,43,15
+relation,676,1059,52,61
+relation,676,1059,74,50
+relation,676,1059,78,15
+relation,676,1060,5,46
+relation,676,1060,11,41
+relation,676,1060,30,34
+relation,676,1060,59,55
+relation,676,1060,65,26
+relation,676,1060,84,13
+relation,676,1060,89,0
+relation,676,1061,0,66
+relation,676,1062,60,10
+relation,676,1062,81,32
+relation,676,1063,25,10
+relation,676,1063,29,29
+relation,676,1064,43,37
+relation,676,1064,87,13
+relation,676,1065,45,66
+relation,676,1065,63,27
+relation,676,1066,84,24
+relation,676,1067,60,27
+relation,676,1067,88,20
+relation,676,1068,7,25
+relation,676,1068,70,48
+relation,676,1068,90,29
+relation,676,1069,9,8
+relation,676,1069,10,7
+relation,676,1069,23,47
+relation,676,1069,68,35
+relation,676,1070,2,26
+relation,676,1070,9,33
+relation,676,1070,21,8
+relation,676,1070,75,95
+relation,676,1071,1,13
+relation,676,1071,22,19
+relation,676,1073,21,22
+relation,676,1073,42,23
+relation,676,1073,45,9
+stored procedure,120,219,6,12
+stored procedure,120,219,7,109
+stored procedure,121,220,12,19
+stored procedure,130,234,16,106
+stored procedure,137,243,0,152
+stored procedure,137,243,4,15
+stored procedure,137,243,5,207
+stored procedure,137,243,6,7
+stored procedure,137,243,8,16
+stored procedure,137,243,10,24
+stored procedure,137,243,11,13
+stored procedure,137,244,2,152
+stored procedure,137,244,4,36
+stored procedure,137,244,5,37
+stored procedure,137,244,6,106
+stored procedure,137,244,7,0
+stored procedure,137,244,8,31
+stored procedure,137,244,11,166
+stored procedure,137,244,12,19
+stored procedure,138,245,0,166
+stored procedure,138,245,1,17
+stored procedure,138,245,3,2
+stored procedure,138,245,4,32
+stored procedure,138,245,5,134
+stored procedure,138,246,0,44
+stored procedure,138,246,3,25
+stored procedure,140,248,19,90
+stored procedure,140,250,0,50
+stored procedure,140,250,3,19
+stored procedure,140,250,5,5
+stored procedure,142,251,15,25
+stored procedure,142,251,18,66
+stored procedure,142,251,21,20
+stored procedure,142,251,24,10
+stored procedure,154,272,9,44
+stored procedure,156,273,0,113
+select,20,53,0,73
+select,20,53,5,59
+select,25,60,10,93
+select,57,107,9,169
+select,57,107,11,72
+select,57,108,0,29
+select,57,108,1,99
+select,57,108,4,150
+select,66,120,11,66
+select,67,122,6,116
+select,67,122,9,68
+select,68,124,2,96
+select,69,128,4,126
+select,70,131,11,346
+select,73,134,6,37
+select,74,136,5,48
+select,75,137,0,38
+select,75,137,3,115
+select,75,137,4,132
+select,75,137,5,16
+select,75,137,7,30
+select,76,138,7,121
+select,78,141,6,224
+select,78,141,9,39
+select,78,141,10,117
+select,78,146,3,103
+select,78,146,9,200
+select,80,150,7,71
+select,80,150,9,183
+select,84,160,9,31
+select,84,160,21,66
+select,86,162,8,99
+select,88,167,8,47
+select,88,168,0,584
+select,88,168,1,36
+select,88,168,2,82
+select,88,168,6,0
+select,89,169,6,650
+select,89,169,7,46
+select,90,170,0,59
+select,90,170,2,38
+select,90,170,3,40
+select,90,170,7,6
+select,90,170,16,48
+select,90,171,4,0
+select,90,171,8,156
+select,91,172,4,88
+select,91,172,5,42
+select,91,172,10,0
+select,91,173,3,0
+select,91,173,6,0
+select,91,173,9,0
+select,91,173,11,37
+select,91,173,12,15
+select,91,174,4,0
+select,91,174,5,0
+select,91,174,17,0
+select,92,175,16,0
+select,93,176,4,60
+select,93,176,10,53
+select,93,176,11,78
+select,93,177,0,143
+select,93,177,3,6
+select,93,177,7,0
+select,93,177,9,200
+select,94,178,0,4
+select,94,178,2,124
+select,95,179,6,200
+select,96,180,3,0
+select,96,180,8,0
+select,96,181,11,67
+select,97,182,1,40
+select,97,182,10,0
+select,97,183,4,0
+select,97,183,10,0
+select,97,184,0,193
+select,97,184,2,0
+select,97,184,3,66
+select,98,185,14,0
+select,98,185,15,59
+select,98,186,3,53
+select,98,186,4,45
+select,98,186,6,63
+select,98,186,7,68
+select,98,186,10,122
+select,98,186,13,0
+select,98,187,4,0
+select,98,187,10,133
+select,98,187,12,65
+select,98,188,9,98
+select,98,188,12,239
+select,99,189,2,115
+select,99,189,10,72
+select,99,189,18,0
+select,99,190,6,30
+select,99,191,3,174
+select,99,192,4,153
+select,99,192,8,0
+select,100,193,1,8
+select,100,193,3,0
+select,100,193,5,143
+select,103,194,2,0
+select,103,194,3,113
+select,103,194,8,0
+select,103,194,9,279
+select,104,195,1,69
+select,104,195,9,42
+select,107,196,3,6
+select,107,196,5,0
+select,109,198,20,112
+select,111,200,0,277
+select,113,202,0,107
+select,113,202,4,93
+select,115,205,3,201
+select,115,211,16,33
+select,121,220,16,19
+select,121,224,0,83
+select,121,224,4,156
+select,121,224,7,0
+select,121,224,11,58
+select,124,227,9,72
+select,131,235,6,89
+select,135,240,7,15
+select,136,241,6,45
+select,136,241,7,198
+select,137,244,2,36
+select,140,247,0,155
+select,140,249,0,89
+select,157,277,11,30
+select,158,278,5,397
+select,161,284,0,68
+select,161,284,1,54
+select,161,284,5,36
+select,166,295,11,67
+select,166,295,12,57
+select,166,297,16,25
+select,166,297,21,11
+select,167,303,1,77
+select,172,308,9,157
+select,175,311,13,51
+select,179,316,10,113
+select,179,317,3,23
+select,179,317,5,20
+select,179,317,14,130
+select,180,318,9,21
+select,180,318,13,27
+select,180,318,14,7
+select,180,318,15,18
+select,181,319,6,203
+select,181,319,11,21
+select,181,319,12,33
+select,181,319,13,14
+select,182,320,3,18
+select,182,320,4,108
+select,182,320,7,16
+select,182,320,8,17
+select,183,321,5,21
+select,183,321,12,18
+select,183,321,13,162
+select,184,322,16,21
+select,186,323,3,18
+select,186,323,4,181
+select,186,323,6,88
+select,186,323,7,62
+select,186,324,4,21
+select,186,324,10,18
+select,187,326,3,86
+select,187,326,4,71
+select,187,326,5,64
+select,187,326,7,53
+select,187,327,13,141
+select,187,327,14,66
+select,187,328,2,77
+select,187,328,9,81
+select,187,328,10,74
+select,187,328,13,106
+select,187,328,14,25
+select,187,328,16,58
+select,187,329,1,86
+select,187,329,3,183
+select,187,329,5,83
+select,191,330,4,31
+select,191,330,5,4
+select,191,330,6,20
+select,191,330,8,123
+select,191,331,2,134
+select,191,331,5,67
+select,191,331,6,112
+select,191,331,10,49
+select,191,331,14,12
+select,191,332,2,43
+select,191,332,10,75
+select,191,334,8,80
+select,218,371,7,43
+select,218,371,8,55
+select,219,372,1,28
+select,219,373,1,39
+select,219,373,13,18
+select,219,374,2,31
+select,221,376,3,19
+select,221,376,9,256
+select,232,398,19,21
+select,236,404,1,73
+select,236,404,9,116
+select,236,405,8,158
+select,237,412,13,45
+select,237,412,16,24
+select,239,417,1,136
+select,239,419,12,103
+select,244,427,7,143
+select,250,432,1,93
+select,250,432,8,149
+select,250,432,10,18
+select,250,432,11,5
+select,250,432,12,31
+select,250,432,13,31
+select,250,432,15,26
+select,251,433,1,109
+select,251,433,2,53
+select,251,433,3,82
+select,251,433,6,98
+select,251,433,13,98
+select,251,433,14,33
+select,251,433,15,46
+select,251,433,16,0
+select,251,433,17,50
+select,251,434,0,24
+select,251,434,1,4
+select,251,434,5,96
+select,253,435,0,36
+select,253,435,1,22
+select,253,435,2,26
+select,253,435,8,55
+select,253,435,12,90
+select,254,437,15,30
+select,254,437,19,117
+select,258,440,0,4
+select,258,440,2,108
+select,258,441,3,90
+select,258,441,7,104
+select,258,441,8,64
+select,258,441,9,53
+select,258,441,10,68
+select,258,441,11,48
+select,259,442,10,154
+select,259,443,4,56
+select,259,443,7,4
+select,259,443,9,131
+select,259,443,12,15
+select,259,443,13,25
+select,259,443,14,19
+select,259,443,15,15
+select,259,443,16,24
+select,259,444,12,78
+select,261,445,7,42
+select,261,445,16,101
+select,261,446,0,46
+select,261,446,2,10
+select,261,446,3,57
+select,261,446,4,76
+select,261,446,11,35
+select,261,446,12,20
+select,261,446,13,73
+select,261,446,14,14
+select,261,446,15,79
+select,261,446,16,12
+select,261,446,17,63
+select,261,446,20,14
+select,262,447,3,52
+select,262,447,5,0
+select,262,447,8,4
+select,262,447,11,27
+select,262,447,12,7
+select,262,447,13,71
+select,262,447,16,63
+select,262,447,18,4
+select,262,447,20,82
+select,263,448,6,43
+select,263,448,8,17
+select,263,449,0,32
+select,263,449,12,26
+select,263,450,14,40
+select,263,451,14,63
+select,264,452,1,59
+select,264,452,7,12
+select,264,452,10,70
+select,265,453,5,178
+select,266,454,1,26
+select,279,473,0,79
+select,279,473,2,16
+select,279,473,10,17
+select,279,474,1,110
+select,281,475,5,9
+select,281,475,6,41
+select,281,475,7,0
+select,281,475,9,100
+select,281,475,11,41
+select,281,475,14,166
+select,281,475,15,23
+select,281,475,16,78
+select,281,475,17,39
+select,283,476,0,25
+select,283,476,2,37
+select,283,476,3,58
+select,283,476,4,58
+select,283,476,5,30
+select,283,476,10,94
+select,283,476,13,97
+select,283,476,14,54
+select,283,476,15,116
+select,283,476,16,224
+select,284,477,11,11
+select,284,477,17,57
+select,285,478,0,43
+select,285,478,4,13
+select,285,478,11,13
+select,285,478,12,14
+select,285,478,14,140
+select,286,479,0,79
+select,286,479,2,38
+select,286,479,4,42
+select,286,479,6,18
+select,286,479,7,63
+select,286,479,8,65
+select,286,479,11,108
+select,286,479,13,43
+select,286,479,14,8
+select,287,480,0,268
+select,287,480,2,165
+select,287,480,5,52
+select,287,480,10,7
+select,287,480,12,117
+select,287,480,16,20
+select,287,480,17,26
+select,287,481,9,20
+select,287,481,12,76
+select,287,481,13,35
+select,287,481,16,33
+select,291,486,15,54
+select,291,487,6,62
+select,300,502,17,76
+select,302,504,0,4
+select,302,505,4,85
+select,302,505,8,116
+select,302,506,15,24
+select,302,507,0,71
+select,302,507,1,29
+select,302,507,2,62
+select,302,507,4,37
+select,302,507,5,73
+select,302,508,6,197
+select,302,508,8,24
+select,302,508,10,23
+select,302,508,11,28
+select,303,509,6,94
+select,303,509,30,41
+select,305,511,12,53
+select,306,512,8,278
+select,308,514,0,4
+select,308,514,4,21
+select,308,514,6,0
+select,308,515,4,17
+select,308,515,8,4
+select,308,515,12,43
+select,308,516,4,88
+select,308,517,8,36
+select,308,517,11,201
+select,308,518,15,73
+select,308,518,17,85
+select,311,519,13,72
+select,312,520,5,202
+select,312,520,12,59
+select,313,521,6,98
+select,314,522,2,152
+select,314,522,4,105
+select,314,522,5,117
+select,314,522,6,38
+select,314,522,9,61
+select,314,522,10,12
+select,314,522,11,80
+select,314,522,12,35
+select,316,523,7,92
+select,316,524,2,7
+select,316,524,3,17
+select,316,524,4,14
+select,316,525,1,29
+select,316,525,2,32
+select,316,525,9,0
+select,316,526,0,4
+select,316,526,6,96
+select,316,526,7,20
+select,317,527,0,225
+select,317,527,3,26
+select,317,527,6,122
+select,317,527,7,50
+select,317,527,9,30
+select,317,528,3,252
+select,317,528,4,68
+select,317,528,11,222
+select,317,528,12,177
+select,317,528,13,107
+select,317,528,15,104
+select,317,528,16,31
+select,317,528,18,4
+select,317,529,2,80
+select,317,529,4,115
+select,317,529,5,69
+select,317,529,6,25
+select,317,529,16,110
+select,317,530,4,103
+select,317,530,11,57
+select,317,530,13,89
+select,317,531,4,36
+select,317,531,8,65
+select,317,531,9,153
+select,317,532,2,23
+select,317,532,3,3
+select,317,532,4,3
+select,317,532,5,24
+select,317,532,6,89
+select,317,532,7,65
+select,317,532,8,50
+select,317,532,9,9
+select,317,533,0,61
+select,317,533,6,113
+select,317,533,9,93
+select,317,533,10,58
+select,317,533,11,65
+select,318,535,3,126
+select,318,535,6,79
+select,318,535,7,5
+select,318,535,9,4
+select,318,535,10,19
+select,318,536,0,15
+select,318,536,6,28
+select,318,536,8,78
+select,318,536,9,77
+select,318,536,10,39
+select,320,538,1,97
+select,320,538,4,91
+select,320,538,8,170
+select,320,539,0,65
+select,320,539,8,65
+select,320,539,11,207
+select,320,539,12,201
+select,320,540,4,51
+select,320,542,7,98
+select,320,542,13,75
+select,320,542,20,150
+select,320,543,2,59
+select,320,543,13,34
+select,320,543,14,190
+select,320,543,15,9
+select,320,543,16,44
+select,320,543,17,9
+select,320,543,18,43
+select,320,543,20,9
+select,320,544,0,44
+select,320,544,1,179
+select,320,544,5,33
+select,320,544,17,41
+select,320,545,13,41
+select,320,545,23,41
+select,320,546,16,44
+select,320,546,17,49
+select,320,547,1,0
+select,320,547,11,122
+select,320,547,13,215
+select,320,547,19,35
+select,322,548,10,35
+select,322,548,14,33
+select,322,548,20,33
+select,322,549,4,33
+select,322,549,17,33
+select,323,550,5,118
+select,323,550,6,71
+select,323,550,7,153
+select,326,553,6,43
+select,336,565,8,44
+select,340,569,7,178
+select,340,569,11,92
+select,340,570,1,41
+select,340,570,3,97
+select,341,571,3,30
+select,341,571,14,153
+select,346,579,2,37
+select,361,600,2,51
+select,368,617,16,250
+select,410,684,7,69
+select,410,685,19,46
+select,410,686,0,40
+select,410,686,1,5
+select,410,686,2,91
+select,410,686,6,44
+select,411,687,10,121
+select,411,687,11,29
+select,411,688,0,38
+select,411,688,9,35
+select,411,688,13,22
+select,411,688,14,12
+select,412,689,6,104
+select,412,689,11,132
+select,412,690,0,40
+select,412,690,3,35
+select,412,690,9,132
+select,412,690,21,67
+select,413,691,0,219
+select,413,691,4,32
+select,413,691,5,232
+select,413,691,6,49
+select,413,691,11,44
+select,413,692,0,81
+select,413,692,1,181
+select,413,692,2,70
+select,413,692,3,33
+select,413,692,6,62
+select,413,692,7,44
+select,413,692,11,103
+select,413,692,18,68
+select,414,693,1,28
+select,414,693,2,134
+select,414,693,9,173
+select,414,693,10,193
+select,414,693,11,67
+select,414,693,16,240
+select,416,694,9,112
+select,417,695,0,132
+select,417,695,3,18
+select,417,695,6,15
+select,417,695,7,104
+select,417,695,10,73
+select,417,696,10,81
+select,417,696,13,48
+select,417,697,7,44
+select,417,697,12,23
+select,419,698,1,100
+select,419,698,3,26
+select,419,698,11,35
+select,419,698,14,58
+select,420,700,8,55
+select,420,700,9,22
+select,420,700,11,16
+select,420,700,13,127
+select,420,700,17,12
+select,421,701,11,24
+select,423,702,3,73
+select,423,702,10,78
+select,425,704,11,86
+select,425,704,12,5
+select,428,707,3,111
+select,430,709,2,81
+select,430,709,6,225
+select,430,709,7,52
+select,430,709,13,29
+select,431,710,3,67
+select,431,710,4,157
+select,431,710,8,40
+select,431,710,11,38
+select,431,710,13,28
+select,431,710,15,43
+select,432,711,2,102
+select,438,719,3,65
+select,440,724,6,47
+select,440,724,7,23
+select,441,725,0,43
+select,441,725,7,61
+select,443,729,22,58
+select,443,730,9,42
+select,443,730,10,32
+select,443,730,16,103
+select,443,731,15,139
+select,443,731,16,22
+select,443,731,17,10
+select,443,731,18,120
+select,443,732,0,107
+select,443,732,1,18
+select,443,732,3,159
+select,443,732,4,115
+select,443,732,7,214
+select,443,733,3,136
+select,443,734,7,6
+select,443,734,9,93
+select,443,734,12,60
+select,444,735,2,35
+select,444,735,5,70
+select,444,735,14,152
+select,445,736,0,10
+select,445,736,1,20
+select,445,736,3,0
+select,445,736,4,0
+select,445,736,6,5
+select,445,736,14,109
+select,445,737,6,94
+select,445,737,8,138
+select,445,737,9,97
+select,445,737,12,38
+select,446,738,4,116
+select,446,738,6,46
+select,446,738,7,104
+select,446,738,12,118
+select,446,738,13,146
+select,447,739,5,55
+select,447,739,7,36
+select,447,739,9,114
+select,447,739,11,74
+select,453,745,4,10
+select,455,747,9,73
+select,456,751,12,79
+select,456,751,13,100
+select,456,752,0,17
+select,456,753,1,24
+select,456,753,9,53
+select,457,755,16,41
+select,457,755,27,29
+select,465,762,4,53
+select,465,762,6,61
+select,465,762,7,94
+select,465,762,8,9
+select,467,763,11,80
+select,467,763,12,43
+select,476,771,11,155
+select,482,774,11,121
+select,484,776,6,285
+select,484,776,7,30
+select,484,776,9,7
+select,484,779,20,108
+select,485,780,0,108
+select,485,780,2,103
+select,485,780,20,22
+select,487,781,1,115
+select,487,781,7,140
+select,498,799,0,36
+select,502,809,10,34
+select,503,810,1,0
+select,503,810,5,0
+select,503,810,10,4
+select,508,813,14,0
+select,509,814,1,124
+select,510,815,7,3
+select,510,815,13,258
+select,511,816,4,129
+select,522,826,5,0
+select,522,826,9,84
+select,527,835,2,31
+select,529,837,9,164
+select,530,838,0,83
+select,530,838,7,65
+select,530,838,9,7
+select,530,838,10,88
+select,530,838,12,7
+select,530,838,16,108
+select,536,844,0,153
+select,536,844,2,58
+select,536,844,4,44
+select,536,844,12,71
+select,536,844,13,67
+select,536,844,14,75
+select,536,845,0,90
+select,536,847,6,389
+select,537,848,6,212
+select,539,851,5,50
+select,539,851,13,147
+select,539,852,0,44
+select,539,852,3,152
+select,539,852,7,26
+select,546,860,12,207
+select,546,860,19,102
+select,546,861,3,20
+select,546,861,11,47
+select,549,867,0,36
+select,549,867,1,72
+select,549,867,2,54
+select,550,868,9,173
+select,550,868,12,128
+select,553,874,9,192
+select,553,874,17,192
+select,558,885,10,101
+select,558,885,11,38
+select,558,886,11,72
+select,558,886,12,62
+select,559,887,0,6
+select,559,887,7,30
+select,559,888,1,46
+select,560,890,0,77
+select,560,890,7,47
+select,560,890,8,36
+select,560,891,9,19
+select,563,893,4,109
+select,563,893,11,189
+select,564,894,1,149
+select,564,894,11,108
+select,567,898,17,93
+select,568,899,10,156
+select,568,899,13,36
+select,568,899,14,82
+select,573,903,4,181
+select,573,903,6,28
+select,576,905,1,109
+select,576,905,2,113
+select,576,905,4,36
+select,576,906,2,104
+select,578,907,9,57
+select,578,909,14,34
+select,582,913,17,15
+select,582,914,23,0
+select,582,916,4,202
+select,582,916,5,0
+select,582,916,7,73
+select,582,916,9,66
+select,582,916,15,66
+select,584,921,10,8
+select,587,925,13,45
+select,588,926,7,103
+select,588,926,11,57
+select,599,938,7,77
+select,599,938,8,8
+select,599,938,9,27
+select,599,938,10,43
+select,599,938,13,56
+select,599,938,15,10
+select,599,938,16,6
+select,600,939,1,6
+select,600,939,2,13
+select,600,939,4,6
+select,600,939,5,71
+select,600,939,7,16
+select,600,939,11,193
+select,600,940,0,4
+select,600,940,11,23
+select,600,940,12,18
+select,600,940,13,232
+select,600,941,0,49
+select,605,947,2,16
+select,605,947,3,11
+select,605,947,8,44
+select,606,950,6,23
+select,606,950,7,8
+select,606,950,8,8
+select,628,978,13,37
+select,630,979,1,51
+select,631,980,0,222
+select,635,984,15,0
+select,635,985,0,0
+select,635,985,4,110
+select,635,986,5,478
+select,638,997,14,0
+select,642,1004,0,92
+select,642,1004,1,85
+select,642,1004,3,70
+select,642,1004,4,33
+select,642,1004,5,38
+select,642,1004,6,137
+select,665,1027,6,117
+select,675,1035,22,15
+select,676,1041,27,6
+select,676,1043,46,31
+select,676,1043,74,65
+select,676,1043,86,9
+select,676,1045,36,21
+select,676,1049,50,42
+select,676,1052,47,15
+select,676,1055,67,83
+select,676,1058,55,10
+select,676,1062,29,38
+select,676,1064,27,25
+select,676,1067,54,12
+select,676,1067,60,12
+select,676,1070,49,61
+sql/psm,120,219,7,128
+sql/psm,138,246,1,40
+sql/psm,138,246,3,3
+sql/psm,138,246,4,24
+sql/psm,138,246,5,34
+sql/psm,138,246,8,14
+sql/psm,140,247,0,372
+sql/psm,140,247,6,2
+sql/psm,140,247,9,38
+query optimization,18,50,10,12
+query optimization,20,54,4,11
+query optimization,88,168,3,75
+query optimization,245,428,4,56
+query optimization,245,428,5,15
+query optimization,245,428,7,181
+query optimization,255,438,1,33
+query optimization,255,438,13,21
+query optimization,255,438,17,28
+query optimization,256,439,5,60
+query optimization,263,451,20,40
+query optimization,264,452,2,72
+query optimization,264,452,16,23
+query optimization,264,452,21,62
+query optimization,305,511,14,119
+query optimization,306,512,2,84
+query optimization,307,513,5,550
+query optimization,317,533,9,212
+query optimization,320,541,5,25
+query optimization,320,541,10,104
+query optimization,320,541,12,133
+query optimization,320,542,12,27
+query optimization,320,543,0,116
+query optimization,323,550,0,35
+query optimization,323,550,2,17
+query optimization,323,550,8,24
+query optimization,469,767,6,14
+query optimization,487,781,7,19
+query optimization,633,982,12,2
+query optimization,676,1049,37,21
+query optimization,676,1051,24,9
+query optimization,676,1054,64,0
+query optimization,676,1055,19,0
+query optimization,676,1067,65,9
+class diagram,24,59,6,311
+class diagram,44,82,3,0
+class diagram,44,82,13,10
+class diagram,44,82,14,31
+set operations,76,138,8,44
+set operations,84,160,14,31
+set operations,92,175,7,32
+set operations,92,175,13,26
+set operations,255,438,5,24
+set operations,279,473,7,16
+set operations,300,502,13,9
+set operations,302,507,22,32
+set operations,302,507,23,35
+data type,9,41,4,112
+data type,121,220,3,250
+data type,121,221,11,11
+data type,131,236,9,22
+data type,131,236,10,48
+data type,158,280,10,380
+data type,216,367,4,163
+data type,499,804,2,19
+data type,499,804,3,23
+data type,499,804,9,31
+data type,500,805,0,105
+data type,500,805,5,61
+data type,501,806,8,238
+data type,501,807,4,11
+data type,501,807,11,34
+data type,501,807,15,50
+data type,502,808,0,106
+data type,502,808,7,50
+data type,504,811,3,134
+data type,504,811,5,86
+data type,504,811,8,16
+data type,504,811,15,60
+data type,507,812,2,33
+data type,507,812,11,214
+data type,507,812,18,136
+data type,511,817,0,70
+data type,511,817,2,13
+data type,511,817,3,56
+data type,511,817,4,93
+data type,511,817,7,39
+data type,511,817,12,141
+data type,511,817,14,72
+data type,513,818,5,157
+data type,514,819,0,90
+data type,514,819,1,19
+data type,521,824,8,55
+data type,523,827,2,114
+data type,524,829,4,65
+data type,533,840,2,250
+data type,534,841,4,190
+data type,534,841,5,38
+data type,534,841,9,89
+data type,534,841,11,40
+data type,534,841,12,32
+data type,534,841,21,37
+data type,536,842,5,119
+data type,536,844,18,48
+data type,556,882,12,28
+data type,584,921,1,12
+data type,584,921,2,6
+data type,611,958,9,96
+data type,611,958,10,88
+data type,611,958,11,99
+data type,623,974,1,88
+data type,623,974,13,110
+data type,639,999,1,10
+data type,665,1027,12,24
+data type,676,1058,49,95
+transaction processing,348,582,7,36
+transaction processing,438,717,6,4
+transaction processing,438,717,9,43
+transaction processing,438,717,16,80
+transaction processing,471,768,15,29
+transaction processing,657,1022,8,40
+transaction processing,658,1023,2,14
+transaction processing,658,1023,3,7
+transaction processing,658,1023,4,2
+transaction processing,658,1023,6,169
+transaction processing,658,1023,9,209
+transaction processing,658,1023,10,4
+transaction processing,660,1024,0,83
+transaction processing,671,1031,0,106
+transaction processing,676,1039,62,15
+transaction processing,676,1051,53,42
+transaction processing,676,1061,27,77
+database security,443,727,4,18
+database security,443,727,6,282
+database security,443,727,8,21
+database security,676,1042,36,0
+delete,18,50,13,99
+delete,30,69,10,84
+delete,45,88,29,31
+delete,46,91,7,119
+delete,49,96,7,7
+delete,49,96,8,7
+delete,52,101,3,17
+delete,52,101,4,56
+delete,53,103,9,92
+delete,54,104,8,42
+delete,54,104,9,19
+delete,54,104,11,115
+delete,55,105,5,51
+delete,55,105,6,56
+delete,55,105,7,62
+delete,55,105,8,52
+delete,55,105,10,21
+delete,55,105,14,48
+delete,55,105,15,70
+delete,59,111,4,121
+delete,61,114,0,207
+delete,61,114,1,132
+delete,61,114,2,14
+delete,63,116,2,30
+delete,63,116,4,176
+delete,63,116,5,298
+delete,63,116,10,89
+delete,64,117,6,37
+delete,66,119,6,440
+delete,66,120,0,162
+delete,66,120,2,131
+delete,66,120,7,458
+delete,67,122,10,7
+delete,68,124,2,405
+delete,69,125,13,3
+delete,69,125,16,120
+delete,69,126,2,32
+delete,69,130,4,75
+delete,69,130,9,29
+delete,88,165,13,104
+delete,88,165,15,35
+delete,90,170,15,3
+delete,90,170,16,3
+delete,113,202,10,11
+delete,115,206,3,163
+delete,115,213,0,69
+delete,115,213,6,53
+delete,121,220,1,70
+delete,121,224,3,11
+delete,123,226,0,18
+delete,123,226,1,285
+delete,126,228,4,107
+delete,131,235,4,159
+delete,140,248,10,22
+delete,144,253,12,49
+delete,165,294,16,68
+delete,166,300,20,90
+delete,166,300,43,23
+delete,173,309,15,69
+delete,173,309,20,85
+delete,176,313,9,79
+delete,179,317,9,2
+delete,181,319,2,20
+delete,181,319,4,80
+delete,181,319,6,58
+delete,182,320,14,0
+delete,182,320,15,85
+delete,182,320,17,31
+delete,182,320,18,17
+delete,182,320,21,117
+delete,184,322,1,81
+delete,186,323,9,126
+delete,186,324,12,35
+delete,186,325,0,473
+delete,187,326,8,48
+delete,187,326,10,223
+delete,187,326,14,12
+delete,187,326,16,12
+delete,191,330,11,94
+delete,191,333,11,122
+delete,191,334,8,105
+delete,193,336,10,24
+delete,206,351,3,95
+delete,211,358,11,87
+delete,211,358,12,10
+delete,212,359,8,19
+delete,213,361,18,132
+delete,215,362,2,109
+delete,215,362,10,115
+delete,215,363,4,145
+delete,215,363,6,50
+delete,215,363,7,115
+delete,216,364,2,37
+delete,219,372,2,54
+delete,219,372,3,56
+delete,219,372,9,175
+delete,221,375,3,76
+delete,221,376,6,16
+delete,221,376,10,217
+delete,223,378,4,100
+delete,223,378,9,101
+delete,223,378,19,114
+delete,224,379,4,244
+delete,225,386,2,5
+delete,225,386,3,131
+delete,225,386,8,197
+delete,225,386,9,38
+delete,225,386,10,19
+delete,225,386,12,65
+delete,226,387,0,38
+delete,226,388,6,69
+delete,226,388,8,60
+delete,228,389,9,156
+delete,228,389,12,11
+delete,229,391,2,47
+delete,229,391,15,57
+delete,229,391,19,37
+delete,229,393,1,91
+delete,229,393,2,34
+delete,229,393,4,56
+delete,229,393,5,26
+delete,232,398,0,49
+delete,232,398,8,50
+delete,232,400,1,3
+delete,233,401,1,168
+delete,233,401,2,117
+delete,236,404,3,39
+delete,236,404,5,39
+delete,236,405,4,70
+delete,236,405,5,97
+delete,236,405,21,3
+delete,236,406,8,67
+delete,236,407,2,124
+delete,237,412,5,4
+delete,237,412,6,7
+delete,237,412,11,55
+delete,237,413,1,130
+delete,239,420,3,25
+delete,239,420,9,30
+delete,243,422,8,20
+delete,331,557,9,29
+delete,342,572,16,14
+delete,350,584,21,192
+delete,357,594,3,70
+delete,358,596,15,27
+delete,365,612,7,3
+delete,365,612,9,3
+delete,365,612,11,3
+delete,376,630,8,121
+delete,382,639,7,37
+delete,383,641,2,50
+delete,384,642,1,34
+delete,384,642,13,211
+delete,397,660,0,162
+delete,399,661,2,35
+delete,400,663,2,28
+delete,400,663,4,28
+delete,404,676,2,26
+delete,410,686,3,30
+delete,411,688,6,175
+delete,417,696,6,16
+delete,423,702,15,98
+delete,443,730,3,4
+delete,443,730,11,65
+delete,443,731,15,87
+delete,456,752,0,282
+delete,456,753,1,48
+delete,521,823,13,92
+delete,521,824,6,149
+delete,523,827,5,173
+delete,523,828,10,28
+delete,524,829,8,482
+delete,524,829,11,78
+delete,527,833,13,213
+delete,551,870,11,162
+delete,551,871,2,63
+delete,551,871,3,34
+delete,567,898,8,68
+delete,567,898,9,15
+delete,567,898,10,130
+delete,578,907,7,227
+delete,578,907,20,68
+delete,578,908,1,140
+delete,578,908,3,128
+delete,578,908,10,14
+delete,578,908,11,8
+delete,578,909,2,17
+delete,578,909,8,14
+delete,578,909,10,102
+delete,579,911,8,27
+delete,579,911,9,14
+delete,579,911,10,59
+delete,604,946,20,98
+delete,650,1014,15,18
+delete,651,1015,15,3
+delete,657,1020,16,62
+candidate key,27,63,16,29
+candidate key,50,98,15,91
+candidate key,50,98,16,93
+candidate key,51,99,14,28
+candidate key,51,99,20,25
+candidate key,51,99,25,134
+candidate key,52,100,1,21
+candidate key,59,110,6,81
+candidate key,59,112,1,16
+candidate key,62,115,7,186
+candidate key,68,124,6,342
+candidate key,69,129,21,48
+candidate key,69,129,24,87
+candidate key,175,312,5,89
+candidate key,177,314,4,17
+candidate key,180,318,9,169
+candidate key,180,318,14,29
+candidate key,187,328,15,82
+candidate key,224,381,6,71
+candidate key,233,401,12,70
+candidate key,243,423,3,29
+candidate key,243,423,7,126
+candidate key,264,452,27,21
+candidate key,302,508,24,21
+candidate key,303,509,7,25
+candidate key,320,544,2,25
+candidate key,390,649,1,108
+candidate key,392,650,6,22
+candidate key,404,678,16,211
+candidate key,404,679,13,131
+candidate key,413,692,16,103
+candidate key,414,693,11,141
+candidate key,428,706,3,6
+candidate key,428,706,4,152
+candidate key,431,710,11,62
+candidate key,438,722,15,63
+candidate key,676,1059,31,0
+multiversion concurrency control,348,583,9,11
+multiversion concurrency control,363,606,3,7
+multiversion concurrency control,363,608,6,28
+multiversion concurrency control,365,612,27,19
+multiversion concurrency control,499,803,22,0
+multiversion concurrency control,676,1039,53,0
+object database,7,39,10,243
+object database,527,835,1,45
+object database,640,1001,16,74
+object database,676,1036,9,5
+object database,676,1042,39,4
+join,8,40,6,53
+join,27,63,3,37
+join,39,77,13,89
+join,44,85,7,43
+join,44,85,11,78
+join,44,86,14,74
+join,68,124,1,531
+join,73,134,6,90
+join,78,141,4,6
+join,78,141,5,11
+join,78,141,6,85
+join,78,141,7,19
+join,78,141,8,12
+join,78,141,9,4
+join,78,141,12,263
+join,78,141,13,26
+join,78,142,3,19
+join,78,142,4,4
+join,78,142,5,4
+join,78,142,6,35
+join,78,142,10,15
+join,78,142,11,11
+join,78,143,0,46
+join,78,143,4,261
+join,78,145,1,495
+join,78,146,3,55
+join,78,146,12,60
+join,78,146,14,9
+join,78,146,15,9
+join,79,147,7,34
+join,79,147,11,66
+join,79,147,12,114
+join,79,147,13,23
+join,79,147,14,31
+join,80,148,1,8
+join,80,148,2,12
+join,80,150,2,111
+join,80,150,7,0
+join,84,160,19,51
+join,84,160,20,12
+join,84,160,21,24
+join,84,160,24,7
+join,88,164,12,246
+join,90,171,7,59
+join,91,172,10,100
+join,91,173,3,133
+join,91,173,4,4
+join,91,173,9,66
+join,107,196,7,37
+join,109,198,10,12
+join,109,198,11,13
+join,109,198,12,76
+join,109,198,13,12
+join,109,198,14,49
+join,109,198,15,16
+join,109,198,16,17
+join,109,198,17,16
+join,109,198,18,103
+join,109,198,19,31
+join,109,198,20,166
+join,110,199,0,39
+join,110,199,1,174
+join,115,212,0,34
+join,115,212,1,25
+join,115,212,2,24
+join,115,212,3,24
+join,115,212,4,25
+join,115,212,5,24
+join,186,325,10,116
+join,236,405,10,104
+join,244,427,7,275
+join,250,432,1,106
+join,254,436,11,7
+join,254,436,12,104
+join,254,436,13,13
+join,254,436,16,43
+join,254,437,3,46
+join,254,437,4,26
+join,254,437,5,13
+join,254,437,8,48
+join,254,437,10,36
+join,254,437,11,6
+join,254,437,14,24
+join,254,437,15,142
+join,254,437,16,58
+join,254,437,18,21
+join,254,437,19,46
+join,255,438,0,19
+join,258,440,0,389
+join,258,440,2,60
+join,258,441,0,148
+join,258,441,3,52
+join,258,441,12,49
+join,258,441,13,23
+join,259,442,0,20
+join,259,442,1,70
+join,259,442,2,163
+join,259,442,4,86
+join,259,442,5,66
+join,259,443,6,16
+join,259,443,9,93
+join,259,443,12,28
+join,259,443,13,83
+join,259,443,14,122
+join,259,443,15,111
+join,259,443,16,189
+join,259,444,0,42
+join,259,444,5,19
+join,259,444,12,133
+join,261,445,0,44
+join,261,445,1,72
+join,261,445,2,60
+join,261,445,3,16
+join,261,445,5,94
+join,261,445,10,88
+join,261,445,11,16
+join,261,446,2,155
+join,261,446,3,36
+join,261,446,5,7
+join,261,446,11,67
+join,261,446,12,41
+join,261,446,13,228
+join,261,446,14,34
+join,261,446,19,27
+join,262,447,12,44
+join,263,448,8,68
+join,263,448,9,2
+join,263,449,0,121
+join,263,449,1,113
+join,263,449,2,158
+join,263,449,3,167
+join,263,449,4,30
+join,263,449,5,80
+join,263,449,6,42
+join,263,449,7,73
+join,263,449,11,58
+join,263,449,12,77
+join,263,450,1,137
+join,263,450,3,95
+join,263,450,5,54
+join,263,450,8,333
+join,263,450,11,155
+join,263,451,0,59
+join,263,451,1,25
+join,263,451,18,63
+join,263,451,19,8
+join,264,452,1,85
+join,264,452,10,97
+join,264,452,23,52
+join,266,454,5,99
+join,267,455,5,78
+join,272,464,9,82
+join,279,473,5,29
+join,279,473,10,73
+join,279,474,3,73
+join,279,474,4,21
+join,287,480,1,47
+join,287,480,2,78
+join,287,480,3,66
+join,291,486,15,9
+join,291,487,0,111
+join,291,487,1,97
+join,291,487,2,44
+join,291,487,3,64
+join,291,487,4,91
+join,291,487,5,74
+join,291,487,6,11
+join,291,487,7,85
+join,291,487,8,0
+join,291,487,9,64
+join,291,487,10,182
+join,291,487,11,106
+join,291,487,12,110
+join,291,487,13,19
+join,291,487,15,36
+join,291,487,16,54
+join,291,487,17,15
+join,291,487,18,25
+join,291,488,2,20
+join,291,488,10,118
+join,291,488,11,87
+join,291,488,15,79
+join,291,488,16,34
+join,291,488,20,97
+join,291,488,25,226
+join,292,489,0,52
+join,292,489,10,79
+join,292,489,12,301
+join,292,490,0,15
+join,292,490,2,239
+join,292,490,17,36
+join,292,491,0,51
+join,292,491,1,84
+join,292,491,2,111
+join,292,491,3,30
+join,292,492,16,154
+join,292,492,17,18
+join,292,492,18,62
+join,292,492,19,267
+join,292,492,20,140
+join,292,493,3,125
+join,292,493,5,171
+join,292,493,6,88
+join,292,493,8,108
+join,292,493,10,15
+join,292,493,13,25
+join,292,493,14,87
+join,293,494,0,22
+join,293,494,2,432
+join,293,495,3,111
+join,293,495,5,21
+join,293,495,8,19
+join,293,495,10,89
+join,293,495,11,13
+join,293,495,12,135
+join,293,495,20,49
+join,293,495,23,91
+join,293,495,24,44
+join,293,495,25,76
+join,293,496,4,86
+join,293,496,6,99
+join,293,496,8,41
+join,293,496,10,381
+join,293,496,14,48
+join,293,497,0,265
+join,293,497,1,12
+join,293,497,2,18
+join,293,497,3,57
+join,293,497,5,54
+join,294,498,0,24
+join,294,498,1,76
+join,294,498,2,30
+join,294,498,7,15
+join,294,498,8,58
+join,294,498,9,38
+join,294,498,10,647
+join,295,499,5,16
+join,295,499,10,139
+join,295,499,12,9
+join,295,499,13,75
+join,295,499,14,36
+join,295,499,15,4
+join,295,499,18,4
+join,295,499,23,149
+join,298,500,1,60
+join,298,500,2,41
+join,298,500,5,230
+join,298,500,8,36
+join,298,500,9,71
+join,298,500,11,141
+join,298,500,12,45
+join,298,500,13,12
+join,298,500,15,132
+join,298,501,0,66
+join,298,501,1,70
+join,298,501,2,140
+join,298,501,3,110
+join,298,501,4,11
+join,298,501,5,68
+join,298,501,7,87
+join,298,501,8,15
+join,298,501,9,32
+join,298,501,11,43
+join,300,502,0,41
+join,300,502,3,17
+join,300,502,4,20
+join,300,502,5,12
+join,300,502,6,52
+join,300,502,7,7
+join,300,502,8,12
+join,300,502,9,89
+join,300,502,10,32
+join,300,502,11,75
+join,300,502,12,128
+join,300,502,13,220
+join,302,506,3,94
+join,302,506,10,26
+join,302,506,12,31
+join,302,506,13,67
+join,302,507,9,30
+join,302,507,13,47
+join,302,507,14,43
+join,302,507,15,39
+join,302,507,16,66
+join,302,507,17,130
+join,302,507,18,51
+join,302,507,19,45
+join,302,507,21,49
+join,302,507,22,80
+join,302,508,6,224
+join,302,508,12,24
+join,302,508,13,37
+join,302,508,14,10
+join,302,508,15,17
+join,302,508,16,31
+join,302,508,17,31
+join,302,508,21,87
+join,305,510,2,27
+join,305,510,9,23
+join,305,510,11,23
+join,305,510,13,23
+join,305,510,15,23
+join,305,510,17,50
+join,305,510,19,28
+join,305,510,21,27
+join,305,510,22,137
+join,305,510,26,136
+join,305,510,30,77
+join,305,510,31,33
+join,305,510,32,141
+join,305,510,33,33
+join,305,511,0,171
+join,305,511,1,32
+join,305,511,5,68
+join,305,511,6,45
+join,305,511,7,38
+join,305,511,8,60
+join,305,511,9,23
+join,305,511,10,183
+join,305,511,11,22
+join,305,511,19,61
+join,306,512,8,290
+join,314,522,4,59
+join,314,522,10,164
+join,316,523,0,242
+join,316,523,1,26
+join,316,523,2,37
+join,316,523,4,82
+join,316,523,5,35
+join,316,523,7,0
+join,316,523,8,98
+join,316,523,9,82
+join,316,524,0,126
+join,316,524,2,30
+join,316,524,3,285
+join,316,525,2,63
+join,316,525,4,209
+join,316,525,6,177
+join,316,526,2,197
+join,316,526,6,183
+join,317,530,5,31
+join,317,530,16,108
+join,317,531,1,51
+join,317,531,7,148
+join,317,531,8,218
+join,317,531,9,73
+join,317,531,10,85
+join,317,532,2,146
+join,317,532,3,30
+join,317,532,4,91
+join,317,532,5,292
+join,317,532,6,80
+join,317,532,7,101
+join,317,532,8,94
+join,317,532,9,56
+join,317,532,10,109
+join,317,532,11,100
+join,317,532,12,10
+join,317,532,13,20
+join,317,532,14,13
+join,317,532,15,22
+join,317,532,16,102
+join,317,532,17,23
+join,317,532,18,70
+join,317,533,0,95
+join,317,533,1,29
+join,317,534,1,81
+join,317,534,5,59
+join,318,535,7,378
+join,318,535,11,98
+join,318,535,12,14
+join,318,535,13,35
+join,318,535,14,160
+join,318,535,15,13
+join,318,535,16,37
+join,318,535,17,82
+join,318,535,19,33
+join,318,535,21,76
+join,318,536,11,95
+join,318,536,12,41
+join,319,537,1,38
+join,319,537,3,106
+join,319,537,5,17
+join,319,537,9,65
+join,319,537,10,93
+join,319,537,11,154
+join,319,537,12,41
+join,319,537,13,11
+join,319,537,14,39
+join,319,537,15,44
+join,319,537,17,142
+join,320,538,5,127
+join,320,538,6,85
+join,320,538,7,137
+join,320,539,4,68
+join,320,539,8,13
+join,320,539,9,44
+join,320,539,10,48
+join,320,539,11,117
+join,320,539,15,51
+join,320,539,16,14
+join,320,540,14,49
+join,320,541,6,129
+join,320,541,9,28
+join,320,542,13,95
+join,320,542,20,165
+join,320,543,4,81
+join,320,546,5,13
+join,320,546,9,63
+join,320,546,10,61
+join,320,546,11,34
+join,320,546,12,34
+join,320,547,2,12
+join,320,547,10,42
+join,320,547,11,168
+join,320,547,12,62
+join,320,547,14,22
+join,320,547,15,19
+join,322,548,16,49
+join,323,550,19,16
+join,382,639,7,203
+join,383,640,3,67
+join,386,644,7,13
+join,386,644,9,29
+join,386,644,10,84
+join,390,649,22,90
+join,395,653,14,16
+join,395,654,14,103
+join,395,655,1,76
+join,395,655,2,67
+join,395,655,4,135
+join,395,655,7,98
+join,396,656,10,53
+join,396,656,14,75
+join,396,656,16,65
+join,396,657,6,67
+join,396,657,9,9
+join,396,657,14,124
+join,396,657,16,71
+join,396,658,2,23
+join,396,658,10,55
+join,396,659,2,216
+join,396,659,5,96
+join,399,661,3,391
+join,399,661,13,169
+join,400,662,4,43
+join,400,662,6,24
+join,400,662,7,36
+join,400,662,8,67
+join,400,662,11,24
+join,400,662,12,49
+join,400,662,13,93
+join,400,668,0,63
+join,400,668,3,200
+join,402,672,8,7
+join,402,672,9,2
+join,404,673,1,104
+join,404,674,17,191
+join,404,676,16,123
+join,404,676,18,88
+join,404,676,21,58
+join,404,677,0,92
+join,404,677,4,57
+join,404,679,5,13
+join,404,679,22,39
+join,404,679,25,16
+join,404,679,26,208
+join,405,680,5,144
+join,405,680,8,72
+join,406,681,7,108
+join,406,681,15,65
+join,406,681,19,78
+join,406,681,20,76
+join,406,681,21,91
+join,406,681,33,251
+join,407,682,6,9
+join,407,682,12,56
+join,410,686,0,53
+join,410,686,2,104
+join,410,686,6,73
+join,412,689,10,109
+join,413,691,0,374
+join,413,691,1,28
+join,413,691,6,43
+join,413,692,10,137
+join,413,692,11,61
+join,413,692,16,80
+join,413,692,18,23
+join,414,693,2,127
+join,414,693,4,132
+join,414,693,6,51
+join,414,693,7,14
+join,417,695,7,200
+join,417,695,8,138
+join,417,695,9,41
+join,417,695,15,232
+join,417,695,16,104
+join,417,696,0,25
+join,417,696,1,128
+join,417,696,2,50
+join,417,696,11,104
+join,417,697,0,114
+join,417,697,4,67
+join,425,704,22,130
+join,427,705,0,367
+join,428,706,8,70
+join,428,706,10,153
+join,428,707,0,239
+join,428,707,7,129
+join,428,707,10,282
+join,428,707,13,38
+join,428,708,14,123
+join,430,709,14,92
+join,436,715,2,416
+join,438,722,14,111
+join,438,722,21,121
+join,459,757,9,312
+join,467,764,15,7
+join,467,765,1,7
+join,467,765,2,26
+join,467,765,4,113
+join,467,765,6,4
+join,467,765,7,23
+join,467,765,9,51
+join,467,765,11,69
+join,467,765,12,58
+join,467,765,14,119
+join,467,765,15,111
+join,467,765,16,129
+join,467,765,17,5
+join,467,765,18,61
+join,467,765,19,41
+join,468,766,0,74
+join,468,766,1,69
+join,468,766,2,23
+join,468,766,3,231
+join,468,766,4,42
+join,468,766,5,102
+join,468,766,7,33
+join,468,766,9,88
+join,468,766,11,22
+join,469,767,0,110
+join,469,767,1,33
+join,469,767,2,151
+join,469,767,3,64
+join,469,767,4,84
+join,469,767,5,111
+join,469,767,9,57
+join,469,767,10,48
+join,469,767,11,36
+join,469,767,12,26
+join,469,767,13,75
+join,469,767,14,14
+join,471,768,2,49
+join,471,768,3,111
+join,476,771,5,45
+join,479,772,9,46
+join,479,772,10,89
+join,479,772,11,56
+join,479,772,13,53
+join,483,775,1,324
+join,484,776,6,197
+join,484,777,1,62
+join,484,777,6,8
+join,484,777,9,57
+join,484,777,10,60
+join,484,777,11,76
+join,484,778,2,90
+join,484,778,3,49
+join,484,778,9,77
+join,484,778,11,80
+join,484,778,12,56
+join,484,778,13,47
+join,484,778,14,63
+join,484,779,0,84
+join,484,779,2,34
+join,484,779,3,97
+join,484,779,4,34
+join,484,779,5,20
+join,484,779,6,60
+join,484,779,8,27
+join,484,779,9,64
+join,484,779,15,55
+join,484,779,16,140
+join,484,779,20,59
+join,485,780,0,51
+join,485,780,4,50
+join,485,780,5,86
+join,485,780,6,52
+join,485,780,8,26
+join,485,780,12,66
+join,485,780,13,122
+join,485,780,14,95
+join,485,780,19,140
+join,485,780,20,110
+join,485,780,21,81
+join,487,781,0,73
+join,487,781,3,128
+join,487,781,4,58
+join,487,781,5,14
+join,487,781,6,35
+join,487,781,7,180
+join,487,781,12,129
+join,488,784,5,183
+join,498,796,13,30
+join,498,796,14,68
+join,498,798,8,31
+join,498,799,4,44
+join,498,799,5,43
+join,498,799,6,43
+join,498,799,7,43
+join,498,799,16,99
+join,498,802,22,183
+join,499,803,9,82
+join,499,803,10,27
+join,503,810,9,26
+join,516,820,1,134
+join,521,825,16,30
+join,521,825,21,42
+join,527,834,11,74
+join,536,844,19,124
+join,536,845,0,78
+join,536,845,1,53
+join,538,849,5,50
+join,538,849,6,49
+join,538,849,7,22
+join,538,849,8,143
+join,539,850,13,172
+join,539,851,8,16
+join,542,855,10,35
+join,549,867,1,358
+join,553,876,9,217
+join,556,883,9,260
+join,565,895,9,31
+join,565,895,10,13
+join,566,896,1,65
+join,567,898,12,7
+join,567,898,13,82
+join,567,898,14,43
+join,567,898,15,54
+join,567,898,16,90
+join,567,898,17,11
+join,567,898,18,40
+join,568,899,0,101
+join,568,899,1,29
+join,568,899,4,111
+join,568,899,5,73
+join,568,899,7,50
+join,568,899,10,36
+join,568,899,11,23
+join,568,899,13,78
+join,568,899,14,19
+join,568,899,15,55
+join,568,899,16,111
+join,575,904,19,14
+join,576,905,8,67
+join,576,906,1,28
+join,578,907,8,97
+join,578,908,4,0
+join,582,913,5,111
+join,582,915,18,73
+join,582,915,20,86
+join,582,915,22,22
+join,582,915,24,22
+join,582,915,26,28
+join,582,916,1,19
+join,582,916,3,26
+join,582,917,27,109
+join,582,918,11,56
+join,603,944,17,74
+join,605,948,4,133
+join,635,985,4,70
+join,635,985,5,84
+join,635,986,5,374
+join,636,987,2,38
+join,636,988,14,48
+join,638,994,27,18
+join,638,994,29,75
+join,638,994,36,40
+join,638,994,37,18
+join,638,995,1,75
+join,638,998,7,189
+join,640,1000,15,126
+join,640,1001,3,131
+join,640,1001,6,44
+join,640,1001,20,27
+join,645,1008,9,8
+join,647,1011,13,60
+join,653,1018,18,94
+join,657,1021,13,43
+join,674,1034,8,13
+join,674,1034,9,81
+join,674,1034,10,20
+join,675,1035,30,0
+join,676,1036,52,14
+join,676,1036,81,10
+join,676,1039,38,12
+join,676,1039,50,21
+join,676,1043,74,72
+join,676,1046,26,36
+join,676,1048,36,0
+join,676,1048,73,69
+join,676,1051,15,3
+join,676,1052,47,43
+join,676,1052,54,7
+join,676,1054,70,79
+join,676,1054,73,44
+join,676,1055,36,66
+join,676,1055,67,112
+join,676,1061,0,77
+join,676,1062,22,35
+join,676,1067,32,34
+join,676,1068,14,1
+join,676,1070,49,51
+join,676,1070,54,23
+data independence,6,37,7,38
+data independence,11,43,0,112
+data independence,16,49,4,5
+data independence,16,49,6,0
+data independence,16,49,11,32
+data independence,16,49,13,41
+data independence,20,55,20,112
+data independence,22,57,14,29
+data independence,22,57,15,65
+data independence,47,93,5,264
+data independence,66,121,5,92
+data independence,66,121,8,57
+data independence,69,129,11,29
+data independence,69,129,19,101
+data independence,471,768,10,82
+data independence,471,768,11,64
+data independence,473,769,0,87
+data independence,483,775,1,33
+data independence,488,782,8,58
+data independence,498,796,11,70
+data independence,498,797,24,31
+data independence,498,798,0,218
+data independence,499,803,20,108
+data independence,570,901,17,275
+aggregate function,87,163,18,52
+aggregate function,98,185,1,35
+aggregate function,98,185,2,13
+aggregate function,99,192,3,124
+aggregate function,317,529,4,214
+aggregate function,317,530,11,19
+aggregate function,317,533,6,60
+aggregate function,317,533,9,66
+aggregate function,559,889,16,46
+aggregate function,559,889,20,103
+aggregate function,560,890,10,54
+aggregate function,561,892,1,11
+aggregate function,676,1063,25,84
+database design,7,39,0,34
+database design,11,44,14,120
+database design,13,47,4,689
+database design,15,48,7,69
+database design,15,48,8,20
+database design,24,59,0,18
+database design,24,59,4,12
+database design,24,59,6,17
+database design,25,60,3,108
+database design,25,60,4,90
+database design,25,60,5,30
+database design,25,60,7,32
+database design,25,60,8,37
+database design,25,60,11,4
+database design,25,60,13,42
+database design,25,61,0,17
+database design,25,61,3,14
+database design,25,61,5,76
+database design,25,61,9,11
+database design,25,62,4,12
+database design,28,65,0,16
+database design,30,69,0,16
+database design,34,71,0,17
+database design,36,73,0,16
+database design,37,75,0,19
+database design,39,77,0,16
+database design,43,81,12,93
+database design,44,83,8,112
+database design,44,85,0,17
+database design,44,85,11,56
+database design,44,85,13,25
+database design,44,87,0,16
+database design,44,87,9,47
+database design,45,89,27,145
+database design,46,91,5,35
+database design,46,91,7,357
+database design,51,99,20,43
+database design,57,108,7,12
+database design,69,126,3,119
+database design,140,248,0,79
+database design,191,334,12,68
+database design,191,334,13,59
+database design,245,428,7,98
+database design,381,637,0,8
+database design,382,639,5,50
+database design,382,639,6,45
+database design,382,639,8,27
+database design,400,663,15,26
+database design,400,663,17,0
+database design,400,667,19,3
+database design,404,673,7,66
+database design,404,673,9,51
+database design,404,677,5,41
+database design,407,682,0,97
+database design,407,682,19,15
+database design,408,683,0,58
+database design,408,683,10,27
+database design,410,684,1,211
+database design,410,684,2,92
+database design,410,685,11,33
+database design,410,685,13,43
+database design,411,687,6,25
+database design,414,693,0,9
+database design,417,695,0,9
+database design,434,713,0,11
+database design,438,719,0,10
+database design,441,725,4,61
+database design,441,725,9,29
+database design,441,725,12,23
+database design,499,804,6,43
+database design,501,806,9,85
+database design,501,807,4,61
+database design,514,819,9,73
+database design,521,824,8,5
+database design,521,824,9,79
+database design,521,824,15,9
+database design,521,825,18,10
+database design,523,828,7,3
+database design,534,841,23,3
+database design,536,843,12,160
+database design,554,877,13,79
+database design,556,883,0,67
+database design,556,883,14,114
+database design,676,1038,35,0
+database design,676,1042,49,12
+database design,676,1044,27,12
+database design,676,1047,21,22
+database design,676,1048,56,9
+database design,676,1067,17,9
+database design,676,1067,19,3
+database design,676,1070,75,10
+database design,676,1072,66,0
+database design,676,1072,69,9
+data manipulation language,23,58,4,7
+data manipulation language,88,165,13,7
+fifth normal form,402,672,11,7
+unified modeling language,43,81,4,8
+unified modeling language,43,81,5,85
+unified modeling language,46,90,8,167
+unified modeling language,676,1066,31,4
+timestamp-based concurrency control,363,603,12,7
+functional dependency,382,639,7,67
+functional dependency,383,641,10,28
+functional dependency,387,645,0,77
+functional dependency,404,677,9,98
+functional dependency,404,678,2,44
+functional dependency,404,678,4,43
+functional dependency,521,825,4,47
+foreign key,46,91,7,216
+foreign key,52,100,6,6
+foreign key,52,100,9,48
+foreign key,52,100,11,42
+foreign key,52,100,12,4
+foreign key,52,101,2,0
+foreign key,52,101,3,92
+foreign key,52,101,5,103
+foreign key,52,101,6,112
+foreign key,52,101,10,29
+foreign key,52,102,0,14
+foreign key,52,102,4,51
+foreign key,53,103,2,69
+foreign key,54,104,0,180
+foreign key,54,104,1,128
+foreign key,54,104,5,48
+foreign key,55,105,2,110
+foreign key,55,105,6,372
+foreign key,56,106,6,138
+foreign key,57,107,1,20
+foreign key,59,110,3,112
+foreign key,59,110,8,337
+foreign key,59,111,0,23
+foreign key,59,111,5,392
+foreign key,59,112,6,153
+foreign key,60,113,4,319
+foreign key,61,114,0,165
+foreign key,62,115,5,42
+foreign key,62,115,7,83
+foreign key,62,115,9,175
+foreign key,62,115,13,124
+foreign key,62,115,15,61
+foreign key,63,116,5,256
+foreign key,64,117,4,13
+foreign key,66,119,6,398
+foreign key,66,120,0,116
+foreign key,66,120,7,239
+foreign key,69,126,4,453
+foreign key,69,128,1,229
+foreign key,69,128,14,45
+foreign key,69,129,25,23
+foreign key,69,130,0,29
+foreign key,69,130,1,117
+foreign key,69,130,3,269
+foreign key,69,130,5,124
+foreign key,79,147,13,76
+foreign key,79,147,14,119
+foreign key,111,200,0,154
+foreign key,115,206,0,205
+foreign key,115,213,3,116
+foreign key,115,213,4,102
+foreign key,117,214,2,220
+foreign key,152,268,4,57
+foreign key,247,429,8,50
+foreign key,254,437,0,91
+foreign key,292,491,11,30
+foreign key,293,495,3,99
+foreign key,293,496,6,154
+foreign key,305,510,20,110
+foreign key,404,673,11,2
+foreign key,404,674,1,0
+foreign key,404,675,0,172
+foreign key,417,696,2,77
+foreign key,440,724,6,492
+foreign key,443,730,4,50
+foreign key,443,733,0,88
+foreign key,443,733,1,166
+foreign key,447,739,6,112
+foreign key,447,739,7,151
+foreign key,447,739,8,33
+foreign key,447,739,9,256
+foreign key,523,828,2,21
+foreign key,523,828,8,23
+foreign key,523,828,13,97
+foreign key,524,829,9,121
+foreign key,536,844,19,59
+fourth normal form,401,670,10,7
+query plan,256,439,0,198
+query plan,258,441,7,55
+query plan,320,542,5,69
+query plan,320,542,19,29
+query plan,323,550,21,12
+query plan,420,700,6,288
+query plan,463,761,6,105
+query plan,487,781,10,139
+query plan,588,926,7,231
+query plan,588,927,5,88
+database schema,25,61,9,135
+database schema,25,61,10,136
+database schema,25,62,1,121
+database schema,25,62,5,146
+database schema,47,93,5,59
+database schema,49,95,20,15
+database schema,49,96,0,55
+database schema,50,97,6,61
+database schema,50,97,7,80
+database schema,50,98,1,37
+database schema,57,108,8,100
+database schema,58,109,3,126
+database schema,69,129,17,93
+database schema,135,240,4,232
+database schema,144,253,3,24
+database schema,144,253,9,35
+database schema,166,301,7,38
+database schema,348,581,0,86
+database schema,676,1038,39,45
+third normal form,392,651,8,7
+third normal form,676,1039,29,13
+object-relational database,438,718,4,52
+object-relational database,526,831,4,40
+object-relational database,610,957,7,111
+object-relational database,611,958,9,17
+join dependency,402,672,8,27
+join dependency,402,672,9,2
+join dependency,406,681,21,91
+object identifier,353,587,12,80
+object identifier,517,821,12,103
+object identifier,534,841,17,32
+object identifier,628,977,2,42
+object identifier,638,995,19,35
+object identifier,638,995,21,64
+object identifier,638,995,24,34
+object identifier,638,995,25,39
+xml,7,39,10,223
+xml,88,165,5,12
+xml,88,166,13,272
+xml,145,254,7,159
+xml,145,255,8,99
+xml,145,256,0,93
+xml,145,256,1,9
+xml,145,256,2,78
+xml,145,256,3,47
+xml,145,256,5,165
+xml,145,256,7,27
+xml,145,256,12,213
+xml,148,260,8,82
+xml,148,260,9,62
+xml,148,261,1,4
+xml,148,261,2,64
+xml,148,261,3,9
+xml,148,261,4,10
+xml,149,262,4,28
+xml,149,262,5,92
+xml,149,262,6,0
+xml,149,262,8,0
+xml,149,262,12,0
+xml,149,262,13,13
+xml,149,262,14,9
+xml,149,262,15,43
+xml,149,262,16,22
+xml,149,262,17,82
+xml,149,263,0,46
+xml,149,263,1,21
+xml,149,263,2,52
+xml,149,263,3,17
+xml,149,263,6,0
+xml,149,263,9,36
+xml,149,263,17,150
+xml,149,263,20,28
+xml,149,264,0,16
+xml,149,264,2,54
+xml,149,264,6,50
+xml,150,265,0,62
+xml,150,265,4,11
+xml,150,265,5,17
+xml,150,265,10,6
+xml,150,265,21,129
+xml,152,267,9,53
+xml,152,267,17,0
+xml,152,267,25,141
+xml,152,268,0,6
+xml,152,268,1,134
+xml,152,268,3,0
+xml,152,268,7,79
+xml,152,268,8,228
+xml,152,268,10,33
+xml,156,274,1,27
+xml,160,282,6,42
+xml,160,282,7,69
+xml,161,283,8,40
+xml,161,283,9,78
+xml,161,283,11,80
+xml,161,284,7,73
+xml,161,284,10,105
+xml,161,284,13,22
+xml,163,288,3,38
+xml,166,296,5,29
+xml,166,296,6,30
+xml,166,298,16,68
+xml,166,298,17,52
+xml,166,298,18,34
+xml,166,298,19,22
+xml,166,298,20,16
+xml,166,298,21,22
+xml,166,299,23,158
+xml,166,299,30,14
+xml,166,299,31,11
+xml,168,304,25,59
+xml,168,304,29,63
+xml,584,921,5,56
+xml,609,956,0,25
+xml,609,956,6,53
+xml,609,956,7,288
+xml,610,957,4,157
+xml,610,957,5,73
+xml,610,957,6,95
+xml,610,957,9,32
+xml,610,957,10,42
+xml,611,958,12,27
+xml,624,975,2,18
+xml,624,975,9,22
+xml,627,976,1,2
+xml,627,976,2,77
+xml,628,978,0,89
+xml,628,978,2,59
+xml,628,978,6,145
+xml,628,978,7,56
+xml,628,978,8,84
+xml,628,978,10,165
+xml,628,978,11,41
+xml,628,978,15,48
+xml,630,979,0,43
+xml,630,979,2,78
+xml,630,979,11,66
+xml,631,980,2,349
+xml,631,980,4,41
+xml,631,981,0,51
+xml,631,981,4,41
+xml,631,981,7,133
+xml,631,981,8,10
+xml,633,982,0,46
+xml,633,982,3,60
+xml,633,982,7,91
+xml,633,982,10,42
+xml,633,982,23,15
+xml,635,983,0,58
+xml,635,983,3,67
+xml,635,983,7,61
+xml,635,983,8,23
+xml,635,983,12,8
+xml,635,984,12,102
+xml,635,985,0,25
+xml,635,985,10,30
+xml,635,986,1,16
+xml,635,986,5,116
+xml,638,993,12,25
+xml,638,993,20,43
+xml,638,997,4,33
+xml,638,997,5,143
+xml,638,997,7,78
+xml,638,997,12,8
+xml,638,997,14,30
+xml,662,1025,5,20
+xml,667,1029,13,60
+xml,675,1035,22,30
+xml,676,1040,39,5
+xml,676,1045,86,57
+xml,676,1048,53,41
+insert,11,43,4,20
+insert,16,49,3,28
+insert,18,50,13,91
+insert,46,91,7,111
+insert,49,95,4,148
+insert,49,96,5,177
+insert,49,96,6,7
+insert,52,101,2,609
+insert,52,102,6,132
+insert,52,102,9,19
+insert,53,103,9,84
+insert,53,103,10,424
+insert,53,103,12,56
+insert,54,104,2,170
+insert,54,104,3,14
+insert,54,104,6,83
+insert,54,104,7,18
+insert,56,106,0,185
+insert,56,106,6,377
+insert,56,106,7,14
+insert,56,106,9,32
+insert,57,107,2,14
+insert,57,107,3,96
+insert,67,122,14,7
+insert,67,122,16,28
+insert,67,122,17,74
+insert,68,123,4,121
+insert,68,123,6,90
+insert,68,123,7,36
+insert,68,123,8,26
+insert,68,123,9,78
+insert,69,125,9,3
+insert,69,125,10,3
+insert,69,125,11,50
+insert,69,125,12,136
+insert,71,132,4,24
+insert,71,132,5,24
+insert,71,132,7,14
+insert,88,165,13,96
+insert,88,165,15,27
+insert,107,196,8,83
+insert,111,200,0,350
+insert,111,200,7,108
+insert,113,202,10,3
+insert,115,203,6,30
+insert,115,203,7,217
+insert,115,203,10,91
+insert,115,203,11,62
+insert,115,203,14,108
+insert,115,204,0,46
+insert,115,204,2,67
+insert,115,204,4,52
+insert,115,204,7,66
+insert,115,204,9,62
+insert,115,204,12,58
+insert,115,205,1,135
+insert,115,205,2,90
+insert,115,205,3,30
+insert,115,206,3,155
+insert,115,206,9,92
+insert,115,207,3,126
+insert,115,213,6,44
+insert,121,220,1,62
+insert,121,223,0,97
+insert,121,224,3,3
+insert,130,234,21,25
+insert,131,235,0,84
+insert,131,235,1,53
+insert,131,235,4,140
+insert,131,235,10,115
+insert,140,249,0,220
+insert,140,249,2,86
+insert,140,249,4,14
+insert,140,250,3,490
+insert,140,250,7,37
+insert,149,264,3,28
+insert,149,264,6,19
+insert,166,301,19,91
+insert,173,309,15,51
+insert,173,309,20,67
+insert,176,313,5,3
+insert,176,313,9,67
+insert,179,317,6,2
+insert,179,317,7,72
+insert,181,319,0,29
+insert,181,319,19,103
+insert,182,320,9,0
+insert,182,320,10,36
+insert,182,320,16,33
+insert,183,321,14,0
+insert,184,322,2,37
+insert,186,323,8,0
+insert,186,323,13,141
+insert,186,324,11,0
+insert,186,324,15,71
+insert,186,324,18,4
+insert,186,325,0,461
+insert,186,325,3,55
+insert,187,326,8,39
+insert,187,326,10,211
+insert,187,326,14,0
+insert,187,326,16,0
+insert,187,327,1,29
+insert,191,330,11,86
+insert,191,333,11,111
+insert,191,334,8,92
+insert,193,336,16,11
+insert,206,351,3,82
+insert,211,358,11,70
+insert,211,358,13,138
+insert,212,359,11,3
+insert,212,360,9,130
+insert,213,361,12,87
+insert,213,361,15,17
+insert,215,362,9,48
+insert,215,362,10,28
+insert,216,364,0,27
+insert,216,364,2,3
+insert,218,371,14,23
+insert,219,372,2,42
+insert,219,372,3,44
+insert,219,372,9,144
+insert,219,373,0,61
+insert,219,373,7,40
+insert,219,374,9,135
+insert,221,375,3,64
+insert,221,375,13,21
+insert,221,376,2,153
+insert,221,376,6,4
+insert,221,376,10,205
+insert,221,376,12,10
+insert,221,376,16,15
+insert,221,376,17,39
+insert,222,377,0,193
+insert,223,378,2,189
+insert,223,378,4,88
+insert,223,378,5,87
+insert,223,378,7,84
+insert,223,378,9,47
+insert,223,378,19,102
+insert,224,379,4,236
+insert,224,381,4,26
+insert,224,382,0,64
+insert,224,382,1,27
+insert,224,382,2,59
+insert,224,382,5,83
+insert,224,382,6,115
+insert,224,382,7,5
+insert,224,382,13,90
+insert,225,383,0,338
+insert,225,383,1,815
+insert,225,384,0,36
+insert,225,384,3,47
+insert,225,384,4,14
+insert,225,384,7,49
+insert,225,384,11,30
+insert,225,385,0,57
+insert,225,385,2,28
+insert,225,385,4,72
+insert,228,390,5,95
+insert,228,390,9,28
+insert,229,391,2,29
+insert,229,391,3,68
+insert,229,391,4,0
+insert,229,393,13,37
+insert,230,394,4,55
+insert,230,394,8,52
+insert,230,394,11,92
+insert,230,394,15,62
+insert,232,396,4,81
+insert,232,397,3,73
+insert,232,397,6,26
+insert,232,397,7,37
+insert,232,398,0,37
+insert,232,398,8,38
+insert,232,398,21,38
+insert,232,398,22,29
+insert,232,399,6,40
+insert,232,399,7,43
+insert,232,399,8,45
+insert,232,399,11,76
+insert,232,399,13,76
+insert,232,400,0,60
+insert,232,400,2,37
+insert,232,400,7,30
+insert,232,400,12,139
+insert,232,400,13,41
+insert,232,400,20,38
+insert,233,401,1,55
+insert,233,401,2,4
+insert,233,401,3,33
+insert,233,401,4,31
+insert,233,401,8,74
+insert,234,402,2,33
+insert,234,402,3,82
+insert,234,402,5,234
+insert,234,403,10,49
+insert,236,404,3,27
+insert,236,404,5,27
+insert,236,405,4,58
+insert,236,405,5,85
+insert,236,405,19,3
+insert,236,406,8,56
+insert,236,406,14,135
+insert,236,407,2,112
+insert,236,407,6,57
+insert,236,407,8,14
+insert,236,407,19,3
+insert,236,407,20,74
+insert,236,408,0,283
+insert,236,408,1,112
+insert,236,408,3,13
+insert,236,409,0,115
+insert,236,409,2,174
+insert,236,409,6,50
+insert,237,410,0,173
+insert,237,410,9,57
+insert,237,410,11,54
+insert,237,411,0,227
+insert,237,411,2,35
+insert,237,412,3,4
+insert,237,412,10,4
+insert,237,412,11,41
+insert,237,413,1,118
+insert,237,414,1,171
+insert,237,414,2,45
+insert,237,414,11,46
+insert,237,414,13,86
+insert,238,415,3,30
+insert,239,416,5,8
+insert,239,416,6,6
+insert,239,416,7,19
+insert,239,416,9,33
+insert,239,416,11,95
+insert,239,416,12,66
+insert,239,416,13,0
+insert,239,417,0,183
+insert,239,417,1,70
+insert,239,418,2,121
+insert,239,418,5,0
+insert,239,418,6,73
+insert,239,420,3,14
+insert,239,420,9,19
+insert,239,420,23,99
+insert,239,420,24,50
+insert,239,420,26,44
+insert,239,420,27,24
+insert,239,420,28,33
+insert,239,421,1,99
+insert,239,421,2,50
+insert,239,421,4,44
+insert,239,421,5,24
+insert,243,422,0,48
+insert,243,422,3,32
+insert,243,422,5,51
+insert,243,422,7,12
+insert,243,423,10,62
+insert,243,423,12,23
+insert,244,424,1,41
+insert,244,424,3,49
+insert,244,424,4,102
+insert,244,424,15,84
+insert,244,424,17,88
+insert,275,471,12,45
+insert,290,484,6,94
+insert,294,498,10,380
+insert,336,565,7,59
+insert,341,571,18,44
+insert,342,572,16,6
+insert,354,589,17,164
+insert,357,593,17,89
+insert,357,594,2,392
+insert,357,594,7,163
+insert,358,595,3,370
+insert,358,595,4,30
+insert,358,595,6,230
+insert,358,596,0,190
+insert,358,596,3,7
+insert,358,596,6,36
+insert,358,596,10,26
+insert,360,597,2,3
+insert,360,597,3,26
+insert,360,597,4,22
+insert,360,597,6,139
+insert,360,598,3,41
+insert,363,607,21,103
+insert,365,611,27,3
+insert,365,611,28,3
+insert,365,611,29,3
+insert,373,623,6,112
+insert,376,630,7,45
+insert,376,630,8,23
+insert,376,630,9,148
+insert,376,630,10,41
+insert,382,639,7,29
+insert,383,641,1,3
+insert,384,642,0,57
+insert,384,642,9,33
+insert,384,642,10,69
+insert,384,642,11,40
+insert,393,652,3,25
+insert,395,655,6,71
+insert,395,655,7,144
+insert,395,655,8,130
+insert,400,666,6,44
+insert,404,676,2,18
+insert,410,686,3,22
+insert,411,688,6,160
+insert,417,696,6,7
+insert,434,713,7,28
+insert,434,713,11,115
+insert,434,713,12,111
+insert,434,713,15,88
+insert,435,714,14,26
+insert,436,715,8,86
+insert,436,715,14,263
+insert,436,715,15,48
+insert,438,716,2,76
+insert,443,730,0,17
+insert,443,730,1,128
+insert,443,730,11,57
+insert,443,731,15,79
+insert,443,732,3,214
+insert,443,733,3,20
+insert,443,733,4,110
+insert,443,733,5,26
+insert,443,733,6,106
+insert,446,738,13,234
+insert,446,738,15,28
+insert,446,738,19,45
+insert,447,739,2,21
+insert,447,739,3,16
+insert,447,739,4,115
+insert,447,739,16,90
+insert,449,741,9,29
+insert,449,741,10,9
+insert,449,741,12,11
+insert,449,741,14,37
+insert,456,751,12,149
+insert,456,752,0,107
+insert,456,752,1,100
+insert,456,752,2,113
+insert,456,752,4,15
+insert,456,753,1,32
+insert,457,755,17,93
+insert,510,815,0,49
+insert,526,831,17,17
+insert,536,843,21,55
+insert,556,883,7,95
+insert,567,898,8,56
+insert,567,898,9,3
+insert,578,907,13,23
+insert,578,907,20,43
+insert,578,908,1,261
+insert,578,908,4,100
+insert,578,908,8,15
+insert,578,908,12,102
+insert,578,909,6,204
+insert,579,910,8,64
+insert,579,910,15,170
+insert,579,911,0,76
+insert,602,943,6,95
+insert,602,943,8,68
+insert,603,944,16,26
+insert,604,946,1,17
+insert,604,946,20,132
+insert,604,946,21,18
+insert,605,947,0,57
+insert,605,947,14,62
+insert,605,947,15,206
+insert,605,948,10,91
+insert,624,975,8,26
+insert,644,1006,4,3
+insert,647,1010,3,174
+insert,647,1010,6,24
+insert,647,1010,10,34
+insert,647,1010,13,146
+insert,647,1010,14,5
+insert,647,1011,2,159
+insert,647,1011,4,37
+insert,647,1011,6,32
+insert,647,1011,7,0
+insert,648,1012,1,83
+insert,649,1013,7,18
+insert,650,1014,15,7
+insert,651,1015,0,50
+insert,651,1015,2,62
+insert,651,1015,11,33
+insert,651,1015,12,81
+insert,651,1015,14,13
+insert,651,1016,2,55
+insert,651,1016,3,13
+insert,651,1016,4,84
+insert,651,1016,5,20
+insert,651,1016,6,37
+insert,651,1016,11,0
+insert,651,1016,12,61
+insert,651,1016,13,154
+insert,651,1016,18,108
+insert,651,1016,19,93
+insert,651,1016,20,37
+insert,652,1017,0,43
+insert,652,1017,2,218
+insert,652,1017,3,132
+insert,652,1017,12,103
+insert,652,1017,13,221
+insert,657,1019,8,7
+insert,657,1020,15,28
+insert,657,1020,20,29
+insert,657,1020,21,53
+insert,657,1020,22,84
+insert,657,1020,23,84
+insert,657,1020,25,55
+insert,665,1027,8,15
+table,9,41,14,86
+table,20,55,5,179
+table,23,58,23,101
+table,25,62,5,54
+table,39,77,11,140
+table,40,78,2,22
+table,43,81,12,143
+table,44,82,11,116
+table,44,82,12,46
+table,44,82,13,51
+table,44,82,14,62
+table,44,82,16,116
+table,44,83,1,75
+table,46,91,4,42
+table,46,91,7,104
+table,46,92,4,164
+table,46,92,14,127
+table,47,93,5,114
+table,47,93,6,62
+table,47,93,10,27
+table,48,94,2,43
+table,48,94,7,38
+table,49,96,1,89
+table,49,96,2,76
+table,49,96,4,11
+table,49,96,5,78
+table,49,96,6,47
+table,49,96,8,165
+table,52,100,0,104
+table,52,100,2,62
+table,52,100,3,27
+table,52,101,1,73
+table,52,102,0,130
+table,53,103,3,194
+table,53,103,4,0
+table,53,103,5,40
+table,53,103,6,5
+table,53,103,7,27
+table,54,104,1,111
+table,54,104,6,168
+table,55,105,6,280
+table,56,106,6,7
+table,58,109,3,68
+table,58,109,4,21
+table,58,109,7,268
+table,59,110,0,62
+table,59,110,8,168
+table,59,111,5,249
+table,59,112,3,64
+table,59,112,6,78
+table,59,112,7,73
+table,60,113,3,42
+table,60,113,4,214
+table,60,113,7,162
+table,61,114,0,52
+table,62,115,1,105
+table,62,115,2,0
+table,62,115,16,113
+table,63,116,5,155
+table,66,119,6,304
+table,66,120,0,19
+table,66,120,7,280
+table,66,121,2,39
+table,67,122,0,121
+table,67,122,2,58
+table,67,122,5,64
+table,67,122,6,99
+table,67,122,8,94
+table,67,122,11,66
+table,67,122,13,97
+table,67,122,16,111
+table,67,122,18,80
+table,68,123,0,44
+table,68,123,2,74
+table,68,123,3,98
+table,68,123,4,136
+table,68,123,5,117
+table,68,123,6,81
+table,68,123,7,86
+table,68,123,8,183
+table,68,123,11,58
+table,68,124,4,97
+table,69,125,6,35
+table,69,125,12,85
+table,69,125,14,60
+table,69,125,16,24
+table,69,125,17,18
+table,69,125,19,75
+table,69,125,20,6
+table,69,126,0,9
+table,69,126,2,6
+table,69,126,4,151
+table,69,126,5,11
+table,69,127,1,64
+table,69,127,2,54
+table,69,127,13,81
+table,69,127,14,148
+table,69,128,1,52
+table,69,128,4,229
+table,69,129,15,71
+table,69,130,19,33
+table,71,132,2,60
+table,71,132,3,28
+table,71,132,4,29
+table,71,132,5,29
+table,72,133,9,109
+table,79,147,13,64
+table,84,160,8,26
+table,84,160,10,63
+table,84,160,13,63
+table,84,160,15,75
+table,88,165,16,127
+table,88,165,17,40
+table,88,166,11,87
+table,88,167,2,83
+table,88,167,4,16
+table,88,168,0,707
+table,88,168,1,64
+table,90,170,5,48
+table,90,170,6,2
+table,90,170,7,71
+table,90,170,11,22
+table,90,170,14,211
+table,90,171,9,69
+table,91,172,4,269
+table,91,172,5,145
+table,91,172,10,112
+table,91,172,11,56
+table,91,173,3,147
+table,92,175,8,83
+table,94,178,1,62
+table,94,178,9,81
+table,94,178,10,42
+table,95,179,11,190
+table,99,189,9,64
+table,99,189,15,39
+table,99,190,2,53
+table,99,190,8,50
+table,99,190,9,31
+table,104,195,13,36
+table,107,196,2,24
+table,107,196,8,37
+table,107,196,10,19
+table,107,196,16,17
+table,108,197,19,92
+table,109,198,11,25
+table,110,199,8,32
+table,110,199,9,97
+table,111,200,0,102
+table,111,200,6,92
+table,111,201,10,35
+table,111,201,11,0
+table,111,201,12,45
+table,111,201,13,116
+table,111,201,16,27
+table,113,202,2,31
+table,115,203,4,91
+table,115,203,6,64
+table,115,203,7,118
+table,115,204,9,23
+table,115,204,12,122
+table,115,205,0,66
+table,115,205,1,78
+table,115,205,2,139
+table,115,205,3,77
+table,115,205,11,57
+table,115,206,6,25
+table,115,206,8,48
+table,115,206,10,182
+table,115,206,15,169
+table,115,207,3,167
+table,115,207,4,28
+table,115,207,5,87
+table,115,207,10,25
+table,115,208,2,28
+table,115,208,11,175
+table,115,212,16,56
+table,115,212,21,55
+table,115,212,22,12
+table,115,212,23,124
+table,121,221,14,146
+table,121,223,9,63
+table,123,225,2,250
+table,123,225,9,319
+table,123,225,10,14
+table,123,226,1,32
+table,123,226,4,105
+table,124,227,0,118
+table,124,227,3,115
+table,124,227,4,116
+table,126,228,5,113
+table,126,228,15,155
+table,127,229,2,63
+table,127,229,3,183
+table,127,229,5,59
+table,129,233,6,223
+table,133,239,2,36
+table,133,239,5,178
+table,135,240,4,248
+table,136,241,3,87
+table,136,241,6,76
+table,136,242,12,137
+table,140,248,8,56
+table,140,248,17,43
+table,140,249,0,266
+table,140,249,2,138
+table,140,250,3,477
+table,140,250,5,180
+table,148,260,21,62
+table,148,260,22,50
+table,149,262,3,24
+table,158,279,7,67
+table,158,279,9,55
+table,160,282,1,237
+table,160,282,4,185
+table,166,301,17,41
+table,167,302,0,213
+table,167,302,11,36
+table,167,303,0,101
+table,167,303,7,20
+table,186,325,10,54
+table,187,329,16,114
+table,191,333,9,261
+table,192,335,12,19
+table,196,340,13,22
+table,207,354,19,46
+table,209,356,2,15
+table,209,356,9,13
+table,210,357,5,135
+table,212,359,1,71
+table,213,361,4,109
+table,213,361,9,123
+table,213,361,10,40
+table,218,371,2,50
+table,219,373,1,280
+table,237,410,1,39
+table,244,427,1,65
+table,245,428,0,42
+table,245,428,10,40
+table,245,428,11,77
+table,247,429,1,50
+table,247,429,2,72
+table,247,429,3,24
+table,247,429,5,149
+table,247,429,7,38
+table,247,429,8,82
+table,247,429,12,30
+table,247,429,13,102
+table,247,430,6,154
+table,247,430,7,116
+table,247,430,8,64
+table,247,430,9,158
+table,247,430,10,25
+table,247,430,11,96
+table,247,430,12,73
+table,248,431,0,502
+table,248,431,1,21
+table,248,431,2,68
+table,248,431,3,22
+table,248,431,4,107
+table,248,431,6,84
+table,248,431,7,212
+table,248,431,9,176
+table,248,431,11,46
+table,250,432,2,46
+table,250,432,8,72
+table,250,432,9,46
+table,251,433,17,5
+table,251,434,2,38
+table,251,434,3,30
+table,251,434,7,143
+table,253,435,0,113
+table,253,435,2,77
+table,253,435,7,69
+table,253,435,12,195
+table,253,435,13,59
+table,254,436,2,130
+table,254,436,5,121
+table,254,436,14,24
+table,254,437,3,71
+table,254,437,5,25
+table,254,437,8,99
+table,254,437,18,81
+table,254,437,19,310
+table,255,438,9,21
+table,256,439,6,207
+table,258,440,2,92
+table,258,441,0,117
+table,258,441,2,198
+table,258,441,5,53
+table,258,441,9,101
+table,258,441,11,15
+table,259,442,2,73
+table,259,443,12,121
+table,259,443,16,135
+table,259,443,20,138
+table,259,444,0,268
+table,259,444,3,387
+table,259,444,5,115
+table,259,444,11,66
+table,261,445,2,116
+table,261,445,8,62
+table,261,445,12,74
+table,262,447,3,108
+table,262,447,4,5
+table,262,447,5,91
+table,262,447,12,38
+table,262,447,13,400
+table,263,448,4,98
+table,263,448,6,221
+table,263,449,2,171
+table,263,449,3,190
+table,263,449,6,62
+table,263,449,7,93
+table,263,449,11,208
+table,263,449,12,224
+table,263,450,4,7
+table,263,450,5,29
+table,263,450,7,179
+table,263,450,8,280
+table,263,450,9,192
+table,263,450,11,65
+table,263,450,12,77
+table,263,450,13,160
+table,263,451,0,155
+table,270,461,13,70
+table,281,475,11,86
+table,287,480,11,59
+table,290,484,4,45
+table,290,484,6,127
+table,290,484,9,77
+table,290,484,10,30
+table,290,484,15,4
+table,291,485,3,65
+table,291,485,4,107
+table,291,485,12,87
+table,291,485,17,76
+table,292,489,5,86
+table,292,489,10,134
+table,292,489,11,16
+table,292,489,13,104
+table,292,490,2,24
+table,292,490,3,111
+table,292,491,1,21
+table,293,497,3,262
+table,293,497,5,218
+table,293,497,6,41
+table,294,498,10,312
+table,295,499,2,44
+table,295,499,3,50
+table,295,499,8,93
+table,295,499,19,132
+table,295,499,23,93
+table,298,500,0,25
+table,298,500,3,149
+table,298,500,5,295
+table,298,500,7,54
+table,298,500,8,188
+table,298,500,10,10
+table,302,503,6,282
+table,302,503,8,31
+table,302,503,9,31
+table,302,503,11,4
+table,302,503,14,36
+table,302,503,15,41
+table,302,504,10,40
+table,302,504,13,59
+table,302,504,14,16
+table,302,504,15,12
+table,302,505,2,42
+table,302,505,3,151
+table,302,506,0,50
+table,305,511,10,119
+table,311,519,3,60
+table,317,527,5,58
+table,317,527,6,64
+table,317,530,4,141
+table,317,530,5,126
+table,320,538,3,198
+table,320,540,0,313
+table,326,553,8,183
+table,329,555,13,260
+table,331,558,13,105
+table,331,559,4,213
+table,334,562,0,11
+table,334,562,2,97
+table,334,562,14,24
+table,340,569,7,223
+table,341,571,6,55
+table,341,571,10,106
+table,341,571,13,162
+table,342,572,8,41
+table,343,573,1,67
+table,343,573,2,97
+table,343,573,5,5
+table,343,573,6,203
+table,346,576,9,71
+table,346,576,10,1
+table,346,576,11,137
+table,346,578,7,86
+table,346,579,14,112
+table,347,580,22,96
+table,348,582,0,32
+table,348,582,1,8
+table,348,583,10,171
+table,353,587,12,36
+table,353,587,13,84
+table,353,587,15,7
+table,353,588,1,271
+table,353,588,2,201
+table,353,588,6,72
+table,353,588,13,137
+table,354,589,3,138
+table,354,589,12,96
+table,354,589,15,94
+table,355,590,3,55
+table,361,600,2,82
+table,361,600,3,35
+table,361,602,12,82
+table,363,607,4,78
+table,363,607,6,26
+table,363,607,17,18
+table,363,608,13,60
+table,366,613,8,223
+table,366,615,4,196
+table,367,616,6,52
+table,367,616,7,113
+table,367,616,15,223
+table,368,617,4,80
+table,368,617,5,102
+table,371,619,3,22
+table,371,619,6,85
+table,371,619,9,70
+table,371,619,10,14
+table,371,619,17,16
+table,371,620,0,107
+table,371,620,3,148
+table,371,620,4,111
+table,372,621,6,107
+table,372,621,7,77
+table,372,621,8,180
+table,372,621,10,133
+table,372,621,14,16
+table,372,622,0,118
+table,372,622,8,109
+table,372,622,9,14
+table,373,623,0,118
+table,373,623,2,189
+table,373,623,3,124
+table,373,623,6,93
+table,373,623,8,50
+table,373,623,9,100
+table,373,623,11,235
+table,373,623,12,15
+table,373,623,13,105
+table,373,623,14,67
+table,373,623,15,47
+table,373,624,0,30
+table,373,624,1,116
+table,373,624,2,211
+table,373,624,6,65
+table,373,624,11,105
+table,373,624,14,123
+table,373,624,15,43
+table,373,625,8,85
+table,373,625,16,54
+table,373,625,17,196
+table,374,626,0,144
+table,374,626,3,58
+table,374,626,4,52
+table,374,626,22,29
+table,376,628,6,80
+table,376,628,7,98
+table,376,628,13,43
+table,376,628,14,37
+table,376,630,16,86
+table,376,630,18,56
+table,376,631,0,73
+table,376,631,1,82
+table,376,631,2,68
+table,376,631,18,74
+table,376,632,18,35
+table,376,633,1,96
+table,378,634,1,143
+table,378,634,9,187
+table,378,635,3,27
+table,386,644,11,99
+table,400,664,7,167
+table,400,664,10,125
+table,400,665,7,197
+table,400,667,16,154
+table,400,667,17,56
+table,400,669,11,166
+table,404,674,8,96
+table,404,674,10,104
+table,404,674,12,91
+table,404,675,0,63
+table,408,683,11,9
+table,410,685,8,55
+table,411,687,13,20
+table,412,690,0,224
+table,416,694,6,238
+table,416,694,7,14
+table,417,695,3,114
+table,417,695,4,46
+table,419,698,4,89
+table,419,698,9,6
+table,419,698,10,46
+table,419,699,2,148
+table,419,699,7,102
+table,419,699,8,131
+table,419,699,17,65
+table,419,699,19,57
+table,428,707,8,69
+table,428,707,9,82
+table,428,708,12,49
+table,431,710,2,123
+table,432,712,16,97
+table,434,713,2,186
+table,434,713,12,126
+table,435,714,14,64
+table,438,716,4,63
+table,438,716,7,68
+table,438,716,11,70
+table,438,717,4,24
+table,438,717,11,105
+table,443,726,10,186
+table,443,728,13,72
+table,443,729,5,49
+table,443,729,19,51
+table,443,729,21,108
+table,443,729,22,113
+table,443,730,0,133
+table,443,730,3,48
+table,443,730,4,125
+table,443,730,7,26
+table,443,730,8,121
+table,443,730,9,78
+table,443,730,10,157
+table,443,730,11,32
+table,443,730,15,31
+table,443,731,14,38
+table,443,731,17,96
+table,443,732,0,67
+table,443,732,1,369
+table,443,732,2,90
+table,443,732,3,47
+table,443,732,4,60
+table,443,733,0,111
+table,443,733,1,43
+table,443,733,3,190
+table,443,733,4,48
+table,443,733,9,77
+table,444,735,7,63
+table,444,735,9,22
+table,444,735,10,36
+table,446,738,1,106
+table,446,738,5,75
+table,447,739,3,46
+table,447,739,8,226
+table,447,739,14,80
+table,447,739,16,51
+table,449,740,4,126
+table,449,740,10,51
+table,449,740,18,12
+table,449,740,20,34
+table,449,741,1,41
+table,449,741,3,52
+table,449,741,4,35
+table,449,741,7,82
+table,449,741,9,79
+table,449,741,12,54
+table,456,751,1,60
+table,456,751,2,31
+table,456,752,1,90
+table,456,753,2,72
+table,456,753,8,73
+table,456,753,9,115
+table,456,753,10,60
+table,456,753,16,53
+table,465,762,5,251
+table,469,767,1,63
+table,483,775,1,296
+table,483,775,11,56
+table,488,783,11,71
+table,488,783,16,120
+table,488,784,5,147
+table,488,784,21,47
+table,488,785,0,86
+table,488,785,10,86
+table,488,785,14,94
+table,494,791,14,129
+table,494,791,15,102
+table,496,793,8,364
+table,496,793,15,167
+table,496,793,16,35
+table,498,794,4,89
+table,498,794,7,39
+table,498,794,12,71
+table,498,800,2,156
+table,498,800,9,133
+table,499,803,9,13
+table,502,808,4,82
+table,502,808,20,85
+table,502,809,1,10
+table,503,810,5,353
+table,503,810,6,225
+table,504,811,4,18
+table,504,811,16,63
+table,504,811,18,21
+table,511,816,5,45
+table,511,816,14,50
+table,511,816,15,36
+table,513,818,13,23
+table,514,819,1,447
+table,517,821,2,179
+table,517,821,3,64
+table,517,821,4,76
+table,517,821,5,44
+table,517,821,6,74
+table,517,821,7,35
+table,519,822,7,44
+table,519,822,8,82
+table,519,822,11,29
+table,519,822,14,75
+table,519,822,16,95
+table,521,823,1,150
+table,521,823,8,47
+table,521,823,11,321
+table,521,825,0,61
+table,521,825,4,17
+table,522,826,10,210
+table,523,827,5,30
+table,524,829,8,295
+table,526,830,4,141
+table,526,830,6,163
+table,526,830,9,72
+table,526,831,14,57
+table,527,834,9,129
+table,527,834,10,84
+table,527,834,11,111
+table,536,844,9,56
+table,536,844,13,44
+table,536,844,14,118
+table,536,844,21,97
+table,536,845,0,265
+table,536,845,3,75
+table,537,848,6,86
+table,537,848,7,128
+table,539,852,1,40
+table,544,857,6,129
+table,545,858,10,15
+table,545,858,12,12
+table,546,859,1,16
+table,546,859,2,25
+table,546,859,3,4
+table,546,859,4,34
+table,546,859,7,83
+table,546,859,12,73
+table,546,859,13,62
+table,546,859,14,26
+table,546,860,12,167
+table,546,861,0,144
+table,546,861,4,64
+table,546,861,6,72
+table,547,863,3,145
+table,547,864,2,0
+table,547,864,10,113
+table,547,864,12,34
+table,548,865,5,112
+table,548,865,7,57
+table,549,867,10,52
+table,549,867,11,20
+table,550,868,4,126
+table,550,868,11,65
+table,551,869,3,17
+table,551,869,4,41
+table,551,869,12,30
+table,551,870,4,136
+table,551,870,11,97
+table,551,871,0,45
+table,551,871,7,60
+table,553,872,6,60
+table,554,877,10,169
+table,554,877,16,101
+table,556,880,8,315
+table,556,880,10,132
+table,556,882,9,301
+table,556,882,10,59
+table,556,882,11,12
+table,556,883,0,105
+table,556,883,1,41
+table,556,883,3,47
+table,556,883,4,43
+table,556,883,5,148
+table,556,883,6,14
+table,556,883,7,36
+table,556,883,8,68
+table,556,883,9,83
+table,556,883,10,134
+table,556,883,12,49
+table,556,883,13,52
+table,557,884,13,77
+table,558,885,2,46
+table,558,885,3,67
+table,558,886,10,109
+table,559,888,0,273
+table,559,889,10,98
+table,559,889,15,124
+table,560,890,0,449
+table,560,890,4,38
+table,560,891,4,121
+table,566,896,7,229
+table,566,896,13,33
+table,567,897,0,112
+table,567,897,1,54
+table,567,897,3,38
+table,567,898,8,165
+table,567,898,10,67
+table,567,898,14,28
+table,567,898,16,68
+table,567,898,17,38
+table,567,898,18,82
+table,568,899,0,192
+table,568,899,1,11
+table,568,899,3,7
+table,568,899,5,59
+table,568,899,7,118
+table,568,899,10,134
+table,568,899,12,37
+table,569,900,0,71
+table,569,900,7,86
+table,570,901,3,251
+table,570,901,6,87
+table,570,901,8,162
+table,570,901,16,68
+table,570,901,18,39
+table,571,902,5,67
+table,571,902,11,151
+table,573,903,1,70
+table,573,903,2,59
+table,573,903,3,110
+table,575,904,2,24
+table,575,904,7,133
+table,575,904,10,84
+table,575,904,11,101
+table,575,904,15,102
+table,576,905,8,82
+table,576,906,2,620
+table,576,906,3,87
+table,576,906,4,80
+table,576,906,6,48
+table,576,906,7,76
+table,576,906,8,141
+table,576,906,10,32
+table,578,907,2,37
+table,578,907,11,73
+table,578,908,4,60
+table,578,909,11,103
+table,578,909,14,142
+table,578,909,15,23
+table,579,910,5,84
+table,579,910,6,83
+table,579,910,11,53
+table,579,911,14,84
+table,579,911,17,71
+table,579,911,20,202
+table,580,912,2,107
+table,580,912,10,116
+table,580,912,11,163
+table,580,912,18,75
+table,582,913,5,59
+table,582,914,5,18
+table,582,915,15,43
+table,582,915,16,5
+table,582,917,7,89
+table,584,921,12,67
+table,587,923,1,128
+table,587,923,3,29
+table,587,925,4,50
+table,603,944,9,63
+table,603,944,10,4
+table,603,944,11,66
+table,603,944,12,41
+table,603,944,13,36
+table,603,944,14,124
+table,605,947,4,89
+table,609,952,7,37
+table,609,952,8,66
+table,609,952,9,22
+table,609,952,10,69
+table,609,952,11,23
+table,609,953,1,124
+table,609,953,6,37
+table,609,953,8,64
+table,609,953,12,49
+table,609,953,13,37
+table,609,956,4,62
+table,623,974,13,176
+table,623,974,14,16
+table,624,975,1,30
+table,635,984,12,265
+table,638,992,8,122
+table,641,1003,9,121
+table,657,1019,9,64
+table,662,1025,3,104
+table,662,1025,7,99
+table,662,1025,10,185
+table,662,1025,12,45
+table,664,1026,12,33
+table,665,1027,13,87
+table,671,1031,22,118
+table,676,1046,38,10
+table,676,1058,67,40
+table,676,1061,51,49
+table,676,1062,65,22
+table,676,1064,68,44
+table,676,1069,23,58
+table,676,1073,54,50
+composite index,187,329,11,48
+composite index,191,330,11,24
+composite index,191,330,12,2
+composite index,191,331,2,228
+composite index,191,331,13,0
+conceptual schema,13,47,0,129
+conceptual schema,13,47,1,26
+conceptual schema,13,47,4,131
+conceptual schema,15,48,9,35
+conceptual schema,15,48,10,90
+conceptual schema,16,49,3,263
+conceptual schema,16,49,6,102
+conceptual schema,16,49,7,127
+conceptual schema,16,49,12,13
+conceptual schema,16,49,14,4
+conceptual schema,21,56,3,49
+conceptual schema,22,57,16,68
+conceptual schema,25,61,11,63
+conceptual schema,42,80,9,55
+conceptual schema,43,81,0,40
+conceptual schema,44,87,20,10
+conceptual schema,66,121,6,4
+conceptual schema,66,121,7,28
+conceptual schema,66,121,9,92
+conceptual schema,410,684,9,57
+conceptual schema,425,703,2,18
+data definition language,12,46,12,2
+data definition language,23,58,3,7
+data definition language,88,165,16,7
+data definition language,527,835,6,26
+tuple,16,49,3,15
+tuple,27,64,1,51
+tuple,46,91,7,45
+tuple,48,94,1,38
+tuple,48,94,2,63
+tuple,48,94,4,88
+tuple,48,94,6,93
+tuple,48,94,7,118
+tuple,49,95,4,85
+tuple,49,95,9,82
+tuple,49,95,10,40
+tuple,49,95,11,42
+tuple,49,95,12,199
+tuple,49,95,13,51
+tuple,49,95,14,19
+tuple,49,95,17,58
+tuple,49,96,5,166
+tuple,49,96,6,23
+tuple,49,96,7,14
+tuple,49,96,8,27
+tuple,50,98,14,119
+tuple,50,98,15,43
+tuple,50,98,18,57
+tuple,50,98,19,72
+tuple,51,99,0,140
+tuple,51,99,1,139
+tuple,51,99,5,104
+tuple,51,99,8,172
+tuple,51,99,12,29
+tuple,51,99,18,31
+tuple,51,99,21,15
+tuple,51,99,22,40
+tuple,51,99,23,41
+tuple,51,99,24,74
+tuple,51,99,26,119
+tuple,51,99,27,27
+tuple,52,100,10,308
+tuple,52,101,0,124
+tuple,52,101,2,620
+tuple,52,101,3,28
+tuple,52,101,4,76
+tuple,52,101,9,31
+tuple,52,101,11,125
+tuple,52,102,9,42
+tuple,53,103,10,360
+tuple,54,104,0,144
+tuple,54,104,2,121
+tuple,54,104,3,64
+tuple,55,105,14,70
+tuple,56,106,6,368
+tuple,56,106,7,54
+tuple,57,107,9,270
+tuple,57,107,10,57
+tuple,57,107,11,84
+tuple,57,107,13,231
+tuple,57,108,0,51
+tuple,57,108,4,305
+tuple,57,108,5,100
+tuple,59,111,3,110
+tuple,59,111,4,112
+tuple,59,112,4,65
+tuple,59,112,8,114
+tuple,61,114,0,359
+tuple,61,114,1,116
+tuple,61,114,2,39
+tuple,62,115,6,128
+tuple,62,115,9,70
+tuple,63,116,10,128
+tuple,64,117,6,28
+tuple,66,121,3,90
+tuple,68,123,5,50
+tuple,68,123,6,103
+tuple,68,124,1,236
+tuple,69,125,9,12
+tuple,69,125,11,59
+tuple,69,125,13,12
+tuple,69,129,18,31
+tuple,69,130,4,89
+tuple,69,130,13,85
+tuple,71,132,7,25
+tuple,73,134,6,106
+tuple,75,137,3,166
+tuple,75,137,4,167
+tuple,75,137,13,83
+tuple,76,138,2,60
+tuple,76,138,3,81
+tuple,76,138,4,149
+tuple,76,138,9,58
+tuple,76,138,14,68
+tuple,76,139,0,104
+tuple,76,139,1,34
+tuple,76,139,9,33
+tuple,76,139,10,0
+tuple,77,140,7,151
+tuple,78,141,0,144
+tuple,78,143,6,228
+tuple,78,143,7,111
+tuple,78,143,14,74
+tuple,78,145,1,435
+tuple,78,145,3,113
+tuple,78,146,13,18
+tuple,79,147,1,154
+tuple,79,147,7,105
+tuple,79,147,8,10
+tuple,79,147,9,78
+tuple,79,147,10,102
+tuple,80,149,12,110
+tuple,80,149,13,39
+tuple,80,149,14,104
+tuple,80,149,17,139
+tuple,80,150,6,52
+tuple,80,150,15,63
+tuple,80,150,16,25
+tuple,80,151,2,41
+tuple,80,151,3,41
+tuple,80,151,4,2
+tuple,80,151,5,43
+tuple,80,151,8,107
+tuple,80,151,10,55
+tuple,80,151,11,38
+tuple,80,152,0,96
+tuple,80,152,2,58
+tuple,80,152,6,42
+tuple,80,152,7,74
+tuple,80,152,8,64
+tuple,81,153,1,52
+tuple,81,153,2,28
+tuple,81,153,3,77
+tuple,81,153,5,61
+tuple,81,153,6,61
+tuple,81,153,7,88
+tuple,81,153,11,136
+tuple,81,153,13,79
+tuple,81,154,0,97
+tuple,81,154,2,121
+tuple,81,154,3,21
+tuple,81,154,4,89
+tuple,81,154,6,140
+tuple,81,154,7,25
+tuple,81,154,8,11
+tuple,82,155,0,143
+tuple,82,155,7,142
+tuple,82,155,11,50
+tuple,82,155,13,44
+tuple,82,156,0,212
+tuple,82,156,2,283
+tuple,84,157,4,126
+tuple,84,157,5,100
+tuple,84,158,2,195
+tuple,84,158,3,231
+tuple,84,158,7,112
+tuple,84,158,16,25
+tuple,84,159,1,18
+tuple,84,159,9,137
+tuple,84,159,10,217
+tuple,84,159,11,141
+tuple,84,159,13,61
+tuple,84,159,14,58
+tuple,84,160,11,29
+tuple,85,161,2,71
+tuple,85,161,3,58
+tuple,85,161,5,34
+tuple,85,161,13,65
+tuple,85,161,17,51
+tuple,86,162,15,51
+tuple,86,162,16,118
+tuple,89,169,6,154
+tuple,91,173,4,90
+tuple,92,175,8,107
+tuple,96,181,4,48
+tuple,98,186,9,102
+tuple,99,192,3,59
+tuple,99,192,8,190
+tuple,103,194,2,214
+tuple,103,194,3,73
+tuple,103,194,9,112
+tuple,107,196,2,47
+tuple,109,198,12,0
+tuple,111,200,7,117
+tuple,115,203,3,124
+tuple,115,203,10,118
+tuple,115,203,11,71
+tuple,115,204,0,254
+tuple,115,204,4,61
+tuple,115,204,5,15
+tuple,115,204,9,70
+tuple,115,204,12,66
+tuple,115,205,1,28
+tuple,115,205,2,113
+tuple,115,205,3,94
+tuple,115,207,11,28
+tuple,115,207,15,69
+tuple,115,211,16,342
+tuple,133,238,4,207
+tuple,166,301,19,102
+tuple,167,302,0,6
+tuple,187,327,13,254
+tuple,187,328,2,205
+tuple,187,328,6,39
+tuple,187,328,7,83
+tuple,187,328,10,116
+tuple,187,328,11,65
+tuple,187,329,0,62
+tuple,187,329,1,62
+tuple,187,329,3,159
+tuple,187,329,8,86
+tuple,191,330,4,97
+tuple,191,331,10,118
+tuple,191,332,2,253
+tuple,192,335,17,149
+tuple,192,335,18,60
+tuple,234,403,2,37
+tuple,234,403,4,42
+tuple,243,423,4,193
+tuple,243,423,5,14
+tuple,243,423,6,14
+tuple,243,423,7,14
+tuple,245,428,8,218
+tuple,245,428,9,31
+tuple,245,428,11,65
+tuple,247,429,13,75
+tuple,247,430,8,448
+tuple,247,430,9,29
+tuple,250,432,1,168
+tuple,250,432,2,27
+tuple,250,432,3,39
+tuple,250,432,5,34
+tuple,250,432,8,58
+tuple,250,432,9,103
+tuple,250,432,11,205
+tuple,251,433,5,116
+tuple,251,433,7,48
+tuple,251,433,9,50
+tuple,251,433,10,162
+tuple,251,433,11,16
+tuple,251,433,12,76
+tuple,251,433,14,97
+tuple,251,433,15,192
+tuple,251,433,16,176
+tuple,251,434,3,16
+tuple,251,434,4,59
+tuple,251,434,6,33
+tuple,251,434,12,127
+tuple,251,434,13,46
+tuple,253,435,0,99
+tuple,253,435,1,209
+tuple,253,435,3,139
+tuple,253,435,4,26
+tuple,253,435,5,100
+tuple,253,435,6,100
+tuple,253,435,7,133
+tuple,253,435,12,176
+tuple,254,436,15,37
+tuple,254,437,0,55
+tuple,254,437,1,18
+tuple,254,437,14,70
+tuple,254,437,15,107
+tuple,254,437,17,23
+tuple,255,438,10,30
+tuple,255,438,11,80
+tuple,258,440,2,143
+tuple,258,441,5,112
+tuple,258,441,10,86
+tuple,258,441,13,7
+tuple,259,442,1,95
+tuple,259,442,2,35
+tuple,259,442,3,62
+tuple,259,442,7,90
+tuple,259,442,11,136
+tuple,259,442,12,11
+tuple,259,442,13,19
+tuple,259,442,14,112
+tuple,259,442,15,59
+tuple,259,442,16,41
+tuple,259,443,3,93
+tuple,259,444,2,99
+tuple,261,445,16,202
+tuple,261,446,0,55
+tuple,261,446,1,49
+tuple,261,446,2,19
+tuple,261,446,3,9
+tuple,261,446,6,31
+tuple,261,446,7,37
+tuple,261,446,8,117
+tuple,261,446,17,85
+tuple,261,446,18,20
+tuple,262,447,5,14
+tuple,262,447,7,40
+tuple,262,447,8,22
+tuple,262,447,9,78
+tuple,262,447,12,16
+tuple,262,447,16,224
+tuple,262,447,17,39
+tuple,263,450,4,98
+tuple,263,450,11,143
+tuple,263,450,14,14
+tuple,263,450,15,14
+tuple,263,451,4,20
+tuple,266,454,0,96
+tuple,266,454,6,108
+tuple,270,462,12,44
+tuple,270,462,13,34
+tuple,270,462,14,79
+tuple,270,462,15,35
+tuple,270,462,16,53
+tuple,271,463,0,91
+tuple,271,463,1,12
+tuple,271,463,2,36
+tuple,271,463,3,48
+tuple,271,463,4,98
+tuple,271,463,7,16
+tuple,271,463,8,11
+tuple,271,463,9,60
+tuple,271,463,11,200
+tuple,273,466,1,93
+tuple,273,466,10,18
+tuple,279,474,10,20
+tuple,279,474,11,31
+tuple,281,475,7,173
+tuple,281,475,9,14
+tuple,283,476,1,9
+tuple,283,476,2,226
+tuple,283,476,3,34
+tuple,283,476,9,65
+tuple,283,476,10,51
+tuple,283,476,15,92
+tuple,283,476,16,110
+tuple,283,476,17,57
+tuple,284,477,0,125
+tuple,284,477,3,34
+tuple,284,477,6,61
+tuple,284,477,7,76
+tuple,284,477,8,70
+tuple,284,477,9,69
+tuple,284,477,10,34
+tuple,284,477,12,141
+tuple,284,477,13,26
+tuple,284,477,14,100
+tuple,284,477,15,100
+tuple,284,477,16,32
+tuple,285,478,0,227
+tuple,285,478,1,145
+tuple,285,478,2,54
+tuple,285,478,3,33
+tuple,285,478,6,40
+tuple,286,479,6,204
+tuple,286,479,8,33
+tuple,286,479,11,181
+tuple,286,479,13,116
+tuple,287,480,8,197
+tuple,287,480,9,64
+tuple,287,480,13,16
+tuple,287,480,15,91
+tuple,287,480,18,41
+tuple,287,481,2,156
+tuple,287,481,3,137
+tuple,287,481,5,78
+tuple,287,481,8,88
+tuple,287,481,9,151
+tuple,287,481,11,42
+tuple,288,482,1,27
+tuple,288,482,5,69
+tuple,288,482,6,146
+tuple,288,482,7,20
+tuple,288,482,8,46
+tuple,288,482,17,23
+tuple,290,483,10,80
+tuple,290,483,22,21
+tuple,290,483,23,33
+tuple,290,483,24,25
+tuple,290,484,1,181
+tuple,290,484,2,13
+tuple,290,484,4,65
+tuple,290,484,6,10
+tuple,290,484,7,9
+tuple,290,484,9,58
+tuple,290,484,11,43
+tuple,290,484,12,10
+tuple,291,485,1,36
+tuple,291,485,9,32
+tuple,291,485,12,243
+tuple,291,487,10,114
+tuple,291,487,12,149
+tuple,291,487,13,65
+tuple,291,487,14,68
+tuple,291,487,15,108
+tuple,291,487,21,0
+tuple,291,488,0,34
+tuple,291,488,2,58
+tuple,291,488,3,43
+tuple,291,488,10,12
+tuple,291,488,16,120
+tuple,292,489,2,115
+tuple,292,489,9,17
+tuple,292,489,10,43
+tuple,292,489,12,211
+tuple,292,491,2,8
+tuple,292,491,4,34
+tuple,292,491,6,82
+tuple,292,491,7,29
+tuple,292,491,8,65
+tuple,292,491,10,61
+tuple,292,491,11,115
+tuple,292,491,12,99
+tuple,292,491,14,5
+tuple,292,491,15,18
+tuple,292,492,0,68
+tuple,292,492,3,49
+tuple,292,492,5,12
+tuple,292,492,6,17
+tuple,292,492,9,62
+tuple,292,492,10,121
+tuple,292,492,11,58
+tuple,292,492,12,54
+tuple,292,492,13,40
+tuple,292,492,16,68
+tuple,292,492,17,152
+tuple,292,492,18,28
+tuple,292,492,19,48
+tuple,292,493,1,99
+tuple,292,493,2,33
+tuple,292,493,3,51
+tuple,292,493,4,61
+tuple,292,493,5,55
+tuple,292,493,6,33
+tuple,292,493,7,18
+tuple,292,493,8,9
+tuple,292,493,9,57
+tuple,292,493,10,70
+tuple,292,493,11,70
+tuple,292,493,14,148
+tuple,292,493,15,137
+tuple,292,493,16,34
+tuple,292,493,17,31
+tuple,292,493,18,62
+tuple,292,493,19,50
+tuple,293,494,0,135
+tuple,293,494,2,34
+tuple,293,495,0,82
+tuple,293,495,2,12
+tuple,293,495,6,42
+tuple,293,495,7,4
+tuple,293,495,28,42
+tuple,293,496,0,27
+tuple,293,496,1,114
+tuple,293,496,2,109
+tuple,293,496,4,31
+tuple,293,496,10,439
+tuple,293,497,1,181
+tuple,293,497,3,582
+tuple,293,497,4,41
+tuple,293,497,5,143
+tuple,294,498,10,42
+tuple,295,499,24,59
+tuple,300,502,9,65
+tuple,302,503,6,39
+tuple,302,503,8,9
+tuple,302,503,9,7
+tuple,302,503,15,12
+tuple,302,504,0,238
+tuple,302,504,1,144
+tuple,302,504,13,34
+tuple,302,504,14,101
+tuple,302,505,3,10
+tuple,302,505,4,111
+tuple,302,505,12,6
+tuple,302,506,1,12
+tuple,302,506,4,10
+tuple,302,506,12,46
+tuple,302,506,13,11
+tuple,303,509,9,155
+tuple,305,510,4,27
+tuple,305,510,5,25
+tuple,305,510,19,12
+tuple,305,510,25,53
+tuple,305,510,29,52
+tuple,305,510,32,53
+tuple,305,511,0,90
+tuple,305,511,2,191
+tuple,305,511,3,30
+tuple,305,511,4,3
+tuple,305,511,5,57
+tuple,305,511,7,129
+tuple,305,511,8,94
+tuple,307,513,5,871
+tuple,307,513,6,31
+tuple,308,515,5,20
+tuple,308,515,6,35
+tuple,308,516,3,41
+tuple,308,517,9,31
+tuple,308,517,10,85
+tuple,308,517,16,45
+tuple,308,518,7,25
+tuple,308,518,17,134
+tuple,311,519,11,24
+tuple,311,519,12,70
+tuple,311,519,13,59
+tuple,312,520,2,42
+tuple,312,520,3,270
+tuple,312,520,5,291
+tuple,312,520,6,107
+tuple,312,520,9,198
+tuple,312,520,12,158
+tuple,312,520,13,7
+tuple,313,521,5,55
+tuple,313,521,7,208
+tuple,314,522,7,35
+tuple,317,527,2,79
+tuple,317,527,6,208
+tuple,317,527,7,265
+tuple,317,527,9,13
+tuple,317,527,10,17
+tuple,317,528,1,91
+tuple,317,528,3,207
+tuple,317,528,4,27
+tuple,317,528,15,72
+tuple,317,528,17,127
+tuple,317,529,0,37
+tuple,317,529,3,70
+tuple,317,529,13,67
+tuple,317,529,14,70
+tuple,317,529,15,120
+tuple,317,529,16,63
+tuple,317,530,6,58
+tuple,317,530,8,49
+tuple,317,530,10,57
+tuple,317,530,11,91
+tuple,317,530,14,79
+tuple,317,531,9,272
+tuple,317,531,10,15
+tuple,317,531,11,104
+tuple,317,532,10,35
+tuple,317,532,11,122
+tuple,317,532,12,81
+tuple,317,532,13,54
+tuple,317,532,14,43
+tuple,317,532,15,42
+tuple,317,532,18,227
+tuple,317,533,0,313
+tuple,317,533,1,53
+tuple,317,533,2,49
+tuple,317,533,7,56
+tuple,317,533,8,60
+tuple,317,533,9,24
+tuple,318,535,3,239
+tuple,318,535,4,23
+tuple,318,535,5,83
+tuple,318,535,7,90
+tuple,318,535,8,57
+tuple,318,535,14,111
+tuple,318,535,18,44
+tuple,318,536,10,123
+tuple,319,537,2,111
+tuple,319,537,5,217
+tuple,319,537,6,94
+tuple,319,537,7,43
+tuple,319,537,14,4
+tuple,319,537,17,45
+tuple,320,538,5,9
+tuple,320,539,0,158
+tuple,320,539,2,89
+tuple,320,539,6,55
+tuple,320,539,8,112
+tuple,320,539,12,176
+tuple,320,540,10,59
+tuple,320,543,5,58
+tuple,320,543,7,34
+tuple,320,543,13,224
+tuple,320,543,14,266
+tuple,320,544,5,130
+tuple,320,545,0,70
+tuple,320,545,23,157
+tuple,320,546,1,187
+tuple,320,546,2,71
+tuple,320,546,3,27
+tuple,320,546,5,7
+tuple,320,547,11,91
+tuple,322,548,1,17
+tuple,322,548,9,151
+tuple,322,548,13,29
+tuple,323,550,5,255
+tuple,341,571,8,143
+tuple,342,572,6,126
+tuple,342,572,11,56
+tuple,365,611,2,46
+tuple,365,611,3,160
+tuple,383,641,14,113
+tuple,383,641,17,59
+tuple,384,642,0,66
+tuple,384,642,1,45
+tuple,384,642,10,90
+tuple,384,642,13,85
+tuple,386,643,6,158
+tuple,386,643,7,77
+tuple,386,643,8,46
+tuple,387,645,1,182
+tuple,387,645,4,56
+tuple,387,645,5,14
+tuple,387,645,6,21
+tuple,387,645,7,31
+tuple,389,646,6,52
+tuple,389,647,9,138
+tuple,390,649,17,46
+tuple,390,649,18,77
+tuple,392,650,2,16
+tuple,392,650,9,108
+tuple,392,650,11,28
+tuple,392,650,12,70
+tuple,392,650,13,49
+tuple,392,650,14,98
+tuple,392,651,6,57
+tuple,392,651,7,59
+tuple,395,653,7,20
+tuple,395,653,19,107
+tuple,395,653,22,32
+tuple,395,655,6,62
+tuple,395,655,7,135
+tuple,396,659,1,64
+tuple,400,666,4,75
+tuple,400,666,6,56
+tuple,400,666,7,114
+tuple,400,668,6,18
+tuple,400,669,9,30
+tuple,400,669,10,52
+tuple,400,669,11,28
+tuple,400,669,12,126
+tuple,401,670,2,233
+tuple,402,671,16,77
+tuple,402,671,17,9
+tuple,404,678,12,202
+tuple,404,679,27,32
+tuple,405,680,0,70
+tuple,410,684,5,314
+tuple,410,686,7,64
+tuple,412,689,8,61
+tuple,412,689,11,164
+tuple,412,690,9,45
+tuple,412,690,10,50
+tuple,412,690,12,115
+tuple,412,690,21,43
+tuple,412,690,26,28
+tuple,413,691,0,195
+tuple,413,691,1,18
+tuple,413,692,1,67
+tuple,413,692,2,235
+tuple,413,692,11,306
+tuple,413,692,12,23
+tuple,413,692,14,45
+tuple,414,693,7,116
+tuple,414,693,8,58
+tuple,414,693,9,82
+tuple,414,693,10,51
+tuple,414,693,11,101
+tuple,414,693,12,29
+tuple,414,693,13,43
+tuple,414,693,16,68
+tuple,416,694,0,138
+tuple,417,695,0,201
+tuple,417,695,8,174
+tuple,417,695,9,124
+tuple,417,695,11,81
+tuple,417,695,12,16
+tuple,417,695,14,72
+tuple,417,696,4,42
+tuple,417,696,5,47
+tuple,417,696,8,148
+tuple,417,696,9,88
+tuple,417,697,0,96
+tuple,417,697,1,129
+tuple,423,702,3,235
+tuple,423,702,8,84
+tuple,425,703,5,53
+tuple,425,704,2,63
+tuple,427,705,6,18
+tuple,428,708,17,186
+tuple,428,708,18,67
+tuple,430,709,2,70
+tuple,431,710,3,229
+tuple,432,711,3,102
+tuple,432,712,9,43
+tuple,434,713,7,17
+tuple,438,716,0,56
+tuple,456,752,0,418
+tuple,457,754,18,34
+tuple,457,754,20,17
+tuple,457,755,12,111
+tuple,457,755,17,100
+tuple,465,762,1,77
+tuple,465,762,2,36
+tuple,465,762,4,75
+tuple,465,762,5,23
+tuple,465,762,6,24
+tuple,465,762,7,46
+tuple,465,762,10,36
+tuple,465,762,11,112
+tuple,465,762,14,95
+tuple,465,762,16,3
+tuple,467,763,10,75
+tuple,467,763,11,60
+tuple,467,763,12,133
+tuple,467,764,0,160
+tuple,467,764,2,43
+tuple,467,764,3,60
+tuple,467,764,4,38
+tuple,467,764,5,30
+tuple,467,764,6,38
+tuple,467,764,7,75
+tuple,467,764,8,154
+tuple,467,764,9,136
+tuple,467,765,10,29
+tuple,467,765,11,137
+tuple,467,765,13,43
+tuple,467,765,14,106
+tuple,467,765,16,182
+tuple,467,765,17,82
+tuple,467,765,20,18
+tuple,468,766,5,232
+tuple,468,766,9,45
+tuple,468,766,11,0
+tuple,469,767,0,21
+tuple,469,767,1,13
+tuple,469,767,2,53
+tuple,469,767,10,75
+tuple,469,767,11,3
+tuple,476,770,8,45
+tuple,476,770,9,26
+tuple,476,771,11,84
+tuple,479,772,6,16
+tuple,479,772,11,93
+tuple,479,772,12,69
+tuple,484,776,2,77
+tuple,484,776,3,30
+tuple,484,776,5,79
+tuple,484,776,7,167
+tuple,484,777,0,165
+tuple,484,777,1,107
+tuple,484,777,11,48
+tuple,484,777,15,49
+tuple,484,778,3,97
+tuple,484,778,5,36
+tuple,484,778,6,42
+tuple,484,778,7,104
+tuple,484,778,8,55
+tuple,484,778,14,7
+tuple,484,779,0,50
+tuple,484,779,1,104
+tuple,484,779,6,31
+tuple,484,779,10,137
+tuple,484,779,18,78
+tuple,484,779,20,203
+tuple,485,780,2,51
+tuple,485,780,10,68
+tuple,485,780,11,75
+tuple,485,780,12,19
+tuple,498,798,3,109
+tuple,498,798,5,31
+tuple,498,798,7,76
+tuple,498,799,12,17
+tuple,498,799,13,14
+tuple,498,799,16,212
+tuple,498,799,23,221
+tuple,498,799,26,220
+tuple,498,800,15,11
+tuple,498,800,18,11
+tuple,498,800,19,83
+tuple,498,800,23,57
+tuple,498,800,24,61
+tuple,498,800,25,64
+tuple,504,811,13,152
+tuple,510,815,4,5
+tuple,510,815,6,134
+tuple,510,815,9,114
+tuple,511,816,5,94
+tuple,511,816,8,145
+tuple,517,821,7,202
+tuple,517,821,8,152
+tuple,517,821,10,70
+tuple,519,822,7,23
+tuple,519,822,11,18
+tuple,521,823,3,155
+tuple,521,823,8,21
+tuple,521,823,10,20
+tuple,521,824,15,123
+tuple,521,825,13,175
+tuple,521,825,20,146
+tuple,523,827,4,51
+tuple,523,828,8,122
+tuple,524,829,3,148
+tuple,526,830,4,126
+tuple,526,830,7,32
+tuple,526,831,11,101
+tuple,526,831,12,46
+tuple,526,831,17,69
+tuple,527,833,11,49
+tuple,527,833,13,114
+tuple,527,834,11,89
+tuple,530,838,12,107
+tuple,530,838,13,38
+tuple,530,838,15,11
+tuple,536,843,17,109
+tuple,536,843,18,7
+tuple,536,843,19,97
+tuple,536,843,20,85
+tuple,536,843,21,83
+tuple,536,844,0,144
+tuple,536,844,10,98
+tuple,536,844,11,25
+tuple,537,848,6,70
+tuple,537,848,15,66
+tuple,537,848,16,10
+tuple,537,848,17,84
+tuple,539,850,0,31
+tuple,539,850,1,110
+tuple,539,850,3,52
+tuple,539,850,4,55
+tuple,539,850,5,63
+tuple,539,850,7,101
+tuple,539,850,9,108
+tuple,539,850,10,20
+tuple,539,850,11,79
+tuple,539,850,13,128
+tuple,539,850,14,4
+tuple,539,851,1,90
+tuple,539,851,2,18
+tuple,539,851,3,67
+tuple,539,851,4,23
+tuple,539,851,5,76
+tuple,539,851,7,114
+tuple,539,851,9,86
+tuple,539,851,10,138
+tuple,539,852,4,93
+tuple,539,852,7,91
+tuple,540,853,1,246
+tuple,540,853,3,24
+tuple,540,853,4,34
+tuple,540,853,6,138
+tuple,540,853,11,18
+tuple,541,854,1,165
+tuple,541,854,2,11
+tuple,541,854,3,99
+tuple,541,854,4,23
+tuple,541,854,5,28
+tuple,541,854,6,85
+tuple,542,855,6,43
+tuple,542,855,9,54
+tuple,542,855,10,17
+tuple,542,855,13,42
+tuple,542,855,14,26
+tuple,542,855,15,40
+tuple,542,855,16,50
+tuple,542,855,17,52
+tuple,542,855,18,27
+tuple,543,856,5,39
+tuple,543,856,6,304
+tuple,543,856,7,49
+tuple,544,857,10,11
+tuple,544,857,11,58
+tuple,544,857,12,41
+tuple,544,857,16,32
+tuple,544,857,17,35
+tuple,544,857,20,97
+tuple,545,858,1,140
+tuple,545,858,2,56
+tuple,545,858,3,61
+tuple,546,859,14,4
+tuple,546,860,1,116
+tuple,546,860,4,29
+tuple,546,861,4,89
+tuple,546,861,7,33
+tuple,547,862,8,74
+tuple,547,863,4,108
+tuple,547,863,9,51
+tuple,547,863,14,309
+tuple,547,863,15,61
+tuple,547,863,16,18
+tuple,547,863,17,43
+tuple,547,864,0,17
+tuple,547,864,10,19
+tuple,548,865,6,23
+tuple,548,865,7,76
+tuple,548,865,8,21
+tuple,548,865,9,171
+tuple,548,865,12,110
+tuple,548,865,13,131
+tuple,548,865,14,26
+tuple,549,866,0,119
+tuple,549,866,2,69
+tuple,549,866,3,63
+tuple,549,866,5,98
+tuple,549,866,6,82
+tuple,549,866,9,70
+tuple,549,866,10,231
+tuple,549,866,12,102
+tuple,549,866,14,150
+tuple,549,867,1,24
+tuple,549,867,5,46
+tuple,549,867,6,12
+tuple,549,867,7,39
+tuple,549,867,8,17
+tuple,549,867,9,19
+tuple,549,867,10,100
+tuple,549,867,11,167
+tuple,550,868,0,30
+tuple,550,868,2,33
+tuple,550,868,3,12
+tuple,550,868,6,115
+tuple,550,868,8,52
+tuple,551,869,1,144
+tuple,551,869,5,58
+tuple,553,873,12,110
+tuple,553,873,21,83
+tuple,559,888,2,105
+tuple,559,889,15,113
+tuple,559,889,17,88
+tuple,563,893,11,16
+tuple,564,894,1,158
+tuple,564,894,4,99
+tuple,564,894,6,218
+tuple,564,894,8,100
+tuple,564,894,10,190
+tuple,565,895,8,61
+tuple,565,895,9,91
+tuple,567,898,18,12
+tuple,568,899,13,224
+tuple,569,900,2,237
+tuple,578,908,5,385
+tuple,579,911,9,89
+tuple,584,921,8,158
+tuple,585,922,17,4
+tuple,591,929,3,222
+tuple,592,930,8,165
+tuple,592,930,16,52
+tuple,593,931,0,209
+tuple,593,931,1,164
+tuple,593,931,2,47
+tuple,593,931,10,126
+tuple,593,931,11,96
+tuple,593,931,14,46
+tuple,594,932,8,76
+tuple,597,935,1,69
+tuple,597,935,12,185
+tuple,597,935,14,31
+tuple,597,935,15,49
+tuple,600,940,8,79
+tuple,603,944,17,128
+tuple,603,944,18,23
+tuple,604,946,10,124
+tuple,604,946,11,20
+tuple,635,985,9,116
+tuple,638,994,37,46
+tuple,640,1001,3,40
+tuple,642,1004,4,10
+tuple,642,1004,5,66
+tuple,642,1004,6,111
+tuple,665,1027,13,126
+tuple,676,1064,9,39
+use case diagram,43,81,16,0
+use case diagram,45,89,25,44
+materialized view,72,133,11,97
+materialized view,573,903,3,121
+materialized view,575,904,6,0
+materialized view,575,904,9,40
+materialized view,576,906,2,498
+materialized view,579,911,17,25
+materialized view,580,912,1,22
+materialized view,582,913,16,74
+materialized view,582,917,9,54
+materialized view,676,1052,26,0
+materialized view,676,1067,38,13
+materialized view,676,1069,57,24

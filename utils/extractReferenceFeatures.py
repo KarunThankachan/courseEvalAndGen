@@ -5,6 +5,8 @@ def createComplexityFeature(concept_features):
     '''
     '''
     concept_complexity = {}
+    concept_chapters = {}
+    concept_locations = {}
     for concept in concept_features:
         if concept[0] in concept_complexity:
             concept_complexity[concept[0]] += 1
@@ -14,11 +16,11 @@ def createComplexityFeature(concept_features):
     return concept_complexity
 
 
-def createReferenceFeatures(prefix="results\\"):
+def createReferenceFeatures(path="results\\", filename='Networking_concepts.csv'):
     '''
     '''
     concept_features = []
-    with open(prefix+'Networking_concepts.csv') as csv_file:
+    with open(path+filename) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
             concept_features.append(row)
@@ -49,15 +51,15 @@ def createReferenceFeatures(prefix="results\\"):
                 # calculate complexity distance
                 ref_complexity_dist = c_A_complexity - c_B_complexity
                 ref_line_dist, ref_word_dist, ref_line_flag , ref_word_flag = None, None,  0 , 0
-
+                # chapter distnace
                 ref_chap_dist = int(c_A_chapter) - int(c_B_chapter)
+                # page distance
                 ref_page_dist = int(c_A_page) - int(c_B_page)
-
+                # line distance
                 if ref_page_dist == 0:
                     ref_line_dist = int(c_A_sentence) - int(c_B_sentence)
                     ref_line_flag = 1
-
-
+                # word distance
                 if ref_line_dist == 0:
                     ref_word_dist = int(c_A_word) - int(c_B_word)
                     ref_word_flag = 1
@@ -68,7 +70,7 @@ def createReferenceFeatures(prefix="results\\"):
 
                 if (c_A_concept, c_B_concept) not in concept_refs:
                     concept_refs[(c_A_concept, c_B_concept)] = [ref_chap_dist, 
-                        ref_page_dist, ref_line_dist, ref_word_dist, 1, ref_line_flag, ref_word_flag, ref_complexity_dist]
+                        ref_page_dist, ref_line_dist, ref_word_dist, 1, ref_line_flag, ref_word_flag, ref_complexity_dist, 0, 0]
                 else:
                     concept_refs[(c_A_concept, c_B_concept)][0] += ref_chap_dist
                     concept_refs[(c_A_concept, c_B_concept)][1] += ref_page_dist
@@ -77,10 +79,18 @@ def createReferenceFeatures(prefix="results\\"):
                     concept_refs[(c_A_concept, c_B_concept)][4] += 1
                     concept_refs[(c_A_concept, c_B_concept)][5] += ref_line_flag
                     concept_refs[(c_A_concept, c_B_concept)][6] += ref_word_flag
+
         curr_concept_count += 1
         print("Concept ", curr_concept_count, " completed of total ", concept_count)
 
-    with open("results\\Networking_concepts_features.csv", 'a', newline="", encoding="utf-8") as concept_file:
+    filename = filename.split(".")[0] + "_features.csv"
+
+    # clear file content
+    f = open(path + filename , 'w')
+    f.truncate(0) # need '0' when using r+
+    f.close()
+        
+    with open(path+filename, 'a', newline="", encoding="utf-8") as concept_file:
         for key,value in concept_refs.items():
             out_val = key[0] + "," + key[1] + "," + str(value[0]) + "," + str(value[1]) + "," + \
                 str(value[2]) + "," + str(value[3]) + "," + str(value[4]) + "," + \
@@ -89,5 +99,7 @@ def createReferenceFeatures(prefix="results\\"):
     
     return
 
-createReferenceFeatures()
+#createReferenceFeatures(path="results\\", filename='Networking_concepts.csv')
+createReferenceFeatures(path="results\\", filename='Economics_concepts.csv')
+createReferenceFeatures(path="results\\", filename='Physics_concepts.csv')
             

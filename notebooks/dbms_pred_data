@@ -1,0 +1,329 @@
+ConceptA,ConceptB,pred
+Object-relational database,Object database,1
+Fifth normal form,Table (database),0
+Fourth normal form,Fifth normal form,1
+Join dependency,Fifth normal form,0
+Fifth normal form,candidate key,0
+Fifth normal form,relational database,0
+Third normal form,Fifth normal form,1
+Table (database),materialized view,0
+Table (database),Database security,0
+Table (database),Database schema,0
+Table (database),Delete (SQL),1
+Table (database),referential integrity,0
+Table (database),relational database,1
+Table (database),Data definition language,0
+Table (database),Check constraint,1
+Table (database),Update (SQL),1
+Table (database),Tuple,1
+Table (database),Join (SQL),1
+Fourth normal form,Fifth normal form,1
+Fourth normal form,Table (database),0
+candidate key,Fourth normal form,0
+relational database,Fourth normal form,1
+Third normal form,Fourth normal form,1
+Functional dependency,Fourth normal form,0
+Multivalued dependency,Fourth normal form,1
+Join dependency,Multivalued dependency,1
+Join dependency,Functional dependency,0
+Join dependency,Fifth normal form,0
+candidate key,Fourth normal form,0
+candidate key,referential integrity,0
+relational database,candidate key,1
+candidate key,Third normal form,1
+candidate key,Database schema,0
+Relational model,candidate key,1
+candidate key,Functional dependency,0
+relational database,Object database,1
+Table (database),relational database,1
+relational database,Fourth normal form,1
+relational database,candidate key,1
+relational database,Relational model,1
+relational database,Conceptual schema,0
+relational database,database design,1
+relational database,weak entity,0
+relational database,SQL,0
+relational database,Foreign key,0
+relational database,Data definition language,0
+relational database,Database schema,0
+relational database,Insert (SQL),0
+relational database,Where (SQL),0
+relational database,Query plan,1
+relational database,bitmap index,0
+relational database,data integrity,0
+relational database,Object-relational database,1
+relational database,deductive database,0
+relational database,query optimization,0
+Cartesian product,relational database,0
+Tuple,relational database,1
+relational database,referential integrity,1
+relational database,B-tree,0
+relational database,Stored procedure,0
+relational database,active database,1
+relational database,Check constraint,0
+Relational calculus,relational database,0
+Relation (database),relational database,0
+relational model,relational database,0
+relational database,Functional dependency,1
+Third normal form,Fifth normal form,1
+Third normal form,Fourth normal form,1
+Third normal form,Relation (database),0
+Functional dependency,Third normal form,0
+Entity-relationship model,relational database,0
+Entity-relationship model,Class diagram,0
+Entity-relationship model,Temporal database,0
+Entity-relationship model,Relational model,0
+Entity-relationship model,data dictionary,0
+Entity-relationship model,Conceptual schema,0
+Entity-relationship model,database design,0
+Entity-relationship model,Unified Modeling Language,0
+Entity-relationship model,Information System,0
+Entity-relationship model,weak entity,1
+Unified Modeling Language,Class diagram,0
+Class diagram,Use Case Diagram,1
+Class diagram,Use case,1
+Temporal database,Database schema,0
+Relational model,Object database,0
+Relational model,Table (database),0
+Relational model,candidate key,1
+relational database,Relational model,1
+Relational model,Conceptual schema,0
+database design,Relational model,1
+Relational model,Join (SQL),0
+Relational model,Foreign key,0
+Database schema,Relational model,0
+Relational model,data type,0
+Relational model,Query plan,0
+Relational model,Database transaction,0
+Relational model,Object-relational database,0
+Relational model,query optimization,1
+Cartesian product,Relational model,0
+Relational model,Tuple,0
+Relational model,Relational calculus,1
+Relational model,Functional dependency,0
+Domain relational calculus,Relational model,0
+Relational model,materialized view,0
+data dictionary,data integrity,0
+data dictionary,SQL,0
+data dictionary,query optimization,0
+data dictionary,Join (SQL),0
+data dictionary,Table (database),0
+data dictionary,Foreign key,0
+data dictionary,Data definition language,0
+data dictionary,Database schema,0
+data dictionary,data type,0
+data dictionary,database design,0
+Conceptual schema,Database schema,0
+database design,data integrity,0
+database design,Object database,0
+relational database,database design,1
+database design,Data definition language,0
+database design,Database schema,1
+database design,data type,0
+database design,Relational model,1
+database design,Conceptual schema,1
+Unified Modeling Language,Class diagram,0
+Unified Modeling Language,Use Case Diagram,1
+Unified Modeling Language,Use case,1
+Information System,data integrity,0
+Information System,Object-relational database,0
+Information System,concurrency control,0
+Information System,multiversion concurrency control,0
+weak entity,Foreign key,1
+SQLJ,Embedded SQL,1
+SQLJ,SQL,1
+SQL,Table (database),0
+relational database,SQL,0
+SQL,Relational model,0
+SQL,Join (SQL),1
+SQL,Data manipulation language,0
+SQL,Data definition language,0
+SQL,Database schema,1
+SQL,Update (SQL),0
+SQL,Where (SQL),0
+SQL,Query plan,0
+SQL,aggregate function,0
+SQL,Set operations (SQL),0
+SQL,multiversion concurrency control,0
+SQL,Database transaction,0
+SQL,Object-relational database,0
+SQL,deductive database,0
+SQL,query optimization,1
+SQL,Tuple,0
+SQL,Relation (database),0
+SQL,SQL injection,1
+SQL,XML,0
+SQL,SQL/PSM,1
+SQL,SQL/CLI,1
+SQL,materialized view,0
+SQL,Database security,0
+transaction processing,Information System,0
+transaction processing,SQL,0
+concurrency control,transaction processing,1
+transaction processing,Join (SQL),0
+transaction processing,Atomicity (database systems),1
+concurrency control,transaction processing,1
+concurrency control,Timestamp-based concurrency control,0
+concurrency control,multiversion concurrency control,0
+Join (SQL),bitmap index,0
+Join (SQL),data integrity,0
+Join (SQL),Object database,0
+Join (SQL),query optimization,1
+Join (SQL),Foreign key,0
+Join (SQL),Query plan,0
+Atomicity (database systems),concurrency control,0
+Atomicity (database systems),Database transaction,1
+Delete (SQL),Data manipulation language,0
+Delete (SQL),Foreign key,0
+Delete (SQL),Data definition language,0
+Data manipulation language,SQL,0
+Data manipulation language,relational database,0
+Data manipulation language,Data definition language,0
+Data manipulation language,Select (SQL),0
+Data manipulation language,data type,0
+Data manipulation language,Update (SQL),0
+Data manipulation language,data dictionary,0
+Data manipulation language,Where (SQL),0
+Data manipulation language,Insert (SQL),0
+Foreign key,referential integrity,1
+Foreign key,Data definition language,0
+Foreign key,Functional dependency,0
+SQL,Data definition language,0
+Data definition language,XML schema,0
+Class diagram,Use Case Diagram,1
+Unified Modeling Language,Use Case Diagram,1
+Use case,Use Case Diagram,1
+Use case,Use Case Diagram,1
+Database schema,Object-relational database,0
+Database schema,Object database,0
+Database schema,Data definition language,0
+Database schema,Functional dependency,0
+Database schema,XML schema,0
+Database schema,Relational model,0
+Select (SQL),SQL,1
+Select (SQL),Table (database),0
+Select (SQL),relational database,0
+Select (SQL),Data definition language,0
+Select (SQL),Insert (SQL),0
+Select (SQL),Where (SQL),0
+Select (SQL),Query plan,0
+Select (SQL),aggregate function,0
+Select (SQL),Set operations (SQL),0
+data type,Object-relational database,0
+data type,concurrency control,0
+data type,Tuple,0
+data type,Data definition language,0
+data type,Database schema,0
+data type,XML schema,1
+data type,XML,1
+Update (SQL),Data definition language,0
+Update (SQL),Check constraint,0
+Insert (SQL),SQL,1
+Insert (SQL),Stored procedure,0
+Insert (SQL),Table (database),0
+Insert (SQL),Data definition language,0
+Insert (SQL),Check constraint,0
+Where (SQL),Update (SQL),0
+Where (SQL),Join (SQL),1
+Where (SQL),Delete (SQL),0
+SQL,Query plan,0
+Query plan,query optimization,1
+aggregate function,materialized view,0
+aggregate function,XML,0
+SQL,Set operations (SQL),0
+Set operations (SQL),data type,0
+Set operations (SQL),Join (SQL),1
+Set operations (SQL),Table (database),0
+grid file,Table (database),0
+concurrency control,Timestamp-based concurrency control,0
+Timestamp-based concurrency control,multiversion concurrency control,0
+multiversion concurrency control,Object database,0
+concurrency control,multiversion concurrency control,0
+multiversion concurrency control,Database transaction,1
+Database transaction,data integrity,1
+Database transaction,Data definition language,0
+Database transaction,concurrency control,1
+B-tree,bitmap index,1
+data integrity,Database security,0
+data integrity,concurrency control,0
+referential integrity,data integrity,1
+data integrity,Foreign key,0
+data integrity,Check constraint,0
+data integrity,Database schema,0
+relational database,Object-relational database,1
+Object-relational database,Object database,1
+SQL,query optimization,1
+Relational model,query optimization,1
+query optimization,Tuple,0
+Query plan,query optimization,1
+Cartesian product,relational database,0
+Cartesian product,data type,0
+Cartesian product,Relational model,0
+Cartesian product,Join (SQL),1
+Tuple,Cartesian product,1
+referential integrity,data integrity,1
+referential integrity,Data definition language,0
+referential integrity,Join (SQL),0
+referential integrity,Tuple,0
+candidate key,referential integrity,0
+Foreign key,referential integrity,1
+referential integrity,Delete (SQL),0
+Relation (database),referential integrity,0
+referential integrity,Third normal form,1
+referential integrity,Temporal database,0
+referential integrity,Functional dependency,0
+referential integrity,data dictionary,0
+Table (database),referential integrity,0
+relational database,referential integrity,1
+referential integrity,weak entity,0
+referential integrity,XML schema,0
+B-tree,bitmap index,1
+Tree structure,B-tree,1
+Stored procedure,Database schema,0
+Stored procedure,Data definition language,0
+Stored procedure,SQL/PSM,0
+active database,Object database,0
+Relational calculus,Domain relational calculus,1
+Relational calculus,relational database,0
+Relational model,Relational calculus,1
+Relational calculus,Relation (database),0
+Tuple,Relational calculus,1
+Relation (database),Data independence,0
+Relation (database),Tuple,0
+Relation (database),Table (database),0
+Relation (database),referential integrity,0
+Relation (database),candidate key,0
+Relation (database),relational database,0
+Relation (database),Data definition language,0
+Relation (database),Database schema,0
+Relation (database),data type,0
+Relation (database),Relational model,0
+Relation (database),Functional dependency,0
+Relation (database),Join (SQL),0
+relational model,relational database,0
+relational database,Functional dependency,1
+Functional dependency,Third normal form,0
+Functional dependency,Fourth normal form,0
+data type,XML schema,1
+XML,XML schema,1
+SQL,SQL injection,1
+SQL injection,data type,0
+SQL injection,XML,0
+SQL injection,Table (database),0
+spatial database,Object database,0
+spatial database,SQL,0
+spatial database,data type,0
+Multivalued dependency,Functional dependency,0
+Multivalued dependency,Fourth normal form,1
+Tree structure,B-tree,1
+Relational calculus,Domain relational calculus,1
+Domain relational calculus,Relational model,0
+Tuple,Domain relational calculus,1
+XML,Object database,0
+XML,Data definition language,0
+XML,Database schema,0
+XML,XML schema,1
+materialized view,bitmap index,0
+Table (database),materialized view,0
+materialized view,Database schema,0
+Object identifier,Object-relational database,0
