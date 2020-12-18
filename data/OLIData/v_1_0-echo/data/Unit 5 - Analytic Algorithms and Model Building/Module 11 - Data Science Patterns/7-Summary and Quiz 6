@@ -1,0 +1,28 @@
+
+
+  * Prediction involves using a model to predict outcomes and Inference tasks include understanding how your dependent variable Y is affected by changes in independent variables.
+
+  * Parametric Methods assume that your dataset comes from a population that has a fixed set of parameters. Non-Parametric Methods seek an estimate of f that is close to the data points. 
+
+  * If you are interested in inference, a restrictive linear model that shows the relationship between your dependent variable (Y) and independent variables will be the best choice for estimating f. When prediction is the task of interest, flexibility is key and because interpretability is not a high concern, you can use the methods with less interpretability.
+
+  * Classification involves an existing dataset that has labeled outcomes and seeks to label the outcomes of a new dataset.
+
+  * Types of Classification Problems include Binary Classification, Multi-Class Classification and Multi-Label Classification.
+
+  * Logistic regression uses a logistic function to model the probability of a class or event. 
+
+  * Regression techniques return a quantitative response to a task. It is used to investigate the relationship between your input (independent) variables and your output (dependent) variable and predict the average value of an output variable given some independent variable(s). 
+
+  * Simple linear regression model  allows for predicting a response based on one predictor variable. Single linear regression does not allow for multiple predictor variables, so instead of training multiple simple linear regression models for each predictor, you use the multiple linear regression method to account for multiple predictors. 
+
+  * A goodness of fit of a model will show how the model fits the data that it is trained with; it will highlight a lack of balance between observations in the dataset and those that will be introduced to the model (new values).
+
+  * When we want to study the hidden structure of data and identify different groups within that structure, we use the Cluster Analysis technique.
+
+  * A data science pattern that can be used to solve different data science tasks from machine translation to information retrieval is Ranking.
+
+  * Active Learning pattern involves an algorithm or learner that can choose the data it will learn from, it will perform better than an algorithm that does not choose its own data, and it will perform better with less training.
+
+  * Note: Please ask questions about the quiz (if any) by posting a private question to Piazza on Canvas or by sending an email.
+

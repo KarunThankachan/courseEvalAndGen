@@ -1,0 +1,72 @@
+
+
+CART methods do not have good predictive performance; there are methods that
+can be used to compensate for this deficiency called Ensemble Models. Ensemble
+models combine other models to produce an optimal predictive model. Ensemble
+models also solve the problem of overfitting as faced by single tree models.
+Ensemble models are not typically displayed using a tree diagram, it combines
+a group of single tree models to form an ensemble tree model with better
+predictive power. Ensemble learning can reduce the errors when detecting
+Distributed denial of service attacks, and for detecting disorders in MRI
+datasets.
+
+Bagging reduces variance in a decision tree method. This is achieved by
+averaging a set of observations and directly applied by producing multiple
+training data sets from the entire dataset , using those training datasets to
+build a model for each set, then averaging the results retrieved from each
+model. This is likely to produce a model with low variance. Bagging will
+reduce overfitting issues and works quite well with high dimensionality data.
+Out-of-Bag Error Estimation measures the prediction error of models that use
+bagging. It is also used to validate models created using random forest. It is
+computed on data that was not used in the analysis of a model, unlike your
+validation metrics.
+
+Additional Reading: History of Random Forest Algorithm  
+  
+---  
+  
+Random Forests. This is an extension of bagging, and makes needed changes to
+bagged trees. When there is overfitting with decision trees, random forests
+will remedy this issue. Similar to bagging, a random forest will perform well
+because it consists of a large number of decorrelated trees (the focus is on
+the low correlation between trees). Random Forest will build several decision
+trees and then merge them for better accuracy and predictive value. It is used
+for classification and regression tasks and it searches for the best feature
+within a random subset of features in a dataset. Random forest method will
+also assess the importance of features and scales the results of this
+assessment to show the importance of features. This is useful for feature
+engineering as you can eliminate the features that do not contribute to your
+task without losing information. Random forests creates subsets (random) of
+features and combines those subsets which prevents overfitting. A best
+practice that you should keep in mind is that a data scientist can derive the
+number of features to be included in the tree by calculating the square root
+of the predictor variables. The downside to the random forest method is that
+it can be computationally slow in making predictions (but not slow to train).
+
+Boosting. Similar to bagging, boosting can be used to improve the predictive
+accuracy of certain methods including decision trees. It differs somewhat from
+bagging as the trees built with this model are dependent on a prior tree (each
+tree depends on or fits the residual of the trees that preceded it). Each tree
+is created iteratively and the output of each tree is assigned a weight that
+is relative to its accuracy. This ensures that the estimate of f is improved.
+
+Overfitting can occur in boosting if the number of trees becomes too large.
+When you take your machine learning class, you will learn more about the
+techniques that are used in Boosting including one of the most popular:
+Adaptive Boosting (AdaBoost). AdaBoost is used to improve performance of
+models. It is sensitive to outlier data but on the upside, it is considered as
+the best out of the box classifier when used with decision trees. This is
+because the information that is collected by the AdaBoost algorithm about the
+training data is then fed into the tree algorithm, so that the model can
+accurately classify observations that would have otherwise been difficult to
+classify. AdaBoost will select features in the dataset that will improve the
+predictive power of the model and this is helpful for reducing dimensionality
+and improving computation time.
+
+Ensemble methods were represented as an extension of the tree method, take
+note that they are used for other methods as well.
+
+Reading: Ensemble Methods-General Use  
+  
+---  
+  

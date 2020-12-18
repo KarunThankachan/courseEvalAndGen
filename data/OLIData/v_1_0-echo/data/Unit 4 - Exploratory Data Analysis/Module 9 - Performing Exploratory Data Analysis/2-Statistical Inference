@@ -1,0 +1,206 @@
+
+
+Statistical Inference
+
+Statistical Inference is the process of drawing an informed conclusion about
+an aspect of your entire dataset using statistical methods. Those conclusions
+are typically drawn using exploratory data analysis or summary statistics. The
+goal of this process is to use probability theory to make inferences about
+your data. This is the first step of learning about the attributes of your
+population from the sample that you have drawn.
+
+Reminder: The characteristics of the sample dataset are called statistics! The
+characteristics of your population are known as parameters.  
+  
+---  
+  
+Understanding statistical inference ensures that you analyze your data
+properly and eventually draw the right conclusions for decision making
+purposes.
+
+If you recall from a previous unit, you learned that the objective of your
+data science project could be to explore the data and gather insights from
+that exploratory exercise. You can use statistical inference to draw
+scientific conclusions and test set hypotheses. Significance of a sample data
+set or descriptive statistics is often in question during the EDA process,
+using statistical inference techniques can give significance to your
+conclusions from EDA. Statistical inference techniques are categorized under
+Estimation and Hypothesis Testing. Let us explore these methods:
+
+Sampling Distribution
+
+You typically draw a sample dataset from your population as it is quite
+difficult to perform analysis on an entire population. Let us consider a quick
+example, assume we are analyzing the income data of all Neurologists in the
+United States of America. We can make inferences about the population mean
+income by calculating the mean of income on a sample of 2,000 Neurologists.
+This mean is the Sample Mean x̄. We also refer to this as the point estimator
+of the population mean. If the mean of our sample is $258,900, then we refer
+to this number as the estimate of the population mean.
+
+Let's expand this further! The American Academy of Neurology conducted a study
+that estimated the number of Neurologists in the US at 16,400. We can draw
+another sample that will result in a different mean. Consider you draw
+multiple samples and record each sample mean, you will have what is called a
+sampling distribution. If you continued to draw samples from this population,
+the average value of your point estimator will equal the population mean. We
+can say that a point estimator is unbiased if its expected value equals that
+of the population.
+
+Keeping with the example above, let us derive the variance of your sample
+mean. If we continued to sample our neurologist population, the variance of
+the sample mean will be the variance of our population, divided by 16,400.
+Note that the variability between observations is usually larger than
+variability between sample means. This is because your sample contains a range
+of observations. Finally, you will derive the standard error of the sample
+mean. This is the population standard deviation divided by the square root of
+the sample size or simply, the standard deviation of the sampling
+distribution.
+
+Standard Error = Population Standard Deviation/
+
+The standard error is important because it measures how accurate the sample
+distribution represents the population.
+
+  * Please note that the sampling distribution is considered normal if the population mean is normally distributed. This is highlighted because you can not use most statistical inference techniques if the sampling distribution of your sample mean is not normally distributed.  
+  
+---  
+  
+There is a popular theorem that addresses the situation when your population
+is not normally distributed. This is known as The Central Limit Theorem!  
+  
+Statistical inference is not solely applied to means, it is also applied to
+proportions.  
+  
+  * You will work with proportions in clustering analysis tasks. If a telecommunications company is assessing the proportion of customers who sign up for a contract after receiving a promotional advertisement, the parameter of interest is the population proportion p. As the data scientist tasked with this analysis, you will make an inference about the population proportion by drawing a sample. In this case, the point estimator is the sample proportion P hat or p̂. 
+
+Reading: Proportions.
+
+Confidence Interval
+
+When we provide a range of values of estimates for a population parameter, we
+are referring to the Confidence Interval (CI). You can think of it as the
+range of likely values for a population parameter with a specified level of
+confidence. The sampling distributions of your sampling mean or sampling
+proportion must be normally distributed to derive an accurate CI. The sampling
+distribution of the sampling mean and sampling proportion will be normally
+distributed if the sample size is large (in most cases that is n is greater
+than or equal to 30). The sampling distribution of your statistic (mean or
+proportion) is needed to derive your CI.
+
+You will use the margin of error  to account for the standard error of your
+point estimate and your desired confidence interval. Consider this example:
+
+Confidence Interval (CI)
+
+Consider that we are measuring the heights of 40 randomly selected male soccer
+players, our sample mean is 175cm. We calculated the standard deviation of the
+athletes heights and it totaled 20cm. Let us calculate the CI.
+
+n = 40, mean = 175, s = 20.
+
+You will decide on the CI to use (95%) and then find the Z value for the
+selected CI. A 95% CI means that 38 of the 40 confidence intervals will
+contain the true mean value.
+
+The Z value for 95% CI is 1.960.
+
+We calculate the 175 ± 1.960 × 20/√40
+
+175cm ± 6.20cm
+
+168.8cm to 181.2cm
+
+Source1
+
+Degrees of Freedom: Usually the standard deviation for the population of
+interest is not known. In this case, the standard deviation is replaced by the
+estimated standard deviation s, also known as the standard error. Since the
+standard error is an estimate for the true value of the standard deviation,
+the sample mean follows the t distribution with mean and standard deviation .
+The t distribution is also described by its degrees of freedom. For a sample
+of size n, the t distribution will have n-1 degrees of freedom. The notation
+for a t distribution with k degrees of freedom is t(k). As the sample size n
+increases, the t distribution becomes closer to the normal distribution, since
+the standard error approaches the true standard deviation for large n.
+
+Reading: Confidence Interval.
+
+Hypothesis Tests
+
+As you conduct research and complete data science projects, questions will
+arise about the likelihood of occurrences. As we have seen so far, statistical
+inference helps to ground your insights with statistical significance and does
+its best to rule out the possibility of chance. We have looked at Estimation
+and Confidence Intervals to help make inferences from your data. Now we will
+explore the oldest statistical inference, Hypothesis Testing.
+
+A hypothesis is "an interpretation of a practical situation or condition taken
+as the ground for action". Similar to the other techniques, you are looking to
+draw a conclusion about a population using a sample data set. When you apply
+statistical hypothesis testing, the end results are always favorable because
+(according to Enrico Fermi) you make a measurement or a discovery.
+
+According to Dermatology Associates, hyper-pigmentation is the number one skin
+health concern for Black females ages 18-45. Skincare Co. is one of the
+leading manufacturers of skin care products. Skincare Co. is looking to
+develop a 120 day skin care line to target this population and this skin
+health concern. You are the data scientist assigned to the project
+investigating the use of the ingredient hydroquinone in the product for the
+treatment of hyperpigmentation. Your preliminary research has found that
+administering of hydroquinone on the skin of black females ages 18-45 for more
+than 90 days at a time will lead to permanent skin damage, this is different
+from claims that have been made about this ingredient (previous claims state
+that there will be no damage). This claim or belief has been formulated and it
+should be tested with evidence that refutes or proves that it is true. You can
+use hypothesis testing to provide this evidence. To construct a hypothesis
+test:
+
+  * Identify the population parameter of interest. 
+
+  * Determine whether you will be conducting a one-tailed or two-tailed test.
+
+  * Define a null hypothesis, often denoted as H0\. The null hypothesis is considered the status quo or in the case of our example: The administration of hydroquinone on the skin of black females ages 18-45 for more than 90 days at a time will not lead to permanent skin damage.
+
+  * ...then define an alternative hypothesis, denoted as HA. This would be the opposite of the null hypothesis. 
+
+The example above does not cover the entirety of identifying your null and
+alternative hypothesis. You must know that if proven, your alternative
+hypothesis is a call to action i.e. if you reject your null hypothesis, then
+the status quo has been changed and the decision makers must take action. How
+do we test our hypothesis statistically?
+
+Reading: We do this by using the one- and two-tailed tests.
+
+Let us also keep in mind that these tests are not error-proof! You want to be
+sure that you do not accept the null hypothesis when the null hypothesis
+should be rejected and reject the alternative hypothesis when it should be
+accepted. To avoid this, we consider the two error types in hypothesis
+testing.
+
+  * Type I error occurs when you reject the null hypothesis when it should be accepted. 
+
+  * Type II error occurs when you accept the null hypothesis (or fail to reject the null hypothesis) when it should be rejected. 
+
+Considering our skin care manufacturer example above. A Type I error would
+mean that the company does not include this ingredient in their skincare line
+when they should have been able to do so. The company stands to lose customers
+to companies with products that include this ingredient that is effective in
+treating this condition with no side effects. The consequences of committing a
+Type II error would mean that the company includes hydroquinone in their new
+skincare line targeted towards hyper-pigmentation when they should not have
+done so. The cost of this error would mean producing a skin damaging treatment
+product, that would lead to loss of customers and possible lawsuits.
+
+How do you ensure that both errors do not occur? Collect more data! Either
+increase your sample size or collect more data over a longer period of time.
+
+Collecting more data does not entirely mean that you will reduce both errors
+but it ensures that you commit one over the other at a lesser magnitude.  
+  
+---  
+  
+In the module, we will continue the process by learning how to extract
+features of variables within the dataset to improve the performance of
+analytic solution(s).
+

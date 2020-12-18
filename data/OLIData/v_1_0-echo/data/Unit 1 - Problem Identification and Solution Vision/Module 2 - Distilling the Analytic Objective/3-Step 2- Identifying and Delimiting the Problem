@@ -1,0 +1,78 @@
+
+
+The problem underlying an analytic objective should satisfy the following
+criteria:
+
+  * Solving the problem must be part of a possible solution vision towards the business objective.
+
+  * Domain experts are confident that data exists which, when analyzed, can facilitate that solution; this data must either be available or sources are available to retrieve the data.
+
+  * The problem must be specific and realistic so that a corresponding data science project can succeed in principle .
+
+First, with the business objective clearly stated, one can propose a solution
+vision describing how the business can reach the objective. The path to
+realizing this vision can then be decomposed into sub-problems and the data
+science team will be responsible for leveraging data to help solve these
+problems and/or produce data-derived insight that allows the client to make
+good decisions along the way.
+
+As data driven methods are still in the phase of being adopted across many
+fields, the perspective of using data to support business objectives may even
+be the main business objective that starts the whole engagement. In such a
+case, it is helpful to recall which higher-level business needs should be
+fulfilled in order to progress beyond “we want to leverage data somehow” and
+arrive at a proper project formulation that allows the statement of specific
+requirements and evaluation criteria, even if they include exploratory tasks.
+
+An online company asks for a data science project around the use of social
+media data for understanding their market driven by the board’s desire to keep
+up with the competition. After the data science team studies the business and
+explains to the client a number of possibilities regarding how social media
+streams are typically used in retail businesses. The client will focus on the
+need to increase market share; they will identify the business objective of
+increasing sales of a particular product. There seem to be two ways forward:
+(1) Spend money for increased advertising of a unique feature of their product
+or (2) lower the price. They ask for an analysis of social media data to
+inform their decision. This need for gauging consumer preferences now forms
+the problem component of the analytic goal.
+
+Second, there must be a sound presumption that the problem’s solution must
+benefit from the use of data. A collaborating team of domain experts and data
+scientists should discuss the available data sources and their suitability for
+the solution. Thus may include data that would need to be collected as part of
+the project. In order to be suitable, the data should have some informative
+patterns relating to the problem. It takes a combination of substantive
+expertise and data science skill to assess this criterion.
+
+Domain-specific problems around the availability of data include:
+
+  * Lack of readiness in the organization (e.g. the organizations data is not readily processable), unsuitability of the data for the objective (e.g. data is old/stale, out of domain, incomplete, or suffers from an obvious bias), or difficulty in collecting data because the expert labor involved is too expensive. 
+
+  * Technical objections. Too little data for the required methods, fragmentation across multiple units with no suitable way of joining, or overwhelming imprecision/noise. In cases where data is available but the existence of “signal” for the problem is uncertain, exploring whether it exists and the extent to which it can be leveraged can become an exploratory analytic objective in and of itself. 
+
+Typically, data science projects/consultations involve a preliminary data
+survey that informs, or even precedes, longer substantive discussion. It is
+very strongly recommended that such a survey be conducted before the team
+commits to fulfilling any analytical expectations on the part of the client.
+
+Third, both the domain experts and data scientists must be in agreement that
+the problem is specific and realistic enough so that a data science project
+attempting to make progress towards it can succeed in principle. In other
+words, the system and/or insight produced by the project must add enough value
+to be deemed a success if executed properly. On the client side, this
+criterion mandates a moderation of expectations and ensures that the data
+science component of the whole project can be evaluated. For example, while it
+should mostly be avoided, it may happen that a solution vision will be
+idealistic and somewhat resemble a science fiction scenario. In such cases,
+the main purpose of the data science project is to assess its feasibility
+based on available data and methods, and should be explicitly stated as such.
+On the other hand, the technicians must be very careful to not exaggerate
+analytical capacities or cause unwarranted impressions that certain
+functionality is within reach. For example, even once an initial data sample
+has been surveyed, the results should be communicated as being contingent on
+the assumption that the sample is representative for the larger dataset.
+Similarly, if a particular neural network model performs a classification task
+very well on some domain, the principle feasibility of transferring it to a
+second domain with reasonable performance should be explicitly tested before
+promising that it can perform at the same level.
+

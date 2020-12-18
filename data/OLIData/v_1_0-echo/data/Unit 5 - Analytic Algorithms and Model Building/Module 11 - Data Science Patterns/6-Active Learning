@@ -1,0 +1,68 @@
+
+
+This data science pattern is different from what you have studied in this
+course, it makes assumptions about an algorithm and the data that is used to
+construct it. Active Learning pattern posits that if an algorithm or learner
+can choose the data it will learn from, it will perform better than an
+algorithm that does not choose its own data, and it will perform better with
+less training. Active learning is sometimes referred to as query learning. The
+learning methods you have used so far when you sample and gather data, and
+transform it to train a model are considered the traditional methods. When you
+have a large data set that is unlabeled (as is typical), active learning can
+be a useful technique for labeling.
+
+Active learning presents Scenarios that allow a learner to query the labels of
+observations in a dataset.
+
+Membership Query Synthesis is a scenario that means a learner will generate an
+observation i.e. the learner will create a data point that is similar to one
+or more in the dataset. Once it is created, the new observation will be
+labeled by the oracle (an information source or teacher).
+
+Stream Based Selective Sampling scenario involves unlabeled data points or
+observations that are examined with the algorithm evaluating its
+informativeness against query parameters. The learner will decide if it should
+assign a label or query the oracle.
+
+Pool Based Sampling as shown in the figure below, assumes that you have a pool
+of unlabeled data and observations are collected from the pool according to an
+informativeness measure (certainty that a classifier has when classifying data
+points). The informativeness measure is applied to all observations in your
+dataset and then the observations that have the most important measures are
+selected. The selected observations are then labeled.
+
+Thought: Informative data points equal a data point that your algorithm had
+difficulty classifying. Informative data points improve your algorithm's
+abilities (prediction and otherwise).
+
+Pool Based Active Learning Cycle-Source: Settles Active Learning Survey1
+
+Query Strategies
+
+How does the algorithm decide on the most informative measures? Let's
+highlight some of the strategies used to evaluate the informativeness of
+unlabeled data.
+
+Uncertainty Sampling is an approach that allows the active learner to query
+the observations about which it is not able to label.
+
+Query-by-committee involves using group or committee of models that have been
+trained on a labeled dataset but the catch is that these models have competing
+hypotheses. Each model in the committee will vote on the labelings. Identify
+the query that all voting models disagree on, that becomes the most
+informative query.
+
+Expected Model Change will use an approach that selects the observation that
+would introduce the most change to a current model if its label was known.
+
+Expected Error Change involves labeling the data points that would reduce the
+model's out of sample error (measure of how accurately your learner can make
+predictions on new data).
+
+Additional Reading: Survey of Active Learning. This report gives an in depth
+review of active learning in machine learning and artificial intelligence.  
+  
+---  
+Burr SettlesActive Learning Literature SurveyUniversity of Wisconsin
+Madison2009
+

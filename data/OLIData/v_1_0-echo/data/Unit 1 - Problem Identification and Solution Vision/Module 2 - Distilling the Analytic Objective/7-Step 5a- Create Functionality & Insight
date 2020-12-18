@@ -1,0 +1,27 @@
+
+
+Finally, the analytic objective should state (1) what specific functionality,
+insight, or resource is gained from leveraging that data and methods you
+propose (2) relative to the current situation, and (3) assuming the project is
+successful as proposed.
+
+  * Valuable Functionality: In many practical scenarios, this may simply be that, for example, a predictive model successfully can solve the task and contribute to the problem solution as stated. In more complex situations, the benefit gained may only be an incremental yet necessary step towards producing a model that solves the task. For example, the task may be to link passages in news text that state false information about certain historical events to a reference database of those events. Initially, one would need to detect whether passages talk about historical events at all before then discriminating which precise one they address. This detector, if implemented successfully, would add valuable functionality towards the linking task. 
+
+It should be noted that analytic objectives can of course be reframed to focus
+on specific tasks, in which case an incremental step would become the main
+goal. In the example just given, one can change the analytic objective so that
+historic text detection becomes the main task in the first phase of the
+project. In fact, if the circumstances and the client allow for such a
+rescoping, then this may even be preferable. One of the main points of this
+unit is that explicitly formulating, discussing, and committing to analytic
+objectives supports a productive data science project lifecycle and ensures a
+proper alignment of the work with the business objective.
+
+  * Valuable Insight: In some project contexts, the client may not need a piece of software that automates and analytic functionality, but rather requires insight from data in order to make decisions. This area of data science blends into what is commonly referred to as “business intelligence”. 
+
+  * Valuable Resource: Data science projects can also produce resources to be used by the organization or further projects. For example, the project may be intended to collect and curate a competition dataset and publish it along with some baseline results to facilitate research on a certain topic.
+
+  * Improvement over the current situation: Naturally, the project should improve over the currently available functionality, information, and resources. In industry settings, this is usually obvious. In academic and other research settings, however, you will be characterizing your project as improving over the state of the art. This can be done via a survey of related work, and possibly some exploration of existing methods and datasets. While this will often be left implicit in the statement of the analytic objective, project proposals (especially academic ones) may require an explicit section on related work. 
+
+  * Assumption of project success: While it is natural that one would propose a project with confidence to succeed, it is worth noting that many data science projects (especially in academic settings) are exploratory to different degrees. The dataset may contain too much noise on top of the interesting patterns or the computational effort may be too large. Be mindful of what can be done to distill some value added even if the main objective fails due to factors beyond your control. 
+

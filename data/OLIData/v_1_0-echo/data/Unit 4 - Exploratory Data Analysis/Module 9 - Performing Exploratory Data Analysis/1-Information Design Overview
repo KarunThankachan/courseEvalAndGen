@@ -1,0 +1,254 @@
+
+
+The exploratory data analysis (EDA) process is comprised of visualizing data
+to allow a data scientist or a data analyst explore datasets to gain insights
+from the data. There are some non-graphical techniques that are used to
+explore data and as well as graphical techniques. Non-graphical techniques
+include using summary statistics to describe the data and the graphical
+techniques are used to describe the frequency distribution of the dataset.
+Both techniques can be used to show the skewness and extreme outliers in a
+dataset.
+
+Summarizing Data
+
+Summarizing data is dependent on the types of data present in your dataset.
+When you want to understand the observed data a.k.a your sample, you will key
+descriptors of a dataset. When you have a large data set, it is difficult to
+describe it in its raw form. You will use specific techniques to summarize and
+describe your sample. Some of those techniques include Describing Central
+Tendency and Assessing Measures of Spread and Relationships.
+
+You can use the location, shape and spread of the data in a dataset to
+understand the data. You might find some of the concepts below as a review of
+your first Statistics course, but pay attention to the reason for using these
+techniques in exploring your data. Also, these concepts are important for when
+you learn about using statistical inference to draw conclusions on an unknown
+population parameter.
+
+Location. During the EDA process, we are looking to describe our data using a
+central value. We will explore the Mean which is sometimes called the average,
+this is the sum total of all observations divided by the number of
+observations. You will calculate the mean for your population (population mean
+= μ) and for the sample that you have drawn (sample mean = x̄). There are
+different types of mean including the typical arithmetic mean, geometric mean,
+and the harmonic mean.
+
+Reading: Central Tendency with Different Types of Means.
+
+Median is the mid value of a dataset. To calculate a median value, you will
+sort your data in ascending order. The median value in a data set with odd
+number of observations is the middle value, while you can find the median of a
+dataset with even observations by calculating the average of the two middle
+values.
+
+**Do you know that if the mean and median of your data set differ greatly, you
+should check that variable for outliers!**
+
+Mode is the variable of an observation that most frequently occurs in your
+dataset. A uni-modal variable is one that has just one mode and a bimodal
+variable has two modes. If your variable has more than two modes, it can be
+referred to as multi-modal. Do not think it is useless in the EDA process, the
+mode is quite useful when summarizing categorical variables.
+
+Percentile. You will remember this nifty word from your GRE scores or height
+and weight data from your health records. It tells you the position of a value
+in your dataset. If you are 175cm in height and you are in the 10th percentile
+of height measurement for your gender, it means that among all the height data
+collected for your gender, you are taller than 10% of those observations. The
+50th percentile is considered the median. Quartiles are values that split the
+data into quarters.
+
+Spread. How can you describe the spread or variability of your dataset? You
+use the measures of dispersion. Although used for descriptive statistics, you
+must be careful in relying on this measure to describe variability.
+
+Range of a set of values can be calculated by subtracting the minimum value in
+your dataset from the maximum value. Notice that range only considers two
+values and ignores all other values of a variable.
+
+Mean Absolute Deviation is the "average distance between each value and the
+mean of a dataset". This measure of dispersion can tell you how values are
+spread out in a dataset and determines whether the mean is a useful indicator
+of the values within the data. The larger the mean absolute deviation, the
+more spread out the data. When you work with time series forecasting methods,
+you will use the mean absolute deviation to measure the performance of a
+forecasting model. You will find that the measures used in EDA are often used
+in model selection criteria.
+
+Reading: Mean Deviation = (Σ|x − μ|)/N. This is the sum of the absolute values
+minus the mean and divide this by the number of values in the dataset.
+
+Variance s2 / σ2 is the average of the squared difference between the
+observations in a dataset and the mean. So far, we know that you can have
+measures for both your overall population and your sample drawn from the
+population. Keep in mind that you will sometimes have a sample variance s2  or
+a population variance σ2. The difference between both is that you are looking
+at the spread of data from the sample mean versus the population mean.
+
+Standard deviation σ or s is the most common measure of dispersion, it tells
+you the distance of the values from the mean in your dataset. A low standard
+deviation tells you that the values are close to the mean and a high standard
+deviation means there is a spread. The σ is derived by calculating the square
+root of the variance. As you perform exploratory data analysis and even while
+developing models, the importance of the standard deviation can not be
+overstated. Despite its mention as a way to summarize data, standard deviation
+is used to "measure the confidence in statistical conclusions" and if you
+remember from the overview of this Unit, you will be conducting statistical
+inference to begin to draw some conclusions on your data and hypotheses.
+
+Interquartile Range (IQR) similar to the range, does not consider all
+observations when looking at the spread of values in a dataset. IQR describes
+50% of values in your dataset when arranged in ascending order. The IQR is the
+difference between the values in Quartile 3 and the values in Quartile 1. You
+can use this measure to identify a value that is an outlier.
+
+Shape. Now that you can explain the measures used to explore data by
+describing its central value, its spread from the mean, and identified
+outliers, let us describe the distribution of a dataset and assess whether it
+is normally distributed. Normally distributed data is useful when making
+statistical inferences. How can we assess the distribution of our data:
+
+Skewness measures the degree to which the distribution of data lacks symmetry.
+A dataset with 0 skewness is considered normally distributed. Data does not
+always have a skewness of 0; however, if you have found skewness to be between
+-0.5 and 0.5, you can ascertain that your data is symmetrical. If skewness is
+between -1 and -0.5 or 0.5 and 1, then your data is moderately skewed. If
+skewness is < -1 or > 1, your data is highly skewed.
+
+Source: BPI Consulting LLC
+
+Kurtosis looks at the outliers within the distribution. This measure of shape
+will describe the distribution of data by showing whether the tails of the
+distribution are more or less extreme than the normal distribution.
+
+Reading: Kurtosis
+
+Relationships and Association
+
+Covariance describes the linear relationship between variables in your sample
+or population data. Covariance can be negative ,meaning your variables have a
+negative linear relationship, zero (0) meaning the variables have no linear
+relationship, or positive meaning a positive linear relationship exists
+between the variables.
+
+Correlation Coefficient will describe the strength of the linear relationship
+between the variables x and y. It is a different measure than covariance
+because it describes both the direction and strength of the linear
+relationship between the variables. If the correlation coefficient equals:
+
+Correlation Coefficient
+
+|
+
+Meaning  
+  
+---|---  
+  
+-1
+
+|
+
+Variables have a perfect negative linear relationship.  
+  
+0
+
+|
+
+Variables are not linearly related.  
+  
+1
+
+|
+
+Variables have a perfect positive linear relationship.  
+  
+Outliers
+
+Whenever you have a rather small or large observation within your dataset
+compared to other values in the dataset, this is called an outlier. Outliers
+will affect the performance of your model and prior to getting to that point,
+your exploratory data analysis. When you have a large dataset, the outliers
+are not as noticeable as when you have a smaller dataset. Similar to missing
+values, you must handle outliers when you identify them in your dataset. You
+should refrain from removing them from the dataset until proper investigation
+is completed. You can "handle" outliers by following these steps:
+
+Construct a Boxplot or as it is sometimes called, a box and whisker plot. This
+chart is used to graph the five number summary. The five number summary is
+used to identify an outlier in your dataset. A five-number summary consists of
+five values including the the maximum and minimum values in your dataset, the
+lower and upper quartiles, and the median. These values are then ordered in
+ascending order and plotted.
+
+Box plots provide a visual summary of the data so that data scientists and
+analysts can identify outliers and other summary statistics including the
+skewness and mean. You will typically plot your box plot using a tool of your
+choice, in this course that would be python. Here is a resource on how to plot
+a Box Plot using Python.
+
+Box Plot. Source. University of Manchester
+
+z-score is a measure of the relative position of an observation within a
+dataset. You calculate the z-score by subtracting the value from the mean and
+dividing that value by the standard deviation. If an observation has a z-score
+that is more than 3 or less than -3, it is an outlier!
+
+Graphical Summaries
+
+The saying that a picture tells a thousand words supports the notion that
+visualizing data is one of the best ways to tell a story to a wide audience
+with the ability to view the visuals. Today, there are so many tools that are
+used to visualize data including Python, R, Excel, Tableau, Microsoft's
+PowerBI among others. These tools even allow us to make data visualizations
+interactive for more effective analysis. Rene Descartes invented the Cartesian
+coordinate system or the X and Y axis graph as we know it.
+
+One of the first Cartesian Coordinates Graphs
+
+Data visualizations have evolved greatly. Including info-graphics, plots, and
+statistical graphs. Communicating insights in the data clearly is a key step
+in the data science process. There is a skill to developing effective
+visualizations and not all data scientists will have these skills, however it
+is important to know how to use the tools that support visualization and be
+able to identify the right types of visualizations for the data types, and the
+best ways to tell your story with visualizations. Visualization experts
+strongly suggest that visualizations should stimulate the attention of viewers
+and elicit thoughts and questions. During the data science project process,
+visualizations will be used at different times. At this stage of exploratory
+data analysis, the visualizations are used to understand the dataset as you
+proceed through analytic solution building. Gaining a better understanding of
+your data will support the performance of your models in the later stages of
+the project.
+
+Visualizing Variables
+
+So far, we have talked about visualizing mostly numeric data, however we are
+able to visualize categorical data as well. Typically, this data is
+categorized and numeric values are derived (counted) to represent the values
+in the variables. A frequency distribution is a useful technique in displaying
+categorical variables.
+
+Follow our primer below to learn more about the appropriate visualizations for
+data science tasks.
+
+Reading: Data Exploration and Visualization Primer.
+
+As we study exploratory data analysis, we will learn how to describe sample
+data by making inferences from the population on which the sample data was
+drawn. Despite the sampling techniques used, there is still a level of
+uncertainty in drawing conclusions about your population. We find that
+descriptive statistics is not enough to estimate this uncertainty; hence the
+need for statistical inference. On the next page, we will explore statistical
+inference further.
+
+Additional Reading: The Dr. Howard Seltman Experimental Design and Analysis
+book is a text that explores experimental design and analysis and is worth a
+look through.
+
+Stephen Few3 listed eight types of quantitative data and the types of charts
+and graphs that can communicate the story in the data.
+
+Reading: Selecting the Right Graph for Your Message.  
+  
+---  
+  

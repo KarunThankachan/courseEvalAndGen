@@ -1,0 +1,26 @@
+
+
+As we have seen, the data science process involves multiple steps that require
+the expertise of team members in defined roles. The data science team is the
+talent that will help develop the analytical solutions that meet the business
+objectives of a data-related problem. Certain organizations can provide the
+structure and support for the different responsibilities within the process.
+In smaller organizations, personnel in the data science process might wear
+multiple hats to ensure the efficient execution of tasks and development of
+solutions. Below, you will find the roles in a typical data science team. This
+will vary depending on the domain and size of the organization.
+
+  * Data Scientist. This role involves solving business tasks using machine learning model development and statistical techniques. This individual identifies trends and patterns within the data and makes predictions based on trends. The data scientist will write code to support the data analysis and model building process. 
+
+  * Data Engineer. The Data Engineer specializes in data structures and algorithms, as well as in working with data through the operation of databases and other large repositories. 
+
+  * Solutions Architect. This is a customer facing role that ensures end-to-end customer deployment for company-related data services. The Solutions Architect interacts with clients to design, coordinate, and execute solution prototypes. 
+
+  * Machine Learning (ML) Engineer. The ML Engineer performs modeling and software engineering tasks, and different from the data scientist in that she is further away from the domain-side of the project. This individual spends a considerable amount of time programming and creating ML solutions but must also have strong statistical skills. 
+
+  * Data/Business Analyst. A data analyst has data gathering, analysis, and visualization skills. Like the data scientist, she provides insights from data to inform decision making. analyst, she develops key performance indicators and utilizes business intelligence and analytics tools. Compared to data scientists, however, they are typically firmly rooted in the business domain and less technically proficient in systems programming and advanced machine learning. 
+
+  * Software Engineer. The Software Engineer handles the alignment between the business objectives and solution and is responsible for integrating the implemented data-driven system into the appropriate applications within the enterprise.
+
+  * Domain Experts. Also known as subject matter experts, they are the actors who know the most about the problem on the business side. Their role is to define the framework for the data science project, and hence they are a key participant in the process. The domain expert will translate business needs and characteristics to the data scientists, and eventually assess the solution as successful or not from the perspective of whether it achieved the business objective.
+

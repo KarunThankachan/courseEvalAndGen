@@ -1,0 +1,47 @@
+
+
+When we want to study the hidden structure of data and identify different
+groups within that structure, we use the Cluster Analysis technique. Once
+groups are constructed, it is safe to assume that data points within each
+group have similar features and are very dissimilar to data points in other
+groups. Cluster analysis is looking to define structure within a dataset.
+
+There are different types of clustering techniques. We will briefly define at
+this point and fully explore in an upcoming module.
+
+K-means clustering is a widely used clustering technique that computes the
+distance between data points in a group and the center of the group. The
+number of clusters (k) is decided before the process begins and kmeans
+clustering can only be applied to numerical variables. This is because it
+solely uses euclidean distance as a similarity measure to form clusters.
+
+It is not uncommon to begin by randomly selecting a number of observations
+from your data as the initial cluster center, the remaining observations will
+then be assigned to the nearest cluster center. The algorithm will continue to
+assign and reassign observations to their closest clusters by calculating the
+cluster centroids (this is the middle of a cluster). The reassignment is done
+to minimize dispersion within clusters.
+
+Hierarchical clustering connects data points to form clusters based on their
+distance and is also known as a connectivity-based clustering. Each data point
+is considered its own cluster at the start of the process and then the
+algorithm groups clusters based on similarity until true clusters are formed.
+This is known as Agglomerative clustering. There is another approach of
+hierarchical clustering that puts all data points in one cluster and then
+separated them based on dissimilarity until different clusters are formed.
+This is called Divisive Clusters. Hierarchical Clusters are formed and
+represented using a dendrogram (shown below). The y-axis of a dendrogram marks
+the distance were clusters merge, and data points are placed on the x-axis.
+
+Example of a Dendrogram. Source-Mathlab
+
+Similar to regression and classification techniques, clustering output should
+be evaluated. Evaluation methods differ based on the kind of clustering
+technique used to meet your analytic objective. Module 14 will focus on the
+different types of clustering techniques and the evaluation techniques that
+apply to each technique.
+
+Reading: Evaluating Clustering Results  
+  
+---  
+  

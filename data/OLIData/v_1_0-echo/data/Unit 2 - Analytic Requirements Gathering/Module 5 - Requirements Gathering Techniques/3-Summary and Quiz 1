@@ -1,0 +1,40 @@
+
+
+Poorly documented requirements lead to assumptions and miscommunications
+between the project team and client stakeholders. Communication issues can
+lead to defects in solutions and unmet expectations. These are issues that a
+project team should avoid. This can be done by defining requirements in the
+early stages of solution development. Requirements are well documented
+statements that define the needs of the users and systems that should be
+implemented to solve a business need. The requirements gathering process can
+become complex if it is not managed properly. This process is managed by the
+business analyst.
+
+There are different types of requirements including business and solution
+requirements. Business requirements describe the why behind the implementation
+of a solution, the user requirements describe the tasks that users will be
+able to perform with the system, and the solution requirements specify the
+behavior of the system and its characteristics.
+
+Similar to a traditional IT project, it is best practice to collect
+requirements for analytic projects. The requirements for an analytic project
+include determining how data, models, and results or outputs of the models
+will support meeting the analytic and business objectives.
+
+There are techniques that are used to gather requirements including conducting
+interviews, brainstorming sessions and facilitated workshops, other techniques
+used in addition to the above listed include document analysis and
+observations. Once requirements are elicited, they are analyzed and translated
+into written requirements for understanding. Finally, requirements are
+validated by the project and client team to signal the commencement of
+solution development.
+
+Non-functional requirements for real world big data systems: an investigation
+of big data architectures at Facebook, Twitter and Netflix2019ICSOFT
+2018-Proceedings of the 13th International Conference on Software
+TechnologiesIEEEIEEE Guide for Software Requirements Specifications IEEE
+Std1984830-1984101-26Sharma, R & Biswas. KFunctional requirements
+categorization Grounded Theory approach2015301-3072015 International
+Conference on Evaluation of Novel Approaches to Software Engineering
+(ENASE)Wiegers, K., & Beatty, J.Software requirements.Pearson Education20133
+

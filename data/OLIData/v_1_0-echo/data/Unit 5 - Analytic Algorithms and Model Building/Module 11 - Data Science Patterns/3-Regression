@@ -1,0 +1,180 @@
+
+
+When your output variable is a continuous value, you are able to make
+predictions using the widely known Regression analysis. The input variables
+for a regression task can be categorical, discrete or continuous data. So far,
+we have read about getting qualitative responses or output using
+classification techniques. Regression techniques return a quantitative
+response to a task. It is used to investigate the relationship between your
+input (independent) variables and your output (dependent) variable and predict
+the average value of an output variable given some independent variable(s).
+
+Thought: The delineation above does not mean that all supervised techniques
+will either return qualitative or quantitative responses. Some techniques that
+we will explore in the next modules can return both types of responses, those
+techniques include kNN among others.  
+  
+---  
+  
+Regression is one of the easier techniques to implement. We perform regression
+analysis because it can highlight the impact of independent variables on a
+dependent variable. For example, you can tell the effect of changes to
+temperature and terrain on the outcome of a football game. Regression analysis
+allows a data scientist to evaluate the best variables that can be used to
+construct a predictive model. Regression is used for forecasting tasks as
+well. When the goal is to infer relationships between the x and y variables,
+you can use regression techniques. When you identify independent variables
+that are highly correlated, you can say that the variables are multicollinear.
+If the correlation between two independent variables is "1 or -1", then you
+have perfect multicollinearity. You can detect multicollinearity when there
+are large changes in the estimated regression coefficient, when an independent
+variable is added or removed.
+
+A regression model will have certain components including the independent
+variables, often denoted as X and the dependent variable Y. A regression model
+also accounts for random error ε, the random error is not found in the
+dataset, instead it is the difference between an expected outcome and the
+actual observation. It is usually an unpredictable occurrence that you can not
+account for in your dataset. Then, you have unknown parameters β. Your goal
+with a regression model is to estimate the function f(X, β) with the best fit
+to the data. f should be specified when performing regression analysis. This
+will ensure that you are deciding on the right regression methods to use.
+
+When performing regression analysis, you might encounter data that has
+outliers, if not handled during the data understanding phase it can affect the
+results of your regression analysis.
+
+Let us explore the different types of regression techniques in this module
+with the goal of exploring each technique further in module 13.
+
+Linear Regression
+
+This regression technique is used to model the relationship between
+independent variable x and dependent variable y. When you have two or more
+independent variables, you will represent them as the vector x=(X1t...Xkt),
+where t denotes a row of data, k is the number of inputs. The model is said to
+be linear because the output is a linear combination of independent variables.
+
+There is the simple linear regression model that allows for predicting a
+response based on one predictor variable. Most times, you will be predicting a
+response with multiple predictor variables. Single linear regression does not
+allow for multiple predictor variables, so instead of training multiple simple
+linear regression models for each predictor, you use the multiple linear
+regression method to account for multiple predictors.
+
+This model can also be used for classification if you replace the gaussian
+output with a Bernoulli distribution1. Let us represent a regression model as:
+
+𝑦 = 𝛽₀ + 𝛽₁𝑥₁ + ⋯ + 𝛽k𝑥k \+ 𝜀
+
+Regression function for multiple linear regression:
+
+f(x1...xk) = 𝛽₀ + 𝛽₁𝑥₁ + ⋯ + 𝛽k𝑥k
+
+Y is a straight line function of each independent variable X. The slopes of
+the individual straight line relationships of X1....Xk with Y are the
+constants b1...bk also known as the coefficients of the variables. Translate
+this to mean bi is the change in the predicted value of your dependent
+variable Y per unit of change in Xi with other things being equal. Consider b0
+as the intercept (prediction that your model will make if all the independent
+variables were zero). You must also account for the random error e in the
+equation.
+
+You estimate b1...bk and b0 using Least Squares. This method will minimize the
+sum of squared residuals (a residual is the difference between an observed
+value and the fitted value given by a model). Least squares can be linear or
+ordinary or nonlinear. Ordinary Least Squares chooses the parameters of a
+linear function of a set of independent variables by the principle of least
+squares. Non-linear least squares will fit a set of observations with a model
+that is non-linear in unknown parameters, it will approximate the model by a
+linear model and refine its parameters by iterations.
+
+Performance of a regression model can be assessed using the coefficient of
+determination or R2 which shows the amount of variation in y that is dependent
+on x. The larger the R2, the better the model can explain variation of the
+response with various predictors.
+
+Ordinary Least Squares Source3
+
+Assumptions of Linear Regression
+
+Reading: Four Principal Assumptions. These assumptions justify the use of
+linear regression models for prediction modeling. These assumptions should be
+met to avoid producing misleading analytic solutions and insights.
+
+Polynomial Regression
+
+When the relationship between the independent variable (x) and the dependent
+variable (y) is modeled as a degree polynomial in x, this is called a
+polynomial regression. It seeks to model the expected value of y in relation
+to the value of x. Pay attention to the figure below, you will note that using
+a linear regression line to fit the data would result in a high value of
+error.
+
+Trying to fit a simple linear regression line. Source4
+
+Now refer to the image below to see the outcome when you fit a polynomial line
+through the data points. The polynomial regression provides a better view of
+the relationship between the y and x variables. A polynomial regression can
+fit a broader range of function. However, it is sensitive to outliers and
+those outliers can affect the result of a polynomial regression analysis.
+
+Polynomial regression with lower error. Source4
+
+Stepwise Regression
+
+When you have a regression analysis task, you might have multiple independent
+variables (in reality you will) and you will need a method that fits the
+regression model with the most significant predictors. Stepwise Regression
+will increase the prediction power of a model with a minimum number of
+predictors. The process of fitting the model with the predictors is done
+automatically without human intervention. There are two techniques for
+stepwise regression including:
+
+  * Backward elimination which tests the effect that each variable has on a model by deleting it. The deleted variables are those that have the "most statistically insignificant deterioration of the model fit". This technique should not be used if predictors are more than the observations in the dataset. 
+
+  * Forward selection is the reverse of the backward elimination. Variables are added to assess model fit and included if the variable shows a significant improvement to the fit. 
+
+We also have the mixed selection technique which can be considered a hybrid
+selection method with the backward elimination and forward selection
+techniques.
+
+Model Accuracy
+
+Stepwise regression is prone to overfitting issues and one way to guard
+against this is to check how significant the least significant variable will
+be based on chance. Model accuracy is tested using a validation set by
+calculating the mean error between the predicted value and the value in the
+validation set or hold out sample. You can check the extent to which a model
+fits the data with the residual standard error(RSE is standard deviation of
+error e) i.e "the average amount that the response will deviate from the true
+regression line". A large RSE means the model was not a good fit to the data.
+and the R2 is independent of your response variable, unlike the RSE.
+
+R-squares is calculated using the total sum of squares which is the total
+variance in Y and RSS is the "discrepancy between the data and an estimation
+model".
+
+Selecting the Right Regression Method
+
+  * A goodness of fit of a model will show how the model fits the data that it is trained with; it will highlight a lack of balance between observations in the dataset and those that will be introduced to the model (new values). When you want to select the right method, you can use the different metrics below including:
+
+    * AIC known as the Akaike Information Criterion is used to select models, and you choose the model with the smallest AIC as the best model. The AIC puts more emphasis on the model performance on a training set and will tend to select more complex models5. 
+
+    * BIC known as Bayesian Information Criterion and a model with the lowest BIC is considered the best model. It is related to the AIC and is appropriate for models fit under the maximum likelihood estimation. The BIC penalizes complex models unlike the AIC. 
+
+    * R2 can be defined as 1-Residual Sum of Squares/Total Sum of Squares. The R2 will increase as more dimensions are added to the dataset (this is considered a weakness of this metric). A value of 0 means that a model does not explain any variability and 1 means the model explains full variability. 
+
+    * Adjusted R2 addresses the issue highlighted with the R2 , an independent variable that has a strong correlation to the dependent variable increases the adjusted R-squared and decreases it when a variable without a correlation to the dependent variable is added. When you have a model with more than one variable, the adjusted R2 is a suitable criteria to use. 
+
+    * Mallow's Cp is used to assess the fit of a regression model that has been estimated using ordinary least squares. The goal is to find the best model involving a subset of these predictors. Note that you want a small Cp.
+
+We will continue to learn more about regression analysis in an upcoming module
+and you are encouraged to locate the materials in the additional reading
+section to strengthen your knowledge in Regression analysis.
+
+Additional Reading: Introduction to Statistical Learning.  
+  
+---  
+Murphy, K.PMachine learning: A probabilistic perspective.7MIT Press2012
+

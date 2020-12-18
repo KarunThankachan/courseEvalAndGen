@@ -1,0 +1,16 @@
+
+
+  * Data wrangling is the process of extracting or gathering, cleansing, transforming, enriching, and integrating data to support enterprise data needs including analytics and other data related needs.
+
+  * Data wrangling affects the data management framework of an organization as it involves cleansing and enriching data that supports the company's data needs. 
+
+  * Any data that is extracted for company use is termed "Raw Data" and should be inspected to identify the necessary transformation techniques to be applied to the dataset.
+
+  * One of the most common data quality issues is missing values in your dataset. This can happen due to human error, or system issues during data collection. As you have inspected your data and identified missing values, it is important to determine why the dataset has missing values. 
+
+  * A dataset that was extracted from an external source might not provide context on the reason behind the missing values. When met with such a situation, a data scientist or data analyst should still investigate the missing values. The reasons behind the missing values will determine the techniques used to handle those values.
+
+  * This module discussed data transformation techniques for categorical and numeric data. In a future unit, we will explore feature transformation that further affects our analytic solution. The data wrangling process is a first step in preparing the data for exploratory data analysis and feature engineering. 
+
+  * Data integration involves ingesting, transforming and integrating the transformed data for access. The data is integrated to allow for analytic solution development i.e. modeling and analysis.
+

@@ -1,0 +1,42 @@
+
+
+A data science pattern that can be used to solve different data science tasks
+from machine translation to information retrieval is Ranking. Learning to rank
+is a technique used to train a model for ranking tasks. We do not always want
+to predict the probability of scenarios, we might want to rank things. Ranking
+is used to solve information retrieval problems including collaborative
+filtering, sentiment analysis, and document retrieval. The learning to rank
+technique is applied to supervised learning techniques to rank results
+according to relevancy. When you are building a model using this approach, you
+must decide on the features used but also the adequate relevance criteria.
+
+Ranking algorithms or learning to rank algorithms are used in recommender
+systems, fault localization, computational biology among others.
+
+Ranking approaches are applied to information retrieval problems. Assume that
+you have posted videos on a channel for subscribers to watch. You want to know
+whether subscribers will click on that video and you might want to also
+
+  * Pointwise Approach is used under the assumption that each query-document pair in a dataset has an ordinal or numerical score. This approach can be used to predict the score of a single query-document pair. The ranking task using the pointwise approach will become a classification or regression task. 
+
+  * Listwise Approach reviews the list of documents and produces an optimal ordering.
+
+  * Pairwise Approach seeks to reduce the average number of wrongly ordered rankings in comparison to the ideal expected result (also known as the ground truth). Ranking using the pairwise approach becomes a classification or regression task. 
+
+Microsoft Research developed the three known learning to rank algorithms that
+all use pairwise ranking:
+
+    * RankNet uses the gradient descent to update the weights or model parameters for a learning to rank task. This algorithm seeks to minimize the number of wrong orderings among a pair of results of a ranked list. 
+
+    * LambdaRank uses a cost function to train a RankNet which results in speed and accuracy improvements. 
+
+    * LambdaMART uses Multiple Additive Regression Trees(MART-" an implementation of the gradient tree boosting methods for regression and classification") and LambdaRank to solve a ranking task. 
+
+Learning to Rank Algorithms Source-Lucidworks
+
+Wayfair: Application of LTR  
+  
+---  
+  
+Additional Reading: From RankNet to LambdaRank to LambdaMART
+

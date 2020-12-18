@@ -1,0 +1,38 @@
+
+
+Once a set of business goals has been identified, one can proceed to formulate
+analytic objectives that state how the application of analytical methods to
+data can facilitate reaching the business goal. An analytic objective can
+typically be phrased along the following template:
+
+As an incremental step towards business objective O
+
+We work towards solving problem P
+
+by focusing on specific task T
+
+and applying analytic methods M in conjunction with data D
+
+to create valuable functionality F and/or produce insight I  
+  
+---  
+  
+This formulation of an analytic objective can also be considered a research
+hypothesis because it effectively posits that a certain technique improves a
+metric with regard to a population of problem instances (comparable to a
+treatment versus a control condition). In fact, in academic settings, the
+effectiveness of data science methods will regularly be scrutinized using
+statistical tests and it is good practice to principally strive for similar
+methodological rigor in industry applications. While data science teams and
+projects in the private sector may use different terminology and specific
+technical or other circumstances may differ, this pattern of formulating
+analytic objectives is a very good point of departure for framing data science
+work and effectively communicating with clients and domain experts. It is the
+connecting element between the problem, the technique to be applied, the
+associated requirements and evaluation, as well as the business objective.
+Also, keep in mind that projects often comprise multiple analytic objectives
+that form a larger plan.
+
+In order for you to become proficient in working with this definition, we will
+now move to examining its components.
+

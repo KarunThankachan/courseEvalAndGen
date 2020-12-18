@@ -1,0 +1,69 @@
+
+
+There are cases were it is not possible to access a large amount of data for
+your project. Other times, it might not be computationally efficient to work
+with an entire dataset. We can use a statistical technique that has been used
+to capture a representative size of the data called Data Sampling. This
+technique can be done using probability or non probability methods.
+
+Data Sampling
+
+Data gathering involves selecting a subset of your population to identify
+trends in a larger population. This statistical technique is used to catch
+bias in the data analysis process as well as help a data scientist model data
+from a large population. As most people do not have systems that can handle
+massive amounts of data, you should select a subset of the data for analysis.
+This subset can be a good representation of the entire dataset.
+
+Sampling is the process of selecting, manipulating, and analyzing a
+representative subset of data points from a larger dataset.  
+  
+---  
+  
+Population and Sample.
+
+The figure above shows a general dataset with a subset of the population that
+will be used to make estimates about the larger dataset. Let us learn the
+different techniques that can be used to extract a sample dataset from the
+population or general dataset.
+
+Probability Sampling
+
+Probability sampling will create a sample that is representative of the
+population. A researcher will choose samples based on probability methods. The
+different types of probability sampling techniques are seen below:
+
+Probability Sampling Methods
+
+  * Simple random sampling technique reduces selection bias. Each observation in the population has a likelihood of inclusion in the sample dataset. 
+
+  * Systematic sampling technique involves selecting sample data from a random starting point with a fixed, periodic interval. Given a dataset of 100 observations, we select every 5th observation for our sample dataset every 10 seconds. This interval is called the sampling interval. Systematic sampling can be simple to conduct and it can result in an even distribution of a sample from a rather diverse dataset. Problems might arise if the sample is extracted from a group in the dataset that has a pattern and this can result in sampling bias. 
+
+  * Stratified sampling allows the dataset to be divided into separate groups called strata. Once strata are created, a probability sample is taken from each stratum. 
+
+  * Cluster sampling involves dividing the dataset into clusters. A random sample of the clusters is selected and those sampled clusters are used for the analytical process. 
+
+Non-Probability Sampling Methods
+
+These are techniques unlike the probability sampling techniques; the odds of
+any observation in your sample dataset can not be calculated. The sampling
+process is quite subjective and this leaves room for criticism.
+
+  * Convenience Sampling . Sample dataset is formed based on convenience to the project team. An example would be a researcher collecting survey responses from immediate relatives within reach for a project assessing facebook user habits. 
+
+  * Purposive Sampling . Here, sampling is done with "purpose". The researcher typically has expert knowledge of the population and can select a sample based on this knowledge. This sampling technique can introduce bias into the sampling process.
+
+  * Quota Sampling . This straight forward sampling method involves a sample is proportional to the demographic of the population. E.g. a sample size of the exact race make up of the population.
+
+  * Snowball Sampling. Certainly not the last non probability sampling technique, snowball sampling is often referred to as referral sampling. The members of a sample group will recruit others to become members of the sample group. 
+
+Data Inspection
+
+Once data has been gathered, you will inspect it to assess its quality. You
+can inspect data using basic sorting techniques as well as creating visuals.
+Using visuals such as box plots identify outliers in your dataset, sorting
+techniques will expose missing values and show the range of values in the
+different variables. Once data inspection is completed, you are ready to begin
+the preparation process. You will also perform data inspection during the
+exploratory data analysis process in the next Unit.
+

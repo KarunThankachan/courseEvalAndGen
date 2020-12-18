@@ -1,0 +1,20 @@
+
+
+The data science lifecycle structures the activities of the data science team.
+It should not be considered to be linear as there must iterations of
+questioning and research involved in each phase. The framework involves input
+from various members of the data science team, as well as the client, as
+stated below:
+
+  * Business Understanding: Framing objectives and assessing data science readiness. The client and data science team are involved in this step to ensure that the analytic solutions meets the business objectives.
+
+  * Data Acquisition: Involves gathering data from various appropriate sources. Data preparation techniques are employed to ensure the data is useful for analysis. 
+
+  * Modeling: Often mistaken to be the first stage of the process, modeling involves choosing the appropriate model based on the problem (we see why business understanding comes first!). This multi-step process involves feature engineering, algorithm selection, model training and evaluation.
+
+  * Deployment: The model is deployed to an environment for application consumption. Remember that a company needs to measure the impact of the deployed solution to ensure the success of the solution.
+
+The data science lifecycle can seem daunting at first, but a data scientist
+will not complete all tasks alone. A productive team consists of various roles
+that can ensure the project is successfully executed.
+

@@ -1,0 +1,126 @@
+
+
+Reminder: The data science process emphasizes understanding business needs and
+objectives, and defining analytic objectives to meet the expectations of the
+client. The requirements gathering process will involve identifying the
+stakeholders, eliciting needs and defining requirements. The difference
+between the requirements of a traditional IT project and those of a data
+science project is the focus on the requirements for the analytic solution.  
+  
+---  
+  
+Functional Requirements
+
+Functional requirements define the functions of a system and how users will
+interact with the system. Functional requirements are derived from the user
+and system requirements that are needed to satisfy the business requirements;
+in essence, defining the right business requirements will result in useful
+functional requirements that can be used to develop the proposed system. As
+mentioned earlier, user requirements are captured in use cases and those use
+cases can help the project team define the functional requirements. A use case
+will describe the interaction between the system and its users also known as
+actors. The interactions between the system and the user are known as goals.
+
+Not all functional requirements are implemented in the first iteration of
+solution development. This is why functional requirements are organized by
+priority. High priority functional requirements must be implemented to meet
+the business objectives. Medium and low priority functional requirements are
+important but typically classed as requirements that will not affect the
+current business objectives. These requirements may also be implemented in
+later iterations or updates to the system.
+
+Traditional functional requirements considered in the software and application
+development process include the Business Rules, Process Flows, Audit Tracking
+, Transaction Handling , Reporting Requirements, Administration Functions,
+Authorization Requirements, and Data Management.
+
+Reading: IEEE ANSI 830 Documentation on Functional Requirements .  
+  
+---  
+  
+Requirements can be captured in different formats including user stories, use
+case specifications, voice of the customer, and business rules. This unit will
+focus on defining functional requirements from use case specifications.
+
+Decomposing User Requirements into Functional Requirements
+
+Initial user requirements are often written too broad to unambiguously define
+what the proposed system should do at each step in a solution. The danger is
+that the software provider will produce a system that does not meet the
+business objectives, because they misunderstood what the customer would
+consider an acceptable solution. Different forms of use case analysis are
+typically used to capture, discuss, and verify the details of a solution with
+the customer. For each expected capability or interaction (functional
+requirement), we work with the customer to write detailed use specifications
+and gather them into a single document.
+
+The use case specification provides a textual description of a use case. As
+mentioned earlier, it will decompose a user requirement into functional
+requirements. The use case specification details the steps involved in a goal
+or action. Figure 4 below shows the sections of a use case specification:
+
+Figure 4: Use Case Specification
+
+A business analyst (BA) has distributed questionnaires to elicit the needs of
+stakeholders for a proposed system for their customers. The BA analyzed the
+information from the questionnaire and defined some user requirements. One of
+the user requirements is customer’s ability to update their billing address in
+the new system. This requirement describes what customers can do with the
+solution but it is still too ambiguous and does not tell a developer what the
+system should do at each step of this requirement. We will illustrate how we
+can simply decompose that user requirement into functional requirements.
+
+Use Case/User Requirement: Update billing address
+
+How can a customer perform this task within the system?
+
+Functional Requirement for Customers (1):
+
+(1) The user shall be able to view billing address in the system .
+
+(2) The user shall be able to update a billing address in the system.
+
+Functional Requirement (2):
+
+How will the system confirm that the billing address has been updated?
+
+(2) The system shall display updated customer service and billing addresses.
+
+We know that a requirement must be verifiable, traceable, and unambiguous to
+be considered a complete requirement. The Business Analyst must ensure that
+these functional requirements meet the criteria for a good requirement.
+
+Functional requirements considered in the software and application development
+process include the business rules, user and system authorization levels,
+authentication, and regulatory requirements.  
+  
+---  
+  
+Non-Functional Requirements
+
+Non-functional requirements (NFR) describe the performance and behavior of a
+system. They are also referred to as operational requirements. The NFRs for a
+traditional IT project will describe the attributes of a system including the
+system's scalability, usability, maintainability, performance, reliability,
+availability, capacity, interoperability, and security.
+
+  * Performance and scalability: Considerations for the throughput of the system when exposed to high traffic. 
+
+  * Usability: The ease of use of the system as well as the ability for users to find help with navigating the system.
+
+  * Portability and compatibility: Hardware, systems and application software, and the solution’s compatibility to other applications and processes within the existing environment. 
+
+  * Availability: This is the degree to which a system is in an operable state.
+
+  * Security: The integrity of your system and data are closely related to the security rules implemented during the development process. 
+
+  * Modules and Architecture: These are requirements that have technical considerations for the system including operating system compatibility and the programming logic employed by the developers.
+
+Module Requirement Specifications.
+
+Non-functional requirements focus on the user experience and take into account
+the system and application software, and data compliance rules. Framing a non-
+functional requirement for a data science project will include the above
+mentioned attributes and additional requirements that are related to machine
+learning models and AI analytic solution(s).
+

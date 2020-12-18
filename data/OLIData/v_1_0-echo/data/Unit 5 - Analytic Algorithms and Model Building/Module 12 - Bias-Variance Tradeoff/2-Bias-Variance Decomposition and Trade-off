@@ -1,0 +1,98 @@
+
+
+The bias error is an error from erroneous assumptions in the learning
+algorithm. High bias can cause an algorithm to miss the relevant relationships
+between features and target outputs (underfitting).
+
+The variance is an error from sensitivity to small fluctuations in the
+training set. High variance can cause an algorithm to model the random noise
+in the training data, rather than the intended outputs (overfitting).
+
+Variance refers to the amount by which f-hat would change if you estimated it
+using a different training data set. Bias refers to the error that is
+introduced by approximating a real life problem, which may be complicated, by
+a simpler model. E.g Real life does not present scenarios that have a simple
+linear relationship, this means linear regression will present some bias in
+the estimate of f. ~ISLR 34-35
+
+When you decompose bias-variance, you will analyze an algorithm's ability to
+predict outcome for data that your model has not seen. The bias-variance
+tradeoff is encountered while working with some supervised learning
+techniques. The premise is that your model will adequately learn the training
+data, and it should properly generalize well to new data.
+
+As seen in the figure below, a supervised learning method that can represent
+training data well but experiences overfitting is considered a high variance
+method. A method with high bias will not adequately learn the training data
+and this leads to underfitting. High variance models are typically more
+complex and those with high bias tend to be simpler.
+
+Bias-Variance Diagram.
+
+The Bias-Variance Decomposition
+
+Let us look at a very well deconstructed mathematical representation of Bias-
+Variance by IBM's Aditya Prasad:
+
+Note that bias and variance of an estimator are mathematically related to each
+other and also to the performance of the estimator. Let us define an
+estimator’s error at a test point as the “expected” squared difference between
+the true value and estimator’s estimate.
+
+Whenever expected value is referenced, this means the expectation over all the
+possible models, trained individually over all the possible data samples. For
+any unseen test point xₒ, you will have :-
+
+Err(xₒ) = E[(Y − g(xₒ))² | X = xₒ]
+
+Refer to f(xₒ) and g(xₒ) as f and g respectively and skipping the conditional
+on X :-
+
+Err(xₒ) = E[(Y − g(xₒ))²]
+
+= E[(f + ϵ − g)²]
+
+= E[ϵ²] + E[(f − g)²] + 2.E[(f − g)ϵ]
+
+= E[(ϵ − 0)²] + E[(f − E[g] + E[g] − g)²] + 2.E[fϵ] − 2.E[gϵ]
+
+= E[(ϵ − E[ϵ])²] + E[(f − E[g] + E[g] − g)²] + 0 − 0
+
+= Var(ϵ) + E[(g − E[g])²] + E[(E[g] − f)²] + 2.E[(g − E[g])(E[g] − f)]
+
+= Var(ϵ) + Var(g) + Bias(g)² + 2.{E[g]² − E[gf] − E[g]² + E[gf]}
+
+= σ² + Var(g) + Bias(g)²
+
+So, the error of the estimator at an unseen data sample xₒ can be decomposed
+into variance of the noise in the data, bias, and the variance of the
+estimator. This implies that both bias and variance are the sources of error
+of an estimator.
+
+The Trade-off!
+
+When bias is increased, variance would be decreased and vice versa, this tells
+you that they are complementary. It is safe to say, there is a trade-off
+between both when it comes to the performance of our model. A model will
+present a high error when there is high bias and also, when there is
+overfitting or there is high variance and low bias. The model can not
+generalize to new or unseen data. We want a model that is balanced between
+bias and variance to ensure error is minimized.
+
+Reading: Bias-Variance Tradeoff.
+
+Overfitting-Underfitting-Balance
+
+As shown in the figure above, an ideal and balanced model is one that has a
+low bias and low variance. You can work against overfitting (high variance)
+with dimensionality reduction techniques, this way the model is simplified.
+Trade-off can be optimized using a technique that will be discussed on the
+next page, Cross Validation. The figure below gives you a visual
+representation of bias-variance with training dataset.
+
+Bias-Variance and Training-Test Data.
+
+Additional Reading: Bias-Variance Tradeoff  
+  
+---  
+  

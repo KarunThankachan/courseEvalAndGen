@@ -1,0 +1,74 @@
+
+
+Raw Data to Features
+
+So far, we have discussed data as a entity in the data science process and how
+it is transformed during the cleansing/wrangling process, used for exploratory
+data analysis and used to draw conclusions with inferential statistics. Now we
+will focus on the parts of data that can be useful in the model building
+process, parts of data that will assist in performing the tasks that you have
+defined in earlier stages of the data science process; those tasks that are
+done to meet our analytic objective. Developing your analytic solution will
+involve the use of statistical modeling, we must understand that those models
+consist of formulae that only relates numerical quantities to each other1. How
+then can we build a solution that ranks customer preferences or identifies
+segments of a customer base that might benefit from a service? How can a
+mathematical model understand variables that are not numeric?
+
+Features
+
+A feature is a numeric representation of a part of the raw data. The wikipedia
+definition of a feature best describes it as, "...an individual measurable
+property or characteristic of an observation". Features are the parts of an
+observation that are represented in a way that a machine learning model can
+use. Consider an image classification task, to properly represent the features
+of your image, they are processed into a numerical format that allows the
+mathematical model to use it.
+
+When raw data is transformed into features, a data scientist must consider the
+right features that are useful for the data science task. A good feature is
+one that is appropriate to the statistical modeling technique and data science
+task. Features should also provide information, i.e. if you are performing a
+predictive task, your features should have predictive values.
+
+Transforming or processing features from data is an important task in the data
+science project life cycle, but often glossed over. The price for badly
+selected features is a costly one that rears its head when you are training
+your model. As shown in the figure below, features will directly affect the
+models that you develop and the insights gleaned from your models. The
+snowball effect of badly selected features will end up leading decision makers
+down a wrong path. As efficiency and accuracy are key in the data science
+process, it is important to explore available resources that are developed to
+guide data scientists on feature engineering techniques for data science tasks
+and modeling. Note that feature engineering requires both domain and technical
+expertise.
+
+Feature Engineering and Analytic Solution Building. Source: Zheng & Casari
+(2018)1
+
+Feature engineering is the process of extracting features from raw data and
+transforming those features into suitable formats for a machine learning
+model. Feature engineering leads to higher quality models and better insights
+for decision makers. When you think about the diverse machine learning
+techniques, data science tasks and contexts in which we apply machine
+learning, you will see that feature engineering can not be generalized. It is
+not a one size fits all process. It is dependent on your analytic objective
+and your data. Feature engineering requires domain knowledge and intuition.
+During the feature engineering process, the data scientist will remove
+features from the data that do not provide task specific information (e.g the
+feature has no predictive value), and also features that introduce redundancy.
+This is called feature selection.
+
+Numeric Data Type: Even though we defined a feature as a numeric
+representation of data, raw data that is in numeric form should also undergo
+feature engineering. This is because the data must meet the assumptions of the
+chosen model.
+
+  * Scalar: Single numeric feature, e.g. mass.
+
+  * Vector: Ordered list of scalars ; also defined as an object that has both a magnitude and direction.
+
+  * Spaces: Vectors exist within a vector space and are also a collection of vectors that can be added or multiplied by scalars.
+
+  * In machine learning, the input to a model is represented as a numeric vector. 
+

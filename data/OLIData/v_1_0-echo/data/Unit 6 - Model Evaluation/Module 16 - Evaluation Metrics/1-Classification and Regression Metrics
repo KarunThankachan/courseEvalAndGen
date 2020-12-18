@@ -1,0 +1,172 @@
+
+
+Classification Metrics
+
+The metrics used to evaluate the results of your task is of great importance.
+The performance of your algorithms need to be measured and compared to ensure
+that you select the right algorithm.
+
+  * Confusion Matrix is quite easy to interpret and it is straightforward in its duties. This metric simply shows how well a classifier has performed, it is a simple visualization of the task's performance. You might also find that it is referred to as a Contingency Table. Confusion Matrix can present the prediction results of a binary or multi class classification problem. As shown in the example below, the table has two (2) rows and two(2) columns highlighting the number of predictions that were made by the classifier within each category. Those categories are defined as follows:
+
+True Positives (TP) is quite straightforward in that the values in that cell
+mean that the classifier correctly classified observations or correctly
+predicted event values.
+
+True Negatives (TN) indicates that the classifier correctly predicted no-event
+values. An observation in the negative class is correctly classified as being
+in said class.
+
+False Positives (FP) is an error in which a classifier improperly indicates
+classifies as observation in the positive class, when in reality it belongs to
+the negative class. This is considered a Type I error and is considered a
+false alarm. The conditional probability of a positive test result given an
+event that was not present is called the False Positive Rate.
+
+False Negatives (FN) is an error in which a classifier improperly classifies
+an observation in the negative class, when it belongs to the positive class.
+This is considered a Type II error. The conditional probability of a negative
+test result given an event that was present is called the False Negative Rate.
+This error is far less adverse than a false positive but it is not a universal
+consideration as there are cases were a false negative could be detrimental to
+society. The premise of Blackstone's formulation supports the above claim. It
+states that "it is better that 10 guilty persons escape than that one innocent
+person should suffer." It can however be argued in healthcare that if a person
+reasons a false negative classification for a condition or contagious disease,
+they could possibly die (or spread said disease) because of this type II
+error.
+
+Let us use the example of predicting the diagnosis classes for a dataset with
+300 observations. The matrix below shows that the classifier was able to
+accurately classifier all cases according to their respective classes. The
+table below shows a perfect classification exercise. It goes without saying
+that this can not be the case when real data is introduced to a trained
+classifier. The confusion matrix is the first step in telling you the
+performance of your classifier but there are other metrics that can give
+additional insights to the performance of your model.
+
+|
+
+Diabetic
+
+|
+
+Not-Diabetic  
+  
+---|---|---  
+  
+Diabetic
+
+|
+
+110
+
+|
+
+0  
+  
+Not-Diabetic
+
+|
+
+0
+
+|
+
+90  
+  
+  * Accuracy is simply a measure of how accurately the classifier performed with classifying data. Accuracy can also tell you the error rate and is typically the first metric that is visited when assessing a classifier's performance. 
+
+  * Recall sometimes referred to as Sensitivity is the True Positive rate and is calculated as:
+
+# of True Positives/ (# of True Positives + # of False Negatives). It is not
+holistic because it does not account for the False Positive and True Negative.
+
+Recall = TP/(TP+FN)
+
+  * Specificity is the True Negative rate and similar to the recall, it can result in biased results. It is calculated as # of True Negatives/(# of True Negatives + # of False Positives).
+
+Specificity = TN/(TN + FP)
+
+  * Precision is the positive predictive value and calculated as:
+
+# of True Positives/ (# of True Positives/# of False Positives).
+
+Precision = TP/ (TP + FP)
+
+F1 Score: All the metrics above were highlighted to introduce biased results
+because they do not account for all four rates. The F1 score will is
+calculated as:
+
+2 * (Precision * Recall) / (Precision + Recall).
+
+Matthews Correlation Coefficient will solve for the issue of biased results.
+It is often used to assess the quality of a binary classification model. It is
+a correlation coefficient between the observed and predicted binary
+classification. A value of +1 means a perfect prediction, 0 indicates that the
+classifier did the same job as you would if you randomly guessed the events or
+no-events, and finally -1 means the classifier misclassified observations. MCC
+is considers symmetric meaning that no class is more important than another
+(switch Negatives and Positives and the result will remain the same).
+
+Resource: MCC-scikitlearn.
+
+MCC Formula
+
+  * Logistic Loss (Log loss) is a metric that evaluates the predictions of probabilities of an observation's membership to a specific class. The prediction input is a probability value between 0 and 1 and the goal is to minimize this probability value. Log loss will "take into account the uncertainty of a prediction based on how much it varies from the actual label, while accuracy is the count of predictions where the predicted value equals the actual value. " 
+
+Resource: The math behind Log Loss.
+
+  * Receiver Operating Characteristic (ROC) Curve is a chart that shows the performance of a classifier by highlighting the true positive rate against the false positive rate at certain thresholds. It is the comparison of two operating characteristics. The ROC curve has been useful for many years, according to research it was developed and used by engineers during the World War II. It was used for battlefield detection analysis and has been used in many fields. Its most prominent use in recent days is for machine learning and model performance assessment. 
+
+Consider the ROC curve to be "sensitivity as a function of false positive
+rate." It can be used to select the optimal models.
+
+Area Under the ROC Curve otherwise known as AUC measures the entire area
+underneath the ROC curve and it is the measure of the classifier's ability to
+distinguish between classes. It also provides a measure of performance across
+different thresholds. The AUC measures how well predictions are ranked and the
+quality of the prediction. AUC might not be useful for certain scenarios such
+as it does not tell you much about the "cost of different errors". It gives
+similar weight to errors. The general interpretation of the chart is that the
+higher the AUC, the better the model is at its task of distinguishing between
+classes e.g. the model has predicted observations that are apples as apples
+and observations that are not apples as not apples. When the AUC is close to
+1, it signifies a good measure of separability and closer to 0 means it is not
+doing a good job of separability.
+
+So far, we have talked about the AUC ROC for binary classification, it can be
+used in a multi class model as well. Note that, there will be multiple AUC's
+plotted for each class.
+
+AUC-ROC for MultiClass
+
+ICML Presentation on MultiClass ROC Analysis
+
+ROC-AUC Source
+
+Regression Metrics
+
+Regression tasks will predict the state of a target variable based on other
+correlated input variables. As a quick reminder, target variables in these
+tasks are continuous values. Let us discuss the metrics that are used to
+evaluate the outcome of regression tasks:
+
+  * R-squared also known as the Coefficient of Determination is the proportion of the variance in the outcome variable that can be predicted using the predictor variables. It tells you how well "observed outcomes are replicated by a model based on the proportion of total variation of outcomes explained by the model." When interpreting r-squared in a simple linear regression model, it is considered to be the square of the sample correlation coefficient between the outcomes and predictors (r2). If R2 is 0.5, this would mean that 50% of the variation in the dependent variable is explained by the predictor variables. A good model has a high R2. 
+
+When there are multiple regressors, then R2 is the square of the coefficient
+of multiple correlation ("correlation between the variable's values and the
+best predictions that can be computed linearly from the predictive variables")
+
+This metric will provide an indication of how well new data will be predicted
+by the model.
+
+  * R2 does not come without some issues, as a metric it cannot determine whether the coefficient estimates and predictions might be biased. The R2 will typically increase when a predictor is added to a model and as you add more predictors, your model will likely overfit and result in a high R2 , Adjusted R-squared will only increase if newly added predictors improve the model more than expected and decrease when a predictor or predictors improve the model less than expected. It tells you the percentage of variation explained by predictors that will have an effect on the outcome. Basically, adjusted R2 will calculate R2 from the predictors that have a significant impact on the model. Adjusted R2 is best used to compare models with different number of predictors. 
+
+  * Mean Squared Error (MSE) is measure of the quality of an estimator or a predictor (depending on context). A value closer to zero is always best. Mean squared error refers to the unbiased estimate of error variance: the residual sum of squares divided by the number of degrees of freedom. 
+
+  * Mean Absolute Error (MAE) is the measure of errors between paired observations and is computed as the average of all absolute errors (absolute error is the absolute value of the difference between a predicted value and the actual value). This metric is used to measure accuracy. You use the Mean Absolute Percentage Error (MAPE) to compare predictions and interpret whether the size of an error is small or large. The MAPE is a model evaluation technique that clearly interprets the relative error. 
+
+  * Root Mean Squared Error (RMSE) gives weight to large errors since it squares the errors before computing the mean. The RMSE is computed by first determining the residuals (difference between the actual and predicted y values). Residuals are squared and the squares are averaged. Finally the square root of the averaged squares will result in the RMSE. An easier way to think about the formula is: "square root of (1-r2) multiplied by the standard deviation of y. 
+
+Resource: Regression Metrics-scikit-learn
+

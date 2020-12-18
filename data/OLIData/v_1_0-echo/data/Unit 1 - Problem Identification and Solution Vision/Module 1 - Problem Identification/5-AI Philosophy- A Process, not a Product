@@ -1,0 +1,21 @@
+
+
+AI Philosophy: A Process, not a Product
+
+AI Philosophy: A Process, not a Product
+
+The provision of analytical solutions to an organization requires
+understanding the organization’s needs, and their readiness to incorporate and
+support any analytical solution. A good solution will fail if the organization
+and its stakeholders are not equipped to support the solution. When engaging
+with potential clients seeking analytical solutions, it is important to assess
+the organization’s readiness.
+
+  * Data Science Ready. The organization has identified all the current sources of data to be considered, and those data have been normalized and integrated into a form that supports data science (statistical analysis, correlation, prediction, etc.). At this point the organization is ready to begin an engagement with data scientists and AI developers. The Case in point scenario showed that Monro Inc. was data science ready. During interviews with the information technology team, the data manager provided the adequate information about the company’s data architecture, appropriate data sources that would support the MotoManager app, as well as data that would be useful to build the desired prediction model. 
+
+  * Data Science Enabled. Preliminary analysis indicates that the data support the desired analytic objectives (useful correlations are identified, predictive models prove to be accurate enough, etc.). At this point, the organization can claim that it is ready to use data science to influence the capabilities of its workflows, products and services. 
+
+  * AI Ready. The organization has determined how to leverage the insights from data science (e.g. predicting customer preference) as part of an operational process, and has implemented the appropriate software or software extensions to integrate data science into a relevant workflow, product or service. At this point, the organization can claim that it understands how to incorporate AI into its workflows, products and services to provide enhanced capabilities for end users. 
+
+  * AI Enabled. The organization has deployed the new software in a relevant context, and is able to directly measure the impact (e.g., increased sales). At this point the organization can claim that it has implemented AI, and is gathering feedback to show that it really works with real end users. An organization can introduce the data science decision into a real world setting and measure if this implementation works. 
+

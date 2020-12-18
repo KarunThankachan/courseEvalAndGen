@@ -1,0 +1,62 @@
+
+
+Data Science projects can be complex in nature and require the input and
+efforts of many stakeholders. A Data Scientist will lead the process and it is
+important that a well-defined workflow is followed. The workflow will ensure
+that all stakeholders are on the same page, requirements are defined, and met.
+
+A data scientist will produce a solution that is effective and achieves
+business and analytic objectives with the end goal of meeting a business need.
+In this module, we will explore the data science lifecycle. Keep in mind that,
+just like the system development life cycle (SDLC), the data science life
+cycle is not linear. Real world problems will introduce hurdles that require
+the process to be iterative in nature. The lifecycle will give structure to
+the process and ensure that the data scientist stays on task.
+
+Figure 2 Data Science Life Cycle courtesy: Microsoft
+
+You can draw similarities between the CRISP-DM lifecycle and the data science
+lifecycle. Perusing the Internet, you will also find that different data
+science vendors have adapted the lifecycle to fit their products and the
+solutions supported by their tools. The data science lifecycle is briefly
+explained below:
+
+Business Understanding. “We fail more often because we solve the wrong problem
+than because we get the wrong solution to the right problem.” – Professor
+Russell L. Ackoff
+
+Data scientists are tasked with providing solutions to difficult business
+problems and those solutions should be supported by factual data.Prior to
+solving a problem, it is important to gain context of the business and the
+problem. This must include defining business and analytical objectives, as
+well as and identifying data sources.
+
+Data Acquisition. This process involves obtaining data from various sources
+and may also require setting up a data collection task and infrastructure.
+
+Subsequently, you will perform data preparation to ensure the data is ready
+for analysis.
+
+  * Data Preparation. This is the process of cleaning and transforming raw data prior to processing and analysis. This needs to be done carefully as assumptions made here may influence, or even limit, the use of the data during analysis.
+
+  * Data Exploration and Cleaning. The quality of your dataset will determine your success in meeting your business objectives. Data exploration includes identifying variables, conducting uni-variate and multi-variate analysis, identifying outliers, anomalies and missing values, as well as feature creation and selection. We will cover these topics in future units. 
+
+Modeling. Later in this course, you will explore modeling and learn about
+choosing the appropriate model based on the problem. You will study algorithms
+to implement analytical models, and tune their hyper-parameters to achieve the
+desired performance. We will learn about the balance between generalizability
+and performance, you want your model to learn and perform well, but also to be
+robust when introduced to unseen data.
+
+  * Feature Engineering is needed to prepare proper datasets that are compatible with the suitable algorithms, and to improve the performance of models by leveraging domain knowledge to capture the signal of interest in the features.
+
+  * Model Training is made efficient when you have adequately prepared your data and engineered new features. Model training involves maximizing performance and finding a balance between performance and generalization. Even in cases when a Data Scientist has collected millions of records, data should be considered and treated as a scarce resource since it may be expensive to obtain.
+
+    * Models are trained on dedicated training data, and evaluated on dedicated test data. Models should not be tested on the data they have been trained on. The ability to match the training performance on unseen test data is referred to as the models ability to generalize. To operationalize this during training, a validation data set is often sampled from the test data to allow an estimation of test performance during training. In the lifecycle, it is important that this separation is anticipated early because it may influence what parts of the data may be surveyed for feature engineering and model design in the beginning of the project without violating the training/test split.
+
+  * Model Evaluation is an essential step in the lifecycle. Typically, analytical solutions are meant to provide results when fitted with different datasets or when new data is introduced. Depending on the nature of the task (as stated in the analytic objective) model evaluation will follow corresponding metrics and techniques that will be explored in this course.
+
+Deployment. Once you have evaluated your models to ensure accuracy and
+performance, you will deploy the model to an environment for application
+consumption.
+

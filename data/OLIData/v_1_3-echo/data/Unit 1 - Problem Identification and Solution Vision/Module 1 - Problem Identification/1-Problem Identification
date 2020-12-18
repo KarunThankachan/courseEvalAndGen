@@ -1,0 +1,51 @@
+Similar to other business processes, a data science project is complex with
+moving parts that include understanding the business needs and objectives of
+the company, that influence the stakeholders, existing system environment, and
+support structure. The data whose analysis supports the proposed solution may
+have to be gathered both from inside and outside the organization. Overall,
+this process of initiating and executing a data science project can be
+challenging and it requires technical expertise as well as domain guidance. A
+Gartner study showed that 85% of data science projects fall short of
+expectations. Project expectations are defined by your client and the data
+science team creates a solution vision that will meet their expectations. The
+path to defining those project expectations must be tread carefully to avoid
+project failure.
+
+According to the Chaos Report, a group that tracks IT project failure, reports
+that data science projects might fail due to multiple reasons including those
+that occur in general IT projects. However, there are some unique issues that
+data science teams must consider to ensure the success of their projects. Some
+of the reasons for data science project failure include:
+
+  * Insufficient or inappropriate data.
+
+  * Lack of technical data science skills.
+
+  * Issues with project management .
+
+  * Inaccurate interpretation of results.
+
+  * Mismanaged client expectations .
+
+The above-mentioned issues are related to a misunderstanding regarding the
+client’s business needs, and to inadequate communication between the data
+science project team and the business stakeholders. It is important to
+identify and understand your client’s business needs, environment, and current
+solution. This will increase the chances of meeting the business objectives
+and providing the right analytical solution.
+
+In this unit, we will discuss how to derive analytic objectives from a
+client’s or organization’s business needs. In doing so, you need to broaden
+your understanding of the data science process beyond the gathering of data
+and the application of machine learning methods to a more or less clean
+dataset. While these aspects are certainly important parts of many data
+science projects, being a successful data scientist involves being mindful of
+the big picture to envision, design, implement, and ultimately deploy creative
+solutions for real world problems. You will find that this course introduces a
+data science approach that is grounded in scientific research, software
+engineering principles, and experimentation.
+
+The remainder of this unit focuses on the ability to identify problems and
+envision a solution, which is among the most important skills a data scientist
+must possess.
+

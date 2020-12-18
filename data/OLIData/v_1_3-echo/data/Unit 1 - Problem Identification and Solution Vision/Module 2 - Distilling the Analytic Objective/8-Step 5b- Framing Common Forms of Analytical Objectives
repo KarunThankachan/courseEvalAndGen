@@ -1,0 +1,99 @@
+
+
+Now that you have studied the elements of a properly framed analytical
+objective, we shift towards explaining three basic archetypes of hypotheses
+that will cover a fair amount of projects one encounters in data science. They
+are provided here as purely illustrative example instances of the general
+template on which you can base your own formulations.
+
+Not all framings of analytic objectives will include every individual elements
+as some of them may not be necessary depending on the situation. In industry
+settings, the problem and task may be merged, and the added valuable
+functionality may be evident from a model that performs its function well. In
+academic settings, the overarching interest may be that of advancing the state
+of the art in research, and hence the statement may either not include an
+explicit business objective or state it as a problem solution vision.
+
+Constructive
+
+A constructive analytical objective states that it is in principle possible to
+develop a desired functionality from the available methods and data without
+the need to fully optimize its performance yet. One can think of it as a
+proof-of-concept or prototyping endeavor.
+
+Industry Constructive Objective
+
+  * In order to increase sales from the company’s online store (Business objective) 
+
+  * ...we work towards increasing the click-through rate of its advertising through targeted content (Problem)
+
+  * ...by classifying website visitors into youth, middle-age, and senior demographics (Task) 
+
+  * ...using supervised learning models on curated internal datasets (Method) 
+
+Research constructive objective:
+
+  * (Business objective omitted due to project being primarily research) 
+
+  * In order to enable more effective search of audio collections (Problem)
+
+  * We demonstrate the feasibility of a system that retrieves audio pieces from short natural language descriptions of their sounds (Task) 
+
+  * using neural models on a dataset of short clips of classical music and their descriptions (Method)
+
+  * towards developing suitable multi-modal audio-textual encoding (valuable functionality)
+
+Benchmarking
+
+In scenarios where the feasibility of an analytical task has been established,
+projects may be targeted towards improving over the state of the art in some
+performance metric by using innovative methods/features/data. This is
+typically the case if one works on leaderboard-type datasets where there are
+models.
+
+Industry Benchmarking Objective
+
+  * The client is a logistics company that wants to speed up its automatic package sorting (Business objective) 
+
+  * We focus on the problem of handwritten address recognition from shipping label scans (Problem and Task) 
+
+  * We want to combine neural image recognition with language models on company-internal data (Method and Data) 
+
+  * To improve performance beyond the current model based on standard convolutional neural networks without language information (Valuable functionality)
+
+Research Bench-marking Objective
+
+  * (Business objective omitted due to project being primarily research) 
+
+  * For the task of span-based question answering from text (problem and task merged because span-based question answering is a common leaderboard task) 
+
+  * We want to combine graph-based knowledge bases with neural attention models (Method)
+
+  * To improve over state of the art performance on realistic news text (valuable functionality and data) 
+
+Exploratory
+
+Exploratory objectives are typically formed when data is available that is
+related to a problem of interest, but needs to be surveyed before it can be
+used in projects pursuing constructive or benchmarking objectives.
+
+Industry Exploratory Objective
+
+  * The client runs a complex semi-automatic manufacturing pipeline and wants to make it more efficient (Business objective) 
+
+  * Specifically, he would like to see whether some parts of the process statistically interdepend so that bottlenecks and critical components can be identified (Problem and Task) 
+
+  * We want to conduct a qualitative survey and basic statistical analysis on a dataset of production machinery sensor readings provided by the client (Methods and Data) 
+
+  * Towards identifying correlating events across the production process that can be used for process optimization .
+
+Research Exploratory Objective
+
+  * (Business objective omitted due to project being primarily research) 
+
+  * The development of AI dialogue systems suffers from a lack of clear training signal of how satisfied the user is with the chat bot’s replies (Problem) 
+
+  * We want to conduct a sparse labeling of conversation quality and produce basic topic models for a dataset of chat protocols (Methods and Data) 
+
+  * In order to develop a per-topic quality scoring rubric for the eventual annotation of a larger dataset. (Task / Valuable Insight) 
+

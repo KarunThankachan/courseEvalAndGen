@@ -1,0 +1,49 @@
+
+
+The data collection process in the data science lifecycle can be compared to
+the data collection process in scholarly research. Data collection is the
+process of gathering and analyzing data that can meet defined business and
+analytic objectives. Data collection should be conducted systematically to
+ensure that the data is valid and reliable. In this section, we will explore
+the traditional methods used to collect data and describe how data can be
+collected via methods that reduce bias.
+
+Data Collection Methods
+
+Data collection before and during the data science project lifecycle includes
+data collected to define business and analytic objectives, data collected to
+define business requirements, and then the data needed for developing an
+analytic solution. Let us explore the traditional methods to collecting data:
+
+Questionnaires and surveys. Questionnaires are used to collect data from a
+group of individuals. Questionnaires can be administered on paper or online,
+it might be easier to distribute questionnaires online as there are efficient
+tools that can analyze the data. Questionnaires can have open-ended, closed-
+ended, rating, Likert scale, or multiple-choice questions. Data cleansing is
+still a consideration with questionnaire data as errors can occur. For
+example, responses to open-ended questions can contain misspellings among
+other errors.
+
+Interviews. Interviews are used to collect data from small groups and unlike
+questionnaires, the questions are typically open-ended.
+
+Observations. Data collected during an observation can support data collected
+during interviews and from questionnaires. Observations allow for the
+examination of subjects as they perform their duties.
+
+Focus groups. Focus groups can be used to explore topics that are difficult to
+observe, and sensitive topics.
+
+The collection methods above are can be considered as obtrusive data
+collection methods meaning the participants of the data collection exercise
+are aware that data is being collected from them for a purpose. There are
+unobtrusive data collection methods, those methods involve collecting data
+from web sources (Data from the web is used for data science related tasks
+including sentiment analysis, text classification, among others), document
+analysis, and use of available datasets from a data repository. Unobtrusive
+data collection methods can be done without the knowledge of the subject of
+the study. As is done in research studies and emphasized with data governance
+policies, data gathering must be done in an ethical manner.In the next module,
+we will explore collecting data from non traditional sources using non
+transforming and enriching the data to make it usable for analysis.
+

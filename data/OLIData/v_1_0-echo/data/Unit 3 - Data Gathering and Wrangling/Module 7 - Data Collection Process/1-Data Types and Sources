@@ -1,0 +1,142 @@
+
+
+Each data science project is unique and will require a data collection
+technique that suits the problem and objectives it seeks to meet. The data
+collection techniques for a sentiment analysis project analyzing social media
+tweets will differ from the techniques of an image classification project for
+patient diagnosis. When you defined the project's business and analytic
+objectives, the tasks and methods were proposed as well, those tasks and
+methods drive the type of data that will be used in the project. The type of
+data will influence the source and data collection techniques. Once you have
+completed this module, you will be able to distinguish between the various
+data types and sources, alongside the traditional data collection techniques.
+
+Data Types
+
+Data holds value to businesses and can present itself in various forms. You
+identify data types as it affects the methods you will choose to develop an
+analytic solution. Data types are also dependent on its source, so you can
+consider the type of data according to how it is represented in its source.
+Reference the link below for a refresher on the common data types:
+
+Reading: Classes of Data Types.
+
+When discussing data types in data science, data is typically categorized as
+numeric or categorical and classified as one of the four measurement scale
+types. Numeric data is represented as continuous or discrete values, while
+categorical data can be nominal or ordinal values.
+
+Numeric Data
+
+|
+
+Categorical Data  
+  
+---|---  
+  
+Discrete: There are 31 days in the month of May
+
+|
+
+Ordinal: I can rate my customer service experience at the grocery store as
+Good.  
+  
+Continuous: You were born on May 13th 1997 so as of May 28th 2020, you are 23
+years, 2 weeks, and 1 day old.
+
+|
+
+Nominal: What is your hair color? Brown.  
+  
+Qualitative and Quantitative Data
+
+Quantitative data is data that is expressed in numerically and derived from
+questions such as how many courses are you enrolled in this semester; how much
+do Data Scientists earn? Meanwhile, qualitative data is descriptive data that
+is collected from observations instead of measurements. Qualitative data is
+sometimes transformed to enable it to be used in certain machine learning
+modeling techniques that require quantitative data. Both data types are
+collected and analyzed in different ways.
+
+Structured and Unstructured Data
+
+Structured Data is organized facts that are presented in fixed formats and are
+easy to extract. This data can be stored in spreadsheets, relational databases
+and other repositories in the row and column format. Unstructured data is most
+difficult to extract, it is not easily stored in typical relational databases
+and spreadsheets because it does not fit in the row and column structure. It
+cannot be maintained in formats that are uniform. Text, multimedia files, and
+log files from servers are examples of unstructured data. New generation
+databases also known as NoSQL databases were built to handle unstructured
+data. Unlike structured data, unstructured data can be stored without a
+predefined schema.
+
+Internal and External Data
+
+Data can also be classified as Internal data, which is data collected and/or
+controlled by an organization. An example would be personnel data collected
+and stored by the human resources department. We also have External data, data
+that is collected from sources outside of an organization. Census data, and
+data gathered from credit reporting agencies are examples of external data.
+
+Title
+
+A company has surveyed its customers on their satisfaction with a newly
+released service. The questions asked in the short survey include:
+
+How much do you earn: Numeric response
+
+What level of education have you completed: Categorical response
+
+What industry are you employed: Categorical response
+
+How many people are in your household: Numeric response
+
+What part of the country do you reside: Categorical response
+
+Data Sources
+
+The different types of data that we explored earlier are collected through
+different sources. Primary data sources includes data that is collected and
+processed by an organization and housed internally. Secondary data sources
+include data that is gathered from sources external to an organization. Keep
+in mind that internal data can come from a primary or secondary data source
+and that an organization's data governance framework affect data that is
+collected from primary and secondary sources as long as they are used by the
+organization.
+
+The Largest Data Source.The web is considered the largest data source. Data
+from the web can be sourced from social media, search engines, and machine
+data. In the next module, we will focus on this source in depth.
+
+Primary Data vs Secondary Data from Internal and External Sources.
+
+Primary data can be data that is collected by a data scientist from first hand
+sources like through questionnaires and focus groups.
+
+Secondary data is data used in a Kaggle competition or a dataset from the
+popular UCI Machine Learning Repository. You did not collect that data and it
+has been used by others for research or data analysis.
+
+Internal data is employee/personnel data. An Internal data source is a
+company's database that they control. An external data source would be Twitter
+and external data could be data that a researcher pulls from twitter users who
+are discussing a presidential debate.
+
+An example of primary data can be data that is collected by a data scientist
+from first hand sources like through questionnaires and focus groups. An
+example of secondary data is data used in a kaggle competition or a dataset
+from the popular UCI Machine Learning Repository. You did not collect that
+data and it has been used by others. An example of internal data is
+employee/personnel data. An Internal data source is a company's database that
+they control. An external data source would be Twitter and external data could
+be data that a researcher pulls from twitter users who are discussing a
+presidential debate.
+
+Example of Internal Data from Secondary Source: Your company purchases
+potential client data from data brokers (external source). That data has now
+become your company's data that will be used for marketing, advertising, etc.
+(It has now become internal data) .  
+  
+---  
+  
