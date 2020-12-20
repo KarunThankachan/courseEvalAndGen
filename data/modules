@@ -1,0 +1,95 @@
+Unit 1 - Problem Identification and Solution Vision
+Module 1 - Problem Identification
+Problem Identification
+Translating Business Needs to Data Science Tasks
+Evidence Value Proposition
+Case in Point- MotoManager and the Evidence Value Proposition
+AI Philosophy- A Process, not a Product
+Summary,f163c5a1f706478ba282922e02b00566
+Module 2 - Distilling the Analytic Objective
+Defining an Analytic Objective
+Step 1- Actually Understanding the Business Objective
+Step 2- Identifying and Delimiting the Problem
+Step 3- Focusing on a well-defined Task
+Step 4a- Drafting the Methods Statement
+Step 4b- Proposing Data Collection Methods
+Step 5a- Create Functionality & Insight
+Step 5b- Framing Common Forms of Analytical Objectives
+Summary,a230149eeff444409cd9d4afde70a9ed
+Module 3 - Data Science Lifecycle
+Phases of a Data Science Project
+Roles in the Data Science Lifecycle
+Summary,c4d5ec6d3b8e4581a73a3655a8a18730
+Unit 2 - Analytic Requirements Gathering
+Module 4 - Requirements Overview
+Overview,b0f497f7d17d438bb8b510e83458953b
+What is a Requirement
+Types of Requirements
+Functional and Non-Functional Requirements
+Framing Analytic Requirements
+Summary,f45f34e44b6f4997955d9437ad06efa1
+Module 5 - Requirements Gathering Techniques
+Requirements Gathering Techniques
+Successful Requirements Gathering
+Summary and Quiz 1
+Unit 3 - Data Gathering and Wrangling
+Module 6 - Data Gathering
+Data Management
+Overview-Data Governance
+Summary,c866d060241f4a72b783264dac8cf7b3
+Module 7 - Data Collection Process
+Data Types and Sources
+Data Collection Tools
+Summary and Quiz 2
+Module 8 - Data Wrangling Pipeline
+Overview,e9207913c48b40e6aa3af72566458b68
+Data Wrangling-Gathering Data
+Data Wrangling-Transforming Data
+Data Wrangling-Integrating Data
+Summary and Quiz 3
+Unit 4 - Exploratory Data Analysis	
+Module 9 - Performing Exploratory Data Analysis
+Information Design Overview
+Statistical Inference
+Summary and Quiz 4
+Module 10 - Feature Engineering
+Feature Vectors
+Feature Engineering
+Addressing Bias in Data
+Principal Component Analysis
+Summary and Quiz 5
+Unit 5 - Analytic Algorithms and Model Building	
+Module 11 - Data Science Patterns
+Estimating f
+Classification
+Regression
+Cluster Analysis
+Ranking
+Active Learning
+Summary and Quiz 6
+Module 12 - Bias-Variance Tradeoff
+Errors
+Bias-Variance Decomposition and Trade-off
+Cross Validation
+Summary and Quiz 7
+Module 13 - Supervised Techniques
+Overview,bcee0c07419649b8a878ae7465eb40a1
+k-Nearest Neighbors Method
+Bayes Method
+Classification and Regression Trees
+Bagging-Boosting Methods (Ensemble Models)
+Summary and Quiz 8
+Module 14 - Unsupervised Learning Techniques
+k-Means Clustering
+Hierarchical Clustering
+Summary and Quiz 9
+Unit 6 - Model Evaluation
+Module 15 - Interpreting Models
+Model Interpretation Strategies
+Accuracy versus Interpretability
+Summary and Quiz 10
+Module 16 - Evaluation Metrics
+Overview,d042b810c4f14b3a9f2f826ce1d2b234
+Classification and Regression Metrics
+Clustering Evaluation Metrics
+Summary,a34c8e4846454ac7bbb3f591385a4fa3
