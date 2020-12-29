@@ -1,0 +1,58 @@
+
+
+Bayes Theorem calculates conditional probabilities. Bayes Theorem describes
+the probability of an event based on prior knowledge of conditions related to
+that event. If you want to assess the risk of a person developing macular
+degenerative issues, Bayes theorem supports accurately assessing that risk
+based on a certain age range, instead of making assumptions.
+
+Bayes Rule-
+
+*Source https://www.psychologyinaction.org/psychology-in-action-1/2012/10/22/bayes-rule-and-bomb-threats
+
+Additional Reading:Bayes Theorem  
+  
+---  
+  
+Bayesian Inference is applied when Bayes theorem seeks to update the
+probability for a hypothesis as more information becomes available. Used in
+sports, medicine, and law among other fields. Bayesian Inference derives the
+posterior probability as a consequence of a likelihood function and a prior
+probability. It is not the only updating rule but it is widely used.
+
+Naive Bayes (NB) Method
+
+Named after Reverend Thomas Bayes, naive Bayes is a simple classifier that can
+be applied to categorical predictors. When classifying observations using NB,
+the classifier locates all observations that have similar predictor values to
+the observation that is to be classified, and then assigns it to the class
+that it belongs to; When the problem calls for predicting the probability that
+an observation belongs to a class, we can use this method. Naive Bayes is
+based on applying the Bayes theorem and it assumes that all predictors are
+independent. Although this is a naive assumption, naive bayes performs quite
+well for real world applications. A fruit that is green, round and 18cm in
+diameter can be considered to be a honey dew melon, the NB classifier will
+assume that all features listed above independently contribute to the
+probability that a fruit with these features is a honey dew melon. Naive Bayes
+can perform well with a small training dataset for estimating the right
+parameters for a classification task. A downside to this model outside of its
+naivety is that studies have been conducted showing it does not perform as
+well as methods like random forests. It is said to be a good classifier but as
+an estimator, its probability outputs should are not as strong. When model
+complexity is not important, NB can be used for high dimensional data. This is
+because when the dimension of a dataset is large or it grows, datapoints are
+more likely to be further apart than in cases with low dimensional data.
+
+Naive Bayes is not considered the go-to algorithm for estimating the
+probability of an observation's class as it is biased in its results. It is
+quite useful for ranking and classification tasks. Assume that you introduce a
+new record to your model, if this new record has a predictor category that is
+different from those in the training dataset, naive Bayes will assume zero
+probability to that record. Let's make it real: if your response is has
+diabetes and a predictor category is past pregnancy. Now assume that your
+training dataset has all observations with past pregnancy =0. All new
+observations with past pregnancy =1 will be classified as not having diabetes.
+
+There are other Bayesian Methods that can be used in Data Science, these are
+explored in machine learning and applied statistics courses.
+

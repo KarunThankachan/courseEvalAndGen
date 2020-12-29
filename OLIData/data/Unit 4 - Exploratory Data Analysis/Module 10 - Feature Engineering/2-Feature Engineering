@@ -1,0 +1,179 @@
+
+
+Importance of Feature Engineering
+
+Feature engineering is the process of using domain knowledge to extract
+features from raw data. Algorithms need specific features in the model
+development process. Feature engineering will ensure your dataset is
+compatible with your algorithm, thereby improving model performance.  So far,
+we have highlighted the specialized nature of feature engineering and that
+there is no one size fits all to the process. However, there are foundational
+concepts that are essential to your understanding of feature engineering.
+
+Mapping Raw Data to ML Features. Source-Google Developer Course
+
+Feature Engineering Techniques
+
+Imputation
+
+Do you remember this concept from an earlier module? It is useful during the
+data wrangling process as you cleanse your data and is equally used in feature
+engineering. Missing values in a dataset can negatively affect the performance
+of a model. Missing values can be caused by simple human errors, privacy
+concerns, among others. How can we fix the problem of missing values? A simple
+but problematic solution is dropping rows or columns. A preferable solution is
+imputation. You should consider a default value for missing values in a row or
+column. Let us visit how you handle this with numeric and categorical data.
+
+Numerical Data Imputation. If you are not dropping rows and columns with
+missing data, the numerical imputation method will allow you to intuitively
+replace missing values. A column with numbers and some with " - " or "NA" can
+be replaced with a "0". Other methods used include using the median or mean
+values of that variable.
+
+Categorical Data imputation. In some cases, replacing missing values with a
+zero will not make sense to the dataset. You can replace values in a
+categorical column with the “maximum occurred value”, you can impute “other”
+in a situation where there is no dominant value in the categorical column.
+
+Binning
+
+Similar to imputation, binning can be applied to numerical and categorical
+data. Binning makes a model more robust but there is a trade-off between
+performance and overfitting. Binning categorical data will have less of a
+negative effect on model performance than when binning is performed on
+numerical data. It is also used to capture noisy data when you have values
+that have variance.
+
+In the context of image processing, binning is the procedure of combining a
+cluster of pixels into a single pixel. As such, in 2x2 binning, an array of 4
+pixels becomes a single larger pixel, reducing the overall number of pixels.
+
+Source2
+
+Handling Outliers
+
+You learned about how to visualize your data to detect outliers in an earlier
+module. This method is less error prone. You can use some statistical and
+visualization methods to detect and handle outliers include computing the
+z-score, using percentiles, and visualizing the data distribution of your
+dataset. These techniques were discussed in the "Exploratory Data Analysis"
+module.
+
+Log Transform
+
+Log transform also known as logarithm transform is used to handle skewed data
+and make the distribution of data less skewed. It is widely used because of
+its ease of use and it decreases the effect of outliers in a dataset. Log
+transform is not usually applied to values that are less than or equal to
+zero.
+
+Categorical Encoding
+
+One hot encoding
+
+One hot coding is a process by which categorical variables are converted into
+a form that could be provided to a machine learning algorithm to make accurate
+predictions. This technique replaces categorical variables with different
+Boolean variables that indicate whether or not a category of the variable was
+part of the observation. Those Boolean variables are called dummy variables.
+
+One hot encoding is easy to implement, it will retain all information of the
+categorical variable. This method does not add valuable information that can
+make a variable more predictive.
+
+Assume that a categorical variable education with labels less than high school
+and high school. We can generate the Boolean variable “high school”, which
+becomes 1 if the person has high school or 0, if the person has less than high
+school.
+
+Binary Feature Encoding
+
+When you have a variable with multiple categories, one-hot encoding might
+increase the dimensionality of your data. The binary encoding method can be
+used to create a smaller number of variables without losing information.
+
+Ordinal Feature Encoding
+
+When you have ordinal data that is useful to your analytic solution, you can
+transform those features using ordinal encoding. Here we convert string labels
+to integer values. If you have an ordinal variable with string values that
+satisfied, dissatisfied, highly satisfied, highly dissatisfied, not
+applicable, and somewhat satisfied, ordinal feature encoding will map the the
+values to a corresponding integer. As you can see in the table below, all
+values are not integers.
+
+Highly Satisfied
+
+|
+
+1  
+  
+---|---  
+  
+Satisfied
+
+|
+
+2  
+  
+Somewhat Satisfied
+
+|
+
+3  
+  
+Not Applicable
+
+|
+
+4  
+  
+Dissatisfied
+
+|
+
+5  
+  
+Highly Dissatisfied
+
+|
+
+6  
+  
+Feature Split
+
+When you split features, the features become easier to bin, and this improves
+model performance. There are many ways of splitting features and it depends on
+the variable. If your dataset contains the variable address, you might split
+the column by extracting street address, city, state, and postal code. You run
+the risk of increasing dimensions; in this case we employ techniques that
+assess the value of the extracted dimensions.
+
+Scaling
+
+Some machine learning algorithms need to have scaled continuous features as
+model inputs. Scaling is not necessary for most algorithms but it can make
+continuous features identical in respect to range.
+
+There are instances that require the use of scaled data including algorithms
+that use gradient descent ("an optimization algorithm used to minimize some
+function by iteratively moving in the direction of steepest descent as defined
+by the negative of the gradient. In machine learning, we use gradient descent
+to update the parameters of our model"). Neural Networks and Linear Regression
+are some of those examples. The data is scaled before been fed to the model.
+Algorithms like k-Nearest Neighbors, clustering analysis like k-means
+clustering and other distance based algorithms would need data that is scaled.
+
+Quick thought: How about tree based algorithms like decision trees and random
+forest? They are not affected as they are not distance based.
+
+Normalization. This technique involves values ranging between 0 and 1. Prior
+to normalization, all outliers in the dataset should be handled.
+
+Standardization. Also known as z-score normalization, it is useful for feature
+engineering in logistic regression, artificial neural network, and support
+vector machine tasks.
+
+How-to: Scaling in Python.
+

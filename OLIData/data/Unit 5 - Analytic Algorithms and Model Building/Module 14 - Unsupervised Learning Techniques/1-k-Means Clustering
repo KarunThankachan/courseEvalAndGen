@@ -1,0 +1,111 @@
+
+
+Unsupervised Learning Techniques
+
+When we want to identify patterns in a dataset from unlabeled data, we use
+unsupervised learning to perform this task. Unsupervised learning is also
+referred to as self-organizing; We have touched on the Principal Component
+Analysis when we discussed feature engineering. This is one of the
+unsupervised techniques. We will also look further into the different types of
+cluster analysis techniques.
+
+You can categorize data according to characteristics using a technique called
+Cluster Analysis. If you think about how we reason and learn as human beings,
+we make sense of events, people, and things by placing them in groups. You
+have memories that are characterized as happy and sad or people categorized
+into close friends, acquaintances, and mentors, among others. You might even
+consider clustering data to identify those with similarities as a method of
+exploring data. Applications of cluster analysis include market segmentation;
+this is the segmenting of customer data based on certain criteria including
+transaction history. The different clusters created from the segmentation
+exercise are useful for targeted advertising or application of customized
+marketing strategies that will might elicit positive responses, increase
+sales, and engagement.
+
+Clustering-Source www.pyarmy.com
+
+Types of Clustering
+
+Hard Clustering divides data into a number of groups and can only belong to
+one cluster. All clusters are independent of each other.
+
+Soft Clustering groups data into clusters but a data point can belong to more
+than one cluster to a degree.
+
+Overlapping Clustering allows data to belong to more than one cluster.
+
+Hierarchical Clustering organizes data in a hierarchical manner so that the
+hierarchies are represented by a dendrogram.
+
+Reading: An Expansion on Clustering.
+
+k-Means Clustering
+
+This method involves identifying the number of clusters k that the dataset
+will be grouped into; the data in each cluster should share similarities to
+the other records within its cluster. Assume you have k = 5, cluster 1 will
+contain data that is homogeneous but quite dissimilar to the records in
+cluster 5\.  The data within clusters adhere to distance measures to ensure
+that dispersion is minimized. k-Means Clustering technique abides by a number
+of distance measures but the most popular is the Euclidean Distance. Let us
+look at how clusters are created using this technique:
+
+  * Partition Data: The dataset is partitioned into k clusters are pre-specified (chosen by the Data Scientist). 
+
+  * Initialize Centroids: Within each cluster, the distance between the observations is modified so that dispersion is minimized and each observation is closest to nearest centroid. Centroids are data points that are considered to be the center of a cluster, you can also think of this datapoint as the mean of all the observations within the cluster. 
+
+  * Iteratively initialize centroids from the previous step until the means of the newly formed clusters are negligible.
+
+  * You know that you have a good cluster when there is "high similarity among within-cluster data and low similarity among inter-cluster data."1
+
+How do we decide k, similar to kNN, there are empirically studied
+recommendations for the best k to select. You can also select k based on
+previous knowledge (this is hardly the case with this unsupervised task). You
+can use different values for k and then compare the results gotten from each
+value of k. It is good practice to also run the k-Means cluster method by
+using different values for k based on the number of clusters that are expected
+from the data in order to see how the sum of distances reduces with increasing
+values of k.
+
+k can also be chosen by calculating the Within Cluster Sum of Squares(WCSS).
+This is the sum of squares of the distances of each data point in relation to
+the centroids in the data points cluster.
+
+Assume that we have 1000 observations in a dataset, and we have decided that k
+= 1000, the WCSS should be zero (0). This is because all the observations are
+considered as centroids and there is technically no distance between the
+observation and the centroid within the cluster since it is the sole data
+point in its cluster. This is certainly not a computationally sensible way to
+cluster data. Think about a dataset with over 100,000 observations. Also think
+about the information to be gleaned from the cluster analysis; you will lack
+useful information.
+
+When you randomly initialize with a range of k values for the 1,000
+observations mentioned above i.e. between 2-10. You can use the Elbow method
+to find out the optimum value for k. The Elbow method produces a graph that
+shows this optimum value at the "elbow" of the line as shown below. You select
+k as the WCSS decreases; the figure below shows that after 5, the decrease in
+WCSS is quite small.
+
+Elbow Method: Source1
+
+Reading: k-Means Clustering-sklearn.  
+  
+---  
+  
+Additional Reading: K-Means Clustering Algorithm  
+  
+K-Means Clustering and k-Nearest Neighbors have been known to cause confusion
+for data scientists who are new to the field. Afterall, we are discussing
+similarity measures and distances to an observation to classify or cluster
+into a class. The main difference is that one is an unsupervised technique and
+the other is supervised. kNN is a supervised classification method that
+involves labeled data that is used to train a model to accurately predict the
+class of a new observation according to its closest or neighbor data points.
+kMeans does not provide a labeled dataset to the model for learning purposes.
+kMeans will partition the data into a number of clusters. KNN works best with
+data that is of the same scale but kMeans do not need same scale data to
+perform well. Remember when you learned about kNN being a lazy learner? kMeans
+is an eager learner. It is slow to train but fast to learn and it tends to
+deal with noise in the training dataset better than a lazy learner.
+

@@ -1,0 +1,8188 @@
+%cpaste,1,28,5,32
+%cpaste,1,28,8,358
+%cpaste,1,29,0,8
+%debug,5,39,9,70
+%debug,5,39,12,147
+%debug,7,40,0,157
+%history,1,33,0,77
+%history,1,33,1,58
+%lprun,8,42,5,209
+%lprun,12,45,2,28
+%lprun,12,45,4,254
+%lprun,12,45,6,24
+%lprun,13,46,2,391
+%lsmagic,1,30,3,155
+%lsmagic,1,30,6,204
+%magic,1,30,3,143
+%magic,1,30,6,115
+%matplotlib,39,79,3,72
+%matplotlib,44,86,4,447
+%matplotlib,45,88,0,7
+%matplotlib,52,98,1,446
+%matplotlib,56,106,1,193
+%matplotlib,103,191,3,219
+%matplotlib,113,214,1,775
+%matplotlib,115,221,1,60
+%matplotlib,128,236,8,37
+%matplotlib,129,237,1,71
+%matplotlib,129,237,2,127
+%matplotlib,131,241,2,138
+%matplotlib,136,250,2,100
+%matplotlib,140,255,4,109
+%matplotlib,142,258,3,100
+%matplotlib,144,262,2,231
+%matplotlib,147,267,0,7
+%matplotlib,150,272,7,173
+%matplotlib,155,280,0,7
+%matplotlib,159,285,5,102
+%matplotlib,160,289,4,461
+%matplotlib,161,290,0,74
+%matplotlib,164,293,2,137
+%matplotlib,169,299,6,172
+%matplotlib,173,307,4,333
+%matplotlib,174,308,1,208
+%matplotlib,177,315,7,212
+%matplotlib,184,329,4,113
+%matplotlib,196,362,0,178
+%matplotlib,201,384,1,237
+%matplotlib,211,396,0,98
+%matplotlib,214,400,9,43
+%matplotlib,219,407,7,45
+%matplotlib,224,422,8,43
+%matplotlib,228,438,5,45
+%matplotlib,234,450,6,43
+%matplotlib,240,463,7,43
+%matplotlib,249,480,2,43
+%matplotlib,252,494,0,7
+%matplotlib,257,508,8,43
+%matplotlib,263,523,9,43
+%memit,8,42,5,256
+%memit,13,46,0,22
+%memit,13,46,2,251
+%memit,13,46,3,4
+%memit,13,47,2,24
+%mprun,8,42,5,308
+%mprun,13,46,0,33
+%mprun,13,46,2,328
+%mprun,13,46,4,61
+%mprun,13,46,5,749
+%mprun,13,47,2,35
+%paste,1,28,5,21
+%paste,1,28,8,25
+%prun,8,42,5,176
+%prun,10,44,2,24
+%prun,10,44,3,199
+%prun,10,44,4,281
+%prun,12,45,0,24
+%prun,12,45,2,73
+%run,1,29,1,23
+%run,1,29,3,26
+%run,1,29,4,329
+%run,7,41,0,365
+%time,1,29,6,23
+%time,1,29,7,83
+%time,1,30,0,15
+%time,1,30,2,74
+%time,1,30,3,14
+%time,1,30,4,50
+%time,8,42,5,57
+%time,8,42,6,22
+%time,9,43,0,45
+%time,9,43,1,21
+%time,9,43,3,193
+%time,9,43,5,182
+%time,9,43,6,34
+%time,9,43,8,17
+%time,9,43,9,4
+%time,10,44,0,8
+%time,13,46,2,311
+%time,31,68,4,36
+%time,31,69,2,166
+%time,37,76,2,487
+%time,37,77,0,7
+%time,54,101,3,68
+%time,54,102,0,41
+%time,54,102,3,327
+%time,64,113,2,30
+%time,77,138,7,301
+%time,119,226,4,315
+%time,119,227,3,373
+%time,226,435,0,8
+%timeit,1,29,6,23
+%timeit,1,29,7,83
+%timeit,1,30,0,15
+%timeit,1,30,2,74
+%timeit,1,30,3,14
+%timeit,1,30,4,50
+%timeit,8,42,5,104
+%timeit,8,42,6,22
+%timeit,9,43,0,45
+%timeit,9,43,1,21
+%timeit,9,43,3,193
+%timeit,9,43,5,589
+%timeit,9,43,6,34
+%timeit,9,43,8,17
+%timeit,9,43,9,18
+%timeit,10,44,0,234
+%timeit,13,46,2,311
+%timeit,31,68,4,36
+%timeit,31,69,2,166
+%timeit,37,76,2,487
+%timeit,37,77,0,7
+%timeit,54,101,3,68
+%timeit,54,102,0,41
+%timeit,54,102,3,327
+%timeit,64,113,2,30
+%timeit,77,138,7,301
+%timeit,119,226,4,315
+%timeit,119,227,3,373
+aggregate() method,98,183,1,89
+multidimensional,21,56,3,79
+multidimensional,25,60,2,366
+multidimensional,26,62,2,220
+multidimensional,31,69,3,330
+multidimensional,37,77,1,0
+multidimensional,46,91,8,126
+multidimensional,56,104,4,273
+multidimensional,56,105,5,68
+multidimensional,63,112,16,44
+multidimensional,102,187,4,125
+multidimensional,102,187,5,133
+multidimensional,102,188,3,241
+multidimensional,102,188,6,141
+multidimensional,139,253,1,121
+multidimensional,159,285,0,165
+multidimensional,184,334,1,55
+multidimensional,184,335,0,16
+multidimensional,205,390,8,133
+multidimensional,219,409,2,134
+multidimensional,219,409,4,4
+multidimensional,219,410,0,97
+multidimensional,240,463,6,99
+multidimensional,240,464,2,0
+multidimensional,241,466,3,25
+multidimensional,249,480,2,297
+multidimensional,253,497,2,103
+multidimensional,255,503,2,324
+minimum and maximum,36,75,7,213
+minimum and maximum,37,76,4,0
+minimum and maximum,98,178,0,185
+multidimensional aggregates,37,77,1,0
+summing the values in an array,37,76,1,0
+various functions,16,51,4,235
+various functions,65,115,4,235
+various functions,123,232,3,177
+multiindex,80,145,4,54
+multiindex,81,146,2,23
+multiindex,81,146,3,82
+multiindex,81,146,4,74
+multiindex,81,146,5,35
+multiindex,81,147,6,0
+multiindex,81,148,2,131
+multiindex,81,148,4,11
+multiindex,82,149,0,25
+multiindex,82,149,1,122
+multiindex,82,149,2,9
+multiindex,82,149,3,53
+multiindex,82,150,0,11
+multiindex,82,150,1,0
+multiindex,82,150,2,74
+multiindex,82,150,3,0
+multiindex,82,150,4,142
+multiindex,82,151,4,23
+multiindex,83,152,0,4
+multiindex,83,152,1,238
+multiindex,83,154,6,12
+multiindex,83,154,8,127
+multiindex,84,155,0,363
+multiindex,84,155,1,93
+multiindex,85,156,2,567
+multiindex,89,161,10,427
+simple aggregation,98,176,3,701
+simple aggregation,98,178,3,31
+akaike information criterion (aic),255,504,3,123
+albers equal-area projection,178,321,0,83
+anaconda,1,15,19,104
+anaconda,1,16,1,2
+anaconda,1,16,3,34
+anaconda,1,19,7,141
+anaconda,16,51,0,69
+anaconda,65,115,2,64
+anaconda,69,123,1,718
+anaconda,78,139,0,175
+arrows,160,289,5,0
+arrows,160,289,6,8
+arrows,160,289,7,82
+arrows,160,289,9,54
+arrows,161,290,0,455
+arrows,161,290,2,358
+arrows,162,291,0,99
+arrows,163,292,0,95
+arrows,234,451,1,808
+transforms and text position,160,287,3,0
+apply() method,98,182,5,76
+apply() method,98,184,5,313
+apply() method,98,184,6,4
+apply() method,115,219,0,103
+arithmetic operators,31,69,7,98
+arithmetic operators,31,70,2,714
+arithmetic operators,31,70,3,11
+arithmetic operators,32,71,0,188
+arithmetic operators,45,88,7,147
+arithmetic operators,45,89,3,879
+arithmetic operators,119,227,4,200
+arithmetic operators,119,227,5,23
+attributes,1,20,13,5
+attributes,1,23,5,66
+attributes,1,23,7,31
+attributes,1,23,8,292
+attributes,1,23,9,163
+attributes,25,59,4,64
+attributes,25,59,6,478
+attributes,25,60,0,202
+attributes,64,113,0,216
+attributes,65,116,1,357
+attributes,69,123,1,216
+attributes,70,126,4,427
+attributes,70,127,0,32
+attributes,120,228,2,443
+attributes,120,228,3,36
+attributes,163,292,10,14
+attributes,196,363,2,64
+attributes,196,366,10,339
+attributes,197,372,3,81
+basics,2,34,8,30
+basics,25,59,0,4
+basics,25,60,2,583
+basics,26,62,5,163
+basics,27,64,5,330
+basics,30,66,3,367
+basics,43,85,3,145
+basics,87,159,0,673
+basics,123,232,0,61
+basics,196,364,2,0
+basics,201,380,4,49
+basics,268,532,1,227
+boolean,24,58,2,290
+boolean,32,71,0,23
+boolean,44,87,0,64
+boolean,44,87,2,10
+boolean,45,88,8,54
+boolean,45,89,2,67
+boolean,46,90,0,376
+boolean,46,90,1,13
+boolean,46,90,2,174
+boolean,46,90,5,24
+boolean,46,91,10,0
+boolean,46,91,13,116
+boolean,46,92,0,487
+boolean,46,92,1,43
+boolean,46,92,2,588
+boolean,46,92,3,34
+boolean,46,92,4,142
+boolean,47,93,0,117
+boolean,47,93,2,905
+boolean,48,94,3,89
+boolean,48,94,6,26
+boolean,49,95,0,457
+boolean,49,95,1,4
+boolean,49,95,2,157
+boolean,61,111,0,236
+boolean,77,137,4,64
+boolean,77,137,6,114
+boolean,77,138,2,79
+boolean,78,141,0,187
+boolean,78,141,3,30
+boolean,78,141,5,25
+boolean,78,141,6,248
+boolean,78,142,0,143
+boolean,83,152,1,973
+boolean,98,184,0,98
+boolean,106,198,0,3
+boolean,106,198,2,150
+boolean,106,198,6,57
+boolean,109,204,0,165
+boolean,120,228,2,291
+boolean,144,262,2,91
+boolean,181,324,4,94
+boolean,196,361,7,47
+broadcasting,36,75,2,144
+broadcasting,36,75,3,104
+broadcasting,40,80,1,23
+broadcasting,40,80,2,60
+broadcasting,40,80,3,0
+broadcasting,40,80,5,12
+broadcasting,40,81,1,25
+broadcasting,40,81,9,214
+broadcasting,40,82,3,96
+broadcasting,40,82,4,9
+broadcasting,40,82,7,23
+broadcasting,41,83,1,0
+broadcasting,41,83,4,0
+broadcasting,41,84,1,118
+broadcasting,41,84,3,429
+broadcasting,43,85,1,24
+broadcasting,43,85,6,71
+broadcasting,43,85,7,445
+broadcasting,43,85,10,0
+broadcasting,44,86,2,417
+broadcasting,44,86,3,51
+broadcasting,44,86,4,45
+broadcasting,44,86,5,23
+broadcasting,50,96,4,57
+broadcasting,56,106,2,130
+broadcasting,57,108,1,302
+broadcasting,65,114,7,68
+broadcasting,77,136,0,21
+broadcasting,142,258,3,435
+centering,43,85,9,0
+centering,44,86,0,22
+computation on,31,67,1,0
+computation on,31,67,3,0
+computation on,31,68,13,111
+computation on,31,70,3,443
+computation on,32,72,16,0
+computation on,36,74,22,461
+computation on,36,75,3,81
+computation on,40,80,1,0
+computation on,40,80,5,460
+computation on,40,82,7,0
+computation on,41,84,3,406
+computation on,44,86,5,0
+computation on,45,88,5,11
+computation on,45,88,7,35
+computation on,50,96,4,100
+computation on,56,106,2,145
+computation on,73,132,2,93
+computation on,74,133,0,462
+computation on,77,136,0,46
+computation on,111,207,0,610
+computation on,119,226,4,385
+computation on,142,258,3,412
+concatenation,29,65,1,6
+concatenation,29,65,4,0
+concatenation,30,66,1,36
+concatenation,87,158,13,33
+concatenation,87,159,0,476
+concatenation,87,159,1,264
+concatenation,87,160,0,37
+concatenation,87,160,1,75
+concatenation,87,160,3,95
+concatenation,89,161,6,27
+concatenation,89,161,10,27
+concatenation,90,162,1,0
+concatenation,90,162,3,13
+concatenation,90,163,1,41
+concatenation,91,164,7,141
+creating copies,27,63,4,0
+data as,45,88,6,16
+data as,64,113,1,137
+data as,77,138,2,119
+data as,80,143,0,25
+data as,102,187,4,42
+data as,113,213,9,67
+data as,143,260,2,110
+data as,143,261,1,44
+data as,183,327,0,12
+data as,195,360,8,0
+data as,197,370,2,190
+data as,201,378,6,177
+data as,202,386,1,202
+data as,257,508,1,338
+data as,259,515,9,37
+fixed-type,20,54,3,149
+fixed-type,20,54,4,49
+fixed-type,20,54,7,0
+fixed-type,20,55,0,54
+indexing: accessing single elements,25,60,1,6
+reshaping,25,59,4,315
+reshaping,27,64,0,294
+reshaping,27,64,4,15
+reshaping,43,85,3,72
+reshaping,196,366,8,39
+slicing,25,59,4,237
+slicing,25,61,4,44
+slicing,25,61,5,10
+slicing,26,62,5,42
+slicing,27,63,1,38
+slicing,51,97,2,324
+slicing,66,118,1,202
+slicing,69,124,2,43
+slicing,70,125,3,43
+slicing,70,126,0,9
+slicing,70,126,1,25
+slicing,70,126,2,34
+slicing,70,126,3,136
+slicing,70,126,4,241
+slicing,70,127,0,68
+slicing,70,127,1,45
+slicing,70,127,3,350
+slicing,73,131,0,649
+slicing,73,131,2,43
+slicing,80,145,4,106
+slicing,81,146,1,423
+slicing,81,147,2,90
+slicing,82,151,4,13
+slicing,83,152,1,193
+slicing,83,154,6,23
+slicing,84,155,3,362
+slicing,107,200,0,27
+slicing,113,213,7,95
+sorting,9,43,3,0
+sorting,9,43,5,15
+sorting,54,102,7,0
+sorting,54,102,8,42
+sorting,54,102,10,47
+sorting,54,102,11,0
+sorting,56,103,4,70
+sorting,56,103,7,38
+sorting,56,103,9,5
+sorting,56,104,4,137
+sorting,56,104,5,300
+sorting,56,105,1,62
+sorting,56,105,5,13
+sorting,56,106,3,284
+sorting,57,108,1,328
+sorting,57,108,2,95
+sorting,57,108,4,173
+sorting,84,155,2,73
+splitting,25,59,4,383
+splitting,29,65,1,24
+splitting,30,66,1,0
+splitting,52,99,0,509
+splitting,197,370,5,311
+splitting,200,377,10,15
+splitting,228,439,0,11
+standard data types,24,58,0,6
+structured,24,58,3,67
+structured,58,109,17,0
+structured,59,110,4,30
+structured,59,110,5,140
+structured,59,110,7,21
+structured,61,111,2,9
+structured,63,112,18,98
+structured,63,112,19,0
+structured,64,113,0,14
+structured,64,113,3,29
+structured,64,113,4,0
+structured,64,113,5,22
+structured,65,114,8,61
+structured,65,115,9,115
+structured,69,122,3,316
+structured,69,122,4,11
+structured,70,127,4,96
+subarrays as no-copy views,27,63,0,203
+universal functions,31,67,1,29
+universal functions,31,67,4,99
+universal functions,31,68,13,140
+universal functions,31,70,3,472
+universal functions,32,72,16,29
+universal functions,36,74,22,490
+universal functions,36,75,4,42
+universal functions,40,80,1,79
+universal functions,43,85,7,350
+universal functions,45,88,5,40
+universal functions,45,88,7,64
+universal functions,111,207,0,639
+universal functions,119,226,4,414
+automagic function,4,36,2,275
+axes limits,133,245,2,20
+axes limits,160,289,4,33
+bar plots,185,338,0,228
+basis function regression,212,397,18,92
+basis function regression,219,409,10,0
+basis function regression,224,428,1,49
+basis function regression,224,429,1,34
+gaussian basis functions,220,411,1,0
+gaussian basis functions,220,412,1,6
+gaussian basis functions,220,413,2,35
+gaussian basis functions,224,428,1,207
+polynomial basis functions,219,410,2,189
+polynomial basis functions,220,411,0,372
+bayesian classification,214,400,0,0
+bayesian classification,214,400,2,3
+bayesian classification,214,400,7,232
+bayesian classification,224,422,8,301
+bayesian classification,260,518,5,11
+bayesian classification,263,522,0,357
+model selection and,201,380,4,138
+time series,105,193,0,358
+time series,105,194,3,414
+time series,109,205,5,13
+time series,109,205,10,58
+time series,109,205,12,105
+time series,109,205,14,10
+time series,109,206,4,116
+time series,109,206,7,132
+time series,109,206,9,228
+time series,111,208,6,429
+time series,111,209,0,363
+time series,111,209,1,7
+time series,111,209,3,53
+time series,111,209,4,7
+time series,112,210,12,38
+time series,113,212,0,52
+time series,113,212,5,204
+time series,113,213,4,434
+time series,113,213,6,158
+time series,113,213,8,52
+time series,113,214,1,1002
+time series,113,214,2,87
+time series,113,216,2,27
+time series,113,216,6,605
+time series,115,218,1,55
+time series,115,218,4,448
+time series,115,219,1,109
+time series,115,219,4,36
+time series,115,219,7,92
+time series,115,220,1,1761
+time series,115,222,1,317
+time series,117,224,2,13
+time series,123,232,5,53
+time series,185,338,0,238
+time series,221,417,3,48
+big-o notation,54,102,4,118
+big-o notation,56,103,3,85
+big-o notation,58,109,2,0
+big-o notation,58,109,5,65
+big-o notation,58,109,7,0
+big-o notation,58,109,12,16
+big-o notation,58,109,16,27
+binary ufuncs,36,74,19,15
+binary ufuncs,40,80,3,51
+binnings,144,262,1,154
+binnings,144,262,2,751
+binnings,145,264,0,128
+binnings,145,264,4,12
+binnings,145,265,0,22
+binnings,258,511,0,68
+bitwise logic operators,46,91,12,38
+bogosort,56,103,4,96
+bokeh,191,347,4,43
+bokeh,191,347,5,83
+bokeh,191,347,6,99
+working with,1,13,3,197
+working with,30,66,0,77
+working with,46,90,0,453
+working with,46,90,1,0
+working with,65,114,6,128
+working with,73,131,0,146
+working with,74,133,2,37
+working with,77,136,1,1096
+working with,83,153,3,233
+working with,83,154,2,45
+working with,85,156,2,468
+working with,91,166,1,63
+working with,103,189,5,494
+working with,107,201,1,84
+working with,109,205,5,0
+working with,109,205,10,188
+working with,109,206,0,80
+working with,109,206,4,67
+working with,109,206,9,215
+working with,111,208,6,416
+working with,111,209,4,106
+working with,112,210,12,25
+working with,113,212,5,191
+working with,113,214,2,74
+working with,113,216,6,592
+working with,115,218,4,435
+working with,115,219,7,74
+working with,115,220,1,1748
+working with,115,222,1,304
+working with,117,224,2,0
+working with,196,361,10,161
+working with,196,365,7,36
+working with,221,417,3,35
+working with,225,433,3,433
+working with,242,467,2,641
+working with,245,474,2,66
+boolean masks,44,87,0,109
+boolean masks,49,95,2,157
+boolean masks,78,141,6,248
+boolean masks,83,152,1,973
+boolean arrays as,46,92,2,588
+boolean arrays as,46,92,3,34
+rainfall statistics,44,87,4,39
+working with boolean arrays,46,90,1,0
+boolean operators,46,91,10,0
+boolean operators,46,92,0,487
+boolean operators,46,92,1,43
+centering an array,43,85,9,0
+centering an array,44,86,0,22
+defined,1,26,7,39
+defined,1,29,4,450
+defined,4,35,3,350
+defined,13,46,5,53
+defined,49,95,0,117
+defined,65,116,5,97
+defined,73,132,5,45
+defined,78,139,0,591
+defined,78,139,3,207
+defined,91,165,7,98
+defined,100,185,1,60
+defined,153,278,2,561
+defined,160,288,4,19
+defined,168,297,4,115
+defined,169,299,0,532
+defined,170,301,7,805
+defined,184,336,1,68
+defined,224,428,1,180
+defined,235,455,5,47
+defined,235,456,4,66
+defined,245,471,8,94
+defined,253,495,2,156
+defined,255,505,4,162
+in practice,1,23,6,166
+in practice,43,85,7,458
+in practice,58,109,4,208
+in practice,73,131,1,171
+in practice,73,131,2,919
+in practice,77,138,4,55
+in practice,78,140,4,192
+in practice,80,145,2,175
+in practice,87,157,0,330
+in practice,90,162,2,0
+in practice,90,163,9,106
+in practice,91,166,1,4
+in practice,122,231,6,0
+in practice,148,269,0,163
+in practice,196,364,0,0
+in practice,205,390,7,11
+in practice,205,390,8,0
+in practice,207,392,6,77
+in practice,219,407,0,64
+in practice,230,444,1,0
+in practice,236,457,0,60
+in practice,245,472,1,82
+in practice,253,496,4,154
+in practice,253,498,1,132
+in practice,259,513,3,26
+in practice,259,513,4,0
+rules,40,80,3,32
+rules,40,82,4,0
+rules,41,83,0,14
+rules,43,85,1,37
+rules,43,85,6,84
+rules,46,92,0,76
+rules,50,96,4,70
+rules,56,106,2,579
+rules,77,136,0,34
+rules,90,163,10,135
+rules,119,226,3,62
+rules,150,274,0,195
+rules,259,515,0,289
+machine learning,1,15,0,128
+machine learning,103,192,0,165
+machine learning,153,278,5,55
+machine learning,165,294,4,114
+machine learning,192,348,0,10
+machine learning,192,348,1,0
+machine learning,192,348,2,10
+machine learning,192,348,5,49
+machine learning,192,348,6,69
+machine learning,192,348,7,109
+machine learning,192,348,8,97
+machine learning,192,349,1,206
+machine learning,192,349,2,48
+machine learning,192,349,3,0
+machine learning,192,349,4,13
+machine learning,192,349,5,15
+machine learning,192,349,9,37
+machine learning,192,349,10,14
+machine learning,192,349,15,41
+machine learning,192,350,4,24
+machine learning,192,350,5,90
+machine learning,192,350,10,57
+machine learning,192,351,5,99
+machine learning,192,351,11,19
+machine learning,192,352,0,107
+machine learning,192,352,9,8
+machine learning,192,353,7,19
+machine learning,192,354,2,170
+machine learning,192,355,10,19
+machine learning,192,356,6,8
+machine learning,193,357,5,19
+machine learning,195,358,2,52
+machine learning,195,359,5,180
+machine learning,195,359,8,19
+machine learning,195,360,0,109
+machine learning,195,360,4,181
+machine learning,195,360,6,36
+machine learning,196,361,14,19
+machine learning,196,363,4,17
+machine learning,196,363,6,19
+machine learning,196,364,1,6
+machine learning,196,365,12,19
+machine learning,196,367,3,197
+machine learning,196,367,4,0
+machine learning,196,367,7,55
+machine learning,196,367,10,19
+machine learning,197,369,12,19
+machine learning,197,371,6,558
+machine learning,197,373,7,19
+machine learning,200,375,4,19
+machine learning,200,377,10,543
+machine learning,201,379,5,740
+machine learning,201,380,5,71
+machine learning,201,380,9,93
+machine learning,201,381,13,19
+machine learning,201,383,5,179
+machine learning,202,385,2,19
+machine learning,202,387,2,1047
+machine learning,203,389,3,962
+machine learning,206,391,6,19
+machine learning,207,392,3,78
+machine learning,207,392,4,75
+machine learning,207,392,6,60
+machine learning,209,393,7,262
+machine learning,209,395,2,701
+machine learning,209,395,10,19
+machine learning,212,397,17,441
+machine learning,212,397,20,19
+machine learning,214,398,2,357
+machine learning,214,399,13,19
+machine learning,215,401,2,150
+machine learning,215,403,16,135
+machine learning,218,405,0,30
+machine learning,218,405,2,504
+machine learning,219,407,9,266
+machine learning,219,409,11,124
+machine learning,220,411,4,19
+machine learning,220,413,2,368
+machine learning,221,415,6,284
+machine learning,221,417,7,64
+machine learning,221,417,8,19
+machine learning,221,419,2,649
+machine learning,223,421,3,40
+machine learning,224,423,3,371
+machine learning,224,425,3,1081
+machine learning,224,427,5,19
+machine learning,224,429,2,811
+machine learning,225,431,1,53
+machine learning,225,431,4,251
+machine learning,225,433,3,718
+machine learning,226,435,2,159
+machine learning,228,437,14,19
+machine learning,228,439,2,3
+machine learning,228,439,6,19
+machine learning,229,441,0,755
+machine learning,230,443,4,485
+machine learning,231,445,4,491
+machine learning,232,447,2,740
+machine learning,234,449,6,19
+machine learning,234,451,1,1010
+machine learning,234,453,4,428
+machine learning,235,455,8,19
+machine learning,236,457,8,19
+machine learning,236,459,5,122
+machine learning,239,461,3,70
+machine learning,240,463,8,721
+machine learning,241,465,2,628
+machine learning,242,467,2,891
+machine learning,243,469,4,906
+machine learning,245,471,8,497
+machine learning,245,473,14,459
+machine learning,246,475,2,894
+machine learning,247,477,4,387
+machine learning,248,479,6,54
+machine learning,248,479,7,41
+machine learning,249,481,3,126
+machine learning,249,483,4,19
+machine learning,250,485,4,384
+machine learning,250,487,8,163
+machine learning,250,489,6,266
+machine learning,251,491,3,207
+machine learning,252,493,8,55
+machine learning,253,495,4,879
+machine learning,253,497,22,195
+machine learning,254,499,0,1140
+machine learning,254,501,8,356
+machine learning,255,503,3,19
+machine learning,255,505,8,292
+machine learning,257,507,1,94
+machine learning,257,509,4,405
+machine learning,258,511,4,295
+machine learning,259,513,8,40
+machine learning,259,515,1,3
+machine learning,259,515,9,183
+machine learning,260,517,2,1492
+machine learning,260,519,1,1888
+machine learning,262,521,6,869
+machine learning,263,523,1,116
+machine learning,263,523,5,46
+machine learning,263,523,8,78
+machine learning,263,523,15,19
+machine learning,263,525,9,1025
+machine learning,264,527,8,222
+machine learning,266,529,5,34
+machine learning,267,531,3,8
+machine learning,267,531,5,83
+machine learning,267,531,6,0
+machine learning,267,531,7,64
+machine learning,267,531,8,64
+machine learning,267,531,10,16
+machine learning,267,531,11,56
+machine learning,267,531,12,7
+machine learning,267,531,13,81
+machine learning,267,531,14,19
+machine learning,268,532,0,8
+machine learning,268,532,1,115
+machine learning,268,532,2,149
+machine learning,268,532,4,24
+machine learning,268,532,6,0
+machine learning,268,532,9,8
+clustering,192,349,14,199
+clustering,192,349,15,0
+clustering,192,355,8,0
+clustering,192,356,0,45
+clustering,192,356,1,113
+clustering,192,356,2,20
+clustering,192,356,3,76
+clustering,192,356,4,120
+clustering,192,356,5,117
+clustering,193,357,0,40
+clustering,195,359,6,311
+clustering,197,370,0,83
+clustering,197,370,1,2
+clustering,197,370,2,28
+clustering,197,371,0,0
+clustering,248,479,5,18
+clustering,248,479,6,79
+clustering,248,479,7,0
+clustering,249,480,1,5
+clustering,249,480,3,67
+clustering,249,480,9,253
+clustering,249,481,0,40
+clustering,249,482,10,79
+clustering,249,484,5,300
+clustering,250,485,1,48
+clustering,250,486,2,89
+clustering,250,486,3,211
+clustering,250,486,4,18
+clustering,250,487,0,54
+clustering,250,488,0,130
+clustering,250,488,3,335
+clustering,250,490,2,72
+clustering,250,490,5,628
+clustering,252,492,0,140
+clustering,252,492,2,49
+clustering,252,493,5,46
+clustering,252,493,7,190
+clustering,252,494,1,94
+clustering,252,494,2,776
+clustering,253,497,1,73
+clustering,254,501,4,14
+clustering,254,501,6,215
+clustering,254,501,7,74
+clustering,254,501,8,151
+clustering,254,502,0,121
+clustering,255,505,2,143
+clustering,257,508,3,139
+clustering,267,530,9,39
+gmms,253,497,3,22
+gmms,254,500,0,498
+gmms,255,505,7,0
+k-means,192,356,3,34
+k-means,192,356,5,20
+k-means,193,357,0,32
+k-means,197,371,2,13
+k-means,248,479,5,10
+k-means,249,480,1,136
+k-means,249,480,2,199
+k-means,249,480,5,43
+k-means,249,480,6,136
+k-means,249,480,9,4
+k-means,249,481,1,59
+k-means,249,482,1,97
+k-means,249,482,2,0
+k-means,249,482,3,0
+k-means,249,482,9,53
+k-means,249,482,10,71
+k-means,249,483,3,334
+k-means,249,484,2,334
+k-means,249,484,4,81
+k-means,249,484,5,292
+k-means,250,485,2,0
+k-means,250,485,3,38
+k-means,250,485,4,82
+k-means,250,486,0,25
+k-means,250,486,1,47
+k-means,250,486,2,31
+k-means,250,486,3,133
+k-means,250,486,4,10
+k-means,250,487,0,65
+k-means,250,487,2,36
+k-means,250,487,4,76
+k-means,250,487,6,11
+k-means,250,488,2,385
+k-means,250,488,3,403
+k-means,250,489,0,145
+k-means,250,489,1,455
+k-means,250,489,2,32
+k-means,250,489,4,177
+k-means,250,490,2,11
+k-means,250,490,5,620
+k-means,252,492,0,132
+k-means,252,492,1,77
+k-means,252,492,2,41
+k-means,252,493,3,44
+k-means,252,493,4,94
+k-means,252,493,5,38
+k-means,252,493,6,46
+k-means,252,493,7,120
+k-means,252,494,0,161
+k-means,252,494,1,71
+k-means,252,494,2,50
+k-means,252,494,3,19
+k-means,253,495,2,27
+k-means,253,495,4,442
+k-means,253,496,0,29
+k-means,253,496,1,338
+k-means,253,496,2,14
+k-means,253,496,5,27
+k-means,253,496,6,66
+k-means,253,497,3,82
+k-means,253,498,0,399
+k-means,253,498,1,15
+k-means,254,500,0,546
+k-means,254,501,4,70
+k-means,254,501,8,143
+profiling and timing,1,30,3,76
+profiling and timing,8,42,0,0
+profiling and timing,8,42,6,319
+profiling and timing,10,44,7,0
+profiling and timing,13,46,5,915
+profiling and timing,31,68,4,65
+coefficient of determination,201,382,0,117
+colon (:),25,61,4,225
+colon (:),26,62,5,91
+color compression,250,490,2,23
+customizing,127,234,12,91
+customizing,127,235,8,44
+customizing,135,249,1,169
+customizing,138,252,0,13
+customizing,142,256,0,13
+customizing,146,266,5,0
+customizing,146,266,7,221
+customizing,147,268,4,224
+customizing,148,269,0,502
+customizing,149,270,3,0
+customizing,150,272,3,0
+customizing,150,272,7,484
+customizing,150,273,0,72
+customizing,150,273,1,0
+customizing,150,274,9,488
+customizing,151,276,7,533
+customizing,153,278,5,349
+customizing,163,292,4,0
+customizing,163,292,11,0
+customizing,165,294,4,719
+customizing,166,296,0,224
+customizing,166,296,3,426
+customizing,168,298,6,211
+customizing,169,299,1,0
+customizing,170,300,0,926
+customizing,170,302,6,0
+customizing,170,304,3,158
+customizing,172,306,3,170
+customizing,181,325,0,43
+customizing,184,329,0,109
+customizing,185,343,2,73
+discrete,143,260,0,491
+discrete,150,272,3,44
+discrete,152,277,3,0
+discrete,152,277,4,307
+discrete,154,279,0,207
+discrete,185,337,0,81
+discrete,192,349,12,111
+discrete,192,350,8,27
+discrete,192,352,0,178
+discrete,192,352,8,62
+discrete,192,356,0,118
+discrete,195,359,6,171
+discrete,196,361,7,58
+discrete,196,361,9,58
+discrete,249,480,0,71
+discrete,257,508,10,36
+colormap,142,259,1,60
+colormap,142,259,2,286
+colormap,142,259,3,31
+colormap,150,273,1,41
+colormap,150,274,0,13
+colormap,150,274,1,72
+colormap,150,274,2,62
+colormap,150,274,3,10
+colormap,150,274,4,12
+colormap,150,274,5,8
+colormap,150,274,8,135
+colormap,150,274,9,209
+colormap,150,275,0,225
+colormap,150,275,3,134
+colormap,151,276,1,12
+colormap,151,276,2,28
+colormap,152,277,0,24
+colormap,152,277,3,19
+colormap,152,277,4,101
+colormap,154,279,0,216
+colormap,175,311,1,9
+colormap,183,327,2,58
+indexing,24,58,2,478
+indexing,25,59,4,159
+indexing,25,60,1,6
+indexing,26,62,5,29
+indexing,49,95,2,6
+indexing,49,95,3,54
+indexing,49,95,4,6
+indexing,50,96,0,16
+indexing,50,96,2,237
+indexing,50,96,3,199
+indexing,50,96,4,32
+indexing,51,97,1,170
+indexing,51,97,2,9
+indexing,52,98,0,57
+indexing,52,98,1,658
+indexing,52,98,2,335
+indexing,52,99,0,40
+indexing,52,99,1,28
+indexing,53,100,31,52
+indexing,56,104,4,42
+indexing,66,118,1,416
+indexing,67,121,3,37
+indexing,69,123,1,42
+indexing,69,124,1,5
+indexing,69,124,2,15
+indexing,69,124,7,105
+indexing,69,124,8,274
+indexing,70,125,2,206
+indexing,70,126,0,252
+indexing,70,126,2,46
+indexing,70,126,3,62
+indexing,70,126,4,173
+indexing,70,126,5,11
+indexing,70,127,1,32
+indexing,70,127,3,341
+indexing,70,128,0,752
+indexing,70,128,2,162
+indexing,70,129,3,421
+indexing,72,130,0,289
+indexing,72,130,4,65
+indexing,73,131,0,13
+indexing,73,131,1,11
+indexing,78,141,6,211
+indexing,80,145,0,13
+indexing,80,145,2,218
+indexing,80,145,4,96
+indexing,81,146,0,70
+indexing,81,146,3,16
+indexing,81,146,4,319
+indexing,81,146,5,303
+indexing,81,147,4,38
+indexing,81,147,5,41
+indexing,81,147,9,56
+indexing,81,148,5,374
+indexing,82,150,4,594
+indexing,82,151,0,378
+indexing,82,151,4,0
+indexing,82,151,5,20
+indexing,82,151,6,419
+indexing,83,152,0,37
+indexing,83,152,1,607
+indexing,83,153,2,393
+indexing,83,154,8,416
+indexing,85,156,3,119
+indexing,87,157,0,365
+indexing,87,158,4,27
+indexing,87,158,5,67
+indexing,87,158,6,110
+indexing,87,158,7,83
+indexing,90,162,0,96
+indexing,98,180,9,7
+indexing,98,180,10,35
+indexing,103,189,5,1394
+indexing,107,200,3,68
+indexing,111,209,1,20
+indexing,111,209,2,742
+indexing,157,283,1,150
+indexing,221,418,0,41
+multiindex for,82,150,3,0
+column-wise operations,120,228,6,21
+command history shortcuts,1,25,10,95
+command history shortcuts,1,26,4,305
+comparison operators,34,73,0,114
+comparison operators,45,88,7,0
+comparison operators,45,89,2,20
+comparison operators,45,89,3,905
+comparison operators,45,89,4,17
+comparison operators,46,92,0,462
+comparison operators,120,228,0,161
+comparison operators,120,228,1,23
+of arrays,25,59,4,75
+of arrays,27,63,4,16
+of arrays,27,64,0,304
+of arrays,29,65,4,14
+of arrays,29,65,5,37
+of arrays,30,66,1,10
+of arrays,49,95,2,82
+of arrays,56,104,3,254
+of arrays,82,149,3,83
+of arrays,87,159,0,979
+of arrays,87,160,0,146
+of arrays,107,200,4,61
+confusion matrix,200,374,2,106
+confusion matrix,218,405,2,25
+confusion matrix,228,436,0,793
+confusion matrix,234,449,0,31
+confusion matrix,250,489,1,16
+conic projections,178,320,0,262
+conic projections,178,320,5,0
+contour plots,44,86,4,410
+contour plots,142,258,0,12
+contour plots,142,258,1,88
+contour plots,142,258,6,409
+contour plots,143,260,4,142
+contour plots,143,260,6,12
+contour plots,143,261,1,108
+contour plots,174,309,2,18
+contour plots,174,309,3,24
+density and,44,86,4,398
+density and,97,175,0,267
+density and,142,258,0,0
+density and,142,258,6,397
+density and,143,260,6,0
+density and,146,266,2,163
+density and,174,309,2,79
+density and,184,332,0,219
+three-dimensional function,142,258,3,236
+three-dimensional plot,144,262,1,85
+three-dimensional plot,173,307,2,0
+three-dimensional plot,173,307,3,41
+three-dimensional plot,173,307,4,10
+three-dimensional plot,174,308,0,101
+three-dimensional plot,174,308,1,0
+three-dimensional plot,174,308,2,50
+three-dimensional plot,174,308,5,611
+three-dimensional plot,175,310,1,320
+three-dimensional plot,175,310,2,48
+three-dimensional plot,175,310,4,51
+three-dimensional plot,175,312,3,404
+three-dimensional plot,176,313,1,577
+three-dimensional plot,176,314,7,438
+three-dimensional plot,224,429,2,210
+drew,103,191,1,161
+drew,103,192,0,98
+drew,106,195,1,67
+drew,268,532,1,144
+cubehelix colormap,150,275,3,294
+cylindrical projections,177,318,0,724
+cylindrical projections,177,318,4,6
+cylindrical projections,178,319,1,7
+cylindrical projections,178,319,4,13
+data as table,195,360,8,0
+features matrix,196,361,2,0
+features matrix,196,361,3,22
+features matrix,196,362,0,383
+features matrix,196,364,4,23
+features matrix,196,366,5,23
+features matrix,196,366,6,94
+features matrix,196,367,9,233
+target array,196,361,8,0
+target array,196,361,9,4
+target array,196,361,10,124
+target array,196,361,11,40
+target array,196,361,12,34
+target array,196,362,0,10
+target array,196,366,6,132
+target array,197,372,2,26
+data science,1,13,0,142
+data science,1,13,1,0
+data science,1,13,2,53
+data science,1,13,9,64
+data science,1,14,0,29
+data science,1,14,6,78
+data science,1,14,8,138
+data science,1,15,3,98
+data science,1,15,15,21
+data science,1,15,19,84
+data science,1,18,2,271
+data science,1,18,4,185
+data science,1,18,8,108
+data science,1,18,9,136
+data science,1,20,4,3
+data science,1,20,6,37
+data science,1,20,18,28
+data science,14,48,7,153
+data science,14,48,8,95
+data science,16,50,8,122
+data science,16,50,13,61
+data science,31,67,1,227
+data science,58,109,5,23
+data science,109,205,4,34
+data science,109,205,14,78
+data science,177,315,1,65
+data science,192,348,0,88
+data science,192,348,1,72
+data science,192,349,4,88
+data science,249,482,2,145
+data science,267,530,11,26
+defining,1,13,8,158
+defining,25,59,5,15
+defining,32,71,2,15
+defining,73,132,7,15
+defining,145,264,2,15
+defining,177,317,9,15
+fixed-type arrays,20,55,0,54
+integers,18,53,0,701
+integers,20,54,2,24
+integers,20,55,1,299
+integers,21,56,1,60
+integers,23,57,1,663
+integers,23,57,4,49
+integers,48,94,4,23
+integers,48,94,5,153
+integers,69,122,7,61
+integers,77,138,1,51
+integers,78,140,0,183
+integers,105,193,0,30
+integers,109,206,8,45
+integers,250,490,5,543
+numpy,1,13,9,110
+numpy,1,14,0,119
+numpy,1,14,10,0
+numpy,1,16,4,179
+numpy,16,50,0,26
+numpy,16,50,9,105
+numpy,16,50,10,24
+numpy,16,50,11,0
+numpy,16,50,12,14
+numpy,16,50,13,0
+numpy,16,51,0,102
+numpy,16,51,1,58
+numpy,16,51,2,28
+numpy,16,51,3,82
+numpy,16,51,7,48
+numpy,16,51,8,98
+numpy,16,51,10,106
+numpy,16,51,13,112
+numpy,18,53,5,34
+numpy,20,54,4,61
+numpy,20,54,7,11
+numpy,20,55,2,56
+numpy,20,55,3,76
+numpy,20,55,4,104
+numpy,20,55,5,30
+numpy,21,56,0,220
+numpy,21,56,1,23
+numpy,21,56,3,48
+numpy,21,56,4,138
+numpy,23,57,5,34
+numpy,24,58,0,0
+numpy,24,58,1,8
+numpy,24,58,2,13
+numpy,24,58,3,0
+numpy,25,59,0,14
+numpy,25,59,1,51
+numpy,25,59,4,473
+numpy,25,59,6,10
+numpy,25,60,1,112
+numpy,25,60,2,593
+numpy,25,61,0,299
+numpy,25,61,5,4
+numpy,25,61,7,344
+numpy,26,62,5,173
+numpy,27,63,1,26
+numpy,27,63,5,87
+numpy,27,64,5,340
+numpy,29,65,4,67
+numpy,29,65,5,830
+numpy,30,66,3,377
+numpy,31,67,1,15
+numpy,31,67,3,15
+numpy,31,67,5,36
+numpy,31,67,6,89
+numpy,31,67,11,201
+numpy,31,68,2,63
+numpy,31,68,9,49
+numpy,31,68,12,93
+numpy,31,68,13,126
+numpy,31,69,2,255
+numpy,31,69,5,10
+numpy,31,69,7,17
+numpy,31,69,8,260
+numpy,31,70,2,574
+numpy,31,70,3,47
+numpy,32,71,0,152
+numpy,32,71,1,24
+numpy,32,71,4,86
+numpy,32,72,3,85
+numpy,32,72,16,15
+numpy,34,73,0,19
+numpy,34,73,1,19
+numpy,34,73,8,87
+numpy,34,73,10,29
+numpy,34,73,13,164
+numpy,36,74,22,476
+numpy,36,75,0,134
+numpy,36,75,4,133
+numpy,36,75,8,34
+numpy,37,76,0,0
+numpy,37,76,2,73
+numpy,37,76,4,234
+numpy,37,77,0,177
+numpy,37,77,2,281
+numpy,37,77,6,70
+numpy,39,78,1,28
+numpy,39,78,3,54
+numpy,39,78,4,71
+numpy,39,78,5,46
+numpy,39,78,7,24
+numpy,39,79,3,369
+numpy,40,80,1,71
+numpy,40,80,2,52
+numpy,40,80,5,144
+numpy,40,81,1,17
+numpy,40,81,10,277
+numpy,40,82,3,90
+numpy,40,82,4,38
+numpy,41,83,4,286
+numpy,43,85,3,155
+numpy,43,85,7,398
+numpy,43,85,9,71
+numpy,43,85,11,43
+numpy,44,87,0,163
+numpy,44,87,2,3
+numpy,44,87,4,169
+numpy,45,88,5,26
+numpy,45,88,6,76
+numpy,45,88,7,50
+numpy,45,89,1,0
+numpy,45,89,3,955
+numpy,45,89,5,69
+numpy,46,90,0,395
+numpy,46,90,3,307
+numpy,46,91,8,39
+numpy,46,91,13,47
+numpy,46,91,15,34
+numpy,47,93,3,34
+numpy,48,94,6,44
+numpy,49,95,1,12
+numpy,49,95,6,34
+numpy,50,96,1,57
+numpy,51,97,3,34
+numpy,52,99,3,47
+numpy,53,100,17,65
+numpy,53,100,28,109
+numpy,54,101,3,43
+numpy,54,102,0,96
+numpy,54,102,3,116
+numpy,54,102,7,114
+numpy,54,102,8,60
+numpy,56,103,1,62
+numpy,56,103,8,97
+numpy,56,103,9,16
+numpy,56,104,4,187
+numpy,56,105,2,0
+numpy,56,105,9,77
+numpy,56,106,2,296
+numpy,57,107,6,351
+numpy,58,109,17,17
+numpy,58,109,18,37
+numpy,59,110,4,0
+numpy,59,110,7,163
+numpy,61,111,1,80
+numpy,61,111,3,279
+numpy,63,112,4,11
+numpy,63,112,17,24
+numpy,63,112,19,17
+numpy,64,113,0,45
+numpy,64,113,4,126
+numpy,64,113,6,34
+numpy,65,114,0,88
+numpy,65,114,2,42
+numpy,65,114,5,11
+numpy,65,114,9,74
+numpy,65,114,12,70
+numpy,65,115,3,159
+numpy,65,115,9,109
+numpy,65,115,12,50
+numpy,65,116,2,33
+numpy,65,116,3,174
+numpy,65,116,4,22
+numpy,65,116,5,67
+numpy,66,117,4,75
+numpy,66,118,2,35
+numpy,66,119,2,124
+numpy,66,119,4,27
+numpy,67,120,0,1204
+numpy,67,121,0,191
+numpy,69,122,1,444
+numpy,69,122,3,310
+numpy,69,122,4,50
+numpy,69,123,1,241
+numpy,69,124,1,122
+numpy,69,124,4,21
+numpy,69,124,6,118
+numpy,70,125,2,157
+numpy,70,129,3,565
+numpy,72,130,2,79
+numpy,72,130,3,20
+numpy,73,131,0,159
+numpy,73,131,2,797
+numpy,73,132,0,59
+numpy,73,132,2,48
+numpy,73,132,4,132
+numpy,73,132,6,67
+numpy,73,132,7,125
+numpy,74,133,0,477
+numpy,77,135,4,116
+numpy,77,136,0,13
+numpy,77,136,1,1155
+numpy,77,137,11,108
+numpy,77,137,13,40
+numpy,77,137,14,50
+numpy,77,138,0,40
+numpy,77,138,2,0
+numpy,77,138,6,68
+numpy,78,139,0,212
+numpy,78,139,1,333
+numpy,78,139,3,345
+numpy,80,145,5,77
+numpy,87,158,14,77
+numpy,87,159,0,493
+numpy,98,176,0,82
+numpy,98,176,3,794
+numpy,98,176,4,27
+numpy,98,180,3,379
+numpy,102,187,7,211
+numpy,106,195,8,80
+numpy,106,195,9,27
+numpy,106,195,10,23
+numpy,109,206,6,158
+numpy,109,206,7,23
+numpy,109,206,9,69
+numpy,111,207,0,380
+numpy,111,207,5,0
+numpy,111,207,6,193
+numpy,111,208,2,33
+numpy,111,208,3,237
+numpy,111,208,6,301
+numpy,112,210,1,118
+numpy,112,210,4,50
+numpy,112,210,7,103
+numpy,113,211,0,12
+numpy,118,225,3,254
+numpy,119,226,4,79
+numpy,119,226,5,92
+numpy,119,226,8,136
+numpy,119,227,0,293
+numpy,122,231,3,58
+numpy,127,234,1,66
+numpy,127,235,4,57
+numpy,128,236,2,152
+numpy,129,237,2,585
+numpy,131,241,2,252
+numpy,136,250,2,214
+numpy,140,255,4,223
+numpy,142,258,3,210
+numpy,144,262,2,264
+numpy,145,265,2,457
+numpy,147,267,0,40
+numpy,150,272,7,206
+numpy,155,280,0,117
+numpy,156,282,4,123
+numpy,157,283,1,58
+numpy,159,285,5,248
+numpy,164,293,2,251
+numpy,169,299,6,153
+numpy,173,307,4,366
+numpy,177,315,7,245
+numpy,184,329,4,146
+numpy,196,361,3,200
+numpy,196,361,8,249
+numpy,196,363,3,122
+numpy,196,364,10,133
+numpy,201,384,0,420
+numpy,209,394,1,236
+numpy,209,394,7,298
+numpy,211,396,0,132
+numpy,214,398,2,72
+numpy,214,400,9,76
+numpy,219,407,7,157
+numpy,219,409,4,170
+numpy,224,422,8,76
+numpy,228,438,5,78
+numpy,234,450,6,76
+numpy,240,463,7,155
+numpy,249,480,2,175
+numpy,252,494,0,119
+numpy,257,508,8,155
+numpy,263,523,9,155
+as dictionary,64,113,0,239
+as dictionary,69,124,8,7
+as generalized numpy array,65,116,4,7
+as specialized dictionary,66,117,2,623
+as specialized dictionary,67,120,1,10
+as two-dimensional array,70,129,1,705
+constructing,24,58,2,70
+constructing,66,117,5,64
+constructing,66,118,1,483
+constructing,67,121,3,103
+constructing,119,227,3,487
+constructing,140,254,4,148
+constructing,235,456,6,40
+data selection in,69,124,6,0
+data selection in,70,127,4,0
+index alignment in,74,133,3,0
+index alignment in,75,134,1,300
+masking,44,87,1,0
+masking,44,87,2,18
+masking,45,88,6,89
+masking,46,92,2,64
+masking,47,93,0,451
+masking,47,93,2,925
+masking,51,97,2,458
+masking,61,111,0,244
+masking,69,124,2,72
+masking,70,125,2,187
+masking,70,126,0,128
+masking,72,130,4,47
+masking,73,131,0,658
+masking,73,131,2,487
+masking,77,137,4,7
+masking,78,142,1,40
+masking,98,179,0,131
+masking,122,231,0,67
+multiply indexed,80,145,4,147
+multiply indexed,80,145,5,91
+multiply indexed,81,148,4,75
+multiply indexed,82,151,5,63
+multiply indexed,82,151,6,0
+multiply indexed,83,153,0,0
+multiply indexed,83,154,1,310
+multiply indexed,83,154,2,58
+multiply indexed,83,154,8,36
+multiply indexed,85,156,3,77
+multiply indexed,90,162,0,16
+dataframe.eval() method,121,229,0,499
+dataframe.eval() method,122,230,0,465
+dataframe.eval() method,122,230,2,54
+assignment in,121,229,1,0
+local variables in,122,230,0,425
+dataframe.query() method,122,230,3,0
+datetime64 dtype,109,206,8,4
+dateutil module,109,206,1,27
+dateutil module,109,206,2,206
+debugging,5,37,0,11
+debugging,5,37,1,123
+debugging,5,38,4,1135
+debugging,5,39,4,0
+debugging,5,39,9,53
+debugging,5,39,10,87
+debugging,5,39,12,121
+debugging,7,40,1,481
+debugging,7,41,1,16
+decision trees,192,352,7,404
+decision trees,192,355,7,254
+decision trees,200,375,3,212
+decision trees,228,438,0,10
+decision trees,228,438,5,196
+decision trees,228,438,6,42
+decision trees,228,438,7,0
+decision trees,228,438,8,217
+decision trees,228,439,2,39
+decision trees,228,440,2,1478
+decision trees,229,442,3,0
+decision trees,229,442,5,42
+decision trees,229,442,7,388
+decision trees,230,443,3,26
+decision trees,230,444,0,59
+decision trees,230,444,1,13
+decision trees,230,444,4,58
+decision trees,230,444,5,328
+decision trees,231,445,0,88
+decision trees,231,446,2,10
+decision trees,234,448,0,1247
+decision trees,234,449,1,177
+decision trees,234,449,2,154
+decision trees,234,454,5,103
+decision trees,247,477,1,57
+decision trees,250,487,6,134
+overfitting,192,348,4,220
+overfitting,201,384,2,135
+overfitting,203,388,1,199
+overfitting,207,392,1,138
+overfitting,220,413,1,151
+overfitting,221,415,1,16
+overfitting,229,442,2,71
+overfitting,229,442,3,19
+overfitting,229,442,4,24
+overfitting,230,443,1,66
+overfitting,255,504,2,183
+overfitting,255,504,3,32
+deep learning,267,530,12,91
+deep learning,267,531,0,30
+deep learning,267,531,1,32
+histogram as,185,339,0,16
+histogram as,257,509,2,306
+histogram as,257,510,5,33
+histogram as,258,511,0,14
+development,1,18,0,67
+development,1,18,4,122
+development,5,37,0,26
+development,127,234,4,325
+development,191,347,7,83
+development,191,347,13,28
+profiling full scripts,10,44,2,0
+digits,16,50,5,85
+digits,153,278,0,21
+digits,153,278,1,111
+digits,153,278,2,40
+digits,153,278,5,276
+digits,154,279,0,22
+digits,195,360,5,219
+digits,197,371,2,86
+digits,197,371,4,70
+digits,197,371,5,28
+digits,197,371,6,367
+digits,197,372,0,29
+digits,197,372,3,40
+digits,197,373,0,230
+digits,197,373,1,153
+digits,200,374,0,18
+digits,200,374,1,696
+digits,200,375,2,349
+digits,209,395,3,46
+digits,232,447,0,88
+digits,232,447,2,42
+digits,234,448,0,35
+digits,234,449,0,475
+digits,234,454,4,35
+digits,234,454,5,70
+digits,234,454,6,245
+digits,235,455,0,44
+digits,235,455,1,125
+digits,236,457,1,157
+digits,236,457,2,34
+digits,236,458,0,34
+digits,236,458,1,88
+digits,236,459,1,105
+digits,240,462,5,135
+digits,247,477,0,213
+digits,247,477,1,28
+digits,247,477,3,300
+digits,248,478,2,162
+digits,248,479,0,57
+digits,248,479,3,98
+digits,248,479,4,66
+digits,250,487,6,22
+digits,250,487,7,29
+digits,250,487,8,16
+digits,250,488,0,42
+digits,250,488,2,493
+digits,250,488,3,264
+digits,250,489,0,74
+digits,250,489,1,142
+digits,250,489,6,201
+digits,250,490,0,124
+digits,255,505,5,61
+digits,255,505,6,30
+digits,255,505,8,221
+digits,257,506,0,26
+digits,257,507,0,192
+digits,257,507,1,6
+digits,257,508,0,50
+digits,257,508,1,63
+digits,257,508,2,27
+digits,262,521,5,127
+digits,262,521,6,22
+digits,263,522,0,532
+discriminative classification,224,422,9,80
+documentation,1,15,7,91
+documentation,1,15,12,86
+documentation,1,16,5,155
+documentation,1,19,7,250
+documentation,1,20,2,9
+documentation,1,20,4,71
+documentation,1,20,7,107
+documentation,1,20,15,21
+documentation,1,20,17,10
+documentation,1,20,18,122
+documentation,1,20,19,42
+documentation,1,21,5,44
+documentation,1,21,8,212
+documentation,1,22,4,149
+documentation,1,22,17,9
+documentation,1,24,8,40
+documentation,1,30,3,251
+documentation,1,30,4,29
+documentation,1,30,5,0
+documentation,1,33,5,42
+documentation,5,39,8,20
+documentation,7,41,1,696
+documentation,10,44,3,81
+documentation,13,47,6,63
+documentation,14,48,9,119
+documentation,16,51,4,24
+documentation,16,51,6,24
+documentation,16,51,7,133
+documentation,16,51,8,14
+documentation,24,58,2,1407
+documentation,34,73,1,25
+documentation,34,73,9,12
+documentation,36,75,4,149
+documentation,36,75,6,41
+documentation,40,82,0,117
+documentation,53,100,28,115
+documentation,65,115,1,56
+documentation,65,115,4,24
+documentation,65,115,6,25
+documentation,65,115,7,137
+documentation,65,115,8,14
+documentation,90,163,6,132
+documentation,94,169,1,91
+documentation,94,171,3,66
+documentation,107,201,1,129
+documentation,109,206,3,0
+documentation,111,207,6,286
+documentation,111,208,2,52
+documentation,113,213,5,473
+documentation,115,219,1,248
+documentation,119,226,8,12
+documentation,122,231,8,121
+documentation,123,232,2,81
+documentation,123,232,3,26
+documentation,133,245,1,220
+documentation,135,248,1,41
+documentation,136,250,5,54
+documentation,138,252,1,71
+documentation,142,257,5,160
+documentation,150,274,1,20
+documentation,151,276,3,83
+documentation,161,290,1,64
+documentation,170,302,2,96
+documentation,181,324,6,97
+documentation,185,339,0,593
+documentation,189,346,8,111
+documentation,189,346,9,33
+documentation,192,356,5,282
+documentation,195,360,2,118
+documentation,196,363,1,254
+documentation,196,365,3,313
+documentation,200,376,2,86
+documentation,201,380,3,178
+documentation,206,391,5,186
+documentation,245,473,3,111
+documentation,259,513,4,227
+documentation,260,520,2,99
+documentation,267,531,6,199
+pandas,1,13,9,117
+pandas,1,14,0,176
+pandas,1,14,11,0
+pandas,1,16,4,185
+pandas,16,50,9,127
+pandas,25,59,0,129
+pandas,39,79,0,54
+pandas,44,87,4,98
+pandas,59,110,1,120
+pandas,61,111,0,603
+pandas,61,111,1,14
+pandas,64,113,3,6
+pandas,64,113,5,43
+pandas,65,114,0,33
+pandas,65,114,1,95
+pandas,65,114,2,0
+pandas,65,114,4,69
+pandas,65,114,9,0
+pandas,65,114,12,21
+pandas,65,115,0,24
+pandas,65,115,1,49
+pandas,65,115,2,97
+pandas,65,115,3,5
+pandas,65,115,7,48
+pandas,65,115,8,94
+pandas,65,115,9,12
+pandas,65,115,10,50
+pandas,65,115,11,72
+pandas,65,115,12,60
+pandas,65,116,0,4
+pandas,65,116,3,412
+pandas,65,116,5,150
+pandas,65,116,6,12
+pandas,66,117,2,681
+pandas,66,117,4,180
+pandas,66,117,5,170
+pandas,66,118,1,409
+pandas,66,118,2,212
+pandas,66,119,1,4
+pandas,66,119,7,309
+pandas,67,120,3,203
+pandas,67,121,3,136
+pandas,67,121,8,275
+pandas,69,122,4,91
+pandas,69,122,7,83
+pandas,69,123,1,755
+pandas,69,123,2,21
+pandas,69,123,3,75
+pandas,69,124,3,70
+pandas,69,124,4,67
+pandas,69,124,8,144
+pandas,70,125,1,348
+pandas,70,125,3,209
+pandas,70,126,4,390
+pandas,70,127,7,106
+pandas,70,129,1,674
+pandas,70,129,4,202
+pandas,72,130,1,5
+pandas,73,131,0,533
+pandas,73,131,2,864
+pandas,73,131,3,42
+pandas,73,132,0,21
+pandas,73,132,2,0
+pandas,73,132,3,0
+pandas,73,132,4,184
+pandas,73,132,6,35
+pandas,73,132,7,98
+pandas,74,133,1,82
+pandas,74,133,3,1087
+pandas,74,133,4,72
+pandas,75,134,1,942
+pandas,77,135,2,337
+pandas,77,135,3,48
+pandas,77,135,5,412
+pandas,77,136,1,3
+pandas,77,137,0,91
+pandas,77,137,11,16
+pandas,77,137,12,0
+pandas,77,137,14,205
+pandas,77,138,2,144
+pandas,77,138,3,32
+pandas,77,138,5,61
+pandas,77,138,6,74
+pandas,78,139,3,471
+pandas,78,140,1,16
+pandas,78,140,2,411
+pandas,78,140,3,65
+pandas,78,140,4,140
+pandas,78,140,5,45
+pandas,78,141,0,11
+pandas,78,141,1,42
+pandas,78,141,2,118
+pandas,78,141,4,22
+pandas,78,141,6,357
+pandas,80,143,6,106
+pandas,80,143,7,229
+pandas,80,145,0,124
+pandas,80,145,2,6
+pandas,80,145,5,50
+pandas,80,145,8,10
+pandas,81,146,1,461
+pandas,81,146,2,16
+pandas,81,146,3,75
+pandas,81,147,7,9
+pandas,81,147,9,120
+pandas,81,148,2,843
+pandas,82,149,1,69
+pandas,82,149,3,1088
+pandas,82,151,6,541
+pandas,83,153,3,420
+pandas,83,154,0,363
+pandas,84,155,2,0
+pandas,84,155,3,829
+pandas,87,157,1,62
+pandas,87,157,4,692
+pandas,87,158,2,11
+pandas,87,158,12,73
+pandas,87,158,13,184
+pandas,87,158,14,50
+pandas,87,159,1,293
+pandas,87,160,3,88
+pandas,89,161,11,557
+pandas,90,163,2,498
+pandas,90,163,6,125
+pandas,90,163,7,68
+pandas,90,163,11,62
+pandas,91,164,2,0
+pandas,91,165,11,287
+pandas,91,166,0,1053
+pandas,92,167,2,1264
+pandas,94,169,1,84
+pandas,94,169,4,470
+pandas,94,171,3,59
+pandas,94,171,6,176
+pandas,94,172,0,346
+pandas,95,173,6,115
+pandas,97,174,7,124
+pandas,97,175,8,65
+pandas,98,176,0,24
+pandas,98,176,3,723
+pandas,98,176,4,46
+pandas,98,177,0,603
+pandas,98,177,4,41
+pandas,98,177,5,42
+pandas,98,178,0,22
+pandas,98,179,3,50
+pandas,98,180,3,369
+pandas,98,180,11,57
+pandas,98,181,5,720
+pandas,98,183,5,680
+pandas,98,184,7,58
+pandas,98,184,8,804
+pandas,100,185,5,558
+pandas,102,187,7,237
+pandas,102,187,8,42
+pandas,102,188,6,51
+pandas,103,189,6,42
+pandas,103,190,0,133
+pandas,103,191,3,80
+pandas,103,192,3,170
+pandas,103,192,6,80
+pandas,105,193,3,42
+pandas,106,195,3,71
+pandas,106,195,6,0
+pandas,106,195,7,48
+pandas,106,195,8,12
+pandas,106,195,11,148
+pandas,106,196,0,652
+pandas,106,196,1,37
+pandas,106,197,0,10
+pandas,106,197,1,315
+pandas,106,197,2,18
+pandas,106,197,3,477
+pandas,106,198,2,27
+pandas,107,199,3,17
+pandas,107,201,1,115
+pandas,107,201,7,86
+pandas,109,203,2,552
+pandas,109,203,7,117
+pandas,109,204,1,105
+pandas,109,205,1,74
+pandas,109,205,4,134
+pandas,109,205,5,25
+pandas,109,205,9,93
+pandas,109,205,10,99
+pandas,109,205,11,164
+pandas,109,205,12,125
+pandas,109,205,14,40
+pandas,109,205,15,42
+pandas,111,207,7,279
+pandas,111,208,3,19
+pandas,111,208,4,41
+pandas,111,208,5,24
+pandas,111,208,6,113
+pandas,111,209,0,407
+pandas,111,209,1,0
+pandas,111,209,4,0
+pandas,112,210,0,19
+pandas,112,210,3,20
+pandas,112,210,6,32
+pandas,112,210,11,1159
+pandas,113,211,3,604
+pandas,113,211,4,42
+pandas,113,212,0,45
+pandas,113,212,3,22
+pandas,113,213,4,427
+pandas,113,213,5,85
+pandas,113,213,6,151
+pandas,113,213,8,17
+pandas,113,213,10,8
+pandas,113,213,11,30
+pandas,113,214,1,63
+pandas,113,215,7,471
+pandas,113,216,3,0
+pandas,115,217,2,300
+pandas,115,218,1,101
+pandas,115,219,1,139
+pandas,115,219,3,79
+pandas,115,219,10,99
+pandas,115,220,0,157
+pandas,115,221,4,42
+pandas,116,223,7,42
+pandas,118,225,3,124
+pandas,118,225,4,92
+pandas,119,226,1,44
+pandas,119,226,4,89
+pandas,119,226,8,199
+pandas,119,227,1,4
+pandas,119,227,2,0
+pandas,119,227,3,62
+pandas,119,227,6,55
+pandas,120,228,6,52
+pandas,120,228,8,149
+pandas,121,229,2,865
+pandas,122,230,2,90
+pandas,122,230,6,198
+pandas,122,231,3,74
+pandas,122,231,8,114
+pandas,122,231,10,42
+pandas,123,232,0,77
+pandas,123,232,2,67
+pandas,123,232,4,74
+pandas,123,232,6,57
+pandas,123,232,7,70
+pandas,123,232,8,0
+pandas,123,232,9,6
+pandas,123,232,11,0
+pandas,123,232,13,121
+pandas,127,235,0,126
+pandas,127,235,4,88
+pandas,149,270,0,135
+pandas,159,285,5,274
+pandas,181,325,2,65
+pandas,184,328,5,22
+pandas,184,328,6,34
+pandas,184,328,9,230
+pandas,184,329,0,205
+pandas,184,329,4,172
+pandas,185,339,3,72
+pandas,185,340,0,441
+pandas,195,360,9,130
+pandas,196,361,3,217
+pandas,196,362,0,470
+pandas,196,363,3,136
+pandas,209,394,7,554
+pandas,221,417,4,125
+pandas,221,418,0,74
+dynamic typing,20,54,2,336
+e eigenfaces,240,462,5,206
+errors,1,28,5,167
+errors,5,37,0,0
+errors,5,37,1,133
+errors,5,38,4,1124
+errors,7,40,1,470
+errors,77,136,1,1057
+errors,140,254,7,12
+errors,140,254,12,12
+errors,140,255,3,52
+errors,142,256,2,11
+errors,142,256,6,774
+errors,142,257,3,227
+errors,142,257,4,96
+errors,201,381,9,129
+errors,223,421,2,267
+continuous quantities,142,256,2,74
+continuous quantities,192,349,12,168
+continuous quantities,192,352,8,179
+matplotlib,1,13,9,125
+matplotlib,1,14,0,280
+matplotlib,1,14,12,0
+matplotlib,1,16,4,205
+matplotlib,39,79,2,122
+matplotlib,39,79,3,73
+matplotlib,44,86,4,309
+matplotlib,44,87,4,648
+matplotlib,45,88,0,8
+matplotlib,52,98,1,447
+matplotlib,54,101,1,12
+matplotlib,54,101,2,24
+matplotlib,56,106,1,194
+matplotlib,103,191,3,198
+matplotlib,105,193,1,462
+matplotlib,106,195,2,105
+matplotlib,113,214,1,724
+matplotlib,115,221,1,61
+matplotlib,118,225,1,248
+matplotlib,127,234,0,29
+matplotlib,127,234,1,0
+matplotlib,127,234,4,55
+matplotlib,127,234,5,7
+matplotlib,127,234,6,0
+matplotlib,127,234,7,92
+matplotlib,127,234,9,53
+matplotlib,127,234,10,136
+matplotlib,127,234,11,48
+matplotlib,127,234,12,7
+matplotlib,127,235,0,171
+matplotlib,127,235,1,69
+matplotlib,127,235,2,32
+matplotlib,127,235,3,8
+matplotlib,127,235,4,10
+matplotlib,127,235,6,91
+matplotlib,127,235,7,56
+matplotlib,127,235,8,56
+matplotlib,127,235,10,16
+matplotlib,127,235,11,38
+matplotlib,128,236,0,40
+matplotlib,128,236,2,120
+matplotlib,128,236,3,112
+matplotlib,128,236,6,64
+matplotlib,128,236,7,35
+matplotlib,128,236,8,38
+matplotlib,128,236,10,20
+matplotlib,128,236,11,8
+matplotlib,129,237,1,72
+matplotlib,129,237,2,128
+matplotlib,129,238,0,43
+matplotlib,129,238,4,548
+matplotlib,130,239,1,71
+matplotlib,130,239,3,23
+matplotlib,130,239,6,65
+matplotlib,131,241,2,139
+matplotlib,131,241,3,168
+matplotlib,131,241,7,202
+matplotlib,132,243,0,93
+matplotlib,132,243,5,622
+matplotlib,132,244,0,26
+matplotlib,133,245,2,32
+matplotlib,133,245,3,268
+matplotlib,133,247,2,225
+matplotlib,135,248,1,30
+matplotlib,135,248,3,7
+matplotlib,135,249,1,208
+matplotlib,135,249,4,757
+matplotlib,136,250,2,101
+matplotlib,136,250,5,87
+matplotlib,136,251,0,765
+matplotlib,139,253,2,541
+matplotlib,140,255,4,62
+matplotlib,140,255,6,289
+matplotlib,142,256,3,7
+matplotlib,142,257,5,149
+matplotlib,142,257,7,38
+matplotlib,142,258,1,16
+matplotlib,142,258,3,101
+matplotlib,142,259,3,0
+matplotlib,142,259,5,38
+matplotlib,143,260,1,126
+matplotlib,143,261,3,66
+matplotlib,144,262,1,117
+matplotlib,144,262,2,29
+matplotlib,144,263,1,714
+matplotlib,145,264,2,323
+matplotlib,145,265,2,18
+matplotlib,145,265,6,502
+matplotlib,146,266,3,39
+matplotlib,146,266,6,135
+matplotlib,146,266,7,164
+matplotlib,147,267,0,8
+matplotlib,147,267,1,377
+matplotlib,148,269,4,76
+matplotlib,150,271,3,41
+matplotlib,150,271,4,15
+matplotlib,150,271,8,5
+matplotlib,150,272,0,99
+matplotlib,150,272,7,109
+matplotlib,150,273,3,38
+matplotlib,150,274,1,0
+matplotlib,150,274,5,43
+matplotlib,150,274,8,95
+matplotlib,150,275,2,67
+matplotlib,150,275,4,47
+matplotlib,151,276,2,51
+matplotlib,151,276,4,28
+matplotlib,152,277,5,38
+matplotlib,154,279,3,13
+matplotlib,154,279,5,70
+matplotlib,154,279,6,131
+matplotlib,155,280,0,8
+matplotlib,156,281,1,104
+matplotlib,156,281,3,454
+matplotlib,157,283,3,90
+matplotlib,159,285,5,103
+matplotlib,160,287,5,3
+matplotlib,160,287,6,38
+matplotlib,160,288,2,84
+matplotlib,160,288,7,72
+matplotlib,160,289,4,241
+matplotlib,160,289,6,18
+matplotlib,160,289,10,38
+matplotlib,161,290,0,75
+matplotlib,161,290,1,44
+matplotlib,162,291,0,1802
+matplotlib,163,292,3,90
+matplotlib,163,292,4,18
+matplotlib,163,292,6,97
+matplotlib,163,292,7,0
+matplotlib,163,292,8,5
+matplotlib,164,293,2,12
+matplotlib,164,293,4,146
+matplotlib,164,293,6,38
+matplotlib,165,295,4,157
+matplotlib,166,296,2,19
+matplotlib,168,297,4,426
+matplotlib,168,298,1,30
+matplotlib,168,298,5,72
+matplotlib,169,299,1,12
+matplotlib,169,299,2,42
+matplotlib,169,299,3,32
+matplotlib,169,299,6,82
+matplotlib,170,300,0,81
+matplotlib,170,301,4,42
+matplotlib,170,301,7,252
+matplotlib,170,302,2,34
+matplotlib,170,302,4,39
+matplotlib,170,302,5,50
+matplotlib,170,302,6,12
+matplotlib,170,303,4,246
+matplotlib,170,304,0,13
+matplotlib,170,304,3,170
+matplotlib,171,305,0,204
+matplotlib,171,305,2,173
+matplotlib,172,306,1,194
+matplotlib,172,306,3,182
+matplotlib,173,307,0,98
+matplotlib,173,307,2,30
+matplotlib,173,307,3,99
+matplotlib,173,307,4,91
+matplotlib,174,308,1,209
+matplotlib,174,308,5,641
+matplotlib,174,309,4,530
+matplotlib,175,310,1,457
+matplotlib,175,310,4,81
+matplotlib,175,311,2,204
+matplotlib,175,312,3,434
+matplotlib,176,313,5,44
+matplotlib,176,313,6,127
+matplotlib,176,314,6,108
+matplotlib,176,314,7,122
+matplotlib,177,315,0,173
+matplotlib,177,315,2,104
+matplotlib,177,315,7,213
+matplotlib,177,316,1,95
+matplotlib,177,317,9,151
+matplotlib,178,319,11,38
+matplotlib,178,321,5,346
+matplotlib,180,323,7,107
+matplotlib,181,324,4,44
+matplotlib,181,325,2,1504
+matplotlib,183,327,6,38
+matplotlib,184,328,0,81
+matplotlib,184,328,1,41
+matplotlib,184,328,3,2
+matplotlib,184,328,5,2
+matplotlib,184,329,0,16
+matplotlib,184,329,3,15
+matplotlib,184,329,4,49
+matplotlib,184,329,5,38
+matplotlib,184,330,1,100
+matplotlib,184,330,7,55
+matplotlib,184,331,1,622
+matplotlib,184,333,1,291
+matplotlib,184,335,2,489
+matplotlib,185,337,0,496
+matplotlib,185,339,3,118
+matplotlib,185,341,3,286
+matplotlib,185,343,1,44
+matplotlib,185,343,2,31
+matplotlib,185,343,4,320
+matplotlib,188,345,3,38
+matplotlib,189,346,7,18
+matplotlib,189,346,8,190
+matplotlib,189,346,9,13
+matplotlib,191,347,0,0
+matplotlib,191,347,2,31
+matplotlib,191,347,3,41
+matplotlib,191,347,17,38
+matplotlib,196,362,0,179
+matplotlib,196,364,10,94
+matplotlib,197,371,6,73
+matplotlib,201,384,1,238
+matplotlib,211,396,0,99
+matplotlib,214,400,9,44
+matplotlib,219,407,7,46
+matplotlib,224,422,8,44
+matplotlib,228,438,5,46
+matplotlib,234,450,6,44
+matplotlib,240,463,7,44
+matplotlib,240,463,8,474
+matplotlib,246,475,2,162
+matplotlib,249,480,2,44
+matplotlib,252,494,0,8
+matplotlib,253,498,2,155
+matplotlib,257,508,8,44
+matplotlib,263,523,9,44
+estimator api,195,360,5,88
+estimator api,196,363,0,106
+estimator api,196,363,1,15
+estimator api,196,364,1,74
+estimator api,196,364,2,69
+estimator api,200,376,0,114
+estimator api,200,376,2,38
+estimator api,249,480,9,84
+eval() function,119,227,2,43
+eval() function,120,228,6,78
+eval() function,122,230,2,97
+when to use,122,231,1,284
+when to use,218,406,5,0
+exceptions,5,37,2,12
+exceptions,5,37,3,41
+controlling,1,13,8,227
+controlling,5,37,1,49
+controlling,5,37,2,0
+controlling,132,243,5,545
+controlling,133,245,0,13
+controlling,140,255,4,442
+controlling,174,308,4,211
+controlling,201,384,1,765
+controlling,221,416,0,138
+exponentials,32,72,3,105
+exponentials,32,72,6,38
+external code,1,29,1,8
+isomap,154,279,0,53
+isomap,195,358,0,114
+isomap,195,359,3,218
+isomap,197,373,0,35
+isomap,197,373,1,379
+isomap,240,463,6,186
+isomap,245,473,6,109
+isomap,245,473,7,40
+isomap,245,473,11,9
+isomap,245,473,13,17
+isomap,246,475,0,124
+isomap,246,475,1,18
+isomap,246,476,0,471
+isomap,248,478,1,60
+isomap,248,478,2,123
+isomap,248,479,0,14
+pca,21,56,1,35
+pca,78,140,2,88
+pca,78,140,5,21
+pca,106,197,2,350
+pca,197,369,5,47
+pca,197,369,7,101
+pca,197,369,10,158
+pca,197,370,5,225
+pca,225,434,2,199
+pca,234,450,3,133
+pca,234,450,4,0
+pca,234,450,5,43
+pca,234,451,0,39
+pca,234,451,1,21
+pca,234,452,0,81
+pca,234,453,2,0
+pca,234,453,3,28
+pca,234,453,4,188
+pca,234,454,1,24
+pca,234,454,4,0
+pca,234,454,5,59
+pca,234,454,6,79
+pca,235,455,0,13
+pca,235,456,4,192
+pca,235,456,6,100
+pca,235,456,7,176
+pca,235,456,9,27
+pca,236,457,0,56
+pca,236,457,1,141
+pca,236,457,5,0
+pca,236,458,2,14
+pca,236,459,0,8
+pca,236,459,1,148
+pca,236,459,2,62
+pca,236,459,5,55
+pca,238,460,0,74
+pca,238,460,1,101
+pca,238,460,2,332
+pca,238,460,3,178
+pca,239,461,2,192
+pca,239,461,3,16
+pca,240,462,1,39
+pca,240,462,4,51
+pca,240,462,5,57
+pca,240,462,6,10
+pca,240,462,7,0
+pca,240,462,8,41
+pca,240,462,9,55
+pca,240,462,10,11
+pca,240,462,11,114
+pca,240,462,13,6
+pca,245,472,2,105
+pca,245,472,3,80
+pca,245,472,5,13
+pca,245,472,7,13
+pca,245,472,9,13
+pca,245,472,11,3
+pca,245,473,1,4
+pca,245,473,2,87
+pca,245,474,3,40
+pca,246,475,0,43
+pca,250,489,6,171
+pca,253,496,4,86
+pca,255,505,8,35
+pca,257,507,0,127
+svms,224,422,6,59
+svms,228,437,7,9
+svms,228,437,12,52
+svms,263,522,1,116
+faceted histograms,184,335,0,246
+factor plots,184,336,0,385
+fancy indexing,49,95,2,0
+fancy indexing,49,95,4,0
+fancy indexing,50,96,0,10
+fancy indexing,50,96,2,231
+fancy indexing,50,96,4,26
+fancy indexing,51,97,1,164
+fancy indexing,51,97,2,53
+fancy indexing,52,98,0,51
+fancy indexing,52,98,1,652
+fancy indexing,52,98,2,329
+fancy indexing,52,99,0,34
+fancy indexing,52,99,1,22
+fancy indexing,53,100,31,46
+fancy indexing,56,104,4,36
+fancy indexing,69,124,2,102
+fancy indexing,70,125,2,200
+fancy indexing,70,126,0,246
+fancy indexing,72,130,4,59
+fancy indexing,73,131,0,671
+fancy indexing,83,152,1,1197
+binning data,53,100,29,9
+modifying values with,52,99,1,0
+feature engineering,201,383,5,125
+feature engineering,207,392,4,0
+feature engineering,207,392,7,56
+feature engineering,207,392,10,0
+feature engineering,209,394,3,37
+feature engineering,209,394,7,633
+feature engineering,211,396,0,708
+feature engineering,214,398,0,50
+feature engineering,214,398,12,81
+feature engineering,218,405,1,60
+feature engineering,219,410,0,39
+feature engineering,219,410,7,14
+feature engineering,263,523,6,180
+categorical features,209,393,0,0
+categorical features,209,393,6,11
+derived features,207,392,8,30
+derived features,209,395,6,124
+image features,209,395,2,633
+image features,246,476,0,685
+image features,263,523,7,226
+imputation of missing data,207,392,8,83
+imputation of missing data,214,398,0,0
+processing pipeline,8,42,0,78
+processing pipeline,214,398,12,29
+processing pipeline,214,399,0,129
+text features,209,394,3,0
+feature,1,14,2,53
+feature,1,18,8,64
+feature,1,18,10,38
+feature,1,19,10,42
+feature,4,35,4,67
+feature,13,47,8,15
+feature,16,50,7,66
+feature,16,51,4,194
+feature,27,63,4,43
+feature,34,73,10,15
+feature,34,73,11,32
+feature,36,75,2,25
+feature,44,86,2,191
+feature,56,104,4,176
+feature,64,113,0,181
+feature,65,114,5,61
+feature,65,115,4,194
+feature,70,125,1,323
+feature,90,163,7,49
+feature,103,192,3,119
+feature,106,195,0,28
+feature,106,196,0,668
+feature,115,219,1,97
+feature,123,232,7,105
+feature,123,232,11,71
+feature,127,234,5,35
+feature,129,238,0,32
+feature,130,239,1,60
+feature,139,253,2,272
+feature,140,254,0,46
+feature,140,254,1,20
+feature,140,254,2,67
+feature,148,269,2,71
+feature,150,273,1,307
+feature,163,292,1,49
+feature,169,299,3,122
+feature,171,305,0,174
+feature,177,316,3,52
+feature,177,317,1,22
+feature,177,317,6,75
+feature,178,321,4,89
+feature,178,321,5,108
+feature,179,322,0,359
+feature,180,323,0,23
+feature,189,346,7,108
+feature,192,349,11,80
+feature,192,349,14,44
+feature,192,351,0,56
+feature,192,351,2,11
+feature,192,352,3,121
+feature,192,352,6,77
+feature,192,353,1,133
+feature,192,354,0,76
+feature,192,355,2,127
+feature,192,355,3,149
+feature,195,359,1,103
+feature,196,361,1,58
+feature,196,361,2,0
+feature,196,361,3,22
+feature,196,361,6,4
+feature,196,361,7,0
+feature,196,361,8,32
+feature,196,361,11,76
+feature,196,361,12,19
+feature,196,361,13,197
+feature,196,362,0,383
+feature,196,364,4,23
+feature,196,365,9,34
+feature,196,366,5,23
+feature,196,366,6,94
+feature,196,366,7,162
+feature,196,367,9,223
+feature,197,369,2,62
+feature,197,369,3,136
+feature,197,372,0,189
+feature,197,372,1,64
+feature,197,372,3,274
+feature,200,376,0,54
+feature,201,380,7,183
+feature,201,381,5,126
+feature,201,382,4,271
+feature,201,383,3,271
+feature,201,383,5,87
+feature,201,384,0,52
+feature,202,385,1,390
+feature,202,387,2,538
+feature,203,389,0,11
+feature,206,391,2,50
+feature,206,391,3,156
+feature,206,391,4,346
+feature,207,392,4,0
+feature,207,392,6,92
+feature,207,392,7,56
+feature,207,392,8,38
+feature,207,392,10,0
+feature,209,393,0,12
+feature,209,393,1,93
+feature,209,393,2,646
+feature,209,393,5,121
+feature,209,393,6,23
+feature,209,393,7,55
+feature,209,394,2,48
+feature,209,394,3,5
+feature,209,394,7,130
+feature,209,395,2,31
+feature,209,395,5,27
+feature,209,395,6,132
+feature,209,395,7,111
+feature,211,396,0,708
+feature,212,397,0,162
+feature,212,397,1,35
+feature,212,397,16,12
+feature,212,397,17,276
+feature,214,398,0,50
+feature,214,398,11,251
+feature,214,398,12,81
+feature,214,399,0,53
+feature,214,400,2,103
+feature,214,400,3,102
+feature,215,402,1,104
+feature,215,403,9,49
+feature,215,403,11,61
+feature,215,403,12,162
+feature,215,403,14,117
+feature,215,403,15,36
+feature,218,405,1,60
+feature,219,410,0,39
+feature,219,410,2,316
+feature,219,410,7,14
+feature,219,410,8,148
+feature,220,412,1,387
+feature,220,413,0,159
+feature,220,413,2,161
+feature,220,414,1,751
+feature,221,415,6,181
+feature,221,416,4,209
+feature,223,420,1,660
+feature,223,420,2,11
+feature,223,421,1,163
+feature,224,428,0,94
+feature,225,434,1,55
+feature,228,437,0,165
+feature,228,437,1,156
+feature,228,439,2,231
+feature,228,440,1,111
+feature,230,444,2,36
+feature,234,450,4,141
+feature,235,456,7,219
+feature,236,459,1,365
+feature,236,459,2,82
+feature,238,460,2,712
+feature,240,462,0,139
+feature,240,462,1,43
+feature,240,462,3,216
+feature,240,462,12,146
+feature,245,474,3,133
+feature,246,476,0,691
+feature,246,476,1,66
+feature,247,477,0,66
+feature,250,487,8,56
+feature,251,491,1,43
+feature,257,508,1,316
+feature,260,519,1,1695
+feature,263,523,3,159
+feature,263,523,4,80
+feature,263,523,5,143
+feature,263,523,6,132
+feature,263,523,7,49
+feature,263,523,8,18
+feature,263,523,9,171
+feature,263,523,11,14
+feature,263,524,2,31
+feature,263,524,3,214
+feature,263,524,6,15
+feature,263,525,9,448
+feature,263,526,2,32
+feature,263,526,3,98
+feature,263,526,4,48
+feature,264,528,0,432
+feature,267,530,0,42
+feature,267,530,12,179
+feature,267,530,14,90
+data point,54,102,3,223
+data point,81,146,4,409
+data point,142,257,3,140
+data point,142,257,4,31
+data point,160,288,1,15
+data point,192,353,1,158
+data point,201,379,4,108
+data point,205,390,5,28
+data point,215,402,1,125
+data point,224,424,1,37
+data point,232,447,2,242
+data point,234,452,1,23
+data point,234,454,3,214
+data point,235,455,0,182
+data point,240,462,8,107
+data point,242,467,0,251
+data point,243,469,4,745
+data point,245,473,11,129
+data point,245,474,1,48
+data point,248,478,1,372
+data point,253,498,0,756
+data point,258,511,0,242
+fillna() method,80,143,6,126
+density estimation algorithm,260,518,4,7
+gaussian naive bayes classification,215,401,0,208
+gaussian naive bayes classification,215,402,2,691
+gaussian process regression (gpr),142,256,4,28
+generative models,224,422,8,480
+geographic data,150,271,2,23
+geographic data,150,271,3,102
+geographic data,177,315,1,0
+geographic data,177,316,3,518
+geographic data,177,318,5,276
+geographic data,178,320,6,152
+geographic data,179,322,0,809
+geographic data,181,324,7,0
+geographic data,182,326,1,84
+geographic data,182,326,4,68
+geographic data,259,515,8,25
+geographic data,260,516,0,383
+drawing a map background,178,321,3,0
+map projections,177,317,3,0
+map projections,177,318,0,764
+plotting data on maps,181,324,1,0
+get_dummies() method,107,200,6,63
+graphics libraries,191,347,3,13
+groupby aggregation,98,183,1,24
+groupby aggregation,102,187,5,161
+groupby object,98,179,3,648
+groupby object,98,180,3,64
+groupby object,98,180,4,4
+groupby object,98,180,10,4
+groupby object,98,180,11,86
+groupby object,98,180,12,12
+groupby object,98,181,2,4
+groupby object,98,181,4,78
+groupby object,98,182,3,76
+groupby object,98,182,5,15
+column indexing,98,180,9,0
+column indexing,98,180,10,28
+dispatch methods,98,181,3,0
+dispatch methods,98,182,1,190
+iteration over groups,98,181,1,0
+grouping example,102,186,2,274
+magic functions,1,30,3,123
+magic functions,1,30,6,45
+magic functions,4,36,3,40
+magic functions,13,46,2,230
+help() function,1,21,1,22
+hexagonal binnings,145,265,0,12
+unstack() method,81,147,8,4
+unstack() method,83,154,4,50
+simple face detector,263,524,3,726
+histograms,144,262,1,142
+histograms,144,262,2,739
+histograms,144,263,1,119
+histograms,145,264,0,113
+histograms,145,264,4,0
+histograms,184,331,0,0
+histograms,184,331,1,312
+histograms,184,332,0,69
+histograms,184,335,0,254
+histograms,257,508,8,183
+histograms,257,510,0,232
+histograms,257,510,2,79
+histograms,257,510,3,56
+histograms,263,524,0,17
+faceted,184,335,0,246
+faceted,184,336,0,367
+manual customization,170,301,0,30
+seaborn,1,16,4,216
+seaborn,39,79,3,146
+seaborn,45,88,0,79
+seaborn,52,98,1,520
+seaborn,56,106,1,267
+seaborn,98,176,1,69
+seaborn,98,176,3,35
+seaborn,102,187,7,133
+seaborn,103,191,3,287
+seaborn,113,214,1,849
+seaborn,115,221,1,94
+seaborn,127,235,0,25
+seaborn,131,241,2,218
+seaborn,136,250,2,180
+seaborn,140,255,4,189
+seaborn,142,257,6,133
+seaborn,142,258,3,180
+seaborn,144,262,2,337
+seaborn,146,266,4,56
+seaborn,151,276,3,108
+seaborn,155,280,0,87
+seaborn,159,285,0,327
+seaborn,159,285,5,214
+seaborn,164,293,2,217
+seaborn,170,303,1,172
+seaborn,172,306,1,180
+seaborn,172,306,2,59
+seaborn,172,306,3,137
+seaborn,173,307,0,13
+seaborn,184,328,0,73
+seaborn,184,328,8,31
+seaborn,184,328,9,0
+seaborn,184,328,10,19
+seaborn,184,329,2,40
+seaborn,184,329,3,0
+seaborn,184,330,0,43
+seaborn,184,330,1,16
+seaborn,184,330,2,32
+seaborn,184,330,3,59
+seaborn,184,330,4,92
+seaborn,184,330,5,10
+seaborn,184,330,6,71
+seaborn,184,330,7,99
+seaborn,184,330,8,19
+seaborn,184,331,1,468
+seaborn,184,332,0,432
+seaborn,184,334,2,636
+seaborn,184,335,1,0
+seaborn,184,336,1,312
+seaborn,185,338,1,884
+seaborn,185,339,0,568
+seaborn,185,339,1,69
+seaborn,185,340,1,23
+seaborn,185,342,3,291
+seaborn,185,343,1,18
+seaborn,187,344,3,270
+seaborn,195,360,9,157
+seaborn,196,362,0,43
+seaborn,197,369,10,92
+seaborn,197,370,5,138
+seaborn,200,374,2,177
+seaborn,201,384,1,311
+seaborn,214,400,9,141
+seaborn,219,407,7,117
+seaborn,224,422,8,171
+seaborn,228,438,5,143
+seaborn,234,450,6,141
+seaborn,240,463,7,115
+seaborn,249,480,2,115
+seaborn,252,494,0,79
+seaborn,257,508,8,115
+seaborn,259,515,6,20
+seaborn,263,523,9,115
+simple,1,19,6,191
+simple,1,22,9,165
+simple,1,28,7,23
+simple,1,30,6,138
+simple,1,32,0,86
+simple,10,44,4,34
+simple,13,46,5,167
+simple,37,76,2,253
+simple,39,78,8,5
+simple,39,78,9,69
+simple,43,85,8,34
+simple,49,95,2,98
+simple,49,95,4,27
+simple,50,96,0,56
+simple,51,97,2,215
+simple,54,102,3,59
+simple,56,103,0,15
+simple,59,110,1,45
+simple,59,110,5,36
+simple,63,112,0,138
+simple,63,112,16,37
+simple,65,115,9,202
+simple,67,121,8,12
+simple,69,122,7,5
+simple,69,124,5,21
+simple,72,130,2,72
+simple,73,131,0,595
+simple,73,132,7,26
+simple,80,145,4,213
+simple,81,147,6,118
+simple,81,147,9,14
+simple,82,149,3,71
+simple,83,153,2,59
+simple,83,154,8,29
+simple,84,155,3,14
+simple,87,158,6,153
+simple,87,158,13,26
+simple,87,159,1,257
+simple,87,160,0,30
+simple,87,160,4,14
+simple,90,162,1,32
+simple,91,164,6,18
+simple,91,164,7,29
+simple,98,176,0,37
+simple,98,176,3,28
+simple,98,178,1,37
+simple,98,178,3,31
+simple,100,185,0,32
+simple,102,187,4,22
+simple,103,191,1,456
+simple,103,192,1,64
+simple,106,195,10,51
+simple,109,203,4,2
+simple,113,214,2,57
+simple,117,224,1,29
+simple,130,240,1,57
+simple,130,240,7,413
+simple,131,241,0,0
+simple,131,241,1,45
+simple,131,241,3,9
+simple,131,241,7,19
+simple,131,242,0,14
+simple,132,243,0,73
+simple,132,244,2,463
+simple,133,246,1,481
+simple,133,247,1,120
+simple,133,247,2,31
+simple,135,248,5,350
+simple,135,249,4,632
+simple,136,250,0,0
+simple,136,250,7,160
+simple,138,252,2,245
+simple,138,252,5,129
+simple,140,255,4,562
+simple,142,256,4,21
+simple,144,262,1,178
+simple,144,262,2,427
+simple,145,265,5,24
+simple,146,266,6,34
+simple,146,266,7,4
+simple,150,272,7,277
+simple,150,273,0,15
+simple,150,274,0,188
+simple,156,281,1,13
+simple,160,289,5,92
+simple,169,299,0,283
+simple,170,302,0,69
+simple,174,308,4,117
+simple,177,315,3,62
+simple,177,318,0,752
+simple,181,324,2,4
+simple,184,328,9,115
+simple,184,329,3,50
+simple,184,329,4,373
+simple,184,330,1,153
+simple,184,335,1,41
+simple,185,343,2,24
+simple,192,348,3,48
+simple,192,350,4,121
+simple,192,350,8,74
+simple,192,350,10,14
+simple,192,351,2,247
+simple,192,351,7,14
+simple,192,352,8,132
+simple,192,353,1,14
+simple,192,353,3,108
+simple,192,353,4,5
+simple,195,359,4,32
+simple,196,364,8,33
+simple,196,364,9,29
+simple,196,364,10,26
+simple,196,365,3,47
+simple,196,366,8,32
+simple,196,367,0,166
+simple,196,368,0,15
+simple,196,368,2,40
+simple,197,370,6,246
+simple,200,374,1,629
+simple,200,376,6,21
+simple,200,376,7,71
+simple,200,377,2,15
+simple,201,382,0,202
+simple,201,383,4,46
+simple,209,394,5,11
+simple,209,395,3,4
+simple,214,398,3,75
+simple,214,399,10,53
+simple,214,400,6,91
+simple,214,400,10,80
+simple,215,401,0,279
+simple,215,402,1,62
+simple,215,403,10,87
+simple,215,403,11,105
+simple,218,406,0,26
+simple,218,406,3,560
+simple,219,407,2,185
+simple,219,407,7,169
+simple,219,409,2,88
+simple,221,417,5,18
+simple,224,422,8,398
+simple,224,422,10,36
+simple,224,423,0,251
+simple,224,424,2,14
+simple,224,429,2,17
+simple,228,437,12,68
+simple,228,438,0,84
+simple,228,438,2,120
+simple,228,439,4,394
+simple,234,449,0,396
+simple,243,469,3,91
+simple,244,470,0,12
+simple,245,472,1,200
+simple,249,480,1,88
+simple,249,480,3,29
+simple,249,481,1,417
+simple,249,482,3,26
+simple,249,482,5,210
+simple,249,482,9,86
+simple,249,484,2,56
+simple,250,487,6,89
+simple,250,489,0,138
+simple,252,493,5,99
+simple,252,493,6,69
+simple,252,493,7,183
+simple,252,494,1,41
+simple,252,494,2,24
+simple,253,497,3,7
+simple,254,501,3,11
+simple,255,505,1,62
+simple,255,505,3,123
+simple,255,505,4,51
+simple,257,508,9,69
+simple,259,514,1,18
+simple,260,518,0,91
+simple,260,518,2,128
+simple,260,518,3,43
+simple,263,523,6,49
+simple,263,523,8,40
+simple,263,524,3,726
+simple,264,527,5,27
+simple,267,531,9,40
+two-dimensional,21,56,3,423
+two-dimensional,25,59,5,64
+two-dimensional,25,59,6,364
+two-dimensional,27,63,2,13
+two-dimensional,27,64,4,85
+two-dimensional,29,65,5,406
+two-dimensional,37,77,2,35
+two-dimensional,39,78,0,34
+two-dimensional,40,81,3,60
+two-dimensional,41,83,1,46
+two-dimensional,44,86,3,11
+two-dimensional,44,86,4,333
+two-dimensional,45,89,5,10
+two-dimensional,46,90,2,23
+two-dimensional,51,97,0,89
+two-dimensional,52,98,1,127
+two-dimensional,56,106,0,12
+two-dimensional,66,119,4,144
+two-dimensional,66,119,5,29
+two-dimensional,67,120,0,319
+two-dimensional,67,121,0,175
+two-dimensional,69,122,1,428
+two-dimensional,69,122,2,8
+two-dimensional,69,124,5,112
+two-dimensional,70,127,4,77
+two-dimensional,70,129,1,708
+two-dimensional,73,132,5,110
+two-dimensional,77,135,4,80
+two-dimensional,77,135,5,65
+two-dimensional,77,136,0,120
+two-dimensional,80,145,3,113
+two-dimensional,80,145,5,165
+two-dimensional,81,148,0,0
+two-dimensional,83,153,2,678
+two-dimensional,84,155,3,715
+two-dimensional,87,158,3,134
+two-dimensional,102,187,4,87
+two-dimensional,102,187,6,127
+two-dimensional,102,188,6,5
+two-dimensional,142,258,6,107
+two-dimensional,143,260,2,86
+two-dimensional,143,261,2,716
+two-dimensional,145,264,0,97
+two-dimensional,145,264,2,227
+two-dimensional,145,265,0,35
+two-dimensional,145,265,2,81
+two-dimensional,153,278,5,221
+two-dimensional,157,283,1,206
+two-dimensional,173,307,2,85
+two-dimensional,173,307,3,112
+two-dimensional,174,308,3,32
+two-dimensional,174,308,4,66
+two-dimensional,174,309,3,5
+two-dimensional,175,311,1,417
+two-dimensional,184,332,0,279
+two-dimensional,184,333,0,16
+two-dimensional,184,333,1,213
+two-dimensional,192,351,0,13
+two-dimensional,192,353,1,88
+two-dimensional,192,354,0,129
+two-dimensional,192,354,2,17
+two-dimensional,192,356,1,32
+two-dimensional,193,357,2,369
+two-dimensional,195,360,8,33
+two-dimensional,196,361,3,114
+two-dimensional,196,361,10,85
+two-dimensional,196,366,6,78
+two-dimensional,197,369,6,58
+two-dimensional,197,369,10,308
+two-dimensional,197,372,0,158
+two-dimensional,197,373,0,381
+two-dimensional,224,423,1,4
+two-dimensional,224,425,3,827
+two-dimensional,228,439,4,48
+two-dimensional,234,450,6,437
+two-dimensional,236,457,3,21
+two-dimensional,240,463,1,80
+two-dimensional,240,463,4,55
+two-dimensional,240,463,7,260
+two-dimensional,242,467,0,114
+two-dimensional,242,467,2,60
+two-dimensional,243,468,0,189
+two-dimensional,244,470,0,526
+two-dimensional,245,471,7,102
+two-dimensional,246,475,1,271
+two-dimensional,249,480,7,24
+holdout sets,200,376,8,117
+holdout sets,200,377,8,32
+hunter,127,234,2,25
+john,1,17,0,336
+john,39,79,0,2
+john,106,197,1,109
+john,106,197,3,117
+john,106,198,0,331
+john,107,199,0,80
+john,107,200,8,446
+john,127,234,2,20
+john,127,234,3,89
+john,127,234,4,0
+hyperparameters,52,99,0,562
+hyperparameters,196,364,3,16
+hyperparameters,196,365,4,16
+hyperparameters,196,366,1,39
+hyperparameters,196,366,2,27
+hyperparameters,196,366,3,66
+hyperparameters,196,368,3,33
+hyperparameters,197,369,7,199
+hyperparameters,197,370,3,218
+hyperparameters,200,376,4,0
+hyperparameters,200,376,5,86
+hyperparameters,200,376,10,107
+hyperparameters,200,377,0,71
+hyperparameters,201,378,10,0
+hyperparameters,201,380,4,171
+hyperparameters,201,380,10,0
+hyperparameters,201,382,10,0
+hyperparameters,201,384,3,0
+hyperparameters,202,386,1,499
+hyperparameters,203,388,8,0
+hyperparameters,205,390,10,0
+hyperparameters,209,395,7,30
+hyperparameters,214,399,7,181
+hyperparameters,219,409,11,89
+hyperparameters,221,417,1,157
+hyperparameters,225,433,0,215
+hyperparameters,262,521,6,159
+images,16,50,1,154
+images,16,50,3,13
+images,44,86,3,96
+images,129,237,2,249
+images,142,258,1,169
+images,153,278,2,93
+images,165,294,3,101
+images,165,294,4,51
+images,178,321,3,106
+images,178,321,5,281
+images,179,322,0,582
+images,195,360,5,197
+images,197,371,5,212
+images,197,371,6,374
+images,200,375,2,356
+images,207,392,7,189
+images,209,395,2,690
+images,209,395,5,61
+images,225,433,3,220
+images,226,435,1,228
+images,228,437,1,185
+images,232,447,2,166
+images,234,454,5,346
+images,236,458,1,858
+images,236,459,4,267
+images,238,460,1,338
+images,238,460,2,520
+images,239,461,2,53
+images,240,462,0,33
+images,240,462,1,227
+images,245,473,12,42
+images,245,474,0,14
+images,245,474,1,20
+images,245,474,2,41
+images,246,475,1,315
+images,246,475,2,231
+images,246,476,0,26
+images,247,477,2,244
+images,247,477,3,47
+images,248,478,2,392
+images,248,479,3,135
+images,250,490,2,114
+images,250,490,4,8
+images,252,493,3,111
+images,263,523,5,69
+images,263,523,9,325
+images,263,523,10,61
+images,263,525,5,241
+images,263,525,8,50
+images,263,525,9,28
+images,263,526,0,96
+images,267,530,2,62
+images,267,530,4,46
+images,267,530,10,148
+images,267,530,12,210
+immutable array,69,122,5,95
+immutable array,69,123,0,115
+importing,1,24,0,20
+importing,127,235,4,0
+importing,131,241,2,92
+importing,136,250,2,56
+importing,142,258,3,56
+importing,150,272,7,58
+importing,154,279,6,56
+importing,159,285,5,58
+importing,173,307,4,37
+importing,196,364,2,211
+in objects,1,22,15,58
+ipython,1,13,9,101
+ipython,1,14,0,331
+ipython,1,14,9,0
+ipython,1,16,4,224
+ipython,1,18,0,10
+ipython,1,18,1,66
+ipython,1,18,2,0
+ipython,1,18,3,59
+ipython,1,18,4,13
+ipython,1,18,5,4
+ipython,1,18,6,166
+ipython,1,18,7,0
+ipython,1,18,8,56
+ipython,1,19,1,37
+ipython,1,19,4,49
+ipython,1,19,5,14
+ipython,1,19,7,23
+ipython,1,19,8,62
+ipython,1,19,10,32
+ipython,1,19,17,98
+ipython,1,19,18,29
+ipython,1,19,20,11
+ipython,1,19,22,114
+ipython,1,20,0,141
+ipython,1,20,2,26
+ipython,1,20,7,36
+ipython,1,20,8,127
+ipython,1,20,9,31
+ipython,1,20,14,19
+ipython,1,20,19,59
+ipython,1,21,4,59
+ipython,1,21,11,17
+ipython,1,22,7,0
+ipython,1,22,17,26
+ipython,1,23,3,38
+ipython,1,23,12,17
+ipython,1,24,4,19
+ipython,1,24,8,57
+ipython,1,25,2,26
+ipython,1,25,5,4
+ipython,1,25,6,44
+ipython,1,25,7,124
+ipython,1,25,11,475
+ipython,1,26,1,3
+ipython,1,26,4,396
+ipython,1,26,5,48
+ipython,1,26,8,51
+ipython,1,26,9,29
+ipython,1,27,5,261
+ipython,1,27,8,0
+ipython,1,27,9,76
+ipython,1,28,0,0
+ipython,1,28,1,19
+ipython,1,28,5,67
+ipython,1,28,7,192
+ipython,1,28,8,15
+ipython,1,29,1,119
+ipython,1,29,2,90
+ipython,1,29,4,293
+ipython,1,29,5,7
+ipython,1,29,7,182
+ipython,1,30,3,194
+ipython,1,30,7,88
+ipython,1,30,8,52
+ipython,1,30,10,0
+ipython,1,31,1,353
+ipython,1,31,6,18
+ipython,1,32,0,234
+ipython,1,33,5,59
+ipython,1,33,6,0
+ipython,1,33,15,37
+ipython,2,34,9,0
+ipython,4,35,0,18
+ipython,4,35,2,280
+ipython,4,35,3,361
+ipython,4,35,4,43
+ipython,4,35,5,218
+ipython,4,36,1,46
+ipython,4,36,4,47
+ipython,5,37,0,101
+ipython,5,37,4,32
+ipython,5,37,5,335
+ipython,5,37,6,92
+ipython,5,38,4,223
+ipython,5,39,0,1
+ipython,5,39,6,4
+ipython,5,39,9,3
+ipython,5,39,12,157
+ipython,7,40,0,167
+ipython,7,40,1,324
+ipython,7,41,0,9
+ipython,7,41,2,18
+ipython,8,42,4,0
+ipython,8,42,5,33
+ipython,8,42,6,137
+ipython,9,43,9,129
+ipython,10,44,0,287
+ipython,10,44,1,7
+ipython,10,44,3,101
+ipython,10,44,4,639
+ipython,12,45,0,73
+ipython,12,45,1,7
+ipython,12,45,3,33
+ipython,12,45,4,129
+ipython,12,45,6,74
+ipython,12,45,7,7
+ipython,12,45,8,18
+ipython,13,46,1,35
+ipython,13,46,2,115
+ipython,13,47,2,87
+ipython,13,47,3,7
+ipython,13,47,4,5
+ipython,13,47,6,18
+ipython,13,47,7,62
+ipython,13,47,8,101
+ipython,13,47,9,18
+ipython,14,48,0,25
+ipython,14,48,2,87
+ipython,14,48,3,173
+ipython,14,48,4,88
+ipython,14,48,6,9
+ipython,14,48,7,0
+ipython,14,48,8,38
+ipython,14,48,9,56
+ipython,14,48,10,114
+ipython,14,48,11,5
+ipython,16,51,4,90
+ipython,16,51,6,41
+ipython,31,68,4,26
+ipython,36,75,5,65
+ipython,36,75,6,58
+ipython,43,85,0,167
+ipython,49,95,0,300
+ipython,54,102,2,65
+ipython,65,115,4,90
+ipython,65,115,6,42
+ipython,69,123,1,639
+ipython,78,139,0,96
+ipython,83,154,0,52
+ipython,106,196,0,229
+ipython,115,219,5,32
+ipython,127,234,2,66
+ipython,127,234,3,0
+ipython,127,235,10,149
+ipython,128,236,6,17
+ipython,128,236,7,0
+ipython,128,236,8,80
+ipython,129,237,0,17
+ipython,129,237,1,33
+ipython,129,237,2,7
+ipython,129,238,2,345
+ipython,133,245,1,184
+ipython,142,259,3,83
+ipython,150,273,1,281
+ipython,151,276,2,98
+ipython,170,301,7,133
+ipython,170,303,4,123
+ipython,178,321,5,93
+ipython,189,346,8,128
+ipython,201,380,3,60
+ipython,224,428,0,51
+ipython,260,520,2,55
+ipython,262,521,1,106
+index alignment in dataframe,75,134,1,300
+in series,69,124,6,15
+in series,74,133,3,16
+as immutable array,69,123,0,112
+as ordered set,69,123,2,6
+indexslice object,83,154,0,338
+indicator variables,107,200,5,280
+indicator variables,107,201,0,59
+inner join,94,170,1,104
+in and out objects,1,30,10,10
+related magic commands,1,33,0,0
+related magic commands,4,36,1,6
+related magic commands,4,36,5,6
+suppressing output,1,32,1,224
+underscore shortcuts and previous outputs,1,32,0,0
+installation,1,15,17,0
+installation,1,16,2,47
+installation,1,16,4,351
+installation,12,45,3,93
+installation,16,51,1,87
+installation,65,115,1,16
+installation,128,236,3,78
+installation,173,307,4,102
+installation,177,315,7,0
+python,1,13,5,180
+python,1,13,6,40
+python,1,13,8,47
+python,1,13,9,29
+python,1,13,10,4
+python,1,13,11,0
+python,1,13,12,60
+python,1,14,0,18
+python,1,14,1,38
+python,1,14,2,69
+python,1,14,3,0
+python,1,14,4,7
+python,1,14,6,138
+python,1,14,7,96
+python,1,14,8,131
+python,1,14,9,1
+python,1,14,10,122
+python,1,14,11,129
+python,1,14,12,105
+python,1,15,0,67
+python,1,15,2,190
+python,1,15,3,91
+python,1,15,5,56
+python,1,15,15,14
+python,1,15,17,39
+python,1,15,19,41
+python,1,16,0,7
+python,1,16,1,25
+python,1,16,4,95
+python,1,17,3,42
+python,1,18,0,11
+python,1,18,1,67
+python,1,18,2,1
+python,1,18,3,51
+python,1,18,4,14
+python,1,18,5,5
+python,1,18,6,167
+python,1,18,7,1
+python,1,18,8,57
+python,1,19,1,38
+python,1,19,4,50
+python,1,19,5,15
+python,1,19,7,24
+python,1,19,8,63
+python,1,19,10,33
+python,1,19,12,13
+python,1,19,17,99
+python,1,19,18,21
+python,1,19,20,12
+python,1,19,22,115
+python,1,20,0,142
+python,1,20,2,27
+python,1,20,7,37
+python,1,20,8,128
+python,1,20,9,32
+python,1,20,11,36
+python,1,20,14,20
+python,1,20,18,4
+python,1,20,19,6
+python,1,21,1,0
+python,1,21,4,60
+python,1,21,6,90
+python,1,21,11,18
+python,1,22,1,69
+python,1,22,6,12
+python,1,22,7,1
+python,1,22,11,111
+python,1,22,15,43
+python,1,22,16,90
+python,1,22,17,27
+python,1,23,2,76
+python,1,23,3,39
+python,1,23,5,40
+python,1,23,6,46
+python,1,23,9,95
+python,1,23,11,18
+python,1,23,12,18
+python,1,24,1,387
+python,1,24,4,20
+python,1,24,8,58
+python,1,25,2,27
+python,1,25,5,5
+python,1,25,6,45
+python,1,25,7,125
+python,1,25,11,476
+python,1,26,1,4
+python,1,26,4,397
+python,1,26,5,49
+python,1,26,8,25
+python,1,26,9,30
+python,1,27,5,234
+python,1,27,8,1
+python,1,27,9,77
+python,1,28,0,1
+python,1,28,1,20
+python,1,28,5,68
+python,1,28,7,127
+python,1,28,8,16
+python,1,29,0,253
+python,1,29,1,120
+python,1,29,2,91
+python,1,29,4,294
+python,1,29,5,8
+python,1,29,6,159
+python,1,29,7,183
+python,1,30,3,176
+python,1,30,7,89
+python,1,30,8,53
+python,1,30,10,1
+python,1,31,1,354
+python,1,31,6,19
+python,1,32,0,55
+python,1,33,5,60
+python,1,33,6,1
+python,1,33,8,38
+python,1,33,15,38
+python,2,34,4,388
+python,2,34,9,1
+python,4,35,0,19
+python,4,35,2,281
+python,4,35,3,63
+python,4,35,4,44
+python,4,35,5,45
+python,4,36,1,47
+python,4,36,4,48
+python,5,37,0,102
+python,5,37,1,61
+python,5,37,2,55
+python,5,37,3,159
+python,5,37,4,33
+python,5,37,5,336
+python,5,37,6,93
+python,5,38,4,224
+python,5,39,0,2
+python,5,39,4,62
+python,5,39,6,5
+python,5,39,9,4
+python,5,39,11,111
+python,5,39,12,158
+python,7,40,0,168
+python,7,40,1,325
+python,7,41,0,10
+python,7,41,2,19
+python,8,42,4,1
+python,8,42,5,34
+python,8,42,6,138
+python,9,43,7,43
+python,9,43,9,130
+python,10,44,0,288
+python,10,44,1,8
+python,10,44,3,0
+python,10,44,4,640
+python,12,45,0,74
+python,12,45,1,8
+python,12,45,3,23
+python,12,45,4,15
+python,12,45,6,75
+python,12,45,7,8
+python,12,45,8,19
+python,13,46,1,36
+python,13,46,2,116
+python,13,47,1,55
+python,13,47,2,88
+python,13,47,3,8
+python,13,47,4,6
+python,13,47,6,19
+python,13,47,7,63
+python,13,47,8,102
+python,13,47,9,19
+python,14,48,0,26
+python,14,48,2,88
+python,14,48,3,174
+python,14,48,4,6
+python,14,48,6,10
+python,14,48,7,1
+python,14,48,8,39
+python,14,48,9,57
+python,14,48,10,115
+python,14,48,11,6
+python,16,50,0,159
+python,16,50,9,54
+python,16,50,11,27
+python,16,50,12,36
+python,16,50,13,83
+python,16,51,4,91
+python,16,51,6,42
+python,16,51,9,28
+python,16,51,10,74
+python,16,51,12,9
+python,17,52,0,55
+python,17,52,1,154
+python,17,52,2,82
+python,17,52,3,218
+python,17,52,4,112
+python,17,52,5,63
+python,17,52,7,2
+python,17,52,8,42
+python,17,52,10,20
+python,18,53,0,133
+python,18,53,2,2
+python,18,53,3,30
+python,18,53,4,35
+python,20,54,0,2
+python,20,54,1,47
+python,20,54,2,327
+python,20,54,5,4
+python,20,54,8,28
+python,20,55,0,41
+python,20,55,1,43
+python,20,55,3,6
+python,21,56,0,21
+python,21,56,3,34
+python,21,56,8,104
+python,24,58,3,151
+python,25,59,0,48
+python,25,60,0,129
+python,25,60,1,67
+python,25,60,2,143
+python,25,61,0,285
+python,25,61,5,54
+python,27,63,1,59
+python,31,67,1,220
+python,31,67,7,22
+python,31,67,9,152
+python,31,67,10,164
+python,31,67,11,29
+python,31,68,4,27
+python,31,68,6,124
+python,31,68,7,38
+python,31,69,2,146
+python,31,69,3,638
+python,31,69,4,34
+python,31,69,7,82
+python,32,71,0,170
+python,34,73,9,113
+python,36,75,5,66
+python,36,75,6,59
+python,37,76,2,0
+python,37,76,4,31
+python,40,80,1,161
+python,43,85,0,168
+python,43,85,9,126
+python,46,91,7,106
+python,46,91,12,29
+python,48,94,3,50
+python,48,94,4,3
+python,49,95,0,301
+python,54,102,2,66
+python,54,102,6,29
+python,56,103,1,40
+python,56,103,7,13
+python,56,103,8,30
+python,56,103,9,55
+python,57,108,1,475
+python,59,110,1,322
+python,61,111,3,263
+python,63,112,16,81
+python,63,112,18,31
+python,65,114,0,193
+python,65,115,4,91
+python,65,115,6,43
+python,65,116,3,249
+python,66,117,2,728
+python,66,117,4,118
+python,66,117,5,109
+python,66,119,2,165
+python,69,123,1,35
+python,69,124,0,24
+python,69,124,6,164
+python,70,125,0,156
+python,70,126,3,191
+python,70,127,1,289
+python,70,127,3,25
+python,72,130,2,111
+python,74,133,3,822
+python,75,134,0,27
+python,77,135,2,299
+python,77,135,3,27
+python,77,137,0,195
+python,77,138,3,126
+python,77,138,5,6
+python,77,138,6,18
+python,77,138,7,108
+python,78,139,0,97
+python,80,145,8,81
+python,83,154,0,53
+python,90,163,2,461
+python,98,181,4,13
+python,102,186,0,4
+python,102,186,1,37
+python,102,186,2,335
+python,103,192,0,208
+python,106,195,3,60
+python,106,195,5,45
+python,106,196,0,230
+python,106,197,0,91
+python,106,197,1,231
+python,106,197,2,49
+python,106,198,1,194
+python,106,198,2,59
+python,107,200,3,52
+python,107,202,1,194
+python,109,203,3,34
+python,109,205,10,89
+python,109,205,11,83
+python,109,205,13,19
+python,109,205,14,171
+python,109,206,0,7
+python,109,206,2,697
+python,109,206,6,102
+python,109,206,7,60
+python,111,207,0,504
+python,111,208,1,111
+python,112,210,1,57
+python,112,210,7,46
+python,112,210,12,16
+python,115,219,2,43
+python,115,219,5,33
+python,115,219,6,49
+python,119,226,4,497
+python,122,230,0,548
+python,122,230,1,390
+python,122,230,2,177
+python,123,232,4,0
+python,127,234,0,116
+python,127,234,2,67
+python,127,234,3,1
+python,127,234,8,151
+python,127,235,10,150
+python,128,236,2,376
+python,128,236,4,78
+python,128,236,6,18
+python,128,236,7,1
+python,128,236,8,81
+python,129,237,0,18
+python,129,237,1,34
+python,129,237,2,8
+python,129,238,2,346
+python,130,239,3,62
+python,133,245,1,185
+python,142,259,3,84
+python,150,272,6,173
+python,150,273,1,282
+python,151,276,2,99
+python,151,276,3,44
+python,157,283,1,545
+python,158,284,1,256
+python,163,292,7,26
+python,170,301,7,134
+python,170,303,4,124
+python,177,315,5,36
+python,177,315,7,507
+python,177,317,0,169
+python,178,321,5,94
+python,182,326,3,252
+python,185,339,2,184
+python,185,340,0,475
+python,189,346,8,129
+python,191,347,0,132
+python,191,347,3,6
+python,191,347,4,94
+python,191,347,5,4
+python,191,347,13,11
+python,191,347,14,143
+python,191,347,15,31
+python,192,348,5,83
+python,192,350,7,64
+python,195,360,0,43
+python,196,363,3,60
+python,196,365,2,58
+python,196,367,5,132
+python,201,380,3,61
+python,220,412,1,216
+python,224,428,0,52
+python,229,441,0,348
+python,229,442,7,268
+python,250,490,5,150
+python,259,513,5,77
+python,260,520,2,56
+python,262,521,1,107
+python,266,529,2,27
+python,267,530,11,14
+python,267,531,1,49
+python,267,531,3,93
+python,267,531,6,20
+python,267,531,8,143
+python,267,531,10,38
+python,267,531,12,0
+python,267,531,13,68
+python,268,532,0,83
+accessing documentation with ?,1,20,17,0
+accessing source code with ??,1,22,5,0
+controlling exceptions,5,37,2,0
+exploring modules with tab completion,1,23,3,0
+help and documentation,1,19,7,241
+help and documentation,1,20,2,0
+help and documentation,1,20,19,33
+help and documentation,1,22,17,0
+help and documentation,1,24,8,31
+help and documentation,1,33,5,33
+help and documentation,14,48,9,110
+help and documentation,16,51,6,15
+help and documentation,36,75,6,32
+help and documentation,65,115,6,16
+help and documentation,133,245,1,211
+help and documentation,189,346,8,102
+help and documentation,260,520,2,90
+magic commands,1,18,9,67
+magic commands,1,27,8,8
+magic commands,1,28,1,30
+magic commands,1,28,2,6
+magic commands,1,28,3,0
+magic commands,1,28,4,118
+magic commands,1,28,8,499
+magic commands,1,29,0,133
+magic commands,1,33,0,8
+magic commands,1,33,3,14
+magic commands,4,36,1,14
+magic commands,4,36,5,14
+magic commands,8,42,5,41
+magic commands,8,42,6,145
+profiling and timing code,1,30,3,76
+profiling and timing code,8,42,0,0
+profiling and timing code,8,42,6,319
+profiling and timing code,10,44,7,0
+profiling and timing code,13,46,5,915
+profiling and timing code,31,68,4,65
+shell commands,1,33,5,91
+shell commands,1,33,6,65
+shell commands,2,34,9,12
+shell commands,4,35,0,0
+shell commands,4,35,2,237
+shell commands,4,36,1,56
+shell commands,94,171,6,98
+shell-related magic commands,4,36,1,0
+shell-related magic commands,4,36,5,0
+web resources,1,20,4,42
+web resources,13,47,6,0
+wildcard matching,1,24,3,23
+wildcard matching,1,24,4,47
+as table,195,360,8,5
+classification,154,279,0,955
+classification,154,279,2,144
+classification,192,349,12,34
+classification,192,350,8,0
+classification,192,350,10,34
+classification,192,351,2,192
+classification,192,351,7,21
+classification,192,352,0,23
+classification,192,352,1,157
+classification,192,352,6,23
+classification,192,352,7,42
+classification,192,352,8,83
+classification,192,353,1,56
+classification,192,355,1,117
+classification,192,355,8,51
+classification,195,359,6,114
+classification,196,368,0,90
+classification,196,368,2,213
+classification,196,368,3,124
+classification,197,369,0,182
+classification,197,369,11,55
+classification,197,373,5,158
+classification,200,374,0,0
+classification,200,374,1,674
+classification,200,374,2,494
+classification,200,375,3,21
+classification,209,395,0,368
+classification,209,395,2,553
+classification,214,399,8,96
+classification,214,399,9,178
+classification,214,399,10,60
+classification,214,399,11,128
+classification,214,400,0,9
+classification,214,400,2,12
+classification,214,400,7,241
+classification,214,400,11,78
+classification,215,401,0,229
+classification,215,402,2,712
+classification,215,402,3,86
+classification,215,403,7,56
+classification,215,403,8,21
+classification,215,403,14,91
+classification,216,404,4,54
+classification,218,406,6,344
+classification,218,406,9,114
+classification,219,407,3,93
+classification,224,422,6,146
+classification,224,422,7,95
+classification,224,422,8,310
+classification,224,422,9,34
+classification,224,422,10,53
+classification,224,423,0,267
+classification,226,435,2,69
+classification,228,436,0,36
+classification,228,437,0,136
+classification,228,437,3,29
+classification,228,438,0,154
+classification,228,438,7,138
+classification,228,440,2,1367
+classification,229,441,0,46
+classification,229,442,5,217
+classification,229,442,6,75
+classification,230,443,2,156
+classification,230,443,4,31
+classification,234,448,0,463
+classification,234,449,0,346
+classification,234,449,4,47
+classification,240,462,2,28
+classification,247,477,0,92
+classification,250,490,0,450
+classification,260,518,1,70
+classification,260,518,2,26
+classification,260,518,4,101
+classification,260,518,5,20
+classification,260,518,6,36
+classification,260,519,1,292
+classification,262,521,5,97
+classification,263,522,0,366
+classification,263,522,1,80
+classification,264,527,3,35
+dimensionality,102,188,3,246
+dimensionality,153,278,4,37
+dimensionality,153,278,5,0
+dimensionality,192,349,14,214
+dimensionality,192,350,0,40
+dimensionality,193,357,0,57
+dimensionality,193,357,1,0
+dimensionality,193,357,4,149
+dimensionality,195,358,0,30
+dimensionality,195,358,1,43
+dimensionality,195,359,0,0
+dimensionality,195,359,2,108
+dimensionality,195,359,3,15
+dimensionality,195,359,6,382
+dimensionality,197,369,1,36
+dimensionality,197,369,3,12
+dimensionality,197,369,4,6
+dimensionality,197,369,5,136
+dimensionality,197,372,4,23
+dimensionality,219,407,2,129
+dimensionality,234,450,4,23
+dimensionality,234,453,2,7
+dimensionality,234,453,3,37
+dimensionality,234,453,4,33
+dimensionality,234,454,1,28
+dimensionality,234,454,2,202
+dimensionality,234,454,4,64
+dimensionality,235,456,0,21
+dimensionality,235,456,7,34
+dimensionality,238,460,0,150
+dimensionality,240,462,1,160
+dimensionality,240,462,5,253
+dimensionality,240,462,12,93
+dimensionality,248,479,5,130
+dimensionality,255,505,7,108
+pair plots,184,334,0,305
+scatter plots,136,250,0,7
+scatter plots,136,250,2,226
+scatter plots,136,250,3,49
+scatter plots,136,250,7,167
+scatter plots,138,252,2,0
+scatter plots,138,252,5,136
+scatter plots,140,255,4,605
+scatter plots,174,308,4,160
+visualization of,1,13,11,129
+visualization of,40,82,3,73
+visualization of,44,86,4,672
+visualization of,44,87,0,12
+visualization of,56,106,1,364
+visualization of,57,108,0,385
+visualization of,131,241,0,59
+visualization of,140,255,3,3
+visualization of,152,277,2,33
+visualization of,184,332,0,345
+visualization of,195,358,0,78
+visualization of,196,362,0,304
+visualization of,201,378,6,65
+visualization of,201,379,0,13
+visualization of,215,401,2,83
+visualization of,215,402,2,670
+visualization of,221,419,0,13
+visualization of,224,425,0,13
+visualization of,228,439,5,23
+visualization of,228,440,0,13
+visualization of,229,441,0,13
+visualization of,234,452,0,256
+visualization of,234,453,4,360
+visualization of,238,460,2,396
+visualization of,240,462,3,147
+visualization of,241,466,0,13
+visualization of,245,472,1,219
+visualization of,249,482,9,14
+visualization of,254,501,6,114
+visualization of,255,504,5,503
+visualization of,259,515,7,66
+visualization of,263,524,3,609
+isnull() method,80,143,6,37
+face data,165,294,4,336
+joins,69,123,2,82
+joins,87,158,11,142
+joins,87,158,13,163
+joins,90,162,1,19
+joins,90,163,5,133
+joins,91,164,4,14
+joins,91,164,5,19
+joins,91,164,7,11
+joins,91,165,0,99
+joins,91,165,4,12
+joins,91,165,7,13
+joins,91,166,0,1024
+joins,94,169,2,30
+datasets,1,13,1,129
+datasets,1,13,11,152
+datasets,16,50,1,25
+datasets,27,63,3,226
+datasets,52,99,0,466
+datasets,54,102,4,33
+datasets,58,109,13,14
+datasets,65,114,11,37
+datasets,69,123,2,95
+datasets,77,136,3,32
+datasets,81,146,1,406
+datasets,82,150,2,513
+datasets,87,157,0,440
+datasets,87,158,1,175
+datasets,87,158,8,123
+datasets,87,158,10,139
+datasets,87,158,11,97
+datasets,87,158,14,99
+datasets,87,160,4,106
+datasets,90,162,7,429
+datasets,90,163,0,222
+datasets,90,163,7,10
+datasets,91,164,7,1274
+datasets,91,166,1,17
+datasets,91,166,5,539
+datasets,92,167,1,69
+datasets,93,168,1,1717
+datasets,94,170,0,255
+datasets,94,170,8,152
+datasets,94,172,0,326
+datasets,94,172,2,81
+datasets,94,172,6,590
+datasets,97,174,8,170
+datasets,102,186,2,1499
+datasets,106,195,3,168
+datasets,123,232,3,67
+datasets,123,232,6,96
+datasets,139,253,2,213
+datasets,140,254,3,62
+datasets,140,254,6,10
+datasets,153,278,2,232
+datasets,165,294,4,384
+datasets,184,330,6,34
+datasets,184,334,0,351
+datasets,185,337,0,233
+datasets,191,347,4,205
+datasets,191,347,9,89
+datasets,192,352,2,96
+datasets,196,363,3,76
+datasets,197,371,5,138
+datasets,200,376,10,55
+datasets,214,399,10,136
+datasets,214,399,12,145
+datasets,215,401,0,20
+datasets,215,403,16,81
+datasets,221,418,0,31
+datasets,224,423,0,20
+datasets,224,428,3,127
+datasets,225,431,2,83
+datasets,225,433,3,75
+datasets,228,437,9,169
+datasets,228,439,4,140
+datasets,232,447,2,21
+datasets,234,454,5,201
+datasets,236,459,4,122
+datasets,240,463,0,149
+datasets,245,473,14,302
+datasets,247,477,2,97
+datasets,249,480,8,139
+datasets,250,485,4,135
+datasets,250,488,0,21
+datasets,250,490,5,84
+datasets,252,494,2,219
+datasets,253,496,5,140
+datasets,254,501,8,197
+datasets,255,505,3,130
+datasets,255,505,6,96
+datasets,259,515,9,75
+datasets,260,516,0,592
+datasets,262,521,6,263
+datasets,263,523,3,11
+datasets,263,525,5,142
+datasets,267,531,13,130
+many-to-one,91,164,4,99
+many-to-one,91,165,4,0
+many-to-one,91,165,5,8
+many-to-one,91,165,6,36
+many-to-one,94,172,3,19
+one-to-one,91,164,4,87
+one-to-one,91,164,7,0
+set arithmetic for,94,169,2,11
+joint distributions,185,337,0,98
+plotting from,128,236,0,0
+plotting from,128,236,6,0
+plotting from,129,237,0,0
+kernel density estimation (kde),257,508,6,0
+bayesian generative classification with,260,518,1,50
+custom estimator,260,518,1,165
+custom estimator,260,519,1,1623
+custom estimator,262,521,5,10
+histograms and,145,264,0,113
+histograms and,184,331,0,96
+histograms and,184,332,0,69
+kernel svm,224,428,0,393
+kernel svm,225,431,0,246
+kernel transformation,224,430,4,57
+kernel transformation,225,431,1,5
+kernel transformation,250,486,0,175
+kernel trick,224,430,6,57
+kernel trick,224,430,7,5
+kernel trick,225,431,1,162
+keyboard shortcuts,1,25,2,0
+keyboard shortcuts,1,26,9,244
+ipython shell,1,19,1,85
+ipython shell,1,19,5,14
+ipython shell,1,19,17,98
+ipython shell,1,25,2,26
+ipython shell,1,25,5,4
+ipython shell,1,25,7,124
+ipython shell,1,26,8,51
+ipython shell,1,26,9,270
+ipython shell,1,30,7,171
+ipython shell,128,236,6,17
+ipython shell,129,237,1,126
+command history,1,25,10,95
+command history,1,26,4,305
+command history,1,26,5,5
+command history,1,26,6,315
+command history,1,33,3,83
+navigation,1,25,5,98
+navigation,1,25,10,51
+navigation,1,25,11,0
+text entry,1,25,10,73
+text entry,1,26,0,0
+knuth,8,42,2,10
+donald,8,42,2,3
+donald,225,433,3,266
+donald,228,436,0,356
+donald,236,459,4,313
+regression task,192,349,12,59
+regression task,192,352,8,139
+regression task,219,407,3,228
+simple line plots,131,241,0,0
+simple line plots,131,242,0,530
+simple line plots,132,244,2,463
+simple line plots,133,246,1,481
+simple line plots,135,248,5,350
+simple line plots,140,255,4,562
+simple line plots,170,302,0,69
+simple line plots,174,308,4,117
+learning curves,202,387,1,0
+learning curves,202,387,2,193
+learning curves,203,388,0,55
+learning curves,203,389,0,177
+learning curves,203,389,3,0
+learning curves,205,390,0,227
+learning curves,205,390,8,96
+computing,1,13,11,85
+computing,1,13,12,160
+computing,1,14,0,263
+computing,1,15,17,96
+computing,1,16,1,132
+computing,1,18,2,228
+computing,1,18,7,88
+computing,14,48,6,33
+computing,14,48,7,20
+computing,37,76,1,60
+computing,45,88,4,142
+computing,65,114,5,141
+computing,80,145,4,119
+computing,97,175,7,98
+computing,98,178,6,26
+computing,113,216,3,43
+computing,115,217,1,43
+computing,119,226,4,734
+computing,192,355,3,44
+computing,203,389,3,77
+computing,209,395,2,15
+computing,212,397,17,0
+computing,241,466,2,15
+left join,94,170,3,564
+legends,113,216,6,315
+legends,133,247,1,127
+legends,135,249,1,51
+legends,146,266,5,17
+legends,146,266,7,238
+legends,147,268,4,241
+legends,149,270,3,17
+legends,150,271,3,154
+legends,150,272,3,27
+legends,181,325,0,60
+levels,80,145,2,288
+levels,81,146,4,136
+levels,82,149,3,229
+levels,82,150,0,22
+levels,82,150,1,62
+levels,82,150,3,125
+levels,83,152,0,75
+levels,83,152,1,625
+levels,84,155,1,79
+levels,87,157,4,452
+levels,87,159,1,562
+levels,142,258,5,104
+levels,224,426,0,310
+levels,228,439,5,55
+levels,228,440,2,1132
+levels,229,442,2,47
+levels,260,517,2,1380
+naming,87,157,4,18
+labeling,133,247,1,0
+labeling,249,480,0,80
+line colors and styles,132,243,2,20
+line-by-line profiling,12,45,2,0
+line-by-line profiling,12,45,4,279
+regularization,196,365,10,17
+regularization,220,413,1,0
+regularization,221,415,3,27
+regularization,221,415,4,21
+regularization,221,416,0,24
+regularization,221,416,3,6
+regularization,221,417,0,24
+regularization,221,417,1,14
+regularization,240,462,10,189
+lists,1,17,0,117
+lists,4,35,3,308
+lists,10,44,4,97
+lists,10,44,5,84
+lists,12,45,4,434
+lists,13,46,3,71
+lists,13,46,5,229
+lists,13,47,0,374
+lists,20,54,2,385
+lists,20,55,0,48
+lists,21,56,0,28
+lists,21,56,3,41
+lists,25,60,0,237
+lists,25,60,2,150
+lists,25,61,0,292
+lists,27,63,1,83
+lists,31,70,2,704
+lists,56,103,9,114
+lists,59,110,6,80
+lists,77,135,2,293
+lists,78,140,5,10
+lists,82,149,3,932
+lists,90,163,2,468
+lists,106,198,0,206
+lists,107,201,3,58
+lists,109,203,0,314
+lists,109,205,3,27
+lists,109,206,6,93
+lists,111,207,6,301
+lists,149,270,0,822
+lists,149,270,1,106
+lists,149,270,2,32
+lists,150,271,0,18
+lists,184,334,2,56
+lists,226,435,2,98
+locally linear embedding (lle),240,463,6,131
+logarithms,32,72,3,26
+logarithms,32,72,6,56
+categories of,25,59,4,18
+categories of,59,110,1,202
+categories of,91,164,4,0
+categories of,150,274,2,48
+categories of,192,349,10,0
+classification task,192,349,12,34
+classification task,192,350,8,81
+classification task,192,351,2,192
+classification task,192,352,0,84
+classification task,219,407,3,151
+classification task,224,422,10,53
+classification task,264,527,3,35
+decision trees and random forests,192,352,7,404
+decision trees and random forests,192,355,7,254
+decision trees and random forests,200,375,3,212
+decision trees and random forests,228,438,0,10
+decision trees and random forests,228,438,8,217
+decision trees and random forests,228,440,2,1478
+decision trees and random forests,229,442,7,388
+decision trees and random forests,230,444,5,328
+decision trees and random forests,231,446,2,10
+decision trees and random forests,234,448,0,1247
+decision trees and random forests,234,454,5,103
+decision trees and random forests,247,477,1,57
+decision trees and random forests,250,487,6,134
+dimensionality reduction,153,278,4,37
+dimensionality reduction,153,278,5,0
+dimensionality reduction,192,349,14,214
+dimensionality reduction,192,350,0,40
+dimensionality reduction,193,357,0,57
+dimensionality reduction,193,357,1,0
+dimensionality reduction,195,358,0,30
+dimensionality reduction,195,358,1,43
+dimensionality reduction,195,359,0,0
+dimensionality reduction,195,359,2,108
+dimensionality reduction,195,359,3,15
+dimensionality reduction,195,359,6,382
+dimensionality reduction,197,369,3,12
+dimensionality reduction,197,369,4,6
+dimensionality reduction,197,369,5,136
+dimensionality reduction,197,372,4,23
+dimensionality reduction,234,450,4,23
+dimensionality reduction,234,453,2,7
+dimensionality reduction,234,453,3,37
+dimensionality reduction,234,453,4,33
+dimensionality reduction,234,454,1,28
+dimensionality reduction,234,454,4,64
+dimensionality reduction,235,456,0,21
+dimensionality reduction,235,456,7,34
+dimensionality reduction,248,479,5,130
+dimensionality reduction,255,505,7,108
+face detection pipeline,206,391,5,109
+face detection pipeline,209,395,6,86
+face detection pipeline,263,523,1,15
+face detection pipeline,263,523,8,47
+face detection pipeline,263,524,7,15
+face detection pipeline,263,526,4,457
+face detection pipeline,264,528,0,1331
+face detection pipeline,267,530,16,83
+supervised,153,278,5,44
+supervised,165,294,4,103
+supervised,192,349,10,119
+supervised,192,349,11,0
+supervised,192,349,13,38
+supervised,192,349,14,2
+supervised,192,350,1,40
+supervised,192,350,2,38
+supervised,192,350,3,5
+supervised,192,355,9,2
+supervised,192,356,0,21
+supervised,193,357,0,173
+supervised,195,359,6,32
+supervised,196,364,6,38
+supervised,196,364,7,8
+supervised,196,364,8,61
+supervised,196,364,9,0
+supervised,196,367,7,44
+supervised,196,368,0,56
+supervised,197,369,1,2
+supervised,197,370,0,57
+supervised,197,372,4,2
+supervised,197,372,5,53
+supervised,197,373,5,147
+supervised,200,376,4,101
+supervised,214,399,9,109
+supervised,224,422,6,115
+supervised,234,450,1,86
+supervised,234,450,2,35
+supervised,234,450,6,262
+supervised,234,450,8,234
+supervised,235,455,1,178
+supervised,240,462,11,51
+supervised,240,463,0,104
+supervised,248,479,5,94
+supervised,248,479,6,43
+supervised,249,480,8,31
+supervised,250,488,3,324
+supervised,250,490,1,23
+supervised,252,493,4,70
+supervised,267,530,9,28
+running external code,1,29,1,0
+shell-related,4,36,1,0
+shell-related,4,36,5,0
+manifold learning,153,278,4,80
+manifold learning,153,278,5,304
+manifold learning,154,279,2,116
+manifold learning,193,357,2,127
+manifold learning,195,359,3,178
+manifold learning,197,373,0,0
+manifold learning,240,462,12,10
+manifold learning,240,462,14,10
+manifold learning,240,463,2,19
+manifold learning,240,463,5,0
+manifold learning,240,463,7,167
+manifold learning,240,464,0,371
+manifold learning,240,464,3,463
+manifold learning,241,466,4,393
+manifold learning,242,467,1,7
+manifold learning,243,468,1,393
+manifold learning,244,470,5,71
+manifold learning,245,471,2,56
+manifold learning,245,472,1,94
+manifold learning,245,472,2,55
+manifold learning,245,472,4,5
+manifold learning,245,472,8,5
+manifold learning,245,472,10,5
+manifold learning,245,472,12,10
+manifold learning,245,473,0,5
+manifold learning,245,473,1,150
+manifold learning,245,473,2,56
+manifold learning,245,473,3,51
+manifold learning,245,473,11,35
+manifold learning,245,474,5,10
+manifold learning,246,476,2,10
+manifold learning,247,477,0,248
+manifold learning,247,477,4,16
+manifold learning,248,478,2,500
+visualizing structure in digits,247,477,0,188
+many-to-one joins,91,165,4,0
+conic,178,320,0,262
+conic,178,320,2,45
+conic,178,320,4,13
+conic,178,320,5,0
+cylindrical,177,318,0,724
+cylindrical,177,318,3,55
+cylindrical,177,318,4,6
+cylindrical,177,318,5,242
+cylindrical,178,319,1,7
+cylindrical,178,319,4,13
+perspective,14,48,5,74
+perspective,66,119,3,39
+perspective,178,319,6,0
+perspective,178,319,9,6
+perspective,178,320,5,24
+perspective,268,532,1,274
+perspective,268,532,6,34
+pseudo-cylindrical,178,319,1,0
+pseudo-cylindrical,178,319,4,6
+maps,63,112,17,45
+maps,66,117,3,33
+maps,67,120,2,19
+maps,100,185,5,47
+maps,142,259,3,36
+maps,150,273,1,241
+maps,150,274,2,67
+maps,150,274,3,15
+maps,150,274,4,17
+maps,150,274,6,69
+maps,150,274,7,48
+maps,151,276,1,137
+maps,151,276,2,33
+maps,152,277,3,24
+maps,177,315,4,53
+maps,177,317,3,61
+maps,179,322,0,526
+maps,181,324,1,17
+maps,260,517,2,605
+maximizing,224,424,3,25
+maximizing,249,482,5,68
+matlab-style interface,130,239,3,0
+matlab-style interface,130,239,5,435
+matlab-style interface,130,240,3,28
+colorbar customization,151,276,4,67
+configurations and stylesheets,127,234,12,115
+configurations and stylesheets,127,235,8,68
+configurations and stylesheets,169,299,1,24
+configurations and stylesheets,170,300,0,950
+configurations and stylesheets,170,302,6,24
+configurations and stylesheets,170,304,3,182
+configurations and stylesheets,172,306,3,194
+configurations and stylesheets,184,329,0,133
+density and contour plots,44,86,4,398
+density and contour plots,142,258,0,0
+density and contour plots,142,258,6,397
+density and contour plots,143,260,6,0
+density and contour plots,174,309,2,79
+gotchas,130,240,9,100
+gotchas,135,249,1,219
+gotchas,143,260,3,222
+and density,144,262,1,164
+and density,144,262,2,761
+and density,145,264,4,22
+interfaces,1,33,14,63
+interfaces,130,239,1,4
+interfaces,130,240,8,85
+interfaces,130,240,10,4
+interfaces,131,242,0,162
+multiple subplots,118,225,1,279
+multiple subplots,154,279,2,173
+multiple subplots,155,280,6,379
+multiple subplots,156,282,6,235
+multiple subplots,158,284,2,890
+object-oriented interfaces,130,240,8,69
+plot customization,169,299,4,0
+plotting from a script,128,236,0,0
+saving figures to file,129,238,0,0
+setting styles,127,235,5,0
+stylesheets,127,234,12,134
+stylesheets,127,235,7,14
+stylesheets,127,235,8,87
+stylesheets,169,299,1,43
+stylesheets,169,299,3,110
+stylesheets,170,300,0,969
+stylesheets,170,302,3,56
+stylesheets,170,302,4,0
+stylesheets,170,302,5,6
+stylesheets,170,302,6,43
+stylesheets,170,303,0,45
+stylesheets,170,304,3,201
+stylesheets,172,306,1,214
+stylesheets,172,306,3,213
+stylesheets,184,329,0,152
+text and annotation,159,285,1,0
+text and annotation,159,286,2,124
+text and annotation,160,288,7,104
+text and annotation,161,290,2,573
+three-dimensional plotting,173,307,2,0
+three-dimensional plotting,173,307,3,41
+three-dimensional plotting,174,308,1,0
+three-dimensional plotting,174,308,5,611
+three-dimensional plotting,175,310,4,51
+three-dimensional plotting,175,312,3,404
+three-dimensional plotting,176,314,7,438
+profiling,1,30,3,57
+profiling,8,42,0,0
+profiling,8,42,4,85
+profiling,8,42,6,319
+profiling,10,44,2,0
+profiling,10,44,7,0
+profiling,12,45,2,13
+profiling,12,45,4,292
+profiling,13,46,0,0
+profiling,13,46,5,289
+profiling,31,68,4,65
+specification of,75,134,1,91
+specification of,87,160,1,38
+specification of,91,166,3,0
+specification of,157,283,1,95
+merging,93,168,0,63
+merging,93,168,1,510
+merging,97,175,5,24
+merging,98,179,0,157
+miniconda,1,15,19,244
+miniconda,1,16,3,84
+miniconda,1,16,4,41
+handling,16,50,9,69
+handling,39,78,2,223
+handling,74,133,3,1157
+handling,77,136,2,0
+handling,77,136,5,0
+handling,77,137,0,170
+handling,77,138,7,636
+handling,78,140,6,0
+handling,78,141,0,18
+handling,78,142,5,348
+handling,80,144,1,0
+handling,91,166,4,107
+handling,106,195,5,76
+handling,106,196,0,754
+handling,191,347,4,168
+handling,214,398,0,73
+handling,214,398,1,17
+handling,245,472,2,165
+nan and none,78,140,1,0
+möbius strip,176,313,2,65
+möbius strip,176,313,3,23
+möbius strip,176,313,6,24
+möbius strip,176,314,3,6
+möbius strip,176,314,6,186
+möbius strip,177,315,0,28
+validation curves in scikit-learn,201,383,1,0
+model validation,52,99,0,582
+model validation,196,366,3,106
+model validation,200,376,4,20
+model validation,200,376,7,15
+model validation,200,376,8,54
+model validation,200,376,9,0
+model validation,200,376,10,127
+model validation,200,377,8,0
+model validation,201,378,2,0
+model validation,201,378,10,20
+model validation,201,380,10,20
+model validation,201,382,10,20
+model validation,201,384,3,20
+model validation,202,386,1,519
+model validation,203,388,8,20
+model validation,205,390,10,20
+model validation,207,392,0,137
+model validation,209,395,7,50
+model validation,219,410,0,4
+model validation,220,413,1,201
+model validation,221,417,1,177
+model validation,225,433,0,235
+model validation,262,521,6,179
+bias–variance trade-off,146,266,0,454
+bias–variance trade-off,201,381,0,4
+bias–variance trade-off,207,392,0,226
+bias–variance trade-off,259,514,1,937
+cross-validation,200,376,8,134
+cross-validation,201,378,2,21
+cross-validation,201,378,5,34
+cross-validation,201,378,6,91
+cross-validation,201,378,8,24
+cross-validation,201,378,9,141
+cross-validation,201,379,0,40
+cross-validation,201,379,3,36
+cross-validation,201,379,5,13
+cross-validation,201,380,1,47
+cross-validation,201,380,2,117
+cross-validation,201,380,3,161
+cross-validation,201,380,4,74
+cross-validation,201,383,1,68
+cross-validation,207,392,1,60
+cross-validation,221,417,1,124
+cross-validation,225,433,0,159
+cross-validation,225,434,2,781
+cross-validation,228,437,9,125
+cross-validation,228,437,11,40
+cross-validation,255,504,2,157
+cross-validation,259,514,1,788
+cross-validation,259,515,1,105
+cross-validation,259,515,4,76
+cross-validation,260,519,0,180
+cross-validation,260,520,6,148
+cross-validation,262,521,6,46
+cross-validation,263,522,0,268
+naive approach to,200,376,8,36
+naive approach to,200,376,9,53
+validation curves,201,383,1,0
+validation curves,202,386,0,17
+validation curves,205,390,1,91
+modules,1,23,3,10
+modules,1,24,1,359
+modules,1,24,2,385
+modules,13,46,5,73
+mollweide projection,178,319,2,4
+nonlinear embeddings,243,469,2,0
+multiindex type,81,146,3,82
+data aggregations on,87,157,1,0
+for columns,82,150,3,11
+indexing and slicing,26,62,5,29
+indexing and slicing,66,118,1,416
+indexing and slicing,70,127,1,32
+indexing and slicing,82,151,4,0
+keys option,89,161,11,34
+level names,82,150,1,11
+multiply indexed dataframes,82,151,5,63
+multiply indexed dataframes,83,153,0,0
+multiply indexed series,80,145,5,91
+multiply indexed series,81,148,4,75
+multiply indexed series,82,151,6,0
+multiply indexed series,83,154,1,310
+rearranging,83,154,2,0
+n naive bayes classification,215,401,0,215
+n naive bayes classification,215,402,2,698
+gaussian,34,73,5,116
+gaussian,103,192,5,370
+gaussian,116,223,2,126
+gaussian,142,256,4,28
+gaussian,142,256,6,35
+gaussian,142,257,3,63
+gaussian,145,264,2,77
+gaussian,145,265,6,101
+gaussian,146,266,1,68
+gaussian,192,356,5,147
+gaussian,196,368,2,73
+gaussian,196,368,3,60
+gaussian,196,368,5,418
+gaussian,197,370,2,55
+gaussian,197,370,3,15
+gaussian,200,374,1,97
+gaussian,214,400,9,167
+gaussian,215,401,0,208
+gaussian,215,401,2,25
+gaussian,215,402,0,32
+gaussian,215,402,2,68
+gaussian,215,403,8,112
+gaussian,215,403,9,125
+gaussian,215,403,10,28
+gaussian,215,403,13,116
+gaussian,220,411,1,0
+gaussian,220,411,2,102
+gaussian,220,412,0,15
+gaussian,220,412,1,6
+gaussian,220,413,0,151
+gaussian,220,413,2,35
+gaussian,220,414,1,66
+gaussian,221,415,0,37
+gaussian,221,415,6,173
+gaussian,221,416,4,201
+gaussian,224,428,1,207
+gaussian,236,458,1,803
+gaussian,250,485,1,154
+gaussian,252,493,5,10
+gaussian,252,493,7,39
+gaussian,252,494,3,121
+gaussian,253,496,7,97
+gaussian,253,497,1,91
+gaussian,253,497,2,18
+gaussian,253,497,3,300
+gaussian,253,498,0,357
+gaussian,253,498,2,321
+gaussian,254,500,1,10
+gaussian,254,502,0,631
+gaussian,255,503,0,97
+gaussian,255,504,6,124
+gaussian,257,506,2,416
+gaussian,257,508,3,71
+gaussian,257,508,5,85
+gaussian,257,508,6,89
+gaussian,258,512,2,115
+gaussian,259,513,0,47
+gaussian,259,513,1,146
+gaussian,259,514,1,277
+gaussian,259,515,4,389
+gaussian,260,518,3,63
+gaussian,260,519,1,603
+gaussian,260,520,3,90
+gaussian,263,522,0,422
+gaussian,263,523,0,126
+gaussian,264,527,5,34
+multinomial,215,403,10,0
+multinomial,215,403,11,26
+multinomial,215,403,12,4
+multinomial,215,403,13,173
+multinomial,215,403,14,42
+multinomial,218,405,1,139
+multinomial,218,405,2,445
+nan value,39,78,2,166
+nan value,75,134,0,336
+nan value,77,138,3,174
+nan value,78,140,0,169
+nan value,78,140,2,457
+nan value,214,398,1,119
+navigation shortcuts,1,25,11,0
+neural networks,267,530,13,69
+neural networks,267,530,14,20
+noise filter,234,450,4,120
+noise filter,236,457,5,7
+noise filter,236,459,1,316
+noise filter,240,462,3,191
+pca as,234,453,2,0
+pca as,234,453,3,28
+pca as,234,453,4,377
+pca as,236,457,5,0
+none object,77,138,3,200
+mds and,245,471,0,63
+notnull() method,78,142,0,109
+null values,77,138,3,133
+null values,78,141,1,13
+null values,78,141,2,103
+null values,78,141,4,10
+null values,78,142,1,9
+null values,80,143,3,79
+null values,80,143,4,8
+null values,80,143,6,186
+null values,97,174,4,125
+detecting,78,141,2,68
+detecting,78,141,4,0
+dropping,78,142,1,0
+dropping,80,143,0,73
+dropping,80,143,4,42
+dropping,202,385,1,963
+filling,56,105,5,402
+filling,80,143,4,0
+filling,95,173,4,28
+filling,113,216,1,66
+aggregations,36,75,6,78
+aggregations,37,76,4,421
+aggregations,39,78,9,209
+aggregations,46,91,7,43
+aggregations,46,92,2,77
+aggregations,56,106,2,212
+aggregations,77,138,7,535
+aggregations,78,139,3,377
+aggregations,87,157,1,5
+aggregations,97,175,7,108
+aggregations,98,176,0,8
+aggregations,98,176,3,767
+aggregations,98,177,0,683
+aggregations,98,177,4,48
+aggregations,98,178,3,38
+aggregations,98,181,5,82
+aggregations,98,183,1,32
+array attributes,25,59,4,479
+array indexing: accessing single elements,25,60,1,0
+array slicing: accessing subarrays,25,61,4,38
+comparison operators as ufuncs,45,88,7,0
+computation on arrays,40,80,1,0
+computation on arrays,40,80,5,460
+computation on arrays,40,82,7,0
+computation on arrays,41,84,3,406
+computation on arrays,44,86,5,0
+computation on arrays,50,96,4,100
+computation on arrays,56,106,2,145
+computation on arrays,77,136,0,46
+computation on arrays,142,258,3,412
+data types in python,16,51,9,14
+data types in python,17,52,10,170
+data types in python,20,54,8,14
+data types in python,21,56,8,90
+data types in python,24,58,3,137
+data types in python,25,60,0,115
+sorting arrays,54,102,7,0
+sorting arrays,54,102,11,0
+sorting arrays,56,104,5,300
+sorting arrays,56,106,3,284
+sorting arrays,57,108,4,173
+structured arrays,24,58,3,92
+structured arrays,58,109,17,25
+structured arrays,59,110,4,30
+structured arrays,59,110,5,237
+structured arrays,59,110,7,21
+structured arrays,61,111,2,9
+structured arrays,63,112,19,25
+structured arrays,64,113,0,14
+structured arrays,64,113,4,0
+structured arrays,65,115,9,115
+structured arrays,69,122,4,11
+offsets,113,212,0,16
+offsets,113,213,4,446
+offsets,113,213,5,100
+on keyword,91,166,5,4
+on keyword,92,167,1,22
+on keyword,92,167,2,47
+one-hot encoding,209,393,4,45
+one-to-one joins,91,164,7,0
+k-means clustering,192,356,3,68
+k-means clustering,193,357,0,32
+k-means clustering,248,479,5,10
+k-means clustering,249,480,1,136
+k-means clustering,249,480,9,245
+k-means clustering,249,482,10,71
+k-means clustering,249,484,5,292
+k-means clustering,250,486,4,10
+k-means clustering,250,488,3,403
+k-means clustering,250,490,5,620
+k-means clustering,252,492,0,132
+k-means clustering,252,492,2,41
+k-means clustering,252,493,5,38
+k-means clustering,254,501,8,143
+pca as noise filtering,236,457,5,0
+pca for visualization,234,454,4,0
+or keyword,132,243,4,40
+ordered set,69,122,5,120
+ordered set,69,123,2,9
+orthographic projection,178,319,7,28
+orthographic projection,178,320,0,26
+out objects,1,30,10,17
+outer join,94,170,3,3
+outer products,36,75,0,304
+outliers,103,192,4,51
+outliers,103,192,5,51
+outliers,240,462,7,62
+outliers,248,479,3,34
+output,1,22,13,22
+output,1,23,10,348
+output,1,30,7,129
+output,1,30,8,95
+output,1,30,11,87
+output,1,31,0,45
+output,1,31,1,281
+output,1,32,0,34
+output,1,32,1,236
+output,1,32,2,95
+output,1,32,3,32
+output,4,35,3,30
+output,5,38,3,34
+output,10,44,4,393
+output,31,68,2,151
+output,34,73,12,11
+output,36,75,0,354
+output,65,116,1,233
+output,73,132,3,171
+output,94,170,4,405
+output,94,171,0,572
+output,98,178,7,66
+output,98,184,4,31
+output,98,184,7,165
+output,102,186,1,89
+output,111,208,6,71
+output,115,220,0,180
+output,127,234,6,43
+output,127,235,1,114
+output,133,247,0,330
+output,140,255,4,726
+output,145,265,2,431
+output,168,297,4,174
+output,174,308,4,227
+output,184,330,1,206
+output,185,343,2,12
+output,191,347,5,20
+output,209,394,1,68
+output,225,434,2,466
+output,228,440,2,289
+output,240,464,0,393
+output,245,472,8,55
+output,245,472,9,35
+output,246,475,1,259
+output,246,475,2,88
+output,253,498,2,134
+output,257,509,2,123
+output,267,530,10,185
+suppressing,1,32,1,224
+aggregation and grouping,87,158,1,91
+aggregation and grouping,94,171,2,45
+aggregation and grouping,97,175,7,0
+aggregation and grouping,98,176,4,485
+aggregation and grouping,98,178,8,0
+aggregation and grouping,98,180,12,156
+aggregation and grouping,98,182,6,474
+aggregation and grouping,98,184,9,0
+aggregation and grouping,102,186,4,0
+aggregation and grouping,115,218,2,167
+aggregation and grouping,116,223,4,61
+built-in documentation,16,51,4,15
+built-in documentation,16,51,7,124
+built-in documentation,65,115,4,15
+combining datasets,87,158,10,129
+combining datasets,87,158,14,89
+combining datasets,87,160,4,96
+combining datasets,90,162,7,419
+combining datasets,90,163,7,0
+combining datasets,91,164,7,1264
+combining datasets,91,166,5,529
+combining datasets,93,168,1,1707
+combining datasets,94,170,8,142
+combining datasets,94,172,6,580
+combining datasets,97,174,8,160
+data indexing and selection,69,124,1,0
+data indexing and selection,69,124,7,100
+data indexing and selection,69,124,8,269
+data indexing and selection,70,126,5,6
+data indexing and selection,70,128,2,157
+data indexing and selection,72,130,4,269
+data indexing and selection,78,141,6,206
+data indexing and selection,83,152,1,885
+data indexing and selection,83,153,2,388
+data indexing and selection,87,158,5,62
+data selection in dataframe,70,127,4,0
+data selection in series,69,124,6,0
+dataframe object,1,14,11,45
+dataframe object,61,111,1,32
+dataframe object,65,114,9,41
+dataframe object,66,119,1,11
+dataframe object,67,121,3,116
+dataframe object,69,122,4,516
+dataframe object,69,124,3,88
+dataframe object,69,124,5,128
+dataframe object,70,127,2,74
+dataframe object,70,129,3,433
+dataframe object,73,132,6,121
+dataframe object,74,133,1,63
+dataframe object,80,145,0,142
+dataframe object,80,145,3,129
+dataframe object,87,159,0,534
+dataframe object,87,160,0,64
+dataframe object,90,163,1,80
+eval() and query(),97,174,7,132
+eval() and query(),103,192,6,88
+eval() and query(),109,204,1,113
+eval() and query(),118,225,3,132
+eval() and query(),119,226,2,14
+eval() and query(),119,226,8,207
+eval() and query(),119,227,1,11
+eval() and query(),120,228,8,157
+eval() and query(),122,230,6,206
+eval() and query(),122,231,8,37
+handling missing data,74,133,3,1157
+handling missing data,77,136,2,0
+handling missing data,77,136,5,0
+handling missing data,77,137,0,170
+handling missing data,77,138,7,636
+handling missing data,78,140,6,0
+handling missing data,78,142,5,348
+handling missing data,80,144,1,0
+handling missing data,106,196,0,754
+handling missing data,214,398,0,73
+handling missing data,214,398,1,60
+handling missing data,245,472,2,165
+hierarchical indexing,80,145,0,0
+hierarchical indexing,81,146,5,290
+hierarchical indexing,81,148,5,361
+hierarchical indexing,82,150,4,581
+hierarchical indexing,83,152,1,1461
+hierarchical indexing,83,154,8,403
+hierarchical indexing,85,156,3,106
+hierarchical indexing,90,162,0,83
+index object,67,120,0,1008
+index object,69,122,4,460
+index object,69,122,5,5
+index object,69,123,0,135
+index object,69,123,1,180
+index object,69,123,3,4
+index object,80,145,4,59
+index object,90,162,6,649
+index object,106,196,0,819
+nan and none in,78,140,1,0
+objects,1,13,3,185
+objects,1,13,8,218
+objects,1,21,8,183
+objects,1,21,9,209
+objects,1,22,15,61
+objects,1,23,3,151
+objects,1,24,0,75
+objects,1,30,10,21
+objects,9,43,7,50
+objects,18,53,4,149
+objects,20,54,0,130
+objects,65,114,9,51
+objects,65,115,9,19
+objects,65,116,6,19
+objects,66,118,1,503
+objects,66,118,2,219
+objects,66,119,5,171
+objects,67,120,3,210
+objects,67,121,3,126
+objects,67,121,6,38
+objects,69,122,0,28
+objects,69,122,1,77
+objects,69,122,4,526
+objects,69,122,5,166
+objects,69,122,6,84
+objects,69,122,7,90
+objects,69,123,1,186
+objects,69,123,2,28
+objects,69,124,3,98
+objects,70,125,0,422
+objects,70,125,1,299
+objects,70,127,1,492
+objects,70,127,2,84
+objects,70,127,6,112
+objects,70,129,1,21
+objects,70,129,3,443
+objects,72,130,2,941
+objects,73,132,3,299
+objects,73,132,6,131
+objects,73,132,7,565
+objects,74,133,1,73
+objects,77,135,0,81
+objects,77,138,6,155
+objects,77,138,7,484
+objects,80,145,0,152
+objects,80,145,2,44
+objects,80,145,3,139
+objects,80,145,4,65
+objects,82,150,0,243
+objects,87,158,2,129
+objects,87,159,0,544
+objects,87,160,0,74
+objects,90,162,6,655
+objects,90,163,1,90
+objects,98,178,0,377
+objects,98,181,4,179
+objects,98,182,5,23
+objects,106,196,0,825
+objects,109,206,0,68
+objects,109,206,5,96
+objects,109,206,6,219
+objects,111,207,0,522
+objects,111,207,1,45
+objects,111,208,4,32
+objects,112,210,9,40
+objects,112,210,10,18
+objects,113,213,5,435
+objects,115,218,2,79
+objects,119,226,0,92
+objects,122,230,1,397
+objects,128,236,1,71
+objects,130,240,6,166
+objects,130,240,7,183
+objects,131,241,3,291
+objects,147,268,2,109
+objects,149,270,1,18
+objects,150,271,0,48
+objects,150,272,0,74
+objects,160,289,7,108
+objects,163,292,8,58
+objects,164,293,3,106
+objects,177,315,0,149
+objects,196,361,4,56
+objects,196,363,1,168
+objects,228,438,7,65
+operating on data in,70,129,1,653
+operating on data in,73,132,0,0
+operating on data in,73,132,7,664
+operating on data in,75,134,1,921
+operating on data in,81,148,2,822
+panel data,80,145,2,123
+panel data,87,158,2,0
+panel data,87,158,7,14
+pivot tables,102,187,2,0
+pivot tables,102,187,5,23
+pivot tables,102,187,7,11
+pivot tables,102,188,0,0
+pivot tables,102,188,8,80
+pivot tables,103,189,3,11
+pivot tables,103,190,9,0
+pivot tables,103,192,6,261
+pivot tables,105,194,5,188
+series object,65,116,0,11
+series object,65,116,4,84
+series object,66,117,0,41
+series object,66,117,5,79
+series object,66,118,1,496
+series object,66,119,2,9
+series object,66,119,5,164
+series object,67,120,0,740
+series object,67,120,3,57
+series object,67,121,5,14
+series object,67,121,6,31
+series object,69,122,0,21
+series object,69,122,1,70
+series object,69,124,5,56
+series object,69,124,6,62
+series object,69,124,8,44
+series object,70,125,0,415
+series object,70,127,1,485
+series object,70,129,1,14
+series object,72,130,2,934
+series object,98,178,0,370
+series object,98,181,4,172
+series object,111,209,2,32
+vectorized string operations,106,195,5,0
+vectorized string operations,106,195,6,58
+vectorized string operations,106,196,0,707
+vectorized string operations,106,196,2,0
+vectorized string operations,106,198,11,134
+vectorized string operations,107,200,8,594
+vectorized string operations,107,201,1,247
+vectorized string operations,107,202,4,105
+vectorized string operations,109,204,2,0
+pandas.eval() function,122,230,2,90
+partial slicing,83,152,1,185
+partial slicing,84,155,3,354
+pasting code blocks,1,28,5,0
+concatenation with,87,159,1,264
+concatenation with,90,162,1,0
+concatenation with joins,90,162,1,0
+duplicate indices,87,160,3,0
+duplicate indices,89,161,0,33
+ignoring the index,89,161,7,265
+multiindex keys,89,161,10,427
+pd.eval() function,120,228,6,75
+pd.merge() function,91,164,4,24
+pd.merge() function,91,165,0,4
+pd.merge() function,91,165,2,165
+categories of joins,91,164,4,0
+keywords,1,16,7,200
+keywords,48,94,0,10
+keywords,91,165,3,156
+keywords,92,167,1,25
+keywords,92,167,2,50
+keywords,93,168,0,31
+keywords,156,282,5,80
+specifying set arithmetic for joins,94,169,2,0
+perez,1,18,2,71
+perez,14,48,3,101
+perez,127,234,3,28
+fernando,1,18,2,62
+fernando,14,48,3,92
+fernando,127,234,3,19
+period type,112,210,3,40
+perspective projections,178,319,6,0
+pipelines,8,42,0,89
+pipelines,201,383,5,100
+pipelines,214,398,11,259
+pipelines,214,399,8,34
+pipelines,267,530,13,38
+syntax,1,14,3,44
+syntax,1,14,6,199
+syntax,1,14,7,140
+syntax,1,18,8,149
+syntax,1,19,6,94
+syntax,1,24,6,75
+syntax,1,28,0,41
+syntax,1,28,7,374
+syntax,4,35,5,111
+syntax,9,43,9,68
+syntax,25,61,5,18
+syntax,27,63,0,134
+syntax,37,76,2,162
+syntax,37,76,4,279
+syntax,37,77,0,205
+syntax,46,91,8,23
+syntax,64,113,1,457
+syntax,70,125,0,474
+syntax,70,129,1,70
+syntax,81,146,1,431
+syntax,81,147,3,5
+syntax,83,153,1,478
+syntax,83,153,3,364
+syntax,83,154,0,154
+syntax,87,158,1,5
+syntax,87,159,1,349
+syntax,102,188,7,12
+syntax,106,195,9,182
+syntax,106,195,10,114
+syntax,106,197,0,122
+syntax,107,200,3,77
+syntax,109,206,5,70
+syntax,118,225,3,322
+syntax,120,228,3,64
+syntax,122,230,0,512
+syntax,122,230,5,51
+syntax,122,231,7,83
+syntax,127,235,1,82
+syntax,130,239,3,115
+syntax,133,245,0,62
+syntax,140,255,4,507
+syntax,142,259,4,146
+syntax,158,284,1,273
+syntax,195,360,3,77
+syntax,209,395,2,4
+syntax,231,445,3,68
+plotly,191,347,6,2
+plotly,191,347,7,8
+colorbars,150,272,3,12
+colorbars,150,272,7,496
+colorbars,150,273,0,90
+colorbars,150,273,1,12
+colorbars,150,274,9,500
+colorbars,150,275,3,514
+colorbars,151,276,7,545
+colorbars,152,277,3,9
+colorbars,153,278,5,361
+data on maps,181,324,1,9
+from an ipython shell,128,236,6,9
+ipython notebook,1,18,5,4
+ipython notebook,1,18,6,166
+ipython notebook,1,19,1,107
+ipython notebook,1,19,4,67
+ipython notebook,1,19,20,11
+ipython notebook,1,20,0,141
+ipython notebook,13,47,7,62
+ipython notebook,14,48,0,25
+ipython notebook,127,235,10,176
+ipython notebook,129,237,0,17
+ipython notebook,129,237,1,33
+ipython notebook,129,237,2,7
+plot legends,135,249,1,46
+plot legends,146,266,5,12
+plot legends,146,266,7,233
+plot legends,147,268,4,236
+plot legends,149,270,3,12
+plot legends,150,272,3,22
+plot legends,181,325,0,55
+simple scatter plots,136,250,0,0
+simple scatter plots,136,250,7,160
+simple scatter plots,138,252,5,129
+simple scatter plots,140,255,4,598
+simple scatter plots,174,308,4,153
+three-dimensional,25,59,5,85
+three-dimensional,25,59,6,439
+three-dimensional,80,145,2,73
+three-dimensional,87,158,3,42
+three-dimensional,142,258,0,60
+three-dimensional,142,258,3,236
+three-dimensional,142,259,0,25
+three-dimensional,142,259,2,197
+three-dimensional,143,260,0,250
+three-dimensional,143,261,1,26
+three-dimensional,144,262,1,25
+three-dimensional,173,307,2,0
+three-dimensional,173,307,3,41
+three-dimensional,173,307,4,10
+three-dimensional,174,308,0,22
+three-dimensional,174,308,1,0
+three-dimensional,174,308,2,0
+three-dimensional,174,308,5,167
+three-dimensional,174,309,1,10
+three-dimensional,174,309,2,0
+three-dimensional,174,309,4,18
+three-dimensional,175,310,0,15
+three-dimensional,175,310,1,320
+three-dimensional,175,310,2,48
+three-dimensional,175,310,3,117
+three-dimensional,175,310,4,51
+three-dimensional,175,311,1,319
+three-dimensional,175,312,3,404
+three-dimensional,176,313,0,15
+three-dimensional,176,313,1,577
+three-dimensional,176,313,2,47
+three-dimensional,176,313,5,57
+three-dimensional,176,314,4,84
+three-dimensional,176,314,6,155
+three-dimensional,176,314,7,438
+three-dimensional,177,315,0,131
+three-dimensional,192,354,0,14
+three-dimensional,192,354,1,70
+three-dimensional,197,371,5,268
+three-dimensional,206,391,2,18
+three-dimensional,219,410,5,80
+three-dimensional,224,429,2,210
+three-dimensional,240,463,1,130
+three-dimensional,240,463,2,108
+three-dimensional,240,463,3,59
+three-dimensional,240,463,4,108
+three-dimensional,240,463,5,145
+three-dimensional,242,467,2,167
+three-dimensional,243,468,0,105
+three-dimensional,243,468,1,285
+three-dimensional,243,469,4,377
+three-dimensional,250,490,5,446
+three-dimensional,251,491,0,98
+ticks,116,223,4,184
+ticks,118,225,1,550
+ticks,131,241,4,87
+ticks,150,275,0,90
+ticks,153,278,2,472
+ticks,154,279,0,258
+ticks,163,292,4,12
+ticks,163,292,10,118
+ticks,163,292,11,12
+ticks,164,293,0,16
+ticks,164,293,1,32
+ticks,164,293,2,49
+ticks,164,293,5,6
+ticks,165,294,1,7
+ticks,165,294,2,323
+ticks,165,294,3,10
+ticks,165,294,4,731
+ticks,165,295,0,20
+ticks,165,295,1,37
+ticks,165,295,2,158
+ticks,165,295,3,93
+ticks,166,296,0,250
+ticks,166,296,1,69
+ticks,166,296,3,438
+ticks,168,297,0,41
+ticks,168,297,1,52
+ticks,168,297,2,49
+ticks,168,298,0,353
+ticks,168,298,2,229
+ticks,168,298,6,98
+ticks,169,299,0,54
+ticks,170,300,0,517
+ticks,184,336,1,150
+ticks,185,343,2,85
+ticks,197,371,6,202
+ticks,197,373,1,317
+ticks,200,375,2,184
+ticks,225,433,3,614
+ticks,226,435,1,446
+ticks,232,447,2,538
+ticks,236,458,1,214
+ticks,238,460,2,167
+ticks,239,461,2,463
+ticks,245,474,2,149
+ticks,247,477,3,124
+ticks,248,478,1,208
+ticks,250,488,2,247
+ticks,250,490,5,367
+ticks,252,493,1,248
+ticks,255,505,6,438
+ticks,263,524,3,456
+two-dimensional function,44,86,3,11
+plt.imshow() function,143,260,2,42
+plt.legend() command,146,266,7,44
+scatter plots with,136,250,2,226
+scatter plots with,138,252,2,0
+polynomial regression model,201,383,2,19
+pop() method,70,128,2,35
+population data,94,172,3,86
+population data,95,173,3,198
+us,1,13,1,225
+us,1,13,5,64
+us,1,13,6,102
+us,1,13,7,117
+us,1,13,9,36
+us,1,14,0,4
+us,1,14,3,13
+us,1,14,5,22
+us,1,14,6,176
+us,1,14,7,150
+us,1,14,8,50
+us,1,14,9,107
+us,1,15,2,145
+us,1,15,4,0
+us,1,15,7,63
+us,1,15,8,27
+us,1,15,9,36
+us,1,15,14,15
+us,1,15,16,69
+us,1,15,19,22
+us,1,16,0,77
+us,1,16,2,4
+us,1,16,4,141
+us,1,16,5,72
+us,1,16,6,12
+us,1,16,7,15
+us,1,16,8,87
+us,1,16,9,62
+us,1,17,0,26
+us,1,17,2,15
+us,1,17,6,5
+us,1,18,0,136
+us,1,18,1,76
+us,1,18,3,19
+us,1,18,4,111
+us,1,18,6,21
+us,1,18,7,17
+us,1,18,8,82
+us,1,18,9,59
+us,1,18,10,76
+us,1,19,1,31
+us,1,19,3,42
+us,1,19,6,116
+us,1,19,7,217
+us,1,19,14,27
+us,1,19,18,73
+us,1,19,20,88
+us,1,20,0,74
+us,1,20,2,116
+us,1,20,6,106
+us,1,20,7,16
+us,1,20,14,15
+us,1,20,18,70
+us,1,21,0,121
+us,1,21,4,4
+us,1,21,7,25
+us,1,22,1,4
+us,1,22,2,10
+us,1,22,6,4
+us,1,22,11,62
+us,1,23,0,0
+us,1,23,3,54
+us,1,23,4,35
+us,1,23,5,63
+us,1,23,6,32
+us,1,23,9,247
+us,1,24,0,53
+us,1,24,1,11
+us,1,24,2,304
+us,1,24,3,59
+us,1,24,4,9
+us,1,24,5,20
+us,1,24,6,164
+us,1,25,1,76
+us,1,25,2,113
+us,1,25,4,6
+us,1,25,6,118
+us,1,25,8,16
+us,1,25,9,19
+us,1,25,10,137
+us,1,25,11,31
+us,1,26,0,53
+us,1,26,2,21
+us,1,26,3,65
+us,1,26,4,44
+us,1,26,6,201
+us,1,26,7,25
+us,1,27,2,35
+us,1,27,3,12
+us,1,27,5,11
+us,1,27,6,32
+us,1,27,7,23
+us,1,27,8,33
+us,1,27,9,21
+us,1,28,2,59
+us,1,28,4,28
+us,1,28,7,446
+us,1,28,8,284
+us,1,29,0,70
+us,1,29,1,214
+us,1,29,4,486
+us,1,29,6,52
+us,1,30,0,123
+us,1,30,3,244
+us,1,30,7,13
+us,1,30,8,111
+us,1,30,10,106
+us,1,30,11,37
+us,1,31,0,31
+us,1,31,3,18
+us,1,31,4,64
+us,1,31,5,14
+us,1,32,0,31
+us,1,33,0,54
+us,1,33,1,147
+us,1,33,4,48
+us,1,33,5,23
+us,1,33,9,140
+us,1,33,11,48
+us,1,33,13,104
+us,1,33,14,58
+us,2,34,0,94
+us,2,34,1,148
+us,2,34,2,8
+us,2,34,3,249
+us,2,34,4,70
+us,2,34,5,244
+us,2,34,6,53
+us,2,34,7,16
+us,4,35,0,34
+us,4,35,3,75
+us,4,35,4,39
+us,4,36,1,119
+us,4,36,2,78
+us,4,36,3,151
+us,5,37,3,77
+us,5,37,5,763
+us,5,38,1,0
+us,5,38,3,52
+us,5,39,1,11
+us,5,39,5,23
+us,5,39,7,34
+us,7,40,0,665
+us,7,40,1,92
+us,7,41,0,378
+us,7,41,1,198
+us,8,42,0,153
+us,8,42,2,20
+us,8,42,3,15
+us,8,42,5,15
+us,8,42,6,189
+us,9,43,0,14
+us,9,43,1,51
+us,9,43,5,234
+us,9,43,7,38
+us,9,43,8,37
+us,9,43,9,27
+us,10,44,0,142
+us,10,44,3,146
+us,12,45,0,65
+us,12,45,2,82
+us,12,45,4,9
+us,12,45,5,33
+us,12,45,6,66
+us,13,46,0,17
+us,13,46,2,111
+us,13,46,3,29
+us,13,46,4,41
+us,13,46,5,132
+us,13,47,0,40
+us,13,47,1,40
+us,13,47,2,79
+us,13,47,4,47
+us,13,47,8,95
+us,14,48,4,82
+us,14,48,5,54
+us,14,48,6,131
+us,14,48,7,135
+us,14,48,8,28
+us,14,48,9,100
+us,14,48,10,59
+us,16,50,2,52
+us,16,50,4,73
+us,16,50,5,30
+us,16,50,7,13
+us,16,50,9,147
+us,16,50,13,117
+us,16,51,2,160
+us,16,51,3,88
+us,16,51,4,169
+us,16,51,7,156
+us,16,51,12,0
+us,17,52,3,286
+us,17,52,5,95
+us,17,52,7,31
+us,17,52,8,79
+us,18,53,0,629
+us,20,54,0,28
+us,20,54,2,320
+us,20,54,4,86
+us,20,54,6,53
+us,20,55,1,62
+us,20,55,2,10
+us,21,56,0,48
+us,21,56,2,74
+us,21,56,3,153
+us,21,56,4,110
+us,24,58,1,4
+us,24,58,2,114
+us,25,59,0,73
+us,25,59,1,45
+us,25,59,2,131
+us,25,59,4,512
+us,25,59,6,6
+us,25,60,0,8
+us,25,60,2,131
+us,25,61,0,84
+us,25,61,4,74
+us,25,61,5,100
+us,26,62,0,180
+us,26,62,5,51
+us,27,63,0,258
+us,27,63,3,180
+us,27,63,4,84
+us,27,64,0,322
+us,27,64,2,254
+us,27,64,3,40
+us,27,64,5,66
+us,29,65,5,397
+us,30,66,0,139
+us,31,67,1,80
+us,31,67,4,32
+us,31,67,5,65
+us,31,67,6,47
+us,31,67,9,30
+us,31,68,4,55
+us,31,68,6,132
+us,31,68,7,131
+us,31,68,9,93
+us,31,68,12,41
+us,31,69,3,527
+us,31,69,7,53
+us,31,69,8,76
+us,31,70,2,126
+us,31,70,3,412
+us,32,71,0,145
+us,32,71,1,57
+us,32,72,13,50
+us,32,72,15,137
+us,34,73,5,118
+us,34,73,9,4
+us,34,73,10,35
+us,34,73,12,58
+us,34,73,13,48
+us,36,74,1,32
+us,36,74,6,17
+us,36,74,18,127
+us,36,74,20,81
+us,36,74,22,379
+us,36,75,0,398
+us,36,75,2,18
+us,36,75,5,105
+us,36,75,7,171
+us,37,76,0,79
+us,37,76,2,26
+us,37,76,4,74
+us,37,77,0,218
+us,37,77,4,182
+us,39,78,1,94
+us,39,78,2,194
+us,39,78,4,29
+us,39,78,6,39
+us,39,78,7,47
+us,39,78,8,55
+us,39,79,0,46
+us,39,79,1,338
+us,39,79,2,31
+us,39,79,3,255
+us,40,80,1,56
+us,40,80,2,48
+us,40,80,5,377
+us,40,81,1,115
+us,40,82,1,0
+us,40,82,2,1
+us,40,82,3,256
+us,41,84,0,16
+us,41,84,1,283
+us,41,84,3,82
+us,43,85,0,325
+us,43,85,2,34
+us,43,85,3,99
+us,43,85,6,35
+us,43,85,8,71
+us,43,85,9,32
+us,44,86,2,0
+us,44,86,3,72
+us,44,86,4,65
+us,44,87,0,102
+us,44,87,4,92
+us,45,88,0,221
+us,45,88,4,18
+us,45,88,5,99
+us,45,88,6,50
+us,45,88,7,125
+us,45,88,8,12
+us,45,89,3,1014
+us,45,89,4,195
+us,46,90,1,71
+us,46,90,2,209
+us,46,90,3,144
+us,46,91,0,87
+us,46,91,4,59
+us,46,91,8,118
+us,46,91,9,21
+us,46,91,13,106
+us,46,92,0,49
+us,46,92,1,183
+us,46,92,3,30
+us,48,94,0,0
+us,48,94,1,15
+us,48,94,3,9
+us,48,94,5,2
+us,49,95,0,0
+us,49,95,2,28
+us,49,95,5,12
+us,52,98,0,44
+us,52,98,1,321
+us,52,98,2,71
+us,52,99,0,440
+us,52,99,1,38
+us,52,99,2,256
+us,53,100,0,134
+us,53,100,15,26
+us,53,100,17,18
+us,53,100,29,30
+us,53,100,31,20
+us,54,101,2,35
+us,54,102,0,16
+us,54,102,3,112
+us,54,102,5,118
+us,54,102,6,23
+us,56,103,1,21
+us,56,103,3,39
+us,56,103,6,53
+us,56,103,7,128
+us,56,103,9,134
+us,56,104,0,14
+us,56,104,1,19
+us,56,104,3,77
+us,56,104,4,26
+us,56,105,6,10
+us,56,105,8,60
+us,56,106,1,0
+us,56,106,2,110
+us,56,106,3,47
+us,57,107,0,287
+us,57,107,2,57
+us,57,107,4,3
+us,57,108,0,276
+us,57,108,2,229
+us,57,108,3,115
+us,58,109,3,3
+us,58,109,5,58
+us,58,109,6,74
+us,58,109,10,29
+us,58,109,16,54
+us,58,109,17,102
+us,58,109,18,30
+us,59,110,0,5
+us,59,110,1,34
+us,59,110,3,32
+us,59,110,5,18
+us,61,111,0,230
+us,61,111,1,118
+us,63,112,0,109
+us,63,112,16,14
+us,63,112,18,160
+us,64,113,0,142
+us,64,113,1,21
+us,64,113,3,103
+us,64,113,4,36
+us,64,113,5,15
+us,65,114,0,53
+us,65,114,3,116
+us,65,114,4,136
+us,65,114,8,123
+us,65,114,10,28
+us,65,114,11,8
+us,65,114,12,15
+us,65,115,2,55
+us,65,115,3,132
+us,65,115,4,169
+us,65,115,7,160
+us,65,115,10,76
+us,65,115,11,2
+us,65,116,3,68
+us,65,116,5,119
+us,66,117,2,32
+us,66,117,4,27
+us,66,118,1,383
+us,66,119,2,27
+us,66,119,5,1
+us,66,119,7,104
+us,67,120,0,280
+us,67,121,0,158
+us,67,121,2,4
+us,67,121,8,6
+us,69,122,3,37
+us,69,123,1,20
+us,69,124,0,16
+us,69,124,4,12
+us,69,124,6,48
+us,69,124,7,65
+us,70,125,0,136
+us,70,125,1,1
+us,70,126,0,403
+us,70,126,2,90
+us,70,126,3,102
+us,70,126,4,326
+us,70,127,2,111
+us,70,127,3,132
+us,70,128,0,1007
+us,70,129,0,93
+us,70,129,1,33
+us,70,129,2,45
+us,72,130,0,270
+us,72,130,1,18
+us,72,130,2,0
+us,72,130,3,60
+us,73,131,0,46
+us,73,131,1,127
+us,73,131,2,912
+us,73,132,3,25
+us,73,132,6,31
+us,74,133,0,452
+us,74,133,3,122
+us,75,134,0,330
+us,77,135,1,36
+us,77,136,1,291
+us,77,136,2,154
+us,77,137,0,29
+us,77,137,3,54
+us,77,137,4,182
+us,77,137,6,48
+us,77,137,9,93
+us,77,137,10,28
+us,77,137,14,130
+us,77,138,1,83
+us,77,138,3,48
+us,77,138,5,53
+us,77,138,6,4
+us,77,138,7,35
+us,78,139,0,161
+us,78,139,1,181
+us,78,139,2,53
+us,78,139,3,268
+us,78,140,4,239
+us,78,141,2,49
+us,78,141,4,54
+us,78,141,6,269
+us,78,142,1,48
+us,80,143,3,659
+us,80,143,6,27
+us,80,144,0,290
+us,80,145,0,53
+us,80,145,1,12
+us,80,145,2,198
+us,80,145,4,174
+us,80,145,8,0
+us,81,146,3,104
+us,81,147,2,73
+us,81,147,5,24
+us,81,147,6,110
+us,81,147,9,23
+us,81,148,0,66
+us,81,148,1,113
+us,81,148,2,812
+us,81,148,3,327
+us,82,149,1,116
+us,82,149,2,103
+us,82,149,3,875
+us,82,150,2,537
+us,82,150,3,91
+us,82,151,2,126
+us,82,151,3,3
+us,83,152,0,60
+us,83,152,1,268
+us,83,153,1,485
+us,83,153,2,336
+us,83,154,0,249
+us,83,154,3,132
+us,84,155,1,9
+us,84,155,3,6
+us,85,156,0,451
+us,85,156,2,549
+us,87,157,0,396
+us,87,157,1,47
+us,87,157,4,400
+us,87,158,0,2
+us,87,158,1,83
+us,87,158,2,87
+us,87,158,4,140
+us,87,158,5,52
+us,87,158,6,129
+us,87,158,9,79
+us,87,159,0,105
+us,87,159,1,422
+us,87,160,0,19
+us,87,160,2,438
+us,89,161,3,18
+us,89,161,9,28
+us,89,161,11,26
+us,90,162,0,55
+us,90,162,1,52
+us,90,162,6,126
+us,90,163,0,258
+us,90,163,1,24
+us,90,163,3,44
+us,90,163,4,2
+us,91,164,6,72
+us,91,164,7,977
+us,91,165,0,105
+us,91,165,7,52
+us,91,166,0,1037
+us,91,166,3,161
+us,91,166,5,82
+us,92,167,2,21
+us,93,168,1,481
+us,94,169,2,164
+us,94,170,2,31
+us,94,170,5,0
+us,94,171,0,564
+us,94,171,1,66
+us,94,171,3,96
+us,94,171,4,9
+us,94,171,5,52
+us,94,171,6,63
+us,94,172,0,29
+us,94,172,1,720
+us,94,172,3,52
+us,94,172,5,6
+us,95,173,3,141
+us,95,173,4,182
+us,95,173,5,47
+us,97,174,4,39
+us,97,174,7,6
+us,97,175,2,379
+us,97,175,5,88
+us,98,176,1,26
+us,98,177,1,6
+us,98,178,5,133
+us,98,178,6,51
+us,98,179,0,101
+us,98,179,2,68
+us,98,179,3,44
+us,98,180,2,140
+us,98,180,3,308
+us,98,180,6,24
+us,98,180,8,10
+us,98,181,2,692
+us,98,181,5,21
+us,98,182,0,1025
+us,98,182,1,105
+us,98,182,3,48
+us,98,182,4,54
+us,98,182,5,132
+us,98,182,6,52
+us,98,183,3,353
+us,98,184,1,9
+us,98,184,3,19
+us,100,185,1,9
+us,102,186,2,1450
+us,102,187,2,59
+us,102,187,5,64
+us,102,187,7,64
+us,102,188,0,125
+us,102,188,1,27
+us,102,188,2,8
+us,102,188,3,0
+us,102,188,4,248
+us,102,188,5,79
+us,102,188,7,69
+us,103,189,3,25
+us,103,189,5,18
+us,103,190,6,14
+us,103,190,7,387
+us,103,191,1,47
+us,103,191,3,45
+us,103,192,1,28
+us,103,192,3,160
+us,103,192,4,4
+us,103,192,5,84
+us,103,192,6,17
+us,105,193,0,46
+us,105,193,1,12
+us,105,193,2,46
+us,105,194,3,367
+us,105,194,4,18
+us,106,195,0,77
+us,106,195,1,13
+us,106,195,2,63
+us,106,195,3,129
+us,106,195,7,98
+us,106,195,8,53
+us,106,195,9,291
+us,106,195,10,72
+us,106,196,1,512
+us,106,197,0,183
+us,106,197,1,29
+us,106,197,2,110
+us,106,198,0,590
+us,106,198,1,8
+us,106,198,11,77
+us,107,199,0,304
+us,107,199,2,11
+us,107,200,2,76
+us,107,200,7,8
+us,107,201,1,288
+us,107,201,2,43
+us,107,201,4,12
+us,107,201,6,130
+us,107,202,2,719
+us,109,203,1,1
+us,109,203,4,160
+us,109,203,7,23
+us,109,204,0,1044
+us,109,204,1,33
+us,109,205,2,30
+us,109,205,3,134
+us,109,205,6,61
+us,109,205,7,139
+us,109,205,10,167
+us,109,205,11,31
+us,109,205,14,67
+us,109,206,1,52
+us,109,206,2,43
+us,109,206,3,23
+us,109,206,5,86
+us,109,206,6,86
+us,109,206,8,61
+us,111,207,0,353
+us,111,207,2,4
+us,111,207,4,137
+us,111,207,6,43
+us,111,208,0,288
+us,111,208,3,81
+us,111,208,4,90
+us,111,208,5,20
+us,111,208,6,51
+us,111,209,1,86
+us,111,209,2,439
+us,112,210,10,72
+us,112,210,11,597
+us,113,211,2,1373
+us,113,212,1,1
+us,113,212,3,97
+us,113,212,5,89
+us,113,213,0,39
+us,113,213,5,30
+us,113,213,6,51
+us,113,213,9,44
+us,113,213,10,4
+us,113,214,1,603
+us,113,214,2,16
+us,113,215,3,46
+us,113,215,6,1
+us,113,215,7,28
+us,113,216,0,107
+us,115,217,0,464
+us,115,217,2,16
+us,115,218,0,76
+us,115,219,0,126
+us,115,219,1,171
+us,115,219,3,72
+us,115,219,4,73
+us,115,219,5,24
+us,115,220,0,153
+us,115,221,1,293
+us,115,221,3,179
+us,115,222,0,129
+us,116,223,1,48
+us,116,223,2,128
+us,116,223,4,15
+us,116,223,6,85
+us,117,224,0,65
+us,118,225,0,92
+us,118,225,1,232
+us,118,225,2,197
+us,118,225,3,182
+us,119,226,0,21
+us,119,226,3,44
+us,119,226,4,69
+us,119,226,5,88
+us,119,227,0,219
+us,119,227,1,53
+us,119,227,2,69
+us,119,227,3,304
+us,119,227,4,28
+us,120,228,2,258
+us,120,228,5,78
+us,120,228,6,45
+us,120,228,8,6
+us,121,229,0,246
+us,121,229,1,59
+us,121,229,2,6
+us,122,230,2,118
+us,122,230,4,207
+us,122,230,5,23
+us,122,230,6,55
+us,122,231,1,292
+us,122,231,2,7
+us,122,231,3,495
+us,122,231,4,58
+us,122,231,6,121
+us,122,231,9,124
+us,123,232,0,71
+us,123,232,1,42
+us,123,232,3,141
+us,123,232,8,44
+us,123,232,9,0
+us,123,232,11,123
+us,123,232,13,20
+us,127,234,6,142
+us,127,234,8,22
+us,127,234,12,92
+us,127,235,0,38
+us,127,235,1,49
+us,127,235,2,172
+us,127,235,3,116
+us,127,235,4,22
+us,127,235,5,23
+us,127,235,6,75
+us,127,235,7,26
+us,127,235,8,45
+us,127,235,9,73
+us,127,235,10,9
+us,128,236,0,34
+us,128,236,2,450
+us,128,236,4,59
+us,128,236,6,60
+us,128,236,8,29
+us,128,236,9,127
+us,128,236,10,0
+us,129,238,1,22
+us,129,238,2,31
+us,129,238,4,65
+us,130,239,0,235
+us,130,239,1,54
+us,130,239,3,92
+us,130,239,5,76
+us,130,240,0,6
+us,130,240,7,23
+us,131,241,2,126
+us,131,241,5,37
+us,131,241,6,37
+us,131,241,7,29
+us,131,242,0,24
+us,132,243,2,3
+us,132,243,3,63
+us,132,243,4,6
+us,132,243,5,493
+us,132,244,1,22
+us,132,244,2,91
+us,133,245,0,230
+us,133,245,1,51
+us,133,245,2,3
+us,133,245,3,25
+us,133,246,0,266
+us,133,247,2,82
+us,135,248,0,112
+us,135,248,2,68
+us,135,248,5,39
+us,135,249,1,170
+us,135,249,4,390
+us,136,250,0,38
+us,136,250,2,88
+us,136,250,3,310
+us,136,250,4,1
+us,136,251,0,158
+us,138,252,0,14
+us,138,252,2,132
+us,138,252,5,59
+us,139,253,1,49
+us,139,253,2,22
+us,140,254,0,13
+us,140,254,1,59
+us,140,254,2,9
+us,140,254,3,96
+us,140,254,4,123
+us,140,254,8,31
+us,140,255,4,184
+us,140,255,5,0
+us,142,256,0,14
+us,142,256,2,8
+us,142,256,3,177
+us,142,256,4,30
+us,142,256,5,92
+us,142,256,6,37
+us,142,257,0,60
+us,142,257,2,16
+us,142,257,3,65
+us,142,257,6,125
+us,142,258,0,42
+us,142,258,2,42
+us,142,258,3,88
+us,142,258,6,64
+us,142,259,0,108
+us,142,259,4,57
+us,143,260,0,520
+us,143,260,1,138
+us,143,260,2,34
+us,143,260,3,309
+us,143,260,5,6
+us,143,261,0,37
+us,143,261,1,90
+us,143,261,2,62
+us,144,262,2,332
+us,144,263,0,16
+us,144,263,1,97
+us,145,264,0,138
+us,145,264,2,79
+us,145,264,3,10
+us,145,265,4,17
+us,145,265,6,27
+us,146,266,0,451
+us,146,266,1,70
+us,146,266,2,91
+us,146,266,3,33
+us,146,266,4,27
+us,146,266,5,1
+us,146,266,6,9
+us,146,266,7,206
+us,147,267,0,348
+us,147,267,1,156
+us,147,268,0,45
+us,147,268,2,99
+us,147,268,4,225
+us,148,269,0,114
+us,148,269,2,30
+us,148,269,3,31
+us,149,270,0,410
+us,149,270,3,1
+us,150,271,0,115
+us,150,271,1,21
+us,150,271,5,37
+us,150,271,6,79
+us,150,272,1,105
+us,150,272,3,1
+us,150,272,4,12
+us,150,272,6,4
+us,150,272,7,90
+us,150,273,0,52
+us,150,273,1,1
+us,150,274,1,62
+us,150,274,2,123
+us,150,274,3,26
+us,150,274,6,8
+us,150,274,7,53
+us,150,274,9,489
+us,150,275,2,15
+us,150,275,3,2
+us,151,276,1,111
+us,151,276,2,94
+us,151,276,4,77
+us,151,276,7,534
+us,152,277,2,26
+us,152,277,3,52
+us,152,277,4,33
+us,153,278,0,66
+us,153,278,1,96
+us,153,278,2,543
+us,153,278,4,31
+us,153,278,5,89
+us,154,279,0,47
+us,154,279,1,101
+us,154,279,2,48
+us,154,279,6,88
+us,155,280,0,82
+us,155,280,1,20
+us,155,280,6,6
+us,156,281,0,106
+us,156,282,0,28
+us,156,282,1,65
+us,156,282,2,53
+us,156,282,3,55
+us,157,283,1,129
+us,158,284,1,237
+us,158,284,2,13
+us,159,285,3,53
+us,159,285,5,90
+us,159,286,0,31
+us,159,286,1,48
+us,160,287,0,616
+us,160,287,1,8
+us,160,287,3,42
+us,160,288,2,137
+us,160,288,3,12
+us,160,288,4,50
+us,160,289,1,35
+us,160,289,4,486
+us,160,289,5,62
+us,160,289,7,68
+us,160,289,8,21
+us,161,290,0,11
+us,161,290,2,50
+us,162,291,0,1384
+us,163,292,1,65
+us,163,292,3,9
+us,163,292,4,1
+us,163,292,5,46
+us,163,292,6,48
+us,163,292,11,1
+us,164,293,1,42
+us,164,293,2,36
+us,164,293,3,8
+us,164,293,4,48
+us,165,294,0,80
+us,165,294,2,15
+us,165,294,3,30
+us,165,294,4,95
+us,165,295,0,125
+us,165,295,3,57
+us,165,295,4,45
+us,166,296,0,225
+us,166,296,1,91
+us,166,296,3,427
+us,168,297,4,71
+us,168,298,0,365
+us,168,298,1,23
+us,168,298,6,212
+us,169,299,0,527
+us,169,299,1,1
+us,169,299,2,78
+us,169,299,4,6
+us,169,299,5,29
+us,169,299,6,124
+us,170,300,0,118
+us,170,301,0,38
+us,170,301,3,36
+us,170,301,5,11
+us,170,301,7,182
+us,170,302,0,16
+us,170,302,1,74
+us,170,302,3,24
+us,170,302,4,56
+us,170,302,5,93
+us,170,302,6,1
+us,170,303,0,91
+us,170,303,1,322
+us,170,303,2,25
+us,170,304,3,159
+us,171,305,0,220
+us,171,305,1,185
+us,172,306,1,65
+us,172,306,3,55
+us,173,307,0,82
+us,173,307,1,39
+us,174,308,1,171
+us,174,308,3,58
+us,174,309,0,120
+us,174,309,2,39
+us,174,309,4,79
+us,175,310,0,119
+us,175,310,1,69
+us,175,310,4,18
+us,175,311,2,64
+us,175,312,1,63
+us,176,313,1,28
+us,176,313,2,69
+us,176,313,3,27
+us,176,313,4,44
+us,176,313,5,38
+us,176,313,6,28
+us,176,314,1,288
+us,176,314,3,10
+us,176,314,4,33
+us,176,314,5,64
+us,176,314,6,190
+us,177,315,0,32
+us,177,315,3,42
+us,177,315,5,20
+us,177,315,7,54
+us,177,316,0,105
+us,177,316,1,4
+us,177,316,2,20
+us,177,316,3,6
+us,177,317,0,150
+us,177,317,1,14
+us,177,317,2,0
+us,177,317,3,55
+us,177,317,6,26
+us,178,319,4,48
+us,178,319,6,64
+us,178,319,8,2
+us,178,319,10,25
+us,178,320,1,73
+us,178,320,4,6
+us,178,321,4,40
+us,178,321,5,87
+us,179,322,0,292
+us,180,323,0,38
+us,180,323,1,193
+us,180,323,5,716
+us,180,323,6,26
+us,181,324,1,39
+us,181,324,2,73
+us,181,325,0,44
+us,181,325,1,40
+us,182,326,0,60
+us,182,326,1,81
+us,182,326,2,11
+us,182,326,3,9
+us,183,327,0,755
+us,183,327,1,33
+us,184,328,0,123
+us,184,328,5,58
+us,184,328,6,57
+us,184,328,7,68
+us,184,329,0,99
+us,184,329,1,106
+us,184,329,2,25
+us,184,329,3,12
+us,184,329,4,91
+us,184,330,5,123
+us,184,330,7,45
+us,184,331,1,427
+us,184,332,0,104
+us,184,333,0,126
+us,184,334,0,79
+us,184,334,1,13
+us,184,335,2,105
+us,184,336,0,418
+us,185,337,0,78
+us,185,338,1,61
+us,185,339,0,149
+us,185,339,1,63
+us,185,339,2,178
+us,185,340,0,37
+us,185,342,3,14
+us,185,343,2,4
+us,187,344,2,21
+us,187,344,3,42
+us,189,346,4,6
+us,189,346,5,119
+us,189,346,8,43
+us,191,347,0,152
+us,191,347,2,88
+us,191,347,6,23
+us,191,347,7,4
+us,191,347,8,0
+us,191,347,9,44
+us,191,347,10,4
+us,192,348,4,70
+us,192,348,5,77
+us,192,348,7,53
+us,192,348,9,66
+us,192,349,2,45
+us,192,349,3,148
+us,192,349,7,41
+us,192,349,9,70
+us,192,349,11,181
+us,192,349,12,176
+us,192,349,14,201
+us,192,349,15,2
+us,192,350,3,43
+us,192,350,6,95
+us,192,350,8,161
+us,192,350,9,60
+us,192,351,2,78
+us,192,351,9,14
+us,192,352,3,103
+us,192,352,5,211
+us,192,352,6,100
+us,192,352,7,170
+us,192,352,8,31
+us,192,353,0,94
+us,192,353,2,49
+us,192,353,3,58
+us,192,354,1,105
+us,192,355,0,24
+us,192,355,3,131
+us,192,355,5,55
+us,192,355,7,54
+us,192,355,8,2
+us,192,356,0,47
+us,192,356,1,115
+us,192,356,2,22
+us,192,356,3,0
+us,192,356,4,122
+us,192,356,5,12
+us,193,357,0,42
+us,195,358,2,18
+us,195,359,2,102
+us,195,359,3,68
+us,195,359,6,230
+us,195,359,7,40
+us,195,360,2,91
+us,195,360,3,69
+us,195,360,4,171
+us,195,360,5,156
+us,195,360,6,125
+us,195,360,9,44
+us,196,361,8,131
+us,196,361,9,34
+us,196,361,11,23
+us,196,361,12,61
+us,196,362,0,39
+us,196,363,3,198
+us,196,363,4,127
+us,196,363,5,38
+us,196,364,0,61
+us,196,364,2,46
+us,196,364,4,75
+us,196,364,6,100
+us,196,364,7,80
+us,196,364,10,8
+us,196,365,0,72
+us,196,365,6,78
+us,196,365,10,49
+us,196,365,11,45
+us,196,366,0,50
+us,196,366,1,76
+us,196,366,3,270
+us,196,366,6,6
+us,196,366,10,199
+us,196,367,3,63
+us,196,367,4,27
+us,196,367,8,32
+us,196,368,0,159
+us,196,368,2,23
+us,196,368,3,4
+us,196,368,5,57
+us,197,369,4,34
+us,197,369,5,13
+us,197,369,10,88
+us,197,369,11,18
+us,197,370,0,85
+us,197,370,1,4
+us,197,370,2,13
+us,197,370,3,17
+us,197,370,5,54
+us,197,370,6,47
+us,197,371,0,2
+us,197,371,2,23
+us,197,371,4,31
+us,197,371,5,46
+us,197,372,2,62
+us,197,372,5,42
+us,197,372,6,17
+us,197,373,1,431
+us,197,373,4,60
+us,197,373,5,111
+us,200,374,1,28
+us,200,374,2,41
+us,200,375,0,11
+us,200,375,2,6
+us,200,376,2,126
+us,200,376,4,50
+us,200,376,6,63
+us,200,376,8,110
+us,200,376,9,82
+us,200,377,1,11
+us,200,377,2,278
+us,200,377,9,51
+us,200,377,10,25
+us,201,378,1,48
+us,201,378,2,58
+us,201,378,3,13
+us,201,378,4,31
+us,201,378,5,30
+us,201,378,6,154
+us,201,378,7,0
+us,201,378,8,126
+us,201,378,9,32
+us,201,379,0,102
+us,201,379,1,26
+us,201,379,2,68
+us,201,379,3,70
+us,201,379,5,85
+us,201,380,1,4
+us,201,380,2,149
+us,201,380,3,56
+us,201,380,7,38
+us,201,380,8,25
+us,201,381,4,4
+us,201,381,11,62
+us,201,382,4,142
+us,201,382,6,176
+us,201,382,7,177
+us,201,383,0,189
+us,201,383,1,62
+us,201,383,2,13
+us,201,383,5,8
+us,201,384,2,2
+us,202,385,0,198
+us,202,387,0,64
+us,202,387,2,342
+us,203,388,0,222
+us,203,388,1,194
+us,203,388,2,2
+us,203,388,3,12
+us,203,389,2,62
+us,203,389,3,391
+us,205,390,0,348
+us,205,390,3,51
+us,205,390,7,54
+us,205,390,8,69
+us,206,391,1,22
+us,206,391,2,107
+us,206,391,3,19
+us,206,391,4,396
+us,207,392,0,192
+us,207,392,1,33
+us,207,392,2,31
+us,207,392,4,30
+us,207,392,6,54
+us,207,392,8,26
+us,209,393,1,54
+us,209,393,2,545
+us,209,393,3,2
+us,209,393,4,41
+us,209,393,6,34
+us,209,394,1,13
+us,209,394,7,71
+us,209,395,2,64
+us,209,395,3,33
+us,209,395,6,19
+us,211,396,0,388
+us,214,398,1,7
+us,214,398,3,167
+us,214,398,5,36
+us,214,398,11,332
+us,214,399,0,25
+us,214,399,7,247
+us,214,399,8,264
+us,214,399,11,4
+us,214,399,12,21
+us,214,400,3,22
+us,214,400,4,46
+us,214,400,6,111
+us,214,400,9,169
+us,214,400,10,89
+us,215,401,0,109
+us,215,401,2,27
+us,215,402,0,34
+us,215,402,1,143
+us,215,402,2,70
+us,215,402,3,123
+us,215,403,7,111
+us,215,403,8,114
+us,215,403,9,127
+us,215,403,10,30
+us,215,403,11,8
+us,215,403,12,111
+us,215,403,13,118
+us,215,403,14,75
+us,215,403,15,7
+us,216,404,0,665
+us,216,404,1,52
+us,218,405,0,12
+us,218,405,1,17
+us,218,405,2,29
+us,218,406,0,117
+us,218,406,1,40
+us,218,406,2,97
+us,218,406,3,357
+us,218,406,4,34
+us,218,406,5,8
+us,219,407,0,419
+us,219,407,1,18
+us,219,407,3,29
+us,219,407,4,28
+us,219,408,0,47
+us,219,409,4,164
+us,219,409,7,111
+us,219,409,8,20
+us,219,409,10,44
+us,219,409,11,80
+us,219,410,2,246
+us,219,410,7,90
+us,219,410,8,252
+us,220,411,0,355
+us,220,411,1,2
+us,220,411,2,17
+us,220,412,0,17
+us,220,412,1,8
+us,220,413,0,23
+us,220,413,1,241
+us,220,413,2,37
+us,220,414,1,68
+us,221,415,0,39
+us,221,415,6,175
+us,221,416,4,75
+us,221,417,1,217
+us,221,417,4,74
+us,221,417,6,74
+us,221,417,7,7
+us,221,418,0,487
+us,221,419,2,14
+us,223,420,0,406
+us,223,420,1,39
+us,223,420,2,102
+us,223,421,1,56
+us,223,421,2,43
+us,224,422,0,107
+us,224,422,7,88
+us,224,422,8,167
+us,224,423,0,158
+us,224,425,2,93
+us,224,425,3,28
+us,224,426,1,42
+us,224,427,1,25
+us,224,427,2,274
+us,224,428,0,47
+us,224,428,1,209
+us,224,428,2,22
+us,224,429,2,44
+us,224,430,2,129
+us,224,430,6,13
+us,224,430,8,124
+us,225,431,0,273
+us,225,431,1,39
+us,225,431,2,42
+us,225,431,4,152
+us,225,432,3,235
+us,225,433,2,8
+us,225,433,3,294
+us,225,434,1,27
+us,225,434,2,763
+us,225,434,3,16
+us,226,435,0,83
+us,226,435,1,809
+us,226,435,2,59
+us,228,436,0,427
+us,228,437,0,202
+us,228,437,1,57
+us,228,437,5,6
+us,228,437,9,97
+us,228,438,0,50
+us,228,438,6,35
+us,228,439,2,192
+us,228,439,4,261
+us,228,440,2,272
+us,229,441,0,107
+us,229,442,3,152
+us,229,442,5,273
+us,229,442,6,113
+us,230,443,0,124
+us,230,443,2,16
+us,230,443,4,55
+us,231,445,1,38
+us,231,445,2,86
+us,231,445,3,17
+us,231,446,0,47
+us,231,446,1,110
+us,232,447,1,6
+us,232,447,2,186
+us,234,448,0,82
+us,234,449,0,35
+us,234,449,2,112
+us,234,449,3,67
+us,234,449,5,59
+us,234,450,0,133
+us,234,450,3,68
+us,234,450,4,78
+us,234,450,5,29
+us,234,451,0,166
+us,234,451,1,0
+us,234,453,1,65
+us,234,453,2,32
+us,234,453,3,22
+us,234,454,4,46
+us,234,454,6,75
+us,235,455,1,97
+us,235,455,7,19
+us,235,456,1,0
+us,235,456,2,38
+us,235,456,4,12
+us,235,456,6,64
+us,235,456,7,193
+us,236,457,0,50
+us,236,457,5,39
+us,236,457,7,31
+us,236,458,1,805
+us,236,459,1,42
+us,236,459,2,54
+us,236,459,4,20
+us,236,459,5,4
+us,238,460,0,97
+us,238,460,2,496
+us,239,461,0,106
+us,239,461,1,16
+us,240,462,0,109
+us,240,462,1,61
+us,240,462,3,65
+us,240,462,4,4
+us,240,462,6,21
+us,240,462,8,25
+us,240,462,10,38
+us,240,462,12,81
+us,240,463,7,293
+us,240,463,8,228
+us,240,464,0,362
+us,240,464,1,25
+us,240,464,3,19
+us,241,465,0,40
+us,241,465,2,37
+us,241,466,0,278
+us,241,466,4,48
+us,242,467,0,172
+us,242,467,1,29
+us,242,467,2,123
+us,243,469,2,46
+us,244,470,5,35
+us,245,471,1,45
+us,245,471,2,46
+us,245,471,7,47
+us,245,472,1,172
+us,245,473,3,140
+us,245,473,8,28
+us,245,473,11,62
+us,245,473,14,8
+us,245,474,3,4
+us,245,474,4,11
+us,246,475,1,50
+us,246,475,2,50
+us,246,476,1,11
+us,247,477,0,51
+us,247,477,3,318
+us,247,477,4,65
+us,248,478,0,10
+us,248,478,2,40
+us,248,479,3,22
+us,248,479,4,31
+us,248,479,5,20
+us,248,479,6,81
+us,248,479,7,2
+us,249,480,1,7
+us,249,480,2,270
+us,249,480,3,21
+us,249,480,4,36
+us,249,480,8,272
+us,249,480,9,67
+us,249,481,0,42
+us,249,481,1,24
+us,249,481,2,54
+us,249,481,3,52
+us,249,482,0,14
+us,249,482,1,16
+us,249,482,4,101
+us,249,482,5,52
+us,249,482,6,198
+us,249,482,7,109
+us,249,482,10,81
+us,249,483,0,79
+us,249,483,2,158
+us,249,483,3,200
+us,249,484,0,79
+us,249,484,2,21
+us,249,484,4,16
+us,249,484,5,57
+us,250,485,0,47
+us,250,485,1,25
+us,250,485,2,31
+us,250,485,3,48
+us,250,485,4,48
+us,250,486,0,100
+us,250,486,1,17
+us,250,486,2,91
+us,250,486,3,3
+us,250,486,4,20
+us,250,487,0,56
+us,250,487,1,40
+us,250,487,2,102
+us,250,487,3,89
+us,250,487,4,72
+us,250,487,6,263
+us,250,487,7,66
+us,250,488,0,132
+us,250,488,1,18
+us,250,488,2,23
+us,250,488,3,43
+us,250,489,0,132
+us,250,489,1,20
+us,250,489,2,26
+us,250,489,3,1
+us,250,489,4,7
+us,250,489,5,100
+us,250,490,0,24
+us,250,490,1,48
+us,250,490,2,74
+us,250,490,4,55
+us,250,490,5,630
+us,251,491,1,142
+us,252,492,0,109
+us,252,492,1,4
+us,252,492,2,5
+us,252,493,0,107
+us,252,493,1,79
+us,252,493,5,12
+us,252,493,6,62
+us,252,493,7,41
+us,252,494,0,267
+us,252,494,1,23
+us,252,494,2,94
+us,252,494,3,93
+us,253,495,0,32
+us,253,495,1,14
+us,253,495,2,135
+us,253,495,3,9
+us,253,495,4,24
+us,253,496,0,53
+us,253,496,1,66
+us,253,496,2,119
+us,253,496,3,30
+us,253,496,5,64
+us,253,496,6,129
+us,253,496,7,38
+us,253,497,0,41
+us,253,497,1,75
+us,253,497,2,20
+us,253,497,3,34
+us,253,497,4,46
+us,253,498,0,52
+us,253,498,1,1
+us,253,498,2,39
+us,254,499,0,1005
+us,254,500,0,85
+us,254,500,1,12
+us,254,501,1,75
+us,254,501,2,74
+us,254,501,3,105
+us,254,501,4,16
+us,254,501,5,110
+us,254,501,6,73
+us,254,501,7,76
+us,254,501,8,153
+us,254,502,0,31
+us,255,503,0,14
+us,255,503,1,75
+us,255,504,1,46
+us,255,504,2,151
+us,255,504,3,53
+us,255,504,5,598
+us,255,504,6,14
+us,255,505,2,145
+us,255,505,3,72
+us,255,505,4,41
+us,255,505,5,97
+us,255,505,6,42
+us,255,505,8,13
+us,257,506,1,33
+us,257,506,2,276
+us,257,507,0,94
+us,257,508,0,43
+us,257,508,2,49
+us,257,508,3,49
+us,257,508,5,87
+us,257,508,6,91
+us,257,508,7,52
+us,257,508,8,209
+us,257,509,0,14
+us,257,509,2,298
+us,257,509,4,369
+us,257,510,3,33
+us,258,511,1,67
+us,258,512,0,174
+us,258,512,2,117
+us,258,512,3,6
+us,259,513,0,49
+us,259,513,1,91
+us,259,513,4,46
+us,259,513,5,145
+us,259,513,7,4
+us,259,514,0,45
+us,259,514,1,67
+us,259,515,2,96
+us,259,515,3,13
+us,259,515,4,4
+us,259,515,5,49
+us,259,515,6,55
+us,259,515,7,51
+us,259,515,8,13
+us,260,516,0,333
+us,260,517,0,6
+us,260,517,1,4
+us,260,517,2,500
+us,260,518,0,124
+us,260,518,1,119
+us,260,518,2,172
+us,260,518,3,65
+us,260,519,0,153
+us,260,519,1,605
+us,260,520,1,117
+us,260,520,3,92
+us,262,521,1,21
+us,262,521,2,408
+us,262,521,4,30
+us,262,521,5,0
+us,262,521,6,105
+us,263,522,0,298
+us,263,522,3,169
+us,263,523,0,120
+us,263,523,3,45
+us,263,523,4,39
+us,263,523,5,156
+us,263,523,8,8
+us,263,524,3,747
+us,263,525,1,67
+us,263,525,5,313
+us,263,525,8,38
+us,263,525,9,12
+us,263,526,4,36
+us,264,527,2,8
+us,264,527,4,8
+us,264,527,5,21
+us,264,527,8,8
+us,264,528,0,1189
+us,266,529,1,6
+us,267,530,3,34
+us,267,530,6,41
+us,267,530,7,38
+us,267,530,9,41
+us,267,530,11,184
+us,267,530,13,48
+us,267,530,14,179
+us,267,531,2,76
+us,267,531,3,111
+us,267,531,4,121
+us,267,531,6,260
+us,267,531,7,59
+us,267,531,8,153
+us,267,531,11,78
+us,267,531,12,52
+us,267,531,13,34
+us,268,532,0,75
+us,268,532,1,107
+us,268,532,4,144
+principal axes,234,451,0,134
+principal axes,234,452,0,277
+principal axes,234,452,1,43
+principal axes,234,452,2,128
+principal axes,234,453,0,38
+principal axes,236,459,4,455
+principal axes,254,499,0,53
+principal component analysis (pca),234,450,3,103
+for dimensionality reduction,195,358,0,26
+for dimensionality reduction,234,453,2,42
+noise filtering,234,450,4,120
+noise filtering,236,457,5,7
+noise filtering,236,459,1,316
+noise filtering,240,462,3,191
+visualization with,102,187,7,155
+visualization with,127,234,0,10
+visualization with,127,235,0,48
+visualization with,127,235,11,19
+visualization with,129,237,2,784
+visualization with,130,239,6,46
+visualization with,131,241,7,183
+visualization with,132,243,5,603
+visualization with,133,245,3,249
+visualization with,133,247,2,206
+visualization with,135,249,4,738
+visualization with,136,251,0,746
+visualization with,139,253,2,522
+visualization with,140,255,6,270
+visualization with,142,257,6,69
+visualization with,142,257,7,19
+visualization with,142,259,5,19
+visualization with,143,261,3,47
+visualization with,144,263,1,695
+visualization with,145,265,6,483
+visualization with,146,266,4,37
+visualization with,147,267,1,358
+visualization with,148,269,4,57
+visualization with,150,271,8,194
+visualization with,150,273,3,19
+visualization with,150,275,4,28
+visualization with,151,276,3,130
+visualization with,152,277,5,19
+visualization with,154,279,6,112
+visualization with,156,281,3,435
+visualization with,157,283,3,71
+visualization with,159,285,0,349
+visualization with,159,285,5,306
+visualization with,160,287,6,19
+visualization with,160,289,10,19
+visualization with,162,291,0,1783
+visualization with,164,293,6,19
+visualization with,165,295,4,138
+visualization with,168,297,4,407
+visualization with,169,299,6,210
+visualization with,170,301,7,924
+visualization with,170,303,4,227
+visualization with,171,305,2,154
+visualization with,172,306,1,284
+visualization with,173,307,4,500
+visualization with,174,309,4,511
+visualization with,175,311,2,185
+visualization with,176,313,6,108
+visualization with,177,315,7,716
+visualization with,177,317,9,132
+visualization with,178,319,11,19
+visualization with,178,321,5,327
+visualization with,180,323,7,88
+visualization with,181,325,2,1485
+visualization with,183,327,6,19
+visualization with,184,328,0,54
+visualization with,184,328,10,0
+visualization with,184,329,5,19
+visualization with,184,330,8,0
+visualization with,184,331,1,603
+visualization with,184,332,0,413
+visualization with,184,333,1,272
+visualization with,184,334,2,617
+visualization with,184,335,2,470
+visualization with,184,336,1,293
+visualization with,185,337,0,477
+visualization with,185,338,1,865
+visualization with,185,339,3,99
+visualization with,185,340,1,246
+visualization with,185,341,3,267
+visualization with,185,342,3,272
+visualization with,185,343,4,301
+visualization with,187,344,3,251
+visualization with,188,345,3,19
+visualization with,191,347,17,19
+line-by-line,8,42,5,234
+line-by-line,12,45,2,0
+line-by-line,12,45,4,279
+line-by-line,13,46,4,6
+memory use,8,42,5,275
+memory use,13,46,0,10
+memory use,13,46,4,34
+memory use,13,46,5,854
+memory use,119,226,0,158
+memory use,122,231,1,414
+memory use,122,231,2,0
+ensembles of estimators,230,443,1,0
+regression,115,221,3,422
+regression,118,225,3,82
+regression,142,256,4,45
+regression,142,256,6,52
+regression,185,338,0,72
+regression,189,346,4,57
+regression,192,349,12,59
+regression,192,352,8,0
+regression,192,353,1,33
+regression,192,353,3,31
+regression,192,353,4,19
+regression,192,354,0,44
+regression,192,354,2,145
+regression,192,355,1,76
+regression,192,355,5,72
+regression,192,355,7,15
+regression,192,355,8,70
+regression,195,359,6,191
+regression,196,364,9,43
+regression,196,364,10,46
+regression,196,365,0,29
+regression,196,365,3,61
+regression,196,366,3,152
+regression,196,366,10,90
+regression,196,368,0,29
+regression,201,381,1,41
+regression,201,381,2,43
+regression,201,383,2,30
+regression,201,383,4,60
+regression,201,384,0,108
+regression,201,384,1,546
+regression,202,385,1,317
+regression,202,386,1,319
+regression,202,387,2,461
+regression,203,389,3,519
+regression,206,391,3,219
+regression,206,391,4,243
+regression,209,395,8,38
+regression,209,395,9,42
+regression,211,396,0,400
+regression,212,397,17,19
+regression,212,397,18,50
+regression,214,398,11,70
+regression,214,399,0,91
+regression,214,399,8,140
+regression,219,407,3,17
+regression,219,407,5,63
+regression,219,407,7,183
+regression,219,408,0,29
+regression,219,409,2,10
+regression,219,409,4,36
+regression,219,409,7,74
+regression,219,409,8,41
+regression,219,409,10,15
+regression,219,409,11,60
+regression,219,410,1,59
+regression,219,410,6,84
+regression,219,410,8,201
+regression,220,412,1,1045
+regression,220,413,0,207
+regression,220,413,1,67
+regression,220,413,2,211
+regression,220,414,1,771
+regression,221,415,4,6
+regression,221,415,6,252
+regression,221,416,1,49
+regression,221,416,2,155
+regression,221,416,3,154
+regression,221,416,4,282
+regression,221,417,0,115
+regression,221,417,5,32
+regression,221,418,2,184
+regression,223,420,0,428
+regression,223,420,1,333
+regression,223,420,2,185
+regression,224,422,6,165
+regression,224,428,1,64
+regression,224,429,1,49
+regression,231,445,1,14
+regression,231,445,2,55
+regression,231,446,0,36
+regression,234,450,8,34
+regression,240,462,10,232
+randomizedpca,225,434,2,189
+randomizedpca,236,459,5,45
+randomizedpca,238,460,1,91
+randomizedpca,239,461,2,198
+randomizedpca,240,462,9,70
+randomizedpca,245,474,3,234
+rcparams dictionary,170,301,7,44
+record arrays,58,109,18,69
+record arrays,64,113,1,354
+record arrays,64,113,3,44
+regular expressions,106,198,1,14
+regular expressions,107,199,1,253
+lasso regularization,221,416,3,0
+ridge regression,221,415,4,0
+ridge regression,221,415,6,246
+ridge regression,221,416,3,240
+relational algebra,90,163,10,0
+relational algebra,91,164,0,0
+relational algebra,94,171,2,116
+resample() method,113,214,2,26
+ridge regression (l2 regularization),221,415,4,0
+right join,94,170,3,578
+right_index keyword,91,165,3,144
+right_index keyword,93,168,0,19
+rolling statistics,115,218,1,16
+rolling statistics,115,219,0,13
+runtime configuration (rc),169,299,3,45
+runtime configuration (rc),170,301,4,73
+data representation in,44,86,2,36
+data representation in,195,360,5,26
+data representation in,195,360,6,0
+support vector classifier,224,425,3,197
+datasets and plot types,184,330,6,34
+kde,145,265,3,125
+kde,145,265,4,126
+kde,145,265,5,31
+kde,145,265,6,37
+kde,146,266,0,333
+kde,146,266,1,77
+kde,146,266,2,6
+kde,146,266,3,28
+kde,146,266,4,122
+kde,184,331,0,12
+kde,184,331,1,490
+kde,184,332,0,84
+kde,184,333,1,159
+kde,185,342,1,109
+kde,185,343,4,98
+kde,257,508,6,27
+kde,257,508,7,60
+kde,257,508,8,178
+kde,259,513,4,115
+kde,259,513,6,83
+kde,259,513,7,8
+kde,259,514,1,216
+kde,259,515,0,161
+kde,259,515,5,9
+kde,259,515,6,117
+kde,259,515,7,58
+kde,260,517,2,1063
+kde,260,518,1,90
+kde,260,518,4,41
+kde,260,518,7,23
+kde,260,519,1,210
+kde,260,520,3,236
+kde,262,521,6,453
+kde,263,522,0,178
+kde,263,522,2,94
+kde,263,523,0,161
+and densities,184,331,0,17
+seattle,44,87,4,75
+seattle,45,88,0,192
+seattle,47,93,2,60
+seattle,115,219,7,21
+seattle,115,219,9,62
+seattle,115,220,0,52
+seattle,115,221,1,219
+seattle,115,222,0,41
+seattle,116,223,6,112
+seattle,118,225,2,226
+seattle,177,316,2,103
+seattle,177,316,3,494
+seattle,221,417,2,130
+seattle,221,419,0,51
+semi-supervised learning,192,350,2,33
+generalized numpy array,65,116,4,10
+generalized numpy array,66,119,4,15
+indexer attributes,70,126,4,419
+one-dimensional array,16,50,4,33
+one-dimensional array,25,59,6,292
+one-dimensional array,25,60,2,5
+one-dimensional array,27,64,4,56
+one-dimensional array,31,69,3,291
+one-dimensional array,40,81,3,33
+one-dimensional array,40,81,9,9
+one-dimensional array,41,83,1,73
+one-dimensional array,47,93,0,544
+one-dimensional array,65,116,0,46
+one-dimensional array,66,119,4,69
+one-dimensional array,70,125,2,10
+one-dimensional array,176,313,1,228
+one-dimensional array,196,366,8,56
+one-dimensional array,219,410,5,51
+operations between dataframe and,77,135,3,212
+shell,1,19,0,0
+shell,1,19,1,93
+shell,1,19,4,57
+shell,1,19,5,22
+shell,1,19,17,106
+shell,1,19,21,86
+shell,1,25,2,34
+shell,1,25,5,12
+shell,1,25,7,132
+shell,1,25,9,67
+shell,1,26,8,59
+shell,1,26,9,278
+shell,1,30,7,179
+shell,1,30,8,28
+shell,1,31,1,310
+shell,1,32,0,62
+shell,1,33,5,91
+shell,1,33,6,65
+shell,1,33,9,165
+shell,1,33,10,26
+shell,1,33,11,26
+shell,1,33,12,4
+shell,2,34,0,34
+shell,2,34,1,28
+shell,2,34,2,2
+shell,2,34,3,126
+shell,2,34,4,48
+shell,2,34,8,46
+shell,2,34,9,12
+shell,4,35,0,0
+shell,4,35,2,169
+shell,4,35,3,44
+shell,4,35,5,71
+shell,4,36,0,98
+shell,4,36,1,0
+shell,4,36,3,29
+shell,4,36,4,82
+shell,4,36,5,0
+shell,94,171,6,98
+shell,103,191,1,233
+shell,128,236,6,25
+shell,129,237,1,134
+shell,182,326,2,73
+commands,1,16,8,26
+commands,1,18,9,73
+commands,1,25,5,129
+commands,1,25,8,89
+commands,1,26,2,45
+commands,1,27,8,14
+commands,1,28,1,36
+commands,1,28,2,12
+commands,1,28,3,6
+commands,1,28,4,124
+commands,1,28,8,505
+commands,1,29,0,139
+commands,1,30,0,41
+commands,1,30,7,215
+commands,1,30,8,114
+commands,1,31,1,673
+commands,1,32,0,453
+commands,1,32,1,353
+commands,1,33,0,14
+commands,1,33,3,20
+commands,1,33,5,97
+commands,1,33,6,71
+commands,2,34,6,10
+commands,2,34,7,26
+commands,2,34,9,18
+commands,4,35,0,6
+commands,4,35,2,35
+commands,4,36,1,20
+commands,4,36,5,20
+commands,5,39,11,118
+commands,7,41,1,26
+commands,8,42,5,47
+commands,8,42,6,151
+commands,9,43,1,11
+commands,9,43,4,44
+commands,94,171,6,104
+commands,98,179,0,165
+commands,107,201,5,97
+commands,128,236,5,16
+commands,128,236,8,265
+commands,130,239,0,261
+commands,130,239,5,587
+commands,147,268,2,134
+commands,182,326,2,79
+commands,184,330,5,80
+commands,184,330,7,66
+commands,260,520,8,62
+keyboard shortcuts in,1,25,2,0
+keyboard shortcuts in,1,26,9,244
+launching,1,19,5,0
+launching,1,19,7,9
+launching,1,19,17,0
+passing values to and from,4,35,2,200
+simple linear regression,192,353,3,108
+simple linear regression,196,364,9,29
+simple linear regression,196,365,3,47
+simple linear regression,196,368,0,15
+simple linear regression,201,383,4,46
+simple linear regression,219,407,7,169
+simple linear regression,221,417,5,18
+plt.plot,54,101,0,465
+plt.plot,57,108,0,330
+plt.plot,128,236,2,192
+plt.plot,129,237,2,665
+plt.plot,130,239,5,268
+plt.plot,130,240,9,55
+plt.plot,131,242,0,257
+plt.plot,132,243,3,4
+plt.plot,132,243,5,69
+plt.plot,132,244,1,91
+plt.plot,132,244,2,17
+plt.plot,133,245,1,158
+plt.plot,133,245,3,111
+plt.plot,133,246,0,143
+plt.plot,133,246,1,160
+plt.plot,133,247,0,211
+plt.plot,133,247,2,130
+plt.plot,135,248,5,171
+plt.plot,135,249,1,294
+plt.plot,136,250,2,245
+plt.plot,136,250,3,148
+plt.plot,136,250,5,71
+plt.plot,136,250,7,60
+plt.plot,136,251,0,269
+plt.plot,138,252,0,80
+plt.plot,138,252,1,62
+plt.plot,138,252,2,159
+plt.plot,140,254,2,89
+plt.plot,140,254,3,110
+plt.plot,140,254,5,3
+plt.plot,140,254,6,116
+plt.plot,140,255,4,539
+plt.plot,142,256,3,141
+plt.plot,142,257,2,156
+plt.plot,147,268,3,4
+plt.plot,147,268,4,209
+plt.plot,148,269,0,311
+plt.plot,170,302,0,174
+plt.plot,177,316,3,435
+plt.plot,184,329,4,456
+plt.plot,184,330,4,0
+plt.plot,196,367,9,503
+plt.plot,201,384,1,603
+plt.plot,202,385,1,465
+plt.plot,202,386,1,367
+plt.plot,202,387,2,615
+plt.plot,206,391,4,635
+plt.plot,211,396,0,651
+plt.plot,212,397,17,217
+plt.plot,219,408,0,424
+plt.plot,220,411,0,239
+plt.plot,220,413,0,324
+plt.plot,220,413,2,298
+plt.plot,224,423,3,148
+plt.plot,224,424,5,246
+plt.plot,231,446,0,458
+plt.plot,236,457,1,178
+plt.plot,238,460,3,159
+plt.plot,245,474,3,307
+plt.plot,255,504,5,278
+plt.plot,257,506,1,346
+plt.plot,258,511,4,181
+plt.plot,258,512,3,265
+plt.plot,259,514,1,499
+plt.scatter,52,98,1,571
+plt.scatter,52,99,0,226
+plt.scatter,56,106,1,313
+plt.scatter,57,108,0,8
+plt.scatter,138,252,2,19
+plt.scatter,139,253,0,163
+plt.scatter,139,253,2,302
+plt.scatter,140,254,2,102
+plt.scatter,140,254,3,157
+plt.scatter,140,254,4,19
+plt.scatter,140,254,6,150
+plt.scatter,149,270,0,451
+plt.scatter,154,279,0,375
+plt.scatter,181,325,2,1268
+plt.scatter,185,342,3,232
+plt.scatter,196,364,10,257
+plt.scatter,196,367,9,477
+plt.scatter,197,373,1,95
+plt.scatter,201,384,1,415
+plt.scatter,202,386,1,241
+plt.scatter,202,387,2,131
+plt.scatter,206,391,4,527
+plt.scatter,211,396,0,268
+plt.scatter,212,397,17,191
+plt.scatter,215,401,0,131
+plt.scatter,215,402,2,476
+plt.scatter,219,407,9,228
+plt.scatter,219,408,0,399
+plt.scatter,220,411,0,214
+plt.scatter,220,413,0,306
+plt.scatter,220,413,2,272
+plt.scatter,224,423,0,181
+plt.scatter,224,423,3,85
+plt.scatter,224,424,5,92
+plt.scatter,224,426,0,697
+plt.scatter,224,428,3,281
+plt.scatter,225,431,0,8
+plt.scatter,225,431,4,175
+plt.scatter,228,439,4,283
+plt.scatter,234,450,7,149
+plt.scatter,234,452,0,7
+plt.scatter,234,453,4,224
+plt.scatter,234,454,6,455
+plt.scatter,240,464,0,272
+plt.scatter,240,464,3,383
+plt.scatter,241,466,4,311
+plt.scatter,243,468,1,172
+plt.scatter,244,470,0,334
+plt.scatter,248,478,1,116
+plt.scatter,249,480,8,311
+plt.scatter,249,481,1,100
+plt.scatter,249,483,3,220
+plt.scatter,249,484,2,204
+plt.scatter,249,484,5,200
+plt.scatter,250,485,4,283
+plt.scatter,250,486,3,441
+plt.scatter,252,494,2,613
+plt.scatter,253,497,3,223
+plt.scatter,253,498,0,189
+plt.scatter,254,501,8,298
+plt.scatter,255,503,2,169
+slice() operation,107,200,1,14
+numpy arrays,16,50,12,14
+numpy arrays,21,56,3,48
+numpy arrays,24,58,0,26
+numpy arrays,25,59,0,14
+numpy arrays,25,60,2,593
+numpy arrays,25,61,0,299
+numpy arrays,26,62,5,173
+numpy arrays,27,64,5,340
+numpy arrays,30,66,3,377
+numpy arrays,31,67,1,15
+numpy arrays,31,67,3,15
+numpy arrays,31,68,13,126
+numpy arrays,31,69,2,363
+numpy arrays,31,70,3,458
+numpy arrays,32,72,16,15
+numpy arrays,36,74,22,476
+numpy arrays,37,77,0,475
+numpy arrays,43,85,3,155
+numpy arrays,43,85,7,398
+numpy arrays,44,87,0,163
+numpy arrays,45,88,5,26
+numpy arrays,45,88,7,50
+numpy arrays,49,95,1,12
+numpy arrays,54,102,8,60
+numpy arrays,56,103,8,123
+numpy arrays,64,113,4,126
+numpy arrays,69,123,1,241
+numpy arrays,69,124,1,122
+numpy arrays,70,125,2,157
+numpy arrays,73,132,2,108
+numpy arrays,73,132,4,132
+numpy arrays,74,133,0,477
+numpy arrays,77,136,1,1155
+numpy arrays,87,159,0,493
+numpy arrays,98,176,0,82
+numpy arrays,98,176,3,794
+numpy arrays,111,207,0,625
+numpy arrays,119,226,4,400
+numpy arrays,122,231,3,58
+numpy arrays,127,234,1,66
+numpy arrays,196,363,3,122
+pandas conventions,73,131,2,864
+along rows or columns,46,90,3,365
+along rows or columns,56,104,4,145
+partitioning,56,105,1,15
+source code,1,20,11,16
+source code,1,20,16,22
+source code,1,22,5,10
+source code,1,22,6,112
+source code,1,22,7,37
+source code,1,22,11,27
+source code,17,52,10,31
+source code,54,102,2,33
+source code,150,272,1,19
+accessing,1,20,17,0
+accessing,1,21,5,29
+accessing,1,22,5,0
+accessing,1,32,0,106
+accessing,1,33,0,27
+accessing,25,60,1,16
+accessing,25,61,4,53
+accessing,25,61,6,21
+accessing,26,62,3,551
+accessing,26,62,4,31
+accessing,51,97,2,717
+accessing,64,113,1,410
+accessing,69,124,3,36
+advanced compound types,63,112,4,406
+creating,1,16,5,59
+creating,1,18,9,117
+creating,2,34,5,323
+creating,8,42,0,64
+creating,20,55,4,93
+creating,21,56,0,0
+creating,21,56,4,0
+creating,27,63,4,0
+creating,34,73,13,12
+creating,56,105,9,15
+creating,61,111,2,0
+creating,82,149,0,12
+creating,82,150,0,278
+creating,83,154,8,15
+creating,98,179,3,113
+creating,127,235,3,59
+creating,131,241,1,34
+creating,131,241,2,302
+creating,135,248,3,48
+creating,138,252,2,65
+creating,138,252,4,19
+creating,146,266,4,113
+creating,150,271,1,32
+creating,150,271,6,27
+creating,150,273,1,107
+creating,154,279,5,49
+creating,155,280,0,181
+creating,156,282,2,104
+creating,156,282,4,12
+creating,158,284,2,25
+creating,159,285,1,20
+creating,173,307,1,87
+creating,175,311,2,22
+creating,176,313,6,11
+creating,180,323,0,74
+creating,188,345,2,15
+creating,195,360,6,62
+creating,228,439,4,0
+default style,127,235,7,142
+default style,170,300,0,94
+default style,170,301,4,115
+default style,170,302,4,134
+default style,170,303,3,0
+default style,170,304,0,26
+default style,170,304,3,39
+default style,184,329,1,50
+default style,184,329,4,561
+default style,184,330,4,102
+fivethirtyeight style,170,304,0,40
+fivethirtyeight style,170,304,2,97
+ggplot,127,234,10,17
+ggplot,127,235,0,90
+ggplot,170,301,0,146
+ggplot,170,303,1,229
+ggplot,170,304,2,119
+ggplot,170,304,3,15
+ggplot,171,305,0,17
+multiple,1,22,1,31
+multiple,1,28,3,199
+multiple,1,30,1,98
+multiple,1,33,5,239
+multiple,25,59,4,413
+multiple,25,61,6,65
+multiple,26,62,2,298
+multiple,29,65,2,30
+multiple,37,76,3,90
+multiple,49,95,0,1213
+multiple,50,96,0,111
+multiple,50,96,2,517
+multiple,53,100,15,219
+multiple,56,105,8,92
+multiple,69,123,1,1073
+multiple,80,145,2,273
+multiple,81,146,0,153
+multiple,81,146,4,300
+multiple,81,147,0,160
+multiple,82,149,3,370
+multiple,82,150,3,116
+multiple,82,151,2,401
+multiple,82,151,6,433
+multiple,83,153,2,766
+multiple,90,163,4,24
+multiple,90,163,5,89
+multiple,94,169,0,919
+multiple,94,171,1,646
+multiple,103,189,3,99
+multiple,113,216,5,41
+multiple,118,225,1,279
+multiple,128,236,5,0
+multiple,131,242,0,387
+multiple,132,243,0,26
+multiple,132,244,0,98
+multiple,135,248,2,5
+multiple,135,249,4,691
+multiple,144,263,1,491
+multiple,145,265,3,75
+multiple,147,268,3,41
+multiple,150,271,3,145
+multiple,154,279,2,173
+multiple,155,280,6,379
+multiple,156,282,6,235
+multiple,157,283,2,94
+multiple,158,284,2,890
+multiple,166,296,1,99
+multiple,168,297,1,76
+multiple,168,297,2,58
+multiple,168,297,4,271
+multiple,169,299,0,125
+multiple,196,361,10,45
+multiple,214,398,11,414
+multiple,219,409,2,219
+multiple,224,422,9,211
+multiple,230,443,1,57
+multiple,234,449,4,6
+multiple,236,457,4,111
+multiple,249,484,3,62
+multiple,253,498,1,144
+multiple,259,513,6,90
+subsets,46,92,3,80
+subsets,49,95,5,61
+subsets,52,98,0,86
+subsets,98,178,2,129
+subsets,184,335,0,322
+subsets,201,379,2,42
+subsets,203,388,3,149
+subsets,229,442,4,78
+subsets,252,492,1,104
+suffixes keyword,94,170,7,30
+supervised learning,192,349,10,119
+supervised learning,192,349,11,0
+supervised learning,192,349,13,38
+supervised learning,192,349,14,2
+supervised learning,192,350,1,40
+supervised learning,192,350,2,38
+supervised learning,192,355,9,2
+supervised learning,192,356,0,21
+supervised learning,195,359,6,32
+supervised learning,196,364,6,38
+supervised learning,196,364,7,8
+supervised learning,196,364,9,0
+supervised learning,196,368,0,56
+supervised learning,197,369,1,2
+supervised learning,197,370,0,57
+supervised learning,197,372,4,2
+supervised learning,214,399,9,126
+supervised learning,234,450,1,86
+supervised learning,234,450,8,234
+supervised learning,240,462,11,51
+supervised learning,250,490,1,23
+support vector machines (svms),224,422,6,34
+fitting,184,330,5,196
+fitting,192,348,4,224
+fitting,192,353,5,67
+fitting,192,354,1,41
+fitting,196,364,9,155
+fitting,201,384,2,112
+fitting,203,388,1,203
+fitting,207,392,0,282
+fitting,207,392,1,142
+fitting,209,393,6,77
+fitting,209,394,1,408
+fitting,219,407,5,87
+fitting,219,409,3,31
+fitting,220,413,1,155
+fitting,221,415,1,20
+fitting,224,425,2,0
+fitting,228,440,2,16
+fitting,229,442,2,75
+fitting,229,442,3,23
+fitting,229,442,4,28
+fitting,230,443,1,70
+fitting,230,444,0,122
+fitting,255,504,2,187
+fitting,255,504,3,36
+fitting,259,514,1,1061
+fitting,259,514,2,63
+kernels and,259,513,6,126
+maximizing the margin,224,424,3,25
+motivating,102,187,7,0
+motivating,119,226,4,0
+motivating,142,258,3,482
+motivating,224,422,8,237
+motivating,228,438,1,26
+motivating,228,438,5,169
+motivating,252,494,0,131
+motivating,257,508,8,167
+softening margins,225,431,2,16
+surface plots,175,310,2,15
+of object contents,1,23,5,15
+when importing,1,24,0,15
+table,1,14,6,28
+table,1,24,2,366
+table,7,41,1,138
+table,10,44,4,972
+table,20,54,1,15
+table,24,58,2,44
+table,31,70,2,694
+table,31,70,3,0
+table,36,75,1,74
+table,39,78,4,0
+table,39,78,5,0
+table,46,92,1,14
+table,63,112,2,104
+table,63,112,4,0
+table,69,122,5,99
+table,69,123,0,119
+table,69,123,1,895
+table,77,135,2,283
+table,77,135,3,0
+table,77,137,2,125
+table,78,140,5,0
+table,78,141,0,0
+table,98,177,4,0
+table,98,178,0,0
+table,98,182,0,1013
+table,102,187,2,6
+table,102,187,3,8
+table,102,187,4,10
+table,102,187,5,29
+table,102,187,7,17
+table,102,188,0,6
+table,102,188,6,96
+table,102,188,7,6
+table,102,188,8,86
+table,103,189,3,17
+table,103,189,5,115
+table,103,190,0,17
+table,103,190,5,125
+table,103,190,7,63
+table,103,190,9,6
+table,103,191,1,868
+table,103,191,2,164
+table,103,191,3,315
+table,103,192,1,77
+table,103,192,3,77
+table,103,192,6,267
+table,105,193,1,525
+table,105,194,1,94
+table,105,194,2,24
+table,105,194,5,194
+table,106,197,0,0
+table,106,198,1,227
+table,106,198,2,0
+table,107,199,2,115
+table,107,199,3,0
+table,107,202,2,647
+table,111,207,6,243
+table,111,207,7,0
+table,113,212,2,0
+table,113,212,3,0
+table,113,212,4,70
+table,113,212,5,0
+table,115,218,0,145
+table,122,231,2,29
+table,128,236,5,45
+table,129,237,0,201
+table,129,238,4,333
+table,150,272,2,74
+table,152,277,4,95
+table,159,286,1,570
+table,180,323,5,657
+table,192,355,5,66
+table,193,357,4,5
+table,195,360,7,68
+table,195,360,8,8
+table,196,361,2,21
+table,197,369,3,69
+table,201,382,9,40
+table,201,384,2,77
+table,203,389,0,199
+table,209,394,5,166
+table,214,399,10,104
+table,218,406,6,193
+table,218,406,7,82
+table,219,407,4,83
+table,221,417,6,183
+table,223,421,2,859
+table,225,431,0,333
+table,228,437,9,45
+table,240,462,13,48
+table,245,473,2,21
+table,250,485,1,257
+table,252,494,1,88
+table,259,514,1,879
+table,260,517,0,80
+table,263,526,0,203
+text,1,13,1,462
+text,1,16,4,256
+text,1,16,8,44
+text,1,16,9,28
+text,1,18,1,81
+text,1,19,18,99
+text,1,21,3,75
+text,1,25,4,45
+text,1,25,10,73
+text,1,26,0,0
+text,1,26,1,74
+text,1,26,2,80
+text,1,26,4,113
+text,1,27,7,115
+text,1,28,8,187
+text,1,29,1,169
+text,1,33,12,31
+text,1,33,14,128
+text,2,34,4,223
+text,4,35,3,408
+text,5,37,6,61
+text,5,38,2,87
+text,5,38,3,18
+text,5,39,3,20
+text,10,44,2,121
+text,16,50,5,0
+text,34,73,4,130
+text,70,127,2,66
+text,73,132,4,31
+text,77,136,1,1017
+text,83,154,0,320
+text,87,158,6,54
+text,107,201,1,97
+text,109,205,5,56
+text,113,213,10,53
+text,115,217,1,12
+text,115,219,2,34
+text,115,219,4,64
+text,118,225,3,44
+text,127,235,9,142
+text,127,235,10,103
+text,131,241,3,328
+text,147,268,0,176
+text,156,281,3,302
+text,156,282,1,290
+text,157,283,1,331
+text,159,285,1,0
+text,159,285,2,95
+text,159,286,2,39
+text,160,287,0,166
+text,160,287,2,25
+text,160,287,3,15
+text,160,287,4,42
+text,160,288,3,148
+text,160,288,4,336
+text,160,288,5,49
+text,160,288,6,53
+text,160,288,7,104
+text,160,289,0,26
+text,160,289,5,48
+text,160,289,9,27
+text,161,290,0,266
+text,161,290,2,286
+text,162,291,0,14
+text,163,292,0,106
+text,164,293,4,376
+text,170,303,2,42
+text,170,304,2,26
+text,170,304,3,113
+text,171,305,1,88
+text,171,305,2,81
+text,172,306,1,99
+text,177,316,3,481
+text,181,324,2,24
+text,181,325,1,76
+text,184,329,4,758
+text,192,349,4,71
+text,192,352,7,31
+text,197,371,6,440
+text,200,375,2,422
+text,207,392,7,153
+text,209,394,3,0
+text,209,394,4,92
+text,209,394,5,89
+text,209,394,7,149
+text,209,395,2,115
+text,212,397,18,84
+text,215,403,14,21
+text,215,403,15,50
+text,218,405,1,215
+text,218,405,2,469
+text,231,445,1,92
+text,232,447,1,89
+text,232,447,2,687
+text,240,462,4,114
+text,240,463,8,147
+text,249,482,2,132
+text,259,515,1,23
+text,263,523,9,286
+text,263,523,13,33
+text,263,525,9,180
+text,267,530,0,124
+text,268,532,4,95
+text,268,532,6,107
+text entry shortcuts,1,25,10,73
+text entry shortcuts,1,26,0,0
+points and lines,174,308,2,18
+points and lines,174,309,0,13
+surface triangulations,175,312,0,401
+wireframes,175,310,2,0
+with matplotlib,103,191,3,193
+with matplotlib,127,234,0,24
+with matplotlib,127,235,3,83
+with matplotlib,127,235,11,33
+with matplotlib,128,236,7,30
+with matplotlib,129,237,2,798
+with matplotlib,130,239,6,60
+with matplotlib,131,241,7,197
+with matplotlib,132,243,5,617
+with matplotlib,133,245,3,263
+with matplotlib,133,247,2,220
+with matplotlib,135,249,4,752
+with matplotlib,136,251,0,760
+with matplotlib,139,253,2,536
+with matplotlib,140,255,6,284
+with matplotlib,142,257,7,33
+with matplotlib,142,259,5,33
+with matplotlib,143,261,3,61
+with matplotlib,144,263,1,709
+with matplotlib,145,265,6,497
+with matplotlib,147,267,1,372
+with matplotlib,148,269,4,71
+with matplotlib,150,271,8,208
+with matplotlib,150,273,3,33
+with matplotlib,150,275,4,42
+with matplotlib,152,277,5,33
+with matplotlib,154,279,6,126
+with matplotlib,156,281,3,449
+with matplotlib,157,283,3,85
+with matplotlib,159,285,5,320
+with matplotlib,160,287,6,33
+with matplotlib,160,289,10,33
+with matplotlib,162,291,0,1797
+with matplotlib,164,293,6,33
+with matplotlib,165,295,4,152
+with matplotlib,168,297,4,421
+with matplotlib,169,299,6,224
+with matplotlib,170,301,7,938
+with matplotlib,170,303,4,241
+with matplotlib,171,305,0,199
+with matplotlib,171,305,2,168
+with matplotlib,173,307,4,514
+with matplotlib,174,309,4,525
+with matplotlib,175,311,2,199
+with matplotlib,176,313,6,122
+with matplotlib,177,315,7,730
+with matplotlib,177,317,9,146
+with matplotlib,178,319,11,33
+with matplotlib,178,321,5,341
+with matplotlib,180,323,7,102
+with matplotlib,181,325,2,1499
+with matplotlib,183,327,6,33
+with matplotlib,184,329,4,424
+with matplotlib,184,329,5,33
+with matplotlib,184,331,1,617
+with matplotlib,184,333,1,286
+with matplotlib,184,335,2,484
+with matplotlib,185,337,0,491
+with matplotlib,185,339,3,113
+with matplotlib,185,341,3,281
+with matplotlib,185,343,4,315
+with matplotlib,188,345,3,33
+with matplotlib,191,347,17,33
+major and minor,164,293,0,0
+major and minor,164,293,4,477
+major and minor,168,297,2,33
+tikhonov regularization,221,415,4,157
+dates and times in pandas,111,208,3,0
+datetime64,109,206,7,31
+datetime64,109,206,8,4
+datetime64,109,206,9,127
+datetime64,111,207,0,333
+datetime64,111,207,1,18
+datetime64,111,207,2,12
+datetime64,111,207,5,103
+datetime64,111,207,6,142
+datetime64,111,208,0,594
+datetime64,111,208,1,37
+datetime64,111,208,2,41
+datetime64,111,208,3,243
+datetime64,111,209,0,271
+datetime64,112,210,1,124
+datetime64,112,210,4,56
+datetime64,112,210,11,435
+datetime64,113,211,2,281
+datetime64,113,213,5,329
+frequency codes,113,211,3,611
+frequency codes,113,212,3,29
+frequency codes,113,212,5,36
+native python dates and times,109,206,0,0
+pandas data structures for,111,209,4,79
+pd.date_range(),112,210,11,1079
+pd.date_range(),113,211,1,11
+resampling and converting frequencies,113,214,1,944
+time-shifts,113,216,2,0
+typed arrays,65,114,0,177
+typed arrays,109,206,6,254
+typed arrays,109,206,7,0
+timedelta type,112,210,6,52
+timedelta type,112,210,7,71
+timestamp type,112,210,0,39
+timestamps,111,209,1,128
+timestamps,112,210,11,1227
+timestamps,113,211,2,832
+timing,1,29,6,0
+timing,1,30,3,46
+timing,8,42,0,14
+timing,8,42,4,74
+timing,8,42,6,0
+timing,9,43,5,558
+timing,9,43,6,133
+timing,9,43,7,120
+timing,9,43,9,82
+timing,10,44,2,89
+timing,10,44,7,14
+timing,13,46,5,929
+timing,31,68,4,79
+timing,98,181,0,88
+timing,98,181,2,286
+timing,98,181,5,378
+timing,98,182,0,7
+timing,98,182,1,38
+timing,102,186,2,797
+of code,1,14,0,377
+of code,1,15,9,56
+of code,1,15,16,73
+of code,1,28,8,456
+of code,7,41,0,425
+of code,8,42,4,95
+of code,8,42,6,237
+of code,56,106,2,368
+of code,102,187,0,50
+of code,102,188,5,111
+of code,107,200,7,64
+of code,107,200,8,77
+of code,249,482,9,136
+trigonometric functions,32,71,1,0
+trigonometric functions,32,71,2,109
+trigonometric functions,32,71,4,8
+trigonometric functions,73,132,1,40
+trigonometric functions,73,132,3,88
+two-fold cross-validation,201,378,6,82
+two-fold cross-validation,201,378,8,46
+underfitting,192,348,4,236
+underfitting,201,384,2,107
+underfitting,259,514,2,58
+universal functions (ufuncs),31,67,4,99
+absolute value,32,71,0,129
+absolute value,221,416,3,125
+aggregates,36,74,19,0
+aggregates,36,75,7,156
+aggregates,37,77,0,183
+aggregates,37,77,1,17
+aggregates,39,78,2,19
+aggregates,39,78,5,722
+aggregates,39,78,7,0
+aggregates,40,80,0,52
+aggregates,46,92,2,651
+aggregates,47,93,2,949
+aggregates,78,139,3,171
+aggregates,98,176,4,64
+aggregates,98,177,0,658
+aggregates,98,178,1,44
+aggregates,98,178,2,115
+aggregates,98,180,2,50
+aggregates,98,183,2,73
+array arithmetic,31,69,7,0
+comparison operators as,45,88,7,0
+index alignment,74,133,1,8
+index alignment,74,133,3,0
+index alignment,75,134,1,300
+index preservation,73,132,6,8
+operating on data in pandas,70,129,1,653
+operating on data in pandas,73,132,0,0
+operating on data in pandas,73,132,7,664
+operating on data in pandas,75,134,1,921
+operations between dataframe and series,77,135,3,212
+specialized ufuncs,34,73,0,0
+specifying output,34,73,12,0
+variance,39,78,5,298
+variance,98,178,0,241
+variance,146,266,0,459
+variance,192,348,4,210
+variance,197,370,3,165
+variance,201,381,0,9
+variance,201,381,2,34
+variance,201,381,10,54
+variance,201,382,0,66
+variance,201,382,3,11
+variance,201,382,7,41
+variance,201,382,9,73
+variance,201,384,2,125
+variance,202,386,1,100
+variance,205,390,4,182
+variance,205,390,7,133
+variance,207,392,0,231
+variance,215,401,0,369
+variance,234,451,1,312
+variance,234,452,0,95
+variance,234,453,2,230
+variance,234,454,1,196
+variance,234,454,2,16
+variance,235,455,0,231
+variance,236,457,1,61
+variance,236,457,2,98
+variance,236,457,3,107
+variance,236,457,6,40
+variance,236,458,2,88
+variance,236,459,0,89
+variance,238,460,3,36
+variance,239,461,0,34
+variance,240,462,5,167
+variance,245,472,9,75
+variance,245,474,3,71
+variance,246,475,0,25
+variance,253,498,2,218
+variance,254,499,0,41
+variance,254,500,0,183
+variance,254,501,0,15
+variance,254,501,2,17
+variance,254,501,5,116
+variance,254,501,6,137
+variance,254,502,0,232
+variance,255,504,5,180
+variance,255,505,8,73
+variance,257,506,1,196
+variance,257,506,2,95
+variance,259,513,0,265
+variance,259,514,1,942
+vectorized operations,31,67,4,36
+vectorized operations,31,69,2,230
+vectorized operations,111,207,0,61
+vectorized operations,111,208,6,313
+vectorized operations,119,226,4,109
+methods similar to python string methods,106,197,1,212
+methods using regular expressions,106,198,1,0
+tables of,106,197,0,0
+tables of,195,360,7,68
+vectorized item access and slicing,107,200,0,0
+violin plot,187,344,3,48
+violin plot,188,345,1,46
+violin plot,188,345,2,947
+viridis colormap,150,275,3,171
+vispy,191,347,9,2
+hadley,98,178,4,151
+wireframe plot,175,311,0,162
+word counts,209,394,5,51
+word counts,209,395,0,239
+word counts,209,395,1,108
+word counts,215,403,14,141

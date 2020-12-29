@@ -1,0 +1,26 @@
+
+
+When a model is trained on data that is labelled, it is learning from past
+experiences that allow it to perform a task when introduced to new unlabeled
+data. The labeled data is considered previous knowledge that has both input
+and output parameters. This method of training a model is called Supervised
+Learning. DeepAI has a concise definition of supervised learning, it is
+defined as "A class of systems and algorithms that determine a predictive
+model using data points with known outcomes."
+
+Supervised Learning tasks can be used for Classification and Regression tasks.
+Both tasks use algorithms to train the models. We will explore in the next
+pages and onwards.
+
+We have covered techniques should as Linear and Logistic Regression, we will
+explore some popular techniques including k-Nearest Neighbors, Tree Methods,
+and naive Bayes. As you continue your journey in the MCDS program especially
+in the Machine Learning course, you will explore supervised learning tasks
+outside of the well known algorithms introduced in this course.
+
+Reading: A comprehensive list of Supervised Learning algorithms.  
+  
+---  
+  
+Reading: Supervised Learning and Natural Language Processing  
+  

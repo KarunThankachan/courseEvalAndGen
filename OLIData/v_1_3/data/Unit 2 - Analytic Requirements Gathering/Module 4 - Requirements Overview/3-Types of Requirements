@@ -1,0 +1,40 @@
+
+
+Business Requirements
+
+Suppose a utility company wants to introduce personalized service management
+to its customers including a secure electronic payment facility, and the
+ability to view usage statistics. This business objective will lead to the
+development of a mobile application for customer service management. Business
+requirements for the above scenario will include describing the context,
+scope, and background of the business need, including reasons for the proposed
+change. Business requirements are collected and decomposed to define other
+types of requirements.
+
+System and User Requirements
+
+Once business requirements are defined, stakeholders and systems that support
+the business requirement(s) are identified. System requirements are a detailed
+description of the system and its operational and development constraints;
+this includes the system software that will support the solution, processing,
+memory, and other application software considerations. User requirements
+describe functions or tasks that a user must perform within the system. These
+tasks will support the business objectives that are defined prior to the
+requirements gathering process.
+
+Use cases and user stories represent user requirements and provide a big
+picture of what the user will be able to do within a system. An example of a
+use case is “Make Payment” on a mobile application. We will describe user and
+system requirements later in this unit.
+
+Solution Requirements
+
+Solution requirements are grounded in software engineering, in this course, we
+will be tailoring solution requirements to the data science process. The
+solution requirements for a data science project are classified into
+functional, non-functional requirements, as well as requirements that consider
+parts of an analytic solution that are different from the traditional IT
+systems. The typical analytic solution will consider data and models (e.g.
+predictive models), a business intelligence solution will include requirements
+for reports and dashboards.
+

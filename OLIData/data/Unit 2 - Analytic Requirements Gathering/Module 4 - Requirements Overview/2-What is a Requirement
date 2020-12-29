@@ -1,0 +1,68 @@
+
+
+The IEEE defines a requirement as a documented condition or capability needed
+by a user or system to meet a business need or achieve a business objective.
+Requirements become useful to the solution development process when they have
+been converted into specifications. Requirements must meet certain criteria to
+be useful for achieving business objectives. Let us define the general
+characteristics of a good requirement.
+
+Reading: IEEE Guidelines on Software Requirements Gathering.  
+  
+---  
+  
+Characteristics of a Requirement
+
+A good requirement should be complete and correct. You must identify the
+relevant stakeholders and define a set of needs, goals, and objectives for
+your project. As there is no perfect scenario, you must define the constraints
+that are applicable to a project, those constraints might include cost, scope,
+existing systems and processes, time, and technology. Defined scenarios can
+also result in identifying all the stakeholders and their needs within the
+business context. A requirement should also be traceable. This refers to
+tracking the life cycle of a requirement from its development to its
+specification and deployment in various versions of the solution. Traceability
+can be supported in a straightforward way via a matrix which associates a
+unique identifier, a description, and a design specification element to each
+requirement, as shown below.
+
+Requirement
+
+|
+
+Design Specification  
+  
+---|---  
+  
+1.0.0 Consumption reports should be integrated with the Dashboard API.
+
+|
+
+Data from the hourly consumption report will use data_integrate_trail in the
+Update event procedure.  
+  
+A requirement should be unambiguous. Given that the requirements gathering
+process involves contributions from multiple stakeholders, the requirement
+must be clear to all and have the same meaning; the requirement should be
+explicit and not open to interpretation. Unambiguous requirements must have
+defined acceptance criteria, metrics for success, expected outcomes, and
+acceptable values. Use of an active voice makes a requirement clearer.
+Finally, a requirement should be verifiable. Testers should be able to verify
+that the requirement was implemented correctly. A requirement is considered
+complete when it is verifiable, unambiguous, and traceable.
+
+Consider this requirement for a report generating solution:
+
+The consumption reports will be generated and displayed.
+
+This requirement leaves room for interpretation and this can lead to not
+meeting client expectations. A better representation of the requirement is to
+include a time frame, a responsible party, and a deliverable.
+
+The system will automatically generate the consumption reports every 30
+minutes, and the results will be displayed on the consumption dashboard.
+
+Reading: Traceability in Requirements and Other Artifacts.  
+  
+---  
+  

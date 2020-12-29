@@ -1,0 +1,21 @@
+
+
+Each data science project is unique and will require a data collection
+technique that suits the problem and objectives it seeks to meet. The data
+collection techniques for a sentiment analysis project analyzing social media
+tweets will differ from the techniques of an image classification project for
+patient diagnosis. When you defined the project's business and analytic
+objectives, the tasks and methods were proposed as well, those tasks and
+methods drive the type of data that will be used in the project. The type of
+data will influence the source and data collection techniques.
+
+This module described the traditional techniques for data collection. Those
+techniques include conducting interviews, focus groups, document analysis, and
+observations. There are various types of data and this affects the method
+employed to solve your analytic objective.
+
+A data scientist should also know the different sources of data and how it
+affects the solution development process. There is data that is sourced by
+your client but controlled by an external source and data that is collected
+and owned by your client.
+

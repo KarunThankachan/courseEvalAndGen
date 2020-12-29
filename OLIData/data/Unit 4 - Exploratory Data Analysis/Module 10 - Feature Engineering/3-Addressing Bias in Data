@@ -1,0 +1,82 @@
+
+
+Reading: Avoiding Bias from Feature Selection.  
+  
+---  
+  
+Bias in Data
+
+When understanding and preparing data for the modeling process, there is a
+possibility that bias will be introduced into your dataset. This bias can be
+conscious or unconscious and the bias will affect the performance of your
+model but most importantly, your analytic solution and the decisions made
+after implementation of that solution. You are encouraged to explore research
+about bias and its implications to Artificial Intelligence 1. Areas of
+interest include Algorithmic Bias, Computer Ethics and Roboethics. Ethical
+bias is a growing area of research that you will come across throughout your
+reading and career.
+
+Feature Engineering and Bias
+
+Feature engineering can be performed before the model building process, i.e.
+during the data wrangling and exploratory data analysis phase or it can be
+performed during model building. Later in this course, we will discuss cross
+validation but we must note here that feature engineering can be done during
+the cross validation process. Cross Validation is a model validation technique
+used to assess how a model will generalize to a new data set. At this time,
+feature engineering is done during the cross validation loop.
+
+Feature engineering at any stage can introduce bias to the data. While you
+manipulate the data, you can unintentionally create a relationship between
+features that do not otherwise exist. The features that are selected or
+created during the feature engineering process can shape the insights that are
+gotten from the model.
+
+These are some examples of the types of bias that can be introduced during the
+"data understanding" phase of the data science project lifecycle.
+
+Sample Bias. When conducting a study, it is important to collect data from a
+representative sample of the population. A study measuring completion rate of
+graduate students in the United States with a sample of students from one
+socioeconomic background, race or gender will undermine the external validity
+of that study. This means the results of the study can not be truly
+generalized to the entire population of graduate students in the United
+States.
+
+Confirmation Bias. Your prior knowledge, beliefs, and values can play a role
+in the data that is used to build your analytic solution, this is because as
+humans, we are prone to use our personal beliefs and experiences to guide us
+through daily life and decision making. This type of bias occurs when we favor
+evidence that confirms our personal beliefs, values and hypotheses.
+
+Information Bias.  Also known as measurement bias, occurs when data is
+collected, measured or interpreted wrongly. Misclassification of observations
+is an example of information bias, for example an observation with attributes
+similar to the stereotypical female student is recorded as female when that
+observation is male. Another example is misclassification of patients,
+consider the COVID-19 pandemic; groups under the age of 45 are seen as low
+risk; so during a screening exercise, those in that age group might not be
+screened and therefore classified as negative. The data collected has
+misclassification bias and is not accurate. One way to control information
+bias is to implement blinding.
+
+Confounding Bias. Addressed in medical research, confounding bias is "the
+distortion of the association between an exposure and health outcome by
+another variable called a confounder"1.
+
+A responsible data scientist should understand how bias occurs and actively
+seek out ways to reduce it; bias creeps in at various stages during the data
+science process but it is easily introduced in the data collection, and
+feature selection process.
+
+Reading: Data Science Code of Professional Conduct: Checking for Bias.
+
+Reading: Catalog of Bias  
+  
+---  
+Bostrom, N & Yudkowsky, E.Cambridge Handbook of Artificial IntelligenceThe
+Ethics of Artificial Intelligence.21 Cambridge University Press.2011C. R.
+Turner, A. Fuggetta, L. Lavazza and A. L. WolfFeature engineering [software
+development]Proceedings Ninth International Workshop on Software Specification
+and Design162-164
+

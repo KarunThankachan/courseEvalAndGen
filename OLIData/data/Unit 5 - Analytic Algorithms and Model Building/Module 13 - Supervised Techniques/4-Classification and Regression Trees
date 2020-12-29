@@ -1,0 +1,105 @@
+
+
+Tree based methods are considered to be among the simpler methods for
+prediction and classification. Trees can be built using both numerical and
+categorical variables and the tree method is rated highly as an interpretable
+method. Certain data science practitioners and thought leaders favor the
+simplicity of tree based models because it can be seen to mirror an "If-Then"
+statement and are easily digestible to an individual with a growing statistics
+knowledge.
+
+We will explore the different tree based methods starting with one of the most
+popular methods: Decision Trees. Using a very simple example, let us build a
+decision tree: Decision Trees: scikit-learn.
+
+A decision tree consists of a root node, the leaf nodes and branches. In
+decision sciences, it is an effective visualization that is easy to interpret,
+in data mining and machine learning, it is used to model predictions. The end
+goal of a decision tree method is to predict the value of a target variable
+based on several predictors. When you have a decision tree model with an
+outcome response containing a categorical value, you have a Classification
+Tree. When your outcome or target variable is a continuous value, you have a
+Regression Tree.
+
+Additional Reading: Decision Trees for Decision Making  
+  
+---  
+  
+Building Classification Trees
+
+Building a classification tree involves recursive partitioning and pruning.
+Both concepts are used to ensure the model has a low error rate and
+overfitting is not an issue.
+
+Recursive Partitioning creates a decision tree that splits its entire dataset
+into smaller sets to accurately classify records within the dataset. C4.5 is
+one of the popular algorithms that employ recursive partitioning. It generates
+models that have more sensitivity and tend to be more accurate. Partitioning
+is done by repeatedly splitting and creating subsets until the tree is pure.
+Purity means all observations belong to a single class.
+
+Recursive partitioning will split each node on your tree to create decision
+rules that are easily interpretable but overfitting can be an issue.
+
+Another technique is the Chi-square automatic interaction detection (CHAID).
+It is used for both classification and prediction and can be used to show the
+interaction between variables. It is most useful when you have a large
+dataset. Let us assume that you have received a credit card offer from Capital
+One as a preselected customer, CHAID will help Capital One's marketing firm to
+predict how your age, income, credit score will affect your response to the
+interest rate offered.
+
+Measures of Impurity. You can measure impurity using entropy and the Gini
+index. The Gini index is useful in measuring the degree to which a variable
+can be misclassified when it is randomly chosen, the index varies from 0 to 1.
+0 denotes that all elements are members of a class and 1 denotes that elements
+are distributed (randomly) across various classes. It is best practice to
+select the feature with the lowest Gini index as the root node. Entropy is a
+measure of uncertainty within a model. Decision trees will always seek to
+maximize entropy.
+
+Reading: Gini Index and Impurity Measures
+
+Pruning. If you have dabbled in horticulture, you will be familiar with the
+term pruning. You prune a plant so that it grows without obstacles, you can
+also prune a plant to redirect the growth and shape of the plant. You can
+think about pruning decision trees in a similar light. It is one of the
+solutions to avoid overfitting the training dataset. Once you have a large
+decision tree, you will prune the weakest branches to reduce complexity of
+your model and improve accuracy. Pruning can be done using two techniques.
+
+  * Cost complexity pruning will generate a series of trees. The tree is created by removing a subtree and replacing it with a leaf node with value chosen as in the tree building algorithm. The best tree is chosen by generalized accuracy as measured by a training set or cross-validation.
+
+  * Reduced error pruning is done by replacing each node with the node's most popular class,however that replacement is temporary unless the it does not negatively affect the prediction accuracy. It is an efficient technique for pruning. 
+
+Application: Decision Trees and NLP: A Case Study in POS Tagging.  
+  
+---  
+  
+When a full tree is built, it will result in a fully grown decision tree that
+represents the maximum number of splits that the CART method will make to
+identify pure subsets. Full trees tend to overfit and do not do best at
+generalizing well to new cases. Solving for this means pruning the tree. The
+least complex tree with the smallest validation error is called a Minimum
+Error Tree. The least complex tree with a validation error that is "within one
+standard error of the minimum error tree" is called a Best Pruned Tree.
+
+The validation dataset is used to optimize the complexity of a tree by pruning
+a grown tree into a simpler tree, this way it will generalize new cases well.
+Misclassification rate is a performance measure for classification trees and
+used to identify the tree that has the lowest error or the minimum error tree.
+
+Building Regression Trees
+
+You will find that decision trees are more explainable than linear regression
+models. A smaller tree is easily interpreted by someone who is not in the
+field, and trees can use qualitative variables without the need to create
+dummy variables. The impurity measure for a regression tree is the sum of the
+squared deviations from the mean of the terminal node. The predictive accuracy
+of CART models are not as robust as other methods. Regression tree performance
+is evaluated using the root mean square error (RMSE).
+
+We will explore some methods that can be used to improve this prediction
+accuracy and performance; on the next page, you will learn more about Random
+Forests, Bagging and Boosting.
+

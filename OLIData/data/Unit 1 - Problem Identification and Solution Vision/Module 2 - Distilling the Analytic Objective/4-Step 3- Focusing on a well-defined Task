@@ -1,0 +1,64 @@
+
+
+Once the team has identified the precise problem for which data should be
+leveraged, it is advisable to explicitly characterize the task to be done at
+the analytical level. To do this, one casts the “heart” of the problem into
+one or more categories of typical data science tasks:
+
+Classification: Individual instances in the dataset have a categorical (i.e.
+non-numerical) label associated with them, or will be labeled as such. The
+goal of the project is to develop a system capable of categorizing data points
+using these labels. A common variant of classification is sequence labeling,
+where individual data points are not independent but form a series. Typical
+examples: sentiment analysis of text, labeling images as depicting certain
+objects (animals, cars, etc.).
+
+Regression: Individual instances in the dataset have a numerical label
+associated with them whose magnitude carries a specific meaning. The goal of
+the project is to develop a model capable of predicting this target score for
+individual data instances. Like classification, regression is often applied
+over dependent series of data points. Typical examples: predicting
+measurements in medical or demographic data over time
+
+Retrieval & Ranking: The dataset can be thought of as one or more collections
+of data points and queries. In response to the query, one or more “ideal” data
+points should be retrieved and presented in a “correct” order. Typical
+example: search engines
+
+Recommendation: The dataset consists of users and items, as well as
+information about preferences of users for specific items. The task is to find
+items to recommend to users towards the maximization of some utility. Typical
+examples: movie and product recommendations
+
+Clustering: The dataset is assumed to have some latent structure which should
+be discovered by dividing data points into groups that are close to each other
+in variants of the feature space. Typical examples: exploratory analyses of
+unlabeled data
+
+Anomaly Detection: The dataset is assumed to have some latent structure which
+should be discovered in order to identify instances that do not adhere to the
+pattern. Typical example: fake customer review detection in online retail data
+
+Domain-specific tasks: Aside from the generic task types explained above, some
+domains have developed specific task patterns and associated evaluation
+metrics that should be used if the analytic goal is sufficiently specific.
+This is particularly true of natural language processing and image analysis.
+For example, machine translation will commonly be characterized as a text
+generation task and models will be evaluated using a specialized BLEU score.
+Similarly, models that segment a part of an image containing a specific object
+may be evaluated using average precision in conjunction with an “intersection
+over union” threshold.
+
+It should be noted that some of these categories overlap somewhat in that the
+methods associated with them can be used in different ways. For example,
+ranking problems can be solved using classification or regression methods.
+Still, if the primary nature of the problem is that items must be ranked, it
+should be evaluated using ranking experiments and metrics even if it is doing
+classification “under the hood”.
+
+The purpose of identifying the type of task at this stage is not to firmly
+restrict the project to a narrow instrumentarium, but to characterize it for
+purposes of planning and communication. Specifically, a possible quantitative
+evaluation and the metrics used therein, will typically closely correspond to
+the problems primary nature.
+

@@ -1,0 +1,74 @@
+
+
+The quality of your data has a direct effect on the decisions made long after
+the models are developed. When data is gathered, it can present quality issues
+ranging from missing values, to inconsistent formats. Data architects and
+engineers within organizations must clean the data gathered from internal and
+external sources to ensure that is usable. Data that is collected from
+different sources is considered raw data. Raw data should be studied before it
+is used in an enterprise. Data is used for immediate analysis, model
+development with the goal of producing automated results or strategic decision
+making. Data will move through different stages to ensure continuous use.
+
+At this stage of the data science lifecycle, we are considering data in its
+raw form. You should also view all data (whether cleaned from its source) as
+raw data. We want to know how to enrich data to further understand the data.
+Once you have completed this module, you will be able to discuss the
+techniques used to enrich data through a process called Data Wrangling.
+
+Data Wrangling is the process of cleaning, formatting, and enriching raw data
+to make it usable for analysis. As mentioned earlier, data wrangling is also a
+best practice for an organization with a good data management framework. The
+data architects, engineers and/or administrators will store data that has been
+processed to allow for enterprise wide access and usage.
+
+Data wrangling is a time consuming process. As a data science team considers
+all data that has been extracted as raw data, the data wrangling process can
+assign value to a dataset after the data has been cleaned and transformed.
+Data wrangling is a part of the data understanding phase of the data science
+lifecycle and successful data understanding requires a clear understanding of
+the business; defining the business and analytic objectives and requirements
+for the analytic solution.
+
+Despite its importance, data wrangling presents some challenges that is common
+in data science projects.
+
+Data Wrangling Opportunities and Challenges.  
+  
+---  
+  
+So far, you might have interacted with datasets from sources such as Kaggle,
+KDNuggets or other avenues with "cleaned" datasets. You might also be
+collecting data from social media using inbuilt data gathering tools to
+generate CSV files. You must consider these datasets as raw data. It is best
+practice to study the data to determine its quality.
+
+Consider an organization that collects or purchases customer data from a
+marketing firm. The data from the marketing firm can be sent to the
+organization by a simple file transfer or through more automated sharing
+processes. The file from the marketing firm will contain formatted data that
+fits their data architecture and must be structured to fit the recipient
+organization's architecture.
+
+A quick search of the data wrangling process will produce multiple definitions
+and perspectives. You might find that data wrangling is sometimes referred to
+as feature engineering. In this course, we separate both processes. While data
+wrangling, you are concerned with cleaning your data, feature engineering will
+involve domain knowledge of the data, this process involves selecting the
+right features from the data to further improve the performance of your
+models.
+
+Data Wrangling Tools
+
+The data wrangling process can be made more efficient with the use of tools.
+Below, you will find open source tools used by data professionals with
+programming and spreadsheet skills, as well as proprietary tools:
+
+  * Python. The Scikit Learn preprocessing package is widely used by data scientists and analysts for transforming and enriching data. Pandas, Numpy, Matplotlib, and Theano are libraries in Python that support data cleaning and transformation. 
+
+  * R. Uses specific packages to optimize the data wrangling process. tidyr and dplyr are popular packages for data transformation. 
+
+  * Proprietary Tools. Each year, Gartner releases a research based quadrant report for various tools including data pre processing tools. The list typically features proprietary tools that are adopted by businesses of all sizes. Microsoft Power BI, Tableau, Alteryx, IBM, SAP and Qlik provide data wrangling capabilities to data professionals. 
+
+  * Excel. Anyone familiar with spreadsheets to study the data, perform structuring and transformation of data. Data professionals without programming skills can use functions to identify missing values and for data validation among others.
+

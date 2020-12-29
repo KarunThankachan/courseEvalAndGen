@@ -1,0 +1,54 @@
+
+
+Data governance defines how data is accessed and managed within an
+organization. It is important because it facilitates effective data management
+and has positive implications for the quality, security, and integrity of data
+used for analysis. An organization that handles data efficiently understands
+that data governance impacts data quality and the decisions that can be made
+from the data available to the organization. This unit focuses on data
+governance as a component of data management, and how it influences the
+development of analytic solutions in an organization and decision making. Any
+organization that stores and utilizes data should have a data governance
+strategy for internal data or data stored within the organization and external
+data.
+
+Data governance is beneficial because it provides a reliable and consistent
+view of enterprise wide data, it ensures that there is a plan for improved
+quality of data, maps the location of data in the enterprise reducing the
+scourge of data silos, and improves data management overall.
+
+Reading: Data Governance in the Cloud .  
+  
+---  
+  
+Data governance is the responsibility of an entire organization although it is
+administered by the data management team; all users of data in an organization
+are considered stakeholders of the organization's data. The Data Governance
+Institute defines a stakeholder as an individual or group that make or is
+affected by data driven decisions within an organization. In addition to data
+governance policies, data stakeholders will have an influence on the state and
+use of data. As a quick reminder, the data science team works with different
+individuals in an organization to define business and analytic objectives
+during the data science project lifecycle, as well as determining the
+requirements for the analytic solution. So why is data governance important to
+a member of a data science project team?
+
+Data governance is not just policy making for data, it is more than that; it
+influences business strategy because data is now (more than ever) considered
+as an asset to an organization. An organization that has embedded data
+governance principles into its data infrastructure or data management
+framework will abide by data standards (industry set, or company defined).
+
+Data governance best practices for organizations are met when data has
+integrity, and data related decisions and controls are transparent and can be
+audited. Another best practice that is gaining ground in industry is the push
+for organizations to collect and store data that is unbiased. Unbiased data
+looks different to each organization and industry but the general idea is that
+the data represents all members of a population that could be served by an
+organization. This best practice will positively influence the development of
+ethical models and algorithms for analytic solutions.
+
+Reading: Data Governance and its implications for ethical models  
+  
+---  
+  

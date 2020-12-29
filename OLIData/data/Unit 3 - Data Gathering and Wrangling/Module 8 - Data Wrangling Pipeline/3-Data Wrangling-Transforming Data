@@ -1,0 +1,143 @@
+
+
+The data gathering process looks different for each data related project and
+is dependent on your business and analytic objectives, as well as your data
+source(s). The data that you acquire during the data gathering process will
+almost always need to be transformed into a usable format. This means it will
+have variables that contain incorrect or missing values due to data entry
+errors. Data might need to be transformed to a different structure to meet the
+requirements of a data science task.
+
+Handling Missing Values
+
+One of the most common data quality issues is missing values in your dataset.
+This can happen due to human error, or system issues during data collection.
+As you have inspected your data and identified missing values, it is important
+to determine why the dataset has missing values. Please note that a dataset
+that was extracted from an external source might not provide context on the
+reason behind the missing values. When met with such a situation, a data
+scientist or data analyst should still investigate the missing values. The
+reasons behind the missing values will determine the techniques used to handle
+those values.
+
+One of the most notable statisticians classified missing data into three
+categories. Those categories explain the likelihood of missing data.
+
+Missing completely at random (MCAR) implies that missing data is not related
+to the data. The probability of data being missing is the same for all
+observations.
+
+Missing at random (MAR) is the probability that the missing data is the same
+within certain groups.
+
+Data that is not missing at random (NMAR) means that the probability of data
+being missing varies for reasons that are unknown.
+
+Imputation
+
+The common strategies that are employed in handling missing values are
+imputation and omission. Imputation replaces missing values in the dataset
+with other values. The replacement values are not random. You can replace
+missing values with the mean value, e.g. If you have missing values in the age
+variable, you can replace the missing values with the mean age across all
+observations. This method will work if the group is homogeneous. As you know,
+your dataset will not always contain homogeneous groups, in this case you will
+use other imputation techniques that we will discuss in the feature
+engineering unit. Those techniques include hot and cold deck imputation,
+regression imputation, and interpolation and extrapolation.
+
+Omission
+
+Omission is often the go to technique when there are missing values. omission
+involves excluding the missing values from the dataset. Remember: You might
+suffer loss of data if you exclude values instead of finding other missing
+value handling techniques. Omission can be done when the amount of missing
+values is small. Pairwise deletion is a type of omission, it means performing
+your analysis on just the available values. Keep in mind that sample sizes
+will vary with this technique. Listwise deletion removes all data for an
+observation that has one or more missing values. This would mean your dataset
+would have observations with values for all variables.
+
+You can also omit variables with missing values. That variable needs to be one
+with little to no importance to your dataset and overall objective. Example, I
+am predicting social media usage habits and my dataset includes a shoe size
+variable with missing values. I can omit that variable.
+
+Subsetting. This process involves extracting portions of a dataset that are
+relevant to your model or analysis. It is a process that is used in data
+wrangling to prepare data for exploratory data analysis. It is a technique
+that can be used to remove observations with missing values. Subsetting can
+also involve excluding variables instead of observations. An example is
+looking at summary measures of three subsets of medical records for diabetes
+treatments were one subset is for successful treatments, another is for
+unsuccessful treatments and the last is for inconclusive treatments.
+
+Outliers
+
+When you were inspecting your data, there was mention of visualizing the data
+to identify outliers. Outliers are unusual values in the dataset. The values
+is unusual because it "lies at an abnormal distance from other values in your
+dataset". We discuss using exploratory data analysis techniques to identify
+outliers in a future unit. You should not immediately remove outlier values as
+they often times can contribute valuable insights to your solution.
+Investigating the reason behind the outlier value is your first step in
+handling it.
+
+As you learnt previously, there are different types of data and those types of
+data have specific data transformation techniques that accommodate them.
+
+Transforming: Categorical Data
+
+Categorical data is divided into groups or nominal category based on a
+qualitative characteristic. Gender, race, and eye color might be variables in
+a dataset that are useful in predicting a health challenge and due to their
+low levels of measurement, there is a need to transform the data into a
+numeric format. There are techniques that are employed to transform
+categorical variables.
+
+  * Category Reduction. Categorical variables can have many categories or levels. A variable with levels that are not useful can negatively affect your analysis and model. Some categorical variables will have levels that do not occur, it will be difficult to capture the interactions within those levels. A technique to handle these variables can include collapsing some of the categories or creating an "other" category for the categories with few occurrences. 
+
+  * Creating Category Scores. Ordinal data would need to transformed into numeric values for certain statistical techniques. Ranked values are an example. A dataset containing student evaluations would have responses that are ranked by different levels. You can transform that data by assuming equal increments between category scores. Responses to the question:The instructor provided out of class support for the course could be: Always, Most Times, Sometimes, Hardly, Never. You can assign a score of 1-5, 1 being the highest and 5 being the lowest or vice versa. The categorical variable can now hold numeric values. 
+
+  * Creating Dummy Variables. Dummy variables are often referred to as binary variables. This technique allows for categorical data to be transformed to 0s and 1s. A dataset containing customer spending data with a categorical variable-gender with two categories, male and female. The gender variable can be converted to binary variables. Please note that there is no order of ranking. 
+
+Creating Dummy Variables for more than one category. What happens when you
+have a categorical variable containing more than one category? Consider a
+dataset with the variable hair color with data represented as brown, brunette,
+black, gray, and blonde. The hair color variable can still be transformed into
+dummy variables using the following steps.
+
+    * Determine the number of variables (k-1), where k is the number of categories of the variable.
+
+    * You will create 4 dummy variables (5-1).
+
+    * You will then create variables for each category. In our example, we will create black, brown , brunette, and gray variables. 
+
+    * Assign 0 or 1 to each category, for example the black variable would see values of 0, if an observation does not have black hair and 1 if the observation has black hair.
+
+    * Keep in mind that the category that was not included in the creation of dummy variables still exists in the dataset. In this example, a dummy variable for blonde was not created. This simply means that all other categories will be compared to this category. Usually, you select the category with the largest occurrences as the category that will not transformed into a dummy variable. 
+
+Transforming: Numeric Data
+
+Categorical data is transformed to numeric data so the data can be used for
+specific statistical techniques. Why would we need to transform numeric data?
+If you remember, when data is gathered it is usually noisy with missing
+values, and sometimes needs to be converted to a structure that fits the data
+science task; this will ensure that you do not lose data or lose information
+during the analysis phase. You will encounter numeric data that needs to be
+transformed to allow you glean insights and use the data for the appropriate
+statistical techniques.
+
+Example of a popular numeric transformation scenario is converting date of
+birth to age.
+
+Numeric transformations are also explored when performing feature engineering.
+You will extract features from the numeric data and transform them into
+formats that can be used by a machine learning model. We will explore those
+techniques in depth. Right now, let us take a look at the techniques for
+converting numeric data during data wrangling.
+
+  * Binning. This technique will transform a numeric variable into a categorical variable. As mentioned above, age can be grouped into intervals in the event that that age group has similar occurrences in the other variables in a dataset. If you decide to bin the age variable and create the following groups: 15-19, 20-24, 25-29 and 30-34, you can reduce redundancy in your dataset, and capture outliers. Binning can also be done using equal intervals. 
+
+  * Using Mathematics. You can create new variables using mathematical transformation of existing variables, you can use techniques such as standardization, min-max scaling, and logarithmic transformation. We explore these mathematical transformation techniques in a future unit. 
+

@@ -1,33 +1,10 @@
 import re
 import PyPDF2
 import sys
-import fitz
 import json
 from nltk.tokenize import sent_tokenize
+import os
 
-def parseIndexText(text):
-    '''
-    Given Index of the format
-    `Cloud Computing ................. 74, 81`
-    It will extract as ["Concept Page Numbers", ..]
-    '''
-    contents = text.splitlines()
-    content_with_pns = []
-    for i in range(len(contents)):
-        # check if the next line is numbers only
-        if (len(content_with_pns) > 1) and (re.search('[0-9]+',content_with_pns[-1]) is None):
-            content_with_pns[-1] =  content_with_pns[-1] + " " + contents[i]
-        elif re.search('[a-zA-Z]+', contents[i]) is not None:   
-            # if not add to list
-            content_with_pns.append(contents[i])
-        elif len(content_with_pns) > 1:
-            # if yes append to last element for format `Cloud Computing ...... 74, 81 \n 32,22`
-            temp = content_with_pns[-1]  
-            temp = temp + contents[i]
-            content_with_pns[-1] = temp
-    return content_with_pns
-
-    
 
 def extractConceptsFromIndexPage(content_with_pns):
     '''
@@ -55,20 +32,42 @@ def extractConceptsFromIndexPage(content_with_pns):
     return concept_dict
 
 
+def parseIndexText(text):
+    '''
+    Given Index of the format
+    `Cloud Computing ................. 74, 81`
+    It will extract as ["Concept Page Numbers", ..]
+    '''
+    contents = text.splitlines()
+    content_with_pns = []
+    for i in range(len(contents)):
+        # if the next line is contains no numbers, then it a continuation of the concept
+        # append it to last element in the concept list
+        if (len(content_with_pns) > 1) and (re.search('[0-9]+',content_with_pns[-1]) is None):
+            content_with_pns[-1] =  content_with_pns[-1] + " " + contents[i]
+        # else if next line contains letters and numbers, then create a new element in the list
+        elif re.search('[a-zA-Z]+', contents[i]) is not None:   
+            content_with_pns.append(contents[i])
+        # if there are only number left, add to last entry
+        elif len(content_with_pns) > 1:
+            content_with_pns[-1] = content_with_pns[-1] + contents[i]
+    return content_with_pns
+
+
 # Entry Point
-def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", indexPages=(849,889), output="results\\"):
+def extractConceptFromIndex(path, filename, indexPages, output="results\\"):
     '''
     To load data from pdf
     Args : filename, name of pdf file
     Rets : the list of concepts from the PDF
     '''
     # Ref : https://www.geeksforgeeks.org/working-with-pdf-files-in-python/
-    doc = fitz.open(path+"\\"+filename)
+    f = open(os.path.join(path,filename), "rb")
+    doc = PyPDF2.PdfFileReader(f) 
     all_concepts_dict = {}
 
     for pageNumber in range(*indexPages):
-        page = doc.loadPage(pageNumber)
-        text = page.getText()
+        text = doc.getPage(pageNumber).extractText()
         content_with_pns = parseIndexText(text)
         all_concepts_dict.update(extractConceptsFromIndexPage(content_with_pns))
     
@@ -88,7 +87,10 @@ def extractConceptFromIndex(path='data', filename="Cloud Computing Bible.pdf", i
 
     return concept_names
 
-# concepts = extractConceptFromIndex(path="AL-CPL\\textbooks\\", filename='Networking.pdf')
+
+# test script
+# concepts = extractConceptFromIndex(path=os.path.join("AL-CPL","textbooks"), filename='Networking.pdf', indexPages=(849,889))
+
 # print(concepts)
 # print(len(concepts))
     

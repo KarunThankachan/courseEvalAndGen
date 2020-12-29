@@ -1,0 +1,14 @@
+
+
+  * Supervised learning involves training models with labeled input and output data.
+
+  * KNN is a similarity function and a weak learner, This is a method in which training data is generalized and most useful for large datasets that will be updated continuously. In this case, a model typically depends on (or queries) a small number of attributes in the dataset. There are three steps involved in making predictions with k-NN: Calculate the euclidean distance, identify nearest neighbor(s) and then perform task. kNN had been described for the purposes of predicting a categorical response but it is also effective for predicting continuous value responses just like you would with a linear regression model. 
+
+  * Bayes Theorem describes the probability of an event based on prior knowledge of conditions related to that event. Bayesian Inference is applied when Bayes theorem seeks to update the probability for a hypothesis as more information becomes available. Used in sports, medicine, and law among other fields. naive Bayes is a simple classifier that can be applied to categorical predictors. When classifying observations using NB, the classifier locates all observations that have similar predictor values to the observation that is to be classified, and then assigns it to the class that it belongs to; When the problem calls for predicting the probability that an observation belongs to a class, we can use this method.
+
+  * Tree based methods are considered to be among the simpler methods for prediction and classification. In this module, we discuss Classification and Regression Trees (CART).
+
+  * CART methods do not have good predictive performance; there are methods that can be used to compensate for this deficiency called Ensemble Models. Ensemble models combine other models to produce an optimal predictive model. Ensemble models also solve the problem of overfitting as faced by single tree models. Bagging reduces variance in a decision tree method. Random Forest method is an extension of bagging, and makes needed changes to bagged trees. When there is overfitting with decision trees, random forests will remedy this issue. Similar to bagging, boosting can be used to improve the predictive accuracy of certain methods including decision trees. It differs somewhat from bagging as the trees built with this model are dependent on a prior tree (each tree depends on or fits the residual of the trees that preceded it).
+
+  * Now, you are able to take the quiz. Please be sure that you post your quiz questions as private on Piazza or send an email and you will receive a response.
+

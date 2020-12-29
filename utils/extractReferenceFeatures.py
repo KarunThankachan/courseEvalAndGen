@@ -3,40 +3,37 @@ import json
 
 def createComplexityFeature(concept_features):
     '''
+    Calculates complexity i.e. the number of time a concept occurs
     '''
     concept_complexity = {}
-    concept_chapters = {}
-    concept_locations = {}
     for concept in concept_features:
         if concept[0] in concept_complexity:
             concept_complexity[concept[0]] += 1
         else:
             concept_complexity[concept[0]] = 1
-    
+
     return concept_complexity
 
 
-def createReferenceFeatures(path="results\\", filename='Networking_concepts.csv'):
+def createReferenceFeatures(path, filename):
     '''
     '''
     concept_features = []
+    # open concept feature files
     with open(path+filename) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
             concept_features.append(row)
-
+    # get concept complexity
     concept_complexity = createComplexityFeature(concept_features)
-    #print(concept_complexity)
-
+    # build concept features for concept pairs
     chapterIdx = 0
     pageIdx = 0
     sentenceIdx = 0
     wordIdx = 0
     complexityIdx = 0
-
     conceptA = concept_features
     conceptB = concept_features
-
     concept_refs = {}
     concept_count = len(conceptA)
     curr_concept_count = 0
@@ -66,8 +63,7 @@ def createReferenceFeatures(path="results\\", filename='Networking_concepts.csv'
                 else:
                     ref_line_dist = 0
                     ref_word_dist = 0
-
-
+                # build concept pair features
                 if (c_A_concept, c_B_concept) not in concept_refs:
                     concept_refs[(c_A_concept, c_B_concept)] = [ref_chap_dist, 
                         ref_page_dist, ref_line_dist, ref_word_dist, 1, ref_line_flag, ref_word_flag, ref_complexity_dist, 0, 0]
@@ -79,27 +75,29 @@ def createReferenceFeatures(path="results\\", filename='Networking_concepts.csv'
                     concept_refs[(c_A_concept, c_B_concept)][4] += 1
                     concept_refs[(c_A_concept, c_B_concept)][5] += ref_line_flag
                     concept_refs[(c_A_concept, c_B_concept)][6] += ref_word_flag
-
+        # write out concept features
         curr_concept_count += 1
         print("Concept ", curr_concept_count, " completed of total ", concept_count)
 
     filename = filename.split(".")[0] + "_features.csv"
-
     # clear file content
     f = open(path + filename , 'w')
     f.truncate(0) # need '0' when using r+
     f.close()
-        
     with open(path+filename, 'a', newline="", encoding="utf-8") as concept_file:
         for key,value in concept_refs.items():
             out_val = key[0] + "," + key[1] + "," + str(value[0]) + "," + str(value[1]) + "," + \
                 str(value[2]) + "," + str(value[3]) + "," + str(value[4]) + "," + \
                     str(value[5]) + "," + str(value[6]) + "," + str(value[7]) + "\n"
             concept_file.write(out_val)
-    
-    return
 
-#createReferenceFeatures(path="results\\", filename='Networking_concepts.csv')
-createReferenceFeatures(path="results\\", filename='Economics_concepts.csv')
-createReferenceFeatures(path="results\\", filename='Physics_concepts.csv')
+
+# createReferenceFeatures(path="results\\", filename='Networking_concepts.csv')
+# createReferenceFeatures(path="results\\", filename='Economics_concepts.csv')
+# createReferenceFeatures(path="results\\", filename='Physics_concepts.csv')
+# createReferenceFeatures(path="results\\", filename='olidata.csv')
+
+
+createReferenceFeatures(path="results\\", filename='pythondatasciencehandbook_concepts.csv')
+createReferenceFeatures(path="results\\", filename='Foundations of Data Science - Cornell CS_concepts.csv')
             

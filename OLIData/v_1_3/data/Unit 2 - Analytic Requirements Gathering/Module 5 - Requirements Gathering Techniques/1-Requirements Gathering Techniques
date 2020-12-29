@@ -1,0 +1,34 @@
+
+
+The process of discovering the requirements of stakeholders and systems is
+called Requirements Gathering.  The requirements gathering process involves
+eliciting user and system needs, defining the formal requirements from those
+needs, and evaluating the success of the requirements gathering process. The
+data science project team will understand needs of the system and stakeholders
+set by the business team and end-users (elicit needs/expectations) and then
+analyze and align the expectations to the business and analytic objectives to
+define the requirements for the project.
+
+Requirements gathering should be performed systematically to ensure that
+information is extracted from diverse sources. This will ensure that little to
+no bias is introduced during the process and all user and system needs are
+represented and met. It is important to note that different scenarios and
+circumstances call for a specific type of requirements gathering technique.
+
+Requirements Gathering Techniques
+
+  * Interviews. Interviews allow the project team to thoroughly investigate the needs of the stakeholder. Interview questions are usually open-ended providing an opportunity for the respondent to provide information about various aspects of the business, and identify performance gaps specific to their roles. Bear in mind that this can be a time consuming process; to ensure that an interview yields the right information, an interviewer should develop questions that answer the right questions, and in certain cases probe for answers to get useful information related to the business, system and user. Interviews can be conducted in a one-on-one setting or in a group setting. 
+
+  * Brainstorming. Brainstorming sessions involve gathering ideas from multiple stakeholders at once. In a brainstorming session, a facilitator monitors the session to ensure all possible solutions are identified and all parties contribute to the process in a reasonable amount of time. 
+
+This technique can yield new ideas and themes that would otherwise be
+difficult for the analyst to produce. A brainstorming session should have five
+to eight representatives from each shareholder group including management,
+users, and support staff.
+
+  * Questionnaires. The project team will distribute predefined questions to stakeholders in the company. The feedback from the questionnaires will be analyzed and used to define the project requirements. A well designed questionnaire can be completed by non-technical system users and stakeholders with little or no guidance from the project team. This technique can be used when interviews are not possible due to budget, time and scheduling constraints. 
+
+  * Document Analysis. This is an information gathering technique that involves reviewing existing documentation to elicit needs. Document analysis can be the first step in the requirements gathering process and it can be used to create questions for questionnaires or interview sessions. Document analysis is considered a supporting technique and can serve as a completeness check for requirements. 
+
+  * Facilitated Workshops. The workshop is facilitated by a neutral party usually, an outside consultant whose task is to collect information from stakeholders. This workshop is also known as a Joint Application Design session. These workshops should be structured yet interactive; facilitated workshops can lead to the discovery of underlying issues within the business. A successfully executed workshop can result in the development of requirements. Participants of a workshop include a Scribe who records the discussions taking place during the session; an Executive Sponsor who has the authority to make decisions about the project, the sponsor will set the vision of the project, and resolve conflicts, the appropriate client stakeholders, Subject Matter Experts and Silent Observers. 
+

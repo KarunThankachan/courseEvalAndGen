@@ -1,0 +1,88 @@
+
+
+MotoManager Case-in-Point
+
+Here is an example of an AI consulting firm that used the EVP framework to
+meet the business needs of a popular automotive services provider.
+
+Mr. Tire-Monro Muffler and Brake (a subsidiary of Monro Inc.) is a top-50
+automotive parts and general repair services provider in the U.S., with over
+320 locations nationwide. In general, the automotive services industry
+struggles with customer retention. Companies record many one-time-only
+transactions (frequently with a deep-discount coupon), but fewer transactions
+from repeat customers (who typically provide much more revenue per year per
+customer). Lack of customer “stickiness” leads to a) less potential revenue,
+and b) less data about customers in general, which could potentially be used
+to offer specific products and services to individual customers. Attempts to
+increase customer acquisition and retention via email marketing, and
+television and online advertisements did little to increase the proportion of
+repeat customers.
+
+Monro Inc. (the parent company of Mr. Tire) approached Cognistx (an AI
+applications company) to develop a data-driven solution to improve customer
+acquisition and retention. The video above provides a brief summary of how
+Cognistx engaged with Mr. Tire to develop MotoManager, a mobile app that was
+deployed by Mr. Tire. This solution led to measured increases in customer
+acquisition and retention, as well as increased revenue.
+
+The Cognistx data science team met with the business leaders of Monro Inc. to
+gain an understanding of the company’s business needs related to customer
+retention. The data science team identified and interviewed all stakeholders
+from the business and technical teams at Monro Inc including the Data
+Management, Information Technology, and Service Management teams. The IT
+managers provided information about the company’s data asset management
+structure including data governance, data architecture, and data security
+management. Accessible and reliable data is important to the solution vision
+process; a company without adequate data management can not support an
+analytical solution that might meet their business needs.
+
+Additional Reading
+
+Data Management in the Enterprise
+
+Finally, service managers were interviewed on customer service difficulties
+that could be addressed by the proposed solution. The service managers also
+identified the hardware and software gaps in the various stores around the
+country. Once the interviews were completed, the Cognistx data science team
+formulated business objectives that would meet Monro Inc.’s business needs.
+The business objectives included:
+
+  * Create an application that provides customers with a customized service experience for their automotive needs. 
+
+  * Offer customers $50 coupon to download Monro Inc mobile app. 
+
+  * Onboard customers to the application with the creation of customer profiles. 
+
+  * Provide tailored customer service management to very important (VIP) customers. 
+
+  * Classify customers as VIP customers based on defined characteristics. 
+
+  * Create a loyalty program to increase repeat customer transactions. 
+
+Business objectives should be measurable to ensure that business needs are
+met. The metrics used to assess the success of the project were measured by:
+
+  * Count of people who installed the app and on-boarded upon receiving a $50 e-coupon. 
+
+  * The number of times an on-boarded customer visited a store close to them. 
+
+  * Number of transactions completed with the app. 
+
+  * Total amount of money generated via the app compared to total amount of money used to maintain the app. 
+
+  * A model that can predict a repeat customer from on-boarded customers with an accuracy of 85% 
+
+The metrics were both technical (precision and accuracy of model) and business
+related (calculate return-on-investment).
+
+Based on the business objectives, Cognistx developed an AI-enabled application
+for Monro Inc called MotoManager. MotoManager captures a comprehensive profile
+of customers through an onboarding process. Monro Inc. sends a $50 coupon
+incentive to current and potential customers. This coupon can be retrieved
+when a customer installs the application and completes their user profile. The
+MotoManager app uses customer data to provide customized reward incentives for
+booking services and making purchases from a customer’s local Mr. Tire store.
+As of 2019, the app has a 53,000 user strength and Monro Inc has reported
+significant increases in customer engagement and retention. The company has
+generated over $14 million US dollars from app-based transactions.
+

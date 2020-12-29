@@ -1,0 +1,6 @@
+
+
+  * There is a tradeoff between model accuracy and model interpretation. Models that are easily interpretable tend to be less accurate and models that are highly accurate tend to be less interpretable. We want to be able to explain a model to a human being to ensure there is better decision making for your client and their end users.
+
+  * Interpretability is important in the model building process as we want to know why models produce the results they have produced. Understanding the why behind results will lead to early bias detection (and prevention for future challenges), better acceptance, model debugging, and to satisfy human curiosity. 
+

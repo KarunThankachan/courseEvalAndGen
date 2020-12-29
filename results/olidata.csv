@@ -1,0 +1,2422 @@
+computing,40,51,8,93
+computing,42,55,3,100
+computing,56,86,12,36
+computing,71,109,5,44
+multiple,1,2,6,124
+multiple,9,9,13,63
+multiple,17,21,0,54
+multiple,17,21,3,75
+multiple,20,24,15,74
+multiple,25,29,12,52
+multiple,32,39,8,76
+multiple,34,41,10,58
+multiple,40,52,4,55
+multiple,45,64,3,18
+multiple,48,71,12,54
+multiple,48,71,13,160
+multiple,48,72,1,101
+multiple,48,72,2,80
+multiple,48,72,4,61
+multiple,49,74,12,51
+multiple,49,74,13,44
+multiple,49,74,15,96
+multiple,49,76,8,87
+multiple,53,81,10,44
+multiple,56,85,0,101
+multiple,56,85,4,28
+multiple,62,93,6,86
+multiple,70,106,11,25
+multiple,70,107,0,17
+one-hot encoding,40,52,4,76
+handling,36,44,16,55
+handling,36,45,7,101
+handling,36,46,6,72
+dropping,40,50,11,37
+dropping,40,50,16,15
+dropping,42,56,3,86
+applications,4,4,6,71
+applications,22,27,10,119
+applications,60,89,10,84
+median,40,50,18,37
+median,44,58,3,15
+median,44,58,4,4
+median,44,58,5,35
+median,44,58,14,38
+median,44,61,14,147
+right,1,2,15,84
+right,16,19,11,101
+right,19,23,1,150
+right,22,25,4,153
+right,25,29,9,95
+right,26,30,12,92
+right,34,41,13,164
+right,39,48,9,79
+right,44,62,14,216
+right,45,63,6,109
+right,46,68,12,216
+right,47,70,20,30
+right,49,74,5,46
+right,49,77,7,28
+right,56,86,7,34
+right,60,89,12,78
+right,67,101,5,103
+right,68,102,0,111
+right,70,103,1,98
+model validation,41,53,9,22
+python,44,62,0,38
+categories of,10,10,1,66
+categories of,11,11,10,17
+categories of,36,47,10,68
+splitting,40,52,11,23
+splitting,56,85,14,78
+splitting,56,86,16,24
+splitting,61,90,15,35
+bias,9,9,11,73
+bias,25,29,4,35
+bias,28,33,4,128
+bias,32,39,3,141
+bias,35,42,5,44
+bias,35,42,14,155
+bias,35,42,20,127
+bias,35,43,12,38
+bias,41,53,1,111
+bias,41,53,2,5
+bias,41,53,3,45
+bias,41,53,5,8
+bias,41,53,11,47
+bias,41,53,14,40
+bias,41,54,4,13
+bias,41,54,6,26
+bias,41,54,7,63
+bias,41,54,9,41
+bias,41,54,10,31
+bias,41,54,12,43
+bias,41,54,13,51
+bias,45,64,5,39
+bias,55,83,0,7
+bias,55,83,1,5
+bias,55,83,6,128
+bias,55,83,7,4
+bias,55,83,10,19
+bias,55,83,11,68
+bias,55,83,13,155
+bias,55,84,3,176
+bias,55,84,4,23
+bias,55,84,6,5
+bias,55,84,8,53
+bias,55,84,10,41
+bias,56,86,5,91
+bias,56,86,6,45
+bias,56,86,8,153
+bias,56,86,11,31
+bias,56,86,13,28
+bias,56,86,17,30
+bias,67,101,13,10
+bias,68,102,11,70
+bias,70,104,13,105
+bias,70,105,1,89
+bias,70,105,3,61
+bias,70,107,1,131
+bias,70,107,8,35
+ease of use,22,27,9,17
+ease of use,40,51,11,33
+collaboration,12,14,17,82
+data management,4,4,12,101
+data management,23,28,12,77
+data management,28,32,12,69
+data management,28,32,13,72
+data management,28,33,16,4
+data management,28,34,1,72
+data management,28,34,2,4
+data management,28,34,4,159
+data management,28,34,5,4
+data management,28,34,7,88
+data management,29,35,1,49
+data management,29,35,3,55
+data management,29,35,5,261
+data management,29,35,7,104
+data management,34,40,12,93
+classification task,39,48,8,18
+classification task,48,71,11,89
+classification task,48,71,13,43
+classification task,48,72,6,73
+classification task,48,72,16,25
+classification task,60,89,12,101
+value,16,20,6,144
+value,20,24,16,119
+value,28,33,5,47
+value,31,36,5,23
+value,31,36,10,54
+value,34,40,1,74
+value,34,40,15,117
+value,35,43,22,106
+value,36,44,2,68
+value,36,44,4,79
+value,36,44,6,55
+value,36,44,7,129
+value,36,44,8,102
+value,36,44,9,31
+value,36,44,16,72
+value,36,44,17,28
+value,36,44,18,16
+value,36,45,0,9
+value,36,45,1,20
+value,36,45,5,71
+value,36,45,6,40
+value,36,45,7,55
+value,36,45,8,48
+value,36,45,9,97
+value,36,45,11,83
+value,36,45,12,58
+value,36,45,13,41
+value,36,45,15,109
+value,36,45,20,71
+value,36,46,2,21
+value,36,46,3,4
+value,36,46,5,42
+value,36,46,6,44
+value,36,46,17,52
+value,36,46,18,7
+value,36,46,23,46
+value,36,47,14,75
+value,39,48,12,78
+value,39,49,13,175
+value,40,50,8,8
+value,40,50,9,8
+value,40,50,10,38
+value,40,50,13,30
+value,40,50,16,138
+value,40,50,18,52
+value,40,50,20,33
+value,40,50,21,16
+value,40,51,3,52
+value,40,51,12,40
+value,40,52,7,41
+value,40,52,8,44
+value,40,52,9,39
+value,40,52,13,93
+value,41,54,3,35
+value,41,54,4,84
+value,42,56,12,59
+value,42,56,14,18
+value,42,56,15,12
+value,44,57,13,76
+value,44,58,2,18
+value,44,58,3,22
+value,44,58,4,11
+value,44,58,12,31
+value,44,58,15,14
+value,44,58,20,18
+value,44,59,0,1
+value,44,59,1,62
+value,44,59,2,44
+value,44,59,7,32
+value,44,59,12,101
+value,44,59,13,44
+value,44,60,1,113
+value,44,60,2,21
+value,44,60,3,38
+value,44,60,4,39
+value,44,60,6,85
+value,44,61,6,102
+value,44,61,9,19
+value,44,61,14,39
+value,44,61,15,6
+value,44,62,5,45
+value,45,64,4,67
+value,45,64,5,62
+value,45,65,1,48
+value,45,65,2,43
+value,45,65,11,59
+value,45,65,12,81
+value,45,65,13,6
+value,45,65,16,53
+value,49,73,0,45
+value,49,73,4,147
+value,49,75,2,57
+value,49,75,6,105
+value,49,75,16,31
+value,49,76,0,8
+value,49,76,1,124
+value,49,77,1,100
+value,49,77,6,257
+value,49,77,14,2
+value,53,81,8,147
+value,53,81,11,218
+value,55,84,0,10
+value,55,84,1,18
+value,56,86,1,90
+value,56,86,7,40
+value,56,86,13,14
+value,59,88,5,122
+value,60,89,8,108
+value,61,90,7,57
+value,61,90,8,86
+value,61,90,9,53
+value,61,91,20,81
+value,62,93,16,103
+value,63,95,4,128
+value,63,95,9,108
+value,64,97,10,22
+value,64,98,5,47
+value,64,98,7,53
+value,70,103,7,99
+value,70,103,8,79
+value,70,105,0,69
+value,70,105,6,2
+value,70,105,10,38
+value,70,105,11,179
+value,70,106,13,68
+value,70,107,0,140
+value,70,107,7,2
+value,70,107,9,167
+hyperparameters,11,12,5,126
+media files,31,37,8,11
+detecting,62,93,4,45
+roles,17,21,0,123
+roles,17,21,4,25
+roles,19,22,8,37
+roles,19,23,11,79
+roles,25,29,8,197
+end users,5,6,14,163
+end users,67,101,1,115
+authentication,22,27,4,153
+discussions,28,32,9,26
+network,8,7,14,35
+network,11,12,5,186
+network,14,18,2,451
+scaling,2,3,6,140
+products,2,3,3,80
+products,4,4,4,161
+products,5,6,10,127
+products,5,6,14,104
+products,16,19,9,118
+products,45,66,12,62
+feature engineering and,16,20,20,144
+feature engineering and,40,50,3,54
+silos,29,35,5,241
+compute,50,78,5,62
+compute,59,88,13,19
+compute,62,93,11,6
+compute,70,107,0,184
+compute,70,107,9,88
+compute,71,109,3,18
+incremental,13,16,2,62
+incremental,13,16,6,115
+creating,17,21,17,69
+creating,35,43,21,63
+creating,36,46,15,87
+creating,42,55,1,109
+creating,47,69,6,19
+creating,61,90,15,49
+security,4,4,11,144
+security,22,27,7,215
+security,22,27,12,77
+security,29,35,1,112
+clients,5,6,2,29
+clients,8,7,3,99
+clients,17,21,14,39
+clients,67,101,0,90
+levels,22,27,4,145
+levels,36,46,9,130
+levels,36,46,12,50
+levels,36,46,13,16
+levels,36,46,14,37
+levels,36,46,19,91
+boosting,62,94,7,20
+boosting,62,94,11,25
+boosting,63,95,18,20
+services,4,4,0,153
+services,4,4,1,110
+services,4,4,2,27
+services,4,4,4,174
+services,5,6,10,140
+services,5,6,14,117
+services,17,21,13,100
+partitioning,61,90,10,142
+partitioning,61,90,13,60
+partitioning,61,91,0,12
+errors,26,30,1,28
+errors,26,30,8,81
+errors,32,39,9,67
+errors,32,39,10,84
+errors,36,44,2,93
+errors,40,50,9,45
+errors,42,55,6,86
+errors,54,82,0,106
+errors,54,82,3,41
+errors,54,82,6,75
+errors,54,82,9,21
+errors,54,82,12,63
+errors,62,93,4,33
+errors,68,102,7,20
+errors,70,106,5,109
+errors,70,106,6,27
+errors,70,107,9,46
+time series,44,59,4,19
+perspective,9,8,5,87
+perspective,34,41,10,83
+machine learning,8,7,13,45
+machine learning,11,11,13,50
+machine learning,12,15,1,31
+machine learning,12,15,20,10
+machine learning,17,21,7,48
+machine learning,17,21,22,162
+machine learning,31,37,2,77
+machine learning,39,48,7,78
+machine learning,39,49,7,164
+machine learning,39,49,9,33
+machine learning,40,51,13,153
+machine learning,40,52,14,14
+machine learning,61,90,6,101
+machine learning,62,94,12,19
+machine learning,67,101,6,50
+machine learning,67,101,14,32
+machine learning,70,105,17,45
+components,14,18,3,286
+components,49,73,16,37
+structured,28,34,11,289
+structured,31,37,4,17
+structured,31,37,6,2
+structured,31,37,8,69
+structured,31,37,9,78
+structured,31,37,10,7
+structured,34,41,9,107
+engage,2,3,9,31
+engage,4,4,7,57
+engage,5,6,5,52
+engage,8,7,3,11
+engage,8,7,9,267
+engage,9,8,5,206
+engage,64,96,9,211
+cross-validation,61,91,21,81
+software,4,5,2,54
+software,5,6,13,103
+software,13,16,10,81
+software,17,21,16,38
+software,19,22,9,23
+software,22,25,13,54
+software,22,26,2,23
+software,22,27,4,42
+software,22,27,10,67
+software,22,27,15,106
+facebook,35,43,8,123
+characteristics,4,5,8,55
+characteristics,20,24,3,26
+characteristics,27,31,8,246
+characteristics,45,63,4,14
+characteristics,45,63,5,4
+characteristics,48,71,8,54
+characteristics,64,96,4,37
+characteristics,70,105,14,38
+attributes,22,27,7,56
+attributes,22,27,16,98
+attributes,41,54,7,101
+attributes,45,63,3,45
+attributes,59,87,2,74
+attributes,63,95,2,74
+variance,40,51,3,69
+variance,42,56,5,81
+variance,42,56,11,16
+variance,42,56,12,6
+variance,44,59,10,51
+variance,44,59,14,55
+variance,44,60,15,52
+variance,44,60,16,2
+variance,44,61,2,33
+variance,45,64,6,50
+variance,45,64,7,58
+variance,49,77,5,74
+variance,55,83,2,4
+variance,55,83,3,5
+variance,55,83,6,192
+variance,55,83,7,9
+variance,55,83,9,145
+variance,55,83,11,5
+variance,55,83,13,164
+variance,55,84,3,141
+variance,55,84,4,32
+variance,55,84,6,24
+variance,55,84,8,111
+variance,55,84,10,50
+variance,56,86,5,104
+variance,56,86,6,58
+variance,56,86,8,162
+variance,56,86,12,12
+variance,56,86,13,37
+variance,62,93,5,16
+variance,62,93,7,43
+variance,63,95,15,16
+variance,70,106,14,171
+variance,70,107,8,60
+second,31,38,3,59
+second,31,38,15,14
+second,35,42,17,101
+second,65,99,0,22
+clustering,45,64,18,36
+clustering,50,78,3,29
+clustering,50,78,5,8
+clustering,50,78,6,75
+clustering,50,78,11,13
+clustering,50,78,13,31
+clustering,50,78,14,42
+clustering,64,96,7,24
+clustering,65,99,0,37
+clustering,65,99,1,21
+clustering,65,99,2,47
+clustering,65,99,3,63
+clustering,71,108,3,39
+clustering,71,108,5,47
+clustering,71,108,10,30
+clustering,71,108,11,62
+clustering,71,108,13,84
+clustering,71,109,0,38
+clustering,71,109,1,7
+clustering,71,109,8,50
+clustering,71,109,10,66
+clustering,71,109,16,39
+objects,10,10,5,83
+challenges,34,41,1,53
+challenges,67,101,8,90
+decision trees,61,91,15,28
+decision trees,61,92,10,46
+decision trees,62,93,14,31
+decision trees,62,93,16,33
+decision trees,62,94,7,105
+decision trees,62,94,14,121
+decision trees,63,95,17,31
+decision trees,63,95,18,105
+classification,10,10,4,20
+classification,10,10,8,5
+classification,11,11,10,209
+classification,31,36,1,138
+classification,39,48,8,18
+classification,41,54,7,3
+classification,41,54,8,22
+classification,41,54,9,26
+classification,48,71,3,25
+classification,48,71,5,44
+classification,48,71,6,76
+classification,48,71,11,60
+classification,48,71,13,43
+classification,48,71,15,78
+classification,48,72,0,7
+classification,48,72,1,19
+classification,48,72,3,17
+classification,48,72,6,73
+classification,48,72,10,37
+classification,48,72,11,53
+classification,48,72,16,25
+classification,49,73,2,73
+classification,49,74,14,32
+classification,51,79,11,60
+classification,51,79,14,46
+classification,54,82,11,45
+classification,59,87,9,38
+classification,60,89,12,101
+classification,61,90,0,88
+classification,61,90,10,103
+classification,61,91,2,20
+classification,61,92,9,3
+classification,62,93,17,15
+classification,63,95,10,87
+classification,64,98,13,20
+classification,70,103,5,79
+classification,70,104,3,81
+classification,70,104,6,32
+classification,70,105,4,51
+classification,70,105,5,74
+classification,70,106,10,52
+classification,71,108,5,160
+classification,71,109,12,18
+interfaces,19,22,3,108
+data analysis,12,15,19,189
+data analysis,17,21,9,50
+data analysis,31,38,10,77
+data analysis,35,42,5,56
+data analysis,36,45,19,79
+data analysis,36,46,4,29
+data analysis,39,48,0,183
+data analysis,41,53,7,42
+data analysis,42,55,0,73
+data analysis,44,57,0,19
+data analysis,44,59,15,27
+data analysis,44,61,7,104
+data analysis,44,62,17,29
+data analysis,45,63,1,56
+data analysis,46,68,0,21
+data analysis,46,68,14,56
+presence,48,71,8,42
+presence,71,108,1,4
+presence,71,108,15,178
+outliers,16,20,6,112
+outliers,28,33,5,67
+outliers,35,43,22,41
+outliers,36,46,1,100
+outliers,36,46,4,66
+outliers,40,51,6,83
+outliers,40,51,8,76
+outliers,40,51,11,76
+outliers,44,57,3,61
+outliers,44,58,5,110
+outliers,44,60,6,133
+outliers,44,60,13,50
+outliers,44,61,8,35
+outliers,44,61,9,43
+outliers,44,61,11,17
+outliers,44,61,16,97
+outliers,46,68,3,58
+outliers,49,74,6,71
+outliers,49,76,6,28
+working with,17,21,11,79
+working with,55,83,7,48
+billing,22,26,10,67
+billing,22,26,13,34
+billing,22,26,14,78
+billing,22,26,15,39
+billing,22,27,0,68
+billing,22,27,1,58
+word,44,58,11,29
+word,44,62,7,64
+storage,28,34,11,321
+two-dimensional,47,70,0,1
+pattern,9,9,7,63
+pattern,11,11,0,76
+pattern,11,11,11,48
+pattern,12,14,1,96
+pattern,12,14,7,71
+pattern,17,21,8,38
+pattern,35,42,20,87
+pattern,51,79,0,18
+pattern,52,80,0,21
+pattern,52,80,1,16
+pattern,54,82,6,157
+pattern,64,96,0,62
+note,13,16,6,13
+note,25,29,5,19
+note,28,34,4,86
+note,36,44,7,7
+note,36,47,5,7
+note,41,53,8,67
+note,45,64,13,9
+note,45,67,5,36
+note,45,67,7,46
+note,49,73,16,93
+note,49,74,9,112
+note,49,76,1,44
+note,61,91,8,4
+learning,8,7,3,38
+learning,8,7,13,53
+learning,11,11,10,105
+learning,11,11,11,13
+learning,11,11,12,16
+learning,11,11,13,58
+learning,11,12,8,65
+learning,12,15,1,39
+learning,12,15,20,18
+learning,14,17,7,341
+learning,17,21,7,56
+learning,17,21,22,170
+learning,31,37,2,85
+learning,39,48,7,86
+learning,39,49,7,172
+learning,39,49,9,41
+learning,40,51,13,161
+learning,40,52,14,22
+learning,45,63,3,26
+learning,48,72,17,90
+learning,51,79,4,4
+learning,51,79,6,22
+learning,51,79,15,45
+learning,52,80,2,7
+learning,52,80,3,4
+learning,52,80,4,73
+learning,52,80,5,7
+learning,54,82,6,115
+learning,55,83,0,64
+learning,55,83,7,77
+learning,55,83,9,42
+learning,56,86,10,26
+learning,59,87,0,39
+learning,59,87,5,23
+learning,59,87,16,20
+learning,61,90,6,109
+learning,62,93,4,9
+learning,62,94,12,27
+learning,63,95,0,16
+learning,64,96,0,125
+learning,64,96,1,13
+learning,64,98,14,59
+learning,67,101,6,58
+learning,67,101,10,86
+learning,67,101,14,40
+learning,70,105,17,53
+learning,71,108,0,70
+calc,4,5,15,184
+calc,35,43,4,161
+calc,44,57,15,9
+calc,44,58,3,3
+calc,44,58,4,153
+calc,44,58,20,32
+calc,44,59,14,20
+calc,44,62,5,4
+calc,45,63,13,59
+calc,45,65,8,3
+calc,45,65,9,7
+calc,45,65,14,3
+calc,49,77,1,51
+calc,49,77,5,13
+calc,50,78,9,93
+calc,54,82,11,29
+calc,56,86,11,39
+calc,60,89,0,17
+calc,62,94,4,134
+calc,64,97,10,351
+calc,70,104,11,79
+calc,70,104,14,6
+calc,70,105,0,79
+calc,70,105,2,21
+calc,70,107,4,28
+calc,71,108,14,6
+calc,71,109,3,30
+calc,71,109,13,8
+analysis,1,2,1,15
+analysis,5,6,4,185
+analysis,5,6,9,12
+analysis,9,9,2,16
+analysis,10,10,5,28
+analysis,11,13,9,153
+analysis,12,15,1,18
+analysis,12,15,2,200
+analysis,12,15,19,194
+analysis,14,18,3,399
+analysis,16,20,0,5
+analysis,16,20,2,82
+analysis,16,20,3,114
+analysis,16,20,6,90
+analysis,17,21,9,55
+analysis,17,21,19,35
+analysis,22,26,3,28
+analysis,23,28,7,91
+analysis,23,28,9,119
+analysis,23,28,10,51
+analysis,27,31,11,212
+analysis,28,34,11,154
+analysis,29,35,1,153
+analysis,31,36,1,47
+analysis,31,38,10,82
+analysis,34,40,5,27
+analysis,34,40,11,100
+analysis,35,42,5,61
+analysis,35,42,6,119
+analysis,36,45,9,66
+analysis,36,45,18,90
+analysis,36,45,19,84
+analysis,36,46,4,34
+analysis,36,46,13,70
+analysis,39,48,0,188
+analysis,41,53,7,47
+analysis,42,55,0,78
+analysis,42,56,5,20
+analysis,42,56,6,22
+analysis,44,57,0,24
+analysis,44,59,15,32
+analysis,44,61,7,109
+analysis,44,62,9,85
+analysis,44,62,17,34
+analysis,45,63,1,61
+analysis,45,63,11,147
+analysis,45,64,18,47
+analysis,45,64,19,242
+analysis,46,68,0,26
+analysis,46,68,14,61
+analysis,49,73,0,119
+analysis,49,73,8,22
+analysis,49,73,10,11
+analysis,49,74,4,49
+analysis,49,74,6,27
+analysis,49,76,6,105
+analysis,49,76,8,57
+analysis,50,78,2,8
+analysis,51,79,3,101
+analysis,62,93,11,48
+analysis,64,96,3,62
+analysis,64,96,8,24
+analysis,64,98,4,64
+analysis,70,105,16,38
+similar,11,13,9,128
+similar,16,19,8,67
+similar,41,54,7,112
+similar,44,60,1,26
+similar,48,72,17,140
+similar,50,78,1,90
+similar,50,78,7,55
+similar,50,78,12,122
+similar,50,78,14,130
+similar,52,80,7,45
+similar,59,88,2,171
+similar,59,88,5,87
+similar,59,88,14,46
+similar,60,89,8,90
+similar,61,91,15,48
+similar,63,95,1,11
+similar,63,95,9,90
+similar,64,96,7,63
+similar,64,96,16,155
+similar,64,97,0,47
+similar,64,97,7,60
+similar,64,97,8,24
+similar,64,98,11,28
+similar,65,99,16,90
+similar,65,100,6,109
+similar,65,100,8,27
+similar,65,100,11,24
+similar,65,100,15,64
+similar,67,101,12,67
+similar,70,104,13,65
+similar,70,106,6,9
+similar,71,108,7,55
+similar,71,108,13,138
+similar,71,109,0,64
+similar,71,109,11,25
+similar,71,109,12,8
+state,2,3,2,22
+state,2,3,5,21
+state,8,7,3,156
+state,9,8,3,43
+state,9,8,6,216
+state,11,11,2,4
+state,11,11,10,64
+state,11,11,14,37
+state,11,12,3,44
+state,11,12,6,43
+state,11,13,5,268
+state,13,16,0,42
+state,13,16,1,186
+state,13,16,3,64
+state,14,17,4,76
+state,14,17,5,50
+state,14,18,0,238
+state,14,18,2,879
+state,22,27,11,71
+state,27,31,4,33
+state,28,33,10,45
+state,29,35,9,89
+state,40,52,12,110
+state,44,59,15,131
+state,45,67,0,72
+state,61,90,2,143
+state,70,104,2,3
+state,70,106,12,140
+trace,20,24,9,29
+trace,22,27,2,47
+trace,26,30,3,116
+trace,26,30,6,76
+clustering,45,64,18,36
+clustering,50,78,3,29
+clustering,50,78,5,8
+clustering,50,78,6,75
+clustering,50,78,11,13
+clustering,50,78,13,31
+clustering,50,78,14,42
+clustering,64,96,7,24
+clustering,65,99,0,37
+clustering,65,99,1,21
+clustering,65,99,2,47
+clustering,65,99,3,63
+clustering,71,108,3,39
+clustering,71,108,5,47
+clustering,71,108,10,30
+clustering,71,108,11,62
+clustering,71,108,13,84
+clustering,71,109,0,38
+clustering,71,109,1,7
+clustering,71,109,8,50
+clustering,71,109,10,66
+clustering,71,109,16,39
+labeling,10,10,4,47
+labeling,10,10,5,46
+labeling,52,80,4,112
+feature,9,9,1,89
+feature,10,10,13,229
+feature,11,12,5,35
+feature,11,13,8,91
+feature,11,13,9,26
+feature,11,13,10,47
+feature,12,14,4,34
+feature,14,18,0,310
+feature,16,20,6,163
+feature,16,20,12,222
+feature,16,20,13,98
+feature,16,20,20,144
+feature,34,41,11,63
+feature,34,41,13,65
+feature,36,45,3,152
+feature,39,48,5,12
+feature,39,48,6,30
+feature,39,48,8,65
+feature,39,48,9,34
+feature,39,48,10,7
+feature,39,48,12,46
+feature,39,48,13,27
+feature,39,49,1,29
+feature,39,49,2,30
+feature,39,49,3,38
+feature,39,49,4,158
+feature,39,49,5,10
+feature,39,49,7,81
+feature,39,49,9,148
+feature,39,49,13,11
+feature,39,49,14,15
+feature,39,49,15,44
+feature,39,49,17,25
+feature,40,50,0,110
+feature,40,50,1,25
+feature,40,50,3,54
+feature,40,50,4,85
+feature,40,50,7,95
+feature,40,52,6,119
+feature,40,52,8,168
+feature,40,52,10,175
+feature,40,52,11,33
+feature,40,52,14,73
+feature,40,52,15,72
+feature,41,53,8,82
+feature,41,53,10,14
+feature,41,53,12,85
+feature,41,53,13,4
+feature,41,54,13,225
+feature,42,55,6,41
+feature,42,55,7,33
+feature,42,55,9,76
+feature,42,55,11,73
+feature,42,55,12,20
+feature,42,55,13,66
+feature,42,56,1,66
+feature,42,56,17,74
+feature,48,71,0,81
+feature,48,71,1,81
+feature,50,78,1,98
+feature,51,79,5,74
+feature,55,83,1,76
+feature,59,87,3,38
+feature,60,89,11,132
+feature,61,91,9,34
+feature,62,93,17,80
+feature,62,94,0,27
+feature,62,94,1,56
+feature,62,94,2,19
+feature,62,94,3,43
+feature,62,94,4,95
+feature,64,96,1,132
+datasets,11,13,6,93
+datasets,12,14,14,23
+datasets,12,15,19,79
+datasets,14,17,7,377
+datasets,14,18,1,60
+datasets,16,20,12,50
+datasets,34,41,3,44
+datasets,34,41,5,24
+datasets,42,55,0,107
+datasets,44,57,0,132
+datasets,46,68,0,134
+datasets,59,87,1,81
+datasets,62,93,4,129
+datasets,62,93,6,161
+datasets,63,95,1,132
+lists,11,13,6,230
+lists,19,22,9,139
+supervised learning,11,11,11,2
+supervised learning,11,11,12,88
+supervised learning,11,12,8,54
+supervised learning,14,17,7,330
+supervised learning,48,72,17,79
+supervised learning,51,79,4,45
+supervised learning,55,83,7,66
+supervised learning,55,83,9,31
+supervised learning,64,96,0,114
+supervised learning,64,96,1,2
+supervised learning,71,108,0,59
+maps,29,35,5,168
+infrastructure,16,19,14,117
+infrastructure,28,34,1,200
+infrastructure,28,34,3,80
+infrastructure,28,34,5,77
+instances,10,10,1,136
+instances,10,10,6,23
+instances,10,10,7,106
+instances,14,17,1,54
+instances,40,52,16,10
+discovery,28,32,1,26
+discovery,45,66,10,148
+data point,10,10,3,71
+data point,10,10,4,74
+data point,10,10,8,74
+data point,10,10,9,165
+data point,10,10,10,46
+data point,10,10,13,157
+data point,11,11,10,255
+data point,12,14,4,9
+data point,35,42,8,93
+data point,47,69,8,66
+data point,48,72,17,148
+data point,49,76,3,100
+data point,50,78,1,55
+data point,50,78,5,92
+data point,50,78,11,33
+data point,50,78,12,5
+data point,50,78,14,67
+data point,52,80,7,26
+data point,52,80,9,60
+data point,52,80,11,232
+data point,52,80,14,21
+data point,53,81,2,66
+data point,59,88,15,85
+data point,64,96,12,48
+data point,64,97,5,14
+data point,64,97,11,52
+data point,64,98,1,183
+data point,64,98,13,189
+data point,65,100,3,58
+data point,65,100,4,58
+data point,65,100,7,55
+data point,65,100,10,13
+data point,71,108,13,148
+data point,71,108,14,102
+data point,71,109,3,68
+defined,1,2,4,25
+defined,4,5,8,47
+defined,16,19,1,71
+defined,16,19,2,86
+defined,17,21,0,115
+defined,19,22,1,38
+defined,19,22,13,132
+defined,19,23,10,26
+defined,20,24,16,35
+defined,22,26,9,59
+defined,23,28,0,181
+defined,23,28,8,38
+defined,26,30,2,123
+defined,26,30,3,135
+defined,26,30,10,37
+defined,26,30,15,39
+defined,28,33,4,153
+defined,28,33,9,121
+defined,28,33,10,30
+defined,28,34,8,118
+defined,31,36,2,9
+defined,31,37,10,69
+defined,32,39,1,77
+defined,39,48,1,158
+defined,39,49,15,34
+defined,42,55,5,33
+defined,48,71,7,109
+defined,48,72,8,27
+defined,49,77,12,12
+defined,59,87,11,20
+defined,68,102,8,16
+defined,70,103,7,21
+feature engineering,16,20,20,144
+feature engineering,34,41,11,63
+feature engineering,34,41,13,65
+feature engineering,36,45,3,152
+feature engineering,39,49,4,158
+feature engineering,39,49,5,10
+feature engineering,39,49,9,148
+feature engineering,39,49,13,11
+feature engineering,39,49,15,142
+feature engineering,40,50,3,54
+feature engineering,40,50,4,85
+feature engineering,40,50,7,95
+feature engineering,41,53,8,82
+feature engineering,41,53,10,14
+feature engineering,41,53,13,53
+feature engineering,42,55,12,20
+feature engineering,42,55,13,66
+feature engineering,62,94,2,19
+feature engineering,64,96,1,132
+authorization,22,27,4,131
+k-means,71,108,11,54
+k-means,71,108,12,58
+communications,27,31,0,61
+communications,45,64,19,9
+underfitting,55,83,1,105
+underfitting,55,83,10,86
+dimensionality reduction,42,55,9,7
+simple linear regression,49,74,11,13
+simple linear regression,49,74,13,106
+simple linear regression,49,76,2,16
+simple linear regression,53,81,10,106
+simple linear regression,70,106,16,33
+access,11,12,6,106
+access,11,12,13,22
+access,12,14,11,12
+access,28,33,14,112
+access,28,34,11,474
+access,29,35,0,39
+access,34,40,13,122
+access,35,42,0,46
+access,56,85,4,71
+regression,10,10,8,21
+regression,11,11,10,195
+regression,11,12,9,61
+regression,11,13,8,67
+regression,11,13,9,69
+regression,36,45,4,55
+regression,49,73,1,26
+regression,49,73,8,11
+regression,49,73,12,83
+regression,49,73,15,79
+regression,49,73,16,2
+regression,49,73,17,2
+regression,49,74,3,17
+regression,49,74,4,38
+regression,49,74,5,52
+regression,49,74,6,16
+regression,49,74,7,38
+regression,49,74,8,24
+regression,49,74,11,27
+regression,49,74,13,14
+regression,49,74,15,19
+regression,49,75,10,17
+regression,49,75,13,44
+regression,49,75,15,181
+regression,49,76,1,69
+regression,49,76,2,30
+regression,49,76,4,15
+regression,49,76,5,13
+regression,49,76,6,94
+regression,49,76,7,11
+regression,49,76,8,46
+regression,49,76,11,38
+regression,49,76,17,25
+regression,49,77,2,196
+regression,51,79,11,78
+regression,51,79,14,64
+regression,53,81,6,11
+regression,53,81,9,16
+regression,53,81,10,14
+regression,55,83,6,99
+regression,59,87,9,57
+regression,61,92,10,94
+regression,61,92,12,27
+regression,62,93,17,34
+regression,63,95,4,178
+regression,70,106,14,68
+regression,70,106,16,47
+twitter,31,38,13,102
+groups,10,10,13,174
+groups,31,38,8,125
+groups,31,38,14,139
+groups,32,39,12,47
+groups,32,39,16,6
+groups,32,39,17,6
+groups,35,43,0,71
+groups,36,44,14,92
+groups,36,45,3,62
+groups,36,46,8,65
+groups,41,54,8,82
+groups,50,78,0,77
+groups,50,78,1,5
+groups,50,78,12,97
+groups,53,81,12,76
+groups,56,85,14,40
+groups,56,86,1,59
+groups,64,96,5,123
+groups,64,96,10,101
+groups,64,96,12,16
+groups,65,100,1,22
+groups,65,100,8,145
+groups,65,100,11,112
+filling,9,9,16,94
+networks,8,7,14,35
+networks,11,12,5,186
+networks,14,18,2,451
+governance,4,4,11,104
+governance,28,34,10,25
+governance,29,35,0,8
+governance,29,35,2,68
+governance,29,35,3,26
+governance,29,35,4,66
+governance,29,35,5,5
+governance,29,35,7,10
+governance,29,35,9,20
+governance,29,35,11,15
+governance,29,35,12,5
+governance,31,38,3,113
+integers,40,52,9,54
+eigenvalue,42,56,14,13
+eigenvalue,42,56,15,7
+maximizing,16,20,14,24
+confusion matrix,70,104,8,4
+subsets,36,45,22,51
+subsets,56,85,0,131
+subsets,61,90,15,58
+subsets,61,92,3,171
+subsets,62,94,3,23
+performance,11,12,12,37
+performance,14,17,5,200
+performance,14,18,0,263
+performance,14,18,2,375
+performance,16,20,10,113
+performance,16,20,11,61
+performance,16,20,12,128
+performance,16,20,14,35
+performance,16,20,18,34
+performance,16,20,19,129
+performance,17,21,21,26
+performance,22,27,5,81
+performance,22,27,7,143
+performance,25,29,8,162
+performance,34,41,13,216
+performance,40,50,2,104
+performance,40,50,8,54
+performance,40,51,1,67
+performance,40,51,2,70
+performance,40,52,10,244
+performance,41,53,2,71
+performance,42,55,15,149
+performance,44,59,4,108
+performance,44,61,7,25
+performance,48,72,10,189
+performance,49,77,8,40
+performance,54,82,8,35
+performance,55,83,13,246
+performance,55,84,7,74
+performance,56,85,0,23
+performance,56,85,2,38
+performance,61,92,9,28
+performance,61,92,14,16
+performance,61,92,15,86
+performance,62,93,0,44
+performance,62,94,13,28
+performance,63,95,12,43
+performance,70,103,1,4
+performance,70,103,3,105
+performance,70,104,8,58
+performance,70,104,10,122
+performance,70,105,13,74
+performance,70,105,17,72
+performance,70,106,3,30
+performance,71,108,1,93
+interaction,12,15,1,128
+interaction,22,25,6,29
+interaction,22,25,7,4
+interaction,22,26,4,32
+interaction,36,46,14,99
+interaction,61,91,1,46
+interaction,61,91,2,78
+output,19,22,3,95
+output,27,31,10,94
+output,49,73,0,13
+output,49,73,2,60
+output,49,73,4,95
+output,49,74,10,43
+output,49,74,14,75
+output,53,81,8,95
+output,55,83,1,96
+output,55,83,3,110
+output,56,85,10,217
+output,62,94,9,41
+output,63,95,0,73
+utility,10,10,12,81
+utility,12,14,15,57
+web,14,17,7,246
+web,28,33,7,38
+web,31,38,4,28
+web,31,38,5,14
+dimensionality,40,52,4,112
+dimensionality,42,55,4,19
+dimensionality,42,55,5,54
+dimensionality,42,55,8,33
+dimensionality,42,55,9,7
+dimensionality,42,55,14,57
+dimensionality,48,72,10,132
+dimensionality,59,87,12,38
+dimensionality,62,93,8,70
+project management,1,2,10,14
+theorem,45,64,15,24
+theorem,60,89,2,89
+theorem,60,89,3,199
+theorem,60,89,9,43
+theorem,63,95,6,41
+defining,1,2,5,12
+defining,16,19,12,18
+defining,19,22,10,108
+defining,19,22,11,123
+defining,19,23,0,185
+defining,22,25,0,98
+defining,22,25,1,98
+defining,22,25,4,140
+defining,22,26,0,10
+defining,23,28,4,89
+defining,25,29,1,77
+defining,27,31,3,20
+defining,28,32,3,60
+defining,34,40,16,169
+intervals,45,65,12,44
+connectivity,50,78,11,109
+testing,11,11,5,38
+testing,11,12,5,48
+testing,19,23,6,142
+testing,26,30,11,49
+testing,28,34,11,182
+testing,45,66,10,38
+testing,45,67,2,23
+testing,45,67,16,61
+compliance,22,27,15,125
+regression task,49,73,1,26
+regression task,51,79,11,78
+regression task,51,79,14,64
+regression task,62,93,17,34
+regression task,70,106,14,68
+number of,4,5,12,6
+number of,9,8,8,78
+number of,36,47,10,16
+number of,40,51,5,98
+number of,40,52,5,59
+number of,42,55,0,129
+number of,42,55,3,42
+number of,42,55,4,66
+number of,42,55,7,23
+number of,42,55,16,47
+number of,42,56,7,28
+number of,44,57,14,121
+number of,44,58,4,40
+number of,44,59,7,77
+number of,45,64,1,71
+number of,47,69,1,27
+number of,47,70,5,86
+number of,47,70,6,29
+number of,49,74,9,142
+number of,49,76,9,81
+number of,50,78,6,4
+number of,50,78,8,52
+number of,51,79,13,48
+number of,51,79,16,37
+number of,56,85,14,30
+number of,56,86,14,125
+number of,59,87,2,64
+number of,59,87,11,28
+number of,59,88,15,25
+number of,61,92,3,106
+number of,62,93,15,85
+number of,62,94,4,85
+number of,62,94,11,41
+number of,63,95,2,64
+number of,64,96,10,91
+number of,64,96,16,57
+number of,64,97,2,41
+number of,64,97,10,197
+number of,64,98,15,38
+number of,70,103,6,94
+number of,70,107,5,58
+number of,70,107,8,113
+number of,71,109,2,110
+number of,71,109,13,197
+number of,71,109,15,8
+number of,71,109,16,54
+obstacles,61,91,14,43
+friends,64,96,6,91
+visualization of,70,103,3,77
+of errors,54,82,12,60
+of errors,70,107,9,43
+data as,4,4,11,57
+data as,28,34,11,309
+data as,32,39,9,59
+data as,39,48,0,51
+data as,50,78,8,85
+data as,54,82,13,58
+data services,17,21,13,95
+targeted advertising,23,28,9,200
+targeted advertising,64,96,9,77
+state,2,3,2,22
+state,2,3,5,21
+state,8,7,3,156
+state,9,8,3,43
+state,9,8,6,216
+state,11,11,2,4
+state,11,11,10,64
+state,11,11,14,37
+state,11,12,3,44
+state,11,12,6,43
+state,11,13,5,268
+state,13,16,0,42
+state,13,16,1,186
+state,13,16,3,64
+state,14,17,4,76
+state,14,17,5,50
+state,14,18,0,238
+state,14,18,2,879
+state,22,27,11,71
+state,27,31,4,33
+state,28,33,10,45
+state,29,35,9,89
+state,40,52,12,110
+state,44,59,15,131
+state,45,67,0,72
+state,61,90,2,143
+state,70,104,2,3
+state,70,106,12,140
+supervised,11,11,11,2
+supervised,11,11,12,71
+supervised,11,12,1,52
+supervised,11,12,8,54
+supervised,14,17,7,330
+supervised,42,56,8,23
+supervised,48,72,17,79
+supervised,49,73,5,54
+supervised,51,79,4,45
+supervised,55,83,7,66
+supervised,55,83,9,31
+supervised,64,96,0,5
+supervised,64,96,1,2
+supervised,64,96,2,21
+supervised,64,97,9,87
+supervised,64,98,12,40
+supervised,64,98,13,9
+supervised,71,108,0,59
+image,10,10,5,55
+image,14,18,2,279
+image,31,36,1,132
+image,39,48,8,12
+image,40,51,4,18
+image,48,71,13,11
+image,49,76,3,26
+systems,17,21,22,129
+systems,19,22,7,145
+systems,20,24,7,153
+systems,22,27,10,43
+systems,23,28,5,68
+systems,25,29,0,67
+systems,27,31,4,83
+systems,27,31,14,52
+systems,35,42,6,27
+systems,51,79,6,74
+porting,22,25,13,184
+porting,31,37,14,45
+television,4,4,5,81
+responsibilities,17,21,2,78
+modules,47,70,15,57
+modules,49,73,6,49
+neural networks,8,7,14,28
+neural networks,11,12,5,179
+neural networks,14,18,2,444
+table,8,7,14,13
+table,9,9,7,18
+table,9,9,13,89
+table,11,11,7,38
+table,11,13,11,192
+table,12,14,0,84
+table,12,14,2,134
+table,14,18,0,26
+table,16,20,12,91
+table,20,24,16,113
+table,22,26,2,175
+table,26,30,6,106
+table,28,32,6,115
+table,36,44,10,18
+table,39,49,7,144
+table,40,52,9,22
+table,47,70,4,4
+table,47,70,15,176
+table,49,74,1,25
+table,61,90,1,116
+table,61,91,0,108
+table,67,101,14,123
+table,70,103,6,35
+table,70,104,6,4
+population data,44,60,15,131
+storage,28,34,11,321
+data science,1,2,0,40
+data science,1,2,2,52
+data science,1,2,3,35
+data science,1,2,4,56
+data science,1,2,6,84
+data science,1,2,7,43
+data science,1,2,8,24
+data science,1,2,9,20
+data science,1,2,13,144
+data science,1,2,17,59
+data science,2,3,0,21
+data science,2,3,7,70
+data science,2,3,9,2
+data science,4,4,9,13
+data science,4,4,10,4
+data science,4,5,3,49
+data science,5,6,4,159
+data science,5,6,6,54
+data science,5,6,10,66
+data science,5,6,12,66
+data science,5,6,13,148
+data science,8,7,4,79
+data science,9,8,2,69
+data science,9,8,4,83
+data science,9,8,7,29
+data science,9,8,8,10
+data science,9,9,8,52
+data science,9,9,15,11
+data science,10,10,1,88
+data science,11,11,3,38
+data science,11,11,8,51
+data science,11,12,3,142
+data science,11,13,2,39
+data science,11,13,5,155
+data science,12,14,14,53
+data science,12,15,1,78
+data science,13,16,9,140
+data science,13,16,11,13
+data science,14,17,0,210
+data science,16,19,4,36
+data science,16,19,5,75
+data science,16,19,8,119
+data science,16,19,9,57
+data science,16,19,10,4
+data science,17,21,0,24
+data science,17,21,1,4
+data science,17,21,3,43
+data science,17,21,4,44
+data science,19,22,9,54
+data science,19,22,10,29
+data science,19,23,12,22
+data science,22,25,0,17
+data science,22,25,2,83
+data science,22,27,16,44
+data science,23,28,4,61
+data science,25,29,2,4
+data science,28,32,2,48
+data science,28,32,4,58
+data science,28,32,11,75
+data science,28,32,13,13
+data science,28,33,6,33
+data science,28,33,14,29
+data science,28,34,5,46
+data science,28,34,8,31
+data science,29,35,10,25
+data science,29,35,11,53
+data science,31,36,0,8
+data science,31,36,9,30
+data science,32,39,0,38
+data science,32,39,4,63
+data science,34,40,7,21
+data science,34,40,15,5
+data science,34,40,16,64
+data science,34,41,1,82
+data science,36,44,3,89
+data science,39,48,0,75
+data science,39,48,1,191
+data science,39,48,9,118
+data science,39,48,10,84
+data science,39,49,4,42
+data science,39,49,9,62
+data science,41,53,14,113
+data science,41,54,13,148
+data science,44,62,13,64
+data science,44,62,16,11
+data science,45,63,7,75
+data science,45,66,4,55
+data science,46,68,11,64
+data science,48,71,2,8
+data science,51,79,0,5
+data science,52,80,0,8
+data science,54,82,1,63
+data science,54,82,3,2
+data science,54,82,5,80
+data science,54,82,6,144
+data science,59,87,10,154
+data science,61,90,2,8
+data science,67,101,6,33
+data science,68,102,7,136
+formula,4,5,3,67
+formula,9,8,6,188
+formula,11,13,7,167
+formula,13,16,9,55
+formula,14,17,1,119
+formula,19,22,0,93
+formula,39,48,2,128
+formula,45,67,1,30
+formula,59,88,8,4
+formula,70,104,1,28
+standards,68,102,10,58
+fitting,40,51,1,87
+fitting,42,55,3,87
+fitting,49,76,10,15
+fitting,49,76,17,52
+fitting,55,83,1,110
+fitting,55,83,3,123
+fitting,55,83,9,116
+fitting,55,83,10,91
+fitting,55,84,8,86
+fitting,55,84,12,4
+fitting,56,85,2,70
+fitting,56,85,10,28
+fitting,61,90,11,72
+fitting,61,91,0,122
+fitting,61,91,16,40
+fitting,62,93,2,46
+fitting,62,93,8,24
+fitting,62,93,14,18
+fitting,62,94,3,98
+fitting,62,94,11,4
+fitting,63,95,14,46
+fitting,63,95,17,18
+tail,4,5,7,10
+tail,9,8,8,161
+tail,12,15,19,142
+tail,22,26,3,94
+tail,22,26,4,107
+tail,22,26,7,29
+tail,44,60,14,84
+tail,45,67,4,49
+tail,45,67,13,46
+tail,67,101,9,51
+interoperability,22,27,7,193
+k-means clustering,71,108,11,54
+internet,8,7,8,115
+variance,40,51,3,69
+variance,42,56,5,81
+variance,42,56,11,16
+variance,42,56,12,6
+variance,44,59,10,51
+variance,44,59,14,55
+variance,44,60,15,52
+variance,44,60,16,2
+variance,44,61,2,33
+variance,45,64,6,50
+variance,45,64,7,58
+variance,49,77,5,74
+variance,55,83,2,4
+variance,55,83,3,5
+variance,55,83,6,192
+variance,55,83,7,9
+variance,55,83,9,145
+variance,55,83,11,5
+variance,55,83,13,164
+variance,55,84,3,141
+variance,55,84,4,32
+variance,55,84,6,24
+variance,55,84,8,111
+variance,55,84,10,50
+variance,56,86,5,104
+variance,56,86,6,58
+variance,56,86,8,162
+variance,56,86,12,12
+variance,56,86,13,37
+variance,62,93,5,16
+variance,62,93,7,43
+variance,63,95,15,16
+variance,70,106,14,171
+variance,70,107,8,60
+multinomial,48,71,11,48
+data security,4,4,11,139
+policies,28,34,8,126
+policies,29,35,9,31
+virtualization,28,34,11,605
+text,10,10,5,40
+text,11,11,9,141
+text,11,12,3,11
+text,11,12,6,63
+text,12,14,2,62
+text,13,16,3,54
+text,13,16,7,82
+text,13,16,10,39
+text,14,18,0,50
+text,14,18,2,674
+text,16,19,11,342
+text,20,24,8,109
+text,22,26,5,38
+text,36,44,7,91
+text,39,49,9,88
+text,40,51,4,10
+text,48,72,3,62
+text,54,82,1,170
+text,70,107,6,101
+extension,5,6,13,124
+extension,62,93,13,11
+extension,63,95,16,27
+extension,67,101,10,61
+us,1,2,0,19
+us,1,2,5,49
+us,1,2,7,63
+us,1,2,13,85
+us,1,2,14,58
+us,1,2,15,47
+us,1,2,16,26
+us,2,3,0,117
+us,2,3,1,1
+us,2,3,3,15
+us,2,3,4,75
+us,2,3,6,16
+us,2,3,7,9
+us,2,3,8,74
+us,4,4,0,79
+us,4,4,2,39
+us,4,4,3,127
+us,4,4,4,9
+us,4,4,5,22
+us,4,4,6,139
+us,4,4,8,44
+us,4,4,9,45
+us,4,4,10,76
+us,4,5,0,44
+us,4,5,1,102
+us,4,5,2,80
+us,4,5,3,79
+us,4,5,4,5
+us,4,5,5,9
+us,4,5,6,11
+us,4,5,7,20
+us,4,5,8,12
+us,4,5,9,47
+us,4,5,10,1
+us,4,5,11,12
+us,4,5,12,37
+us,4,5,14,80
+us,4,5,15,37
+us,4,5,16,14
+us,4,5,17,49
+us,4,5,18,66
+us,4,5,19,37
+us,5,6,7,241
+us,5,6,9,86
+us,5,6,10,62
+us,5,6,13,12
+us,5,6,14,167
+us,8,7,0,52
+us,8,7,2,90
+us,8,7,3,60
+us,8,7,4,58
+us,8,7,7,89
+us,8,7,8,105
+us,8,7,9,218
+us,8,7,11,8
+us,8,7,12,128
+us,9,8,0,111
+us,9,8,1,111
+us,9,8,2,15
+us,9,8,3,17
+us,9,8,5,102
+us,9,8,6,60
+us,9,8,7,61
+us,9,8,8,41
+us,9,8,9,19
+us,9,9,4,15
+us,9,9,5,70
+us,9,9,6,2
+us,9,9,11,70
+us,9,9,15,136
+us,10,10,3,83
+us,10,10,11,73
+us,10,10,12,42
+us,10,10,13,55
+us,11,11,1,28
+us,11,11,3,4
+us,11,11,13,23
+us,11,11,14,58
+us,11,12,2,87
+us,11,12,5,23
+us,11,12,6,10
+us,11,12,9,40
+us,11,12,10,70
+us,11,12,11,88
+us,11,13,0,33
+us,11,13,1,48
+us,11,13,6,135
+us,12,14,0,45
+us,12,14,15,164
+us,12,15,3,91
+us,12,15,7,15
+us,13,16,6,76
+us,13,16,7,16
+us,13,16,9,72
+us,13,16,11,72
+us,14,17,1,36
+us,14,17,3,6
+us,14,17,4,166
+us,14,17,7,3
+us,14,18,0,285
+us,14,18,2,3
+us,14,18,3,3
+us,16,19,3,73
+us,16,19,5,20
+us,16,19,9,3
+us,16,19,10,57
+us,16,19,11,24
+us,16,19,12,6
+us,16,19,14,47
+us,16,20,3,91
+us,16,20,5,73
+us,16,20,11,139
+us,16,20,20,80
+us,17,21,1,99
+us,17,21,7,28
+us,17,21,13,11
+us,17,21,17,96
+us,17,21,18,8
+us,17,21,21,63
+us,17,21,22,79
+us,19,22,0,34
+us,19,22,1,174
+us,19,22,2,144
+us,19,22,6,66
+us,19,22,7,9
+us,19,22,11,96
+us,19,22,12,106
+us,19,22,13,39
+us,19,22,14,35
+us,19,23,0,110
+us,19,23,2,51
+us,19,23,3,43
+us,19,23,4,100
+us,19,23,7,68
+us,20,24,0,86
+us,20,24,1,20
+us,20,24,2,14
+us,20,24,3,4
+us,20,24,6,5
+us,20,24,7,38
+us,20,24,8,98
+us,20,24,10,121
+us,20,24,13,48
+us,20,24,14,33
+us,20,24,15,114
+us,20,24,16,9
+us,22,25,0,64
+us,22,25,2,114
+us,22,25,3,95
+us,22,25,4,45
+us,22,25,5,22
+us,22,25,6,2
+us,22,25,7,44
+us,22,25,10,39
+us,22,25,11,134
+us,22,25,13,112
+us,22,25,15,65
+us,22,26,0,4
+us,22,26,1,68
+us,22,26,2,87
+us,22,26,3,19
+us,22,26,4,88
+us,22,26,5,4
+us,22,26,6,42
+us,22,26,7,4
+us,22,26,8,39
+us,22,26,9,72
+us,22,26,10,11
+us,22,26,11,33
+us,22,26,12,11
+us,22,26,13,62
+us,22,26,14,28
+us,22,26,15,8
+us,22,27,1,38
+us,22,27,2,28
+us,22,27,3,5
+us,22,27,4,100
+us,22,27,7,115
+us,22,27,9,25
+us,22,27,15,31
+us,23,28,0,190
+us,23,28,1,4
+us,23,28,2,26
+us,23,28,3,62
+us,23,28,4,99
+us,23,28,5,5
+us,23,28,6,53
+us,23,28,8,5
+us,23,28,10,45
+us,23,28,11,80
+us,23,28,13,25
+us,25,29,1,54
+us,25,29,2,95
+us,25,29,4,81
+us,25,29,8,24
+us,25,29,9,233
+us,26,30,3,68
+us,26,30,8,12
+us,26,30,14,127
+us,26,30,15,73
+us,26,30,17,22
+us,27,31,4,73
+us,27,31,6,32
+us,27,31,7,53
+us,27,31,8,1
+us,27,31,10,155
+us,27,31,11,30
+us,28,32,0,115
+us,28,32,1,80
+us,28,32,3,6
+us,28,32,7,115
+us,28,32,8,22
+us,28,32,9,30
+us,28,32,10,52
+us,28,33,1,89
+us,28,33,2,44
+us,28,33,4,88
+us,28,33,6,119
+us,28,33,7,23
+us,28,33,8,92
+us,28,33,14,81
+us,28,34,0,11
+us,28,34,1,50
+us,28,34,8,100
+us,28,34,9,83
+us,28,34,10,152
+us,29,35,1,20
+us,29,35,3,13
+us,29,35,5,34
+us,29,35,7,130
+us,29,35,9,99
+us,29,35,10,106
+us,29,35,12,24
+us,31,36,2,32
+us,31,36,4,86
+us,31,36,5,33
+us,31,36,9,9
+us,31,36,10,39
+us,31,36,11,120
+us,31,36,12,8
+us,31,37,2,61
+us,31,37,6,125
+us,31,37,14,4
+us,31,37,15,35
+us,31,37,16,164
+us,31,38,1,92
+us,31,38,3,219
+us,31,38,6,31
+us,31,38,8,122
+us,31,38,9,23
+us,31,38,10,46
+us,31,38,13,110
+us,31,38,14,136
+us,31,38,15,37
+us,31,38,16,46
+us,32,39,1,86
+us,32,39,3,57
+us,32,39,4,129
+us,32,39,5,4
+us,32,39,6,19
+us,32,39,12,15
+us,32,39,16,3
+us,32,39,17,3
+us,32,39,18,58
+us,32,39,19,16
+us,34,40,2,52
+us,34,40,4,40
+us,34,40,5,8
+us,34,40,6,58
+us,34,40,10,61
+us,34,40,11,89
+us,34,40,13,133
+us,34,40,16,160
+us,34,41,4,52
+us,34,41,5,5
+us,34,41,7,53
+us,34,41,9,100
+us,34,41,14,85
+us,34,41,15,39
+us,34,41,16,49
+us,35,42,2,7
+us,35,42,3,27
+us,35,42,5,30
+us,35,42,10,86
+us,35,42,11,4
+us,35,42,15,59
+us,35,43,2,4
+us,35,43,3,25
+us,35,43,8,132
+us,35,43,21,21
+us,36,44,0,102
+us,36,44,1,109
+us,36,44,9,68
+us,36,45,2,47
+us,36,45,3,59
+us,36,45,9,79
+us,36,45,15,38
+us,36,45,19,24
+us,36,45,20,30
+us,36,46,0,124
+us,36,46,2,15
+us,36,46,3,16
+us,36,46,4,7
+us,36,46,7,20
+us,36,46,9,69
+us,36,46,13,36
+us,36,47,3,22
+us,36,47,9,70
+us,36,47,19,95
+us,36,47,21,45
+us,39,48,0,45
+us,39,48,1,15
+us,39,48,2,51
+us,39,48,3,45
+us,39,48,7,105
+us,39,48,8,170
+us,39,48,9,62
+us,39,49,16,12
+us,40,50,0,76
+us,40,50,7,6
+us,40,50,9,24
+us,40,50,14,4
+us,40,50,18,14
+us,40,51,1,30
+us,40,51,3,11
+us,40,51,4,78
+us,40,51,8,8
+us,40,51,9,26
+us,40,51,10,66
+us,40,51,11,13
+us,40,51,12,21
+us,40,52,5,34
+us,40,52,6,61
+us,40,52,14,70
+us,40,52,15,69
+us,40,52,16,37
+us,41,53,2,24
+us,41,53,8,34
+us,41,53,9,49
+us,41,54,3,78
+us,41,54,13,127
+us,42,55,4,86
+us,42,55,5,4
+us,42,55,6,6
+us,42,55,8,63
+us,42,55,9,3
+us,42,55,10,29
+us,42,55,11,67
+us,42,55,14,38
+us,42,56,0,135
+us,42,56,2,4
+us,42,56,3,8
+us,42,56,7,73
+us,42,56,9,24
+us,44,57,1,49
+us,44,57,2,33
+us,44,57,3,23
+us,44,57,7,9
+us,44,57,9,8
+us,44,57,10,123
+us,44,57,11,60
+us,44,57,13,60
+us,44,58,7,38
+us,44,58,9,19
+us,44,58,18,4
+us,44,58,19,9
+us,44,59,2,116
+us,44,59,4,61
+us,44,59,5,32
+us,44,59,7,42
+us,44,59,11,99
+us,44,60,0,4
+us,44,60,4,8
+us,44,60,6,38
+us,44,60,7,29
+us,44,61,2,46
+us,44,61,9,32
+us,44,61,12,14
+us,44,61,13,27
+us,44,61,17,38
+us,44,62,1,45
+us,44,62,7,58
+us,44,62,8,40
+us,44,62,9,23
+us,44,62,14,147
+us,44,62,16,64
+us,44,62,17,67
+us,45,63,0,91
+us,45,63,1,11
+us,45,63,2,31
+us,45,63,6,120
+us,45,63,7,27
+us,45,63,8,8
+us,45,63,9,105
+us,45,63,11,4
+us,45,63,12,4
+us,45,64,6,36
+us,45,64,8,50
+us,45,64,9,12
+us,45,64,12,85
+us,45,64,14,24
+us,45,64,18,38
+us,45,64,19,64
+us,45,65,3,73
+us,45,65,6,9
+us,45,65,9,4
+us,45,65,11,29
+us,45,66,9,64
+us,45,66,10,88
+us,45,66,14,69
+us,45,67,0,62
+us,45,67,2,8
+us,45,67,6,42
+us,45,67,10,5
+us,45,67,11,49
+us,45,67,13,23
+us,45,67,14,4
+us,46,68,1,49
+us,46,68,2,33
+us,46,68,3,20
+us,46,68,7,4
+us,46,68,12,147
+us,46,68,13,67
+us,46,68,14,11
+us,46,68,15,31
+us,46,68,16,51
+us,47,69,0,23
+us,47,69,1,121
+us,47,69,5,141
+us,47,69,6,112
+us,47,69,7,98
+us,47,69,9,27
+us,47,70,18,68
+us,48,71,0,7
+us,48,71,6,62
+us,48,71,15,62
+us,48,72,6,4
+us,48,72,10,4
+us,48,72,12,97
+us,48,72,17,21
+us,49,73,0,42
+us,49,73,1,82
+us,49,73,2,67
+us,49,73,4,6
+us,49,73,8,35
+us,49,73,10,87
+us,49,73,11,14
+us,49,73,12,79
+us,49,74,1,6
+us,49,74,5,74
+us,49,74,7,4
+us,49,74,8,48
+us,49,74,10,35
+us,49,74,13,162
+us,49,74,14,23
+us,49,74,15,4
+us,49,75,4,5
+us,49,75,5,28
+us,49,75,10,50
+us,49,75,11,88
+us,49,75,13,19
+us,49,76,1,54
+us,49,76,13,29
+us,49,77,1,25
+us,49,77,5,24
+us,49,77,7,50
+us,50,78,0,110
+us,50,78,2,2
+us,50,78,3,31
+us,50,78,5,10
+us,50,78,6,16
+us,50,78,7,12
+us,50,78,8,107
+us,50,78,9,83
+us,50,78,10,57
+us,50,78,11,15
+us,50,78,12,40
+us,50,78,13,33
+us,50,78,14,44
+us,50,78,15,26
+us,50,78,16,15
+us,51,79,0,38
+us,51,79,1,32
+us,51,79,3,11
+us,51,79,5,30
+us,51,79,6,54
+us,51,79,9,114
+us,51,79,10,21
+us,51,79,11,17
+us,51,79,14,8
+us,51,79,15,82
+us,52,80,0,146
+us,52,80,3,30
+us,52,80,4,91
+us,53,81,0,25
+us,53,81,3,265
+us,53,81,6,22
+us,53,81,8,6
+us,53,81,10,162
+us,53,81,12,109
+us,54,82,0,209
+us,54,82,1,27
+us,54,82,6,193
+us,54,82,7,25
+us,54,82,11,104
+us,54,82,12,121
+us,55,83,0,42
+us,55,83,1,16
+us,55,83,3,20
+us,55,83,4,78
+us,55,83,13,37
+us,55,83,14,4
+us,56,85,5,21
+us,56,85,7,14
+us,56,85,8,74
+us,56,85,9,74
+us,56,85,10,137
+us,56,85,11,134
+us,56,86,2,19
+us,56,86,4,29
+us,56,86,7,15
+us,56,86,8,21
+us,56,86,14,36
+us,56,86,16,49
+us,59,87,1,64
+us,59,87,4,37
+us,59,87,6,93
+us,59,87,9,19
+us,59,87,10,36
+us,59,87,14,111
+us,59,87,15,27
+us,59,88,3,36
+us,59,88,6,15
+us,59,88,7,34
+us,59,88,9,100
+us,59,88,10,13
+us,59,88,12,89
+us,60,89,6,50
+us,60,89,8,30
+us,61,90,1,19
+us,61,90,2,101
+us,61,90,4,33
+us,61,90,6,125
+us,61,90,9,50
+us,61,90,11,18
+us,61,91,2,6
+us,61,91,3,11
+us,61,91,4,4
+us,61,91,6,25
+us,61,91,7,18
+us,61,91,8,118
+us,61,91,18,20
+us,61,92,8,26
+us,61,92,9,77
+us,61,92,11,87
+us,61,92,13,53
+us,61,92,14,41
+us,61,92,15,41
+us,62,93,0,87
+us,62,93,3,44
+us,62,93,6,140
+us,62,93,9,73
+us,62,93,10,11
+us,62,93,11,36
+us,62,93,15,58
+us,62,93,17,6
+us,62,94,2,8
+us,62,94,7,36
+us,62,94,12,93
+us,62,94,13,12
+us,62,94,14,111
+us,62,94,15,12
+us,63,95,1,115
+us,63,95,4,125
+us,63,95,9,30
+us,63,95,11,23
+us,63,95,12,86
+us,63,95,18,36
+us,64,96,0,108
+us,64,96,1,126
+us,64,96,3,56
+us,64,96,4,53
+us,64,96,7,26
+us,64,96,8,18
+us,64,96,9,16
+us,64,96,10,2
+us,64,96,11,6
+us,64,96,12,7
+us,64,96,13,14
+us,64,96,14,15
+us,64,96,15,27
+us,64,96,16,10
+us,64,96,17,25
+us,64,97,0,31
+us,64,97,1,18
+us,64,97,2,10
+us,64,97,3,4
+us,64,97,4,38
+us,64,97,5,70
+us,64,97,6,50
+us,64,97,7,34
+us,64,97,9,37
+us,64,97,10,8
+us,64,97,11,113
+us,64,98,1,12
+us,64,98,2,58
+us,64,98,4,58
+us,64,98,7,8
+us,64,98,9,42
+us,64,98,10,35
+us,64,98,11,21
+us,64,98,13,77
+us,64,98,15,50
+us,65,99,0,7
+us,65,99,1,23
+us,65,99,2,25
+us,65,99,3,16
+us,65,99,4,2
+us,65,99,5,45
+us,65,99,6,81
+us,65,99,7,98
+us,65,99,8,54
+us,65,99,9,14
+us,65,99,10,4
+us,65,99,12,15
+us,65,99,13,8
+us,65,99,14,67
+us,65,99,15,27
+us,65,99,16,5
+us,65,100,2,12
+us,65,100,3,24
+us,65,100,4,23
+us,65,100,5,15
+us,65,100,6,65
+us,65,100,7,81
+us,65,100,8,48
+us,65,100,9,57
+us,65,100,10,32
+us,65,100,11,45
+us,65,100,12,11
+us,65,100,13,10
+us,65,100,14,30
+us,65,100,15,117
+us,65,100,16,44
+us,65,100,17,24
+us,67,101,1,119
+us,67,101,2,47
+us,67,101,3,33
+us,67,101,5,71
+us,67,101,6,71
+us,67,101,7,22
+us,68,102,6,4
+us,68,102,7,59
+us,68,102,8,43
+us,68,102,10,77
+us,70,103,0,39
+us,70,103,2,6
+us,70,103,5,4
+us,70,104,3,123
+us,70,104,4,4
+us,70,104,8,8
+us,70,104,12,23
+us,70,105,1,108
+us,70,105,4,12
+us,70,105,15,23
+us,70,105,16,7
+us,70,105,17,19
+us,70,106,1,10
+us,70,106,5,17
+us,70,106,10,78
+us,70,106,13,65
+us,70,106,14,4
+us,70,107,2,160
+us,70,107,4,14
+us,70,107,5,3
+us,70,107,10,15
+us,70,107,11,4
+us,71,108,0,13
+us,71,108,2,16
+us,71,108,3,41
+us,71,108,5,49
+us,71,108,6,2
+us,71,108,7,38
+us,71,108,8,6
+us,71,108,9,29
+us,71,108,10,32
+us,71,108,11,39
+us,71,108,12,32
+us,71,108,13,54
+us,71,108,14,17
+us,71,108,15,113
+us,71,109,0,21
+us,71,109,1,9
+us,71,109,2,5
+us,71,109,3,86
+us,71,109,4,40
+us,71,109,5,23
+us,71,109,6,117
+us,71,109,7,2
+us,71,109,8,52
+us,71,109,10,68
+us,71,109,11,37
+us,71,109,13,35
+us,71,109,15,20
+us,71,109,16,41
+absolute value,44,59,7,23
+absolute value,70,107,9,158
+development,2,3,6,304
+development,16,19,5,40
+development,17,21,3,136
+development,17,21,7,71
+development,19,22,2,71
+development,19,22,9,32
+development,19,23,6,45
+development,19,23,12,99
+development,20,24,1,43
+development,20,24,10,65
+development,22,25,8,83
+development,22,25,13,79
+development,22,27,4,67
+development,22,27,12,115
+development,23,28,0,132
+development,26,30,8,153
+development,26,30,11,186
+development,27,31,3,74
+development,27,31,13,106
+development,28,32,1,49
+development,28,32,2,109
+development,28,32,6,143
+development,29,35,3,98
+development,34,40,5,43
+development,40,50,1,47
+development,54,82,0,144
+images,10,10,5,55
+discrete,31,36,10,45
+discrete,49,73,1,62
+application development,19,23,12,87
+application development,22,25,13,67
+application development,22,27,4,55
+rules,22,25,15,140
+rules,22,27,4,108
+rules,22,27,12,86
+rules,22,27,15,136
+rules,61,91,0,78
+sorting,14,18,2,114
+sorting,35,43,21,33
+sorting,35,43,22,67
+left,65,99,4,103
+left,65,99,6,142
+simple,11,13,11,201
+simple,34,41,8,70
+simple,35,42,19,27
+simple,40,50,9,32
+simple,40,50,11,2
+simple,47,70,1,55
+simple,49,74,11,13
+simple,49,74,13,106
+simple,49,76,2,16
+simple,53,81,10,106
+simple,55,83,5,113
+simple,55,83,6,53
+simple,55,83,11,84
+simple,59,87,10,25
+simple,60,89,7,77
+simple,61,90,0,53
+simple,61,90,4,13
+simple,61,92,8,99
+simple,63,95,8,17
+simple,63,95,10,52
+simple,70,103,3,70
+simple,70,106,16,33
+overfitting,40,51,1,83
+overfitting,49,76,17,48
+overfitting,55,83,3,119
+overfitting,55,83,9,112
+overfitting,55,84,8,82
+overfitting,61,90,11,68
+overfitting,61,91,0,118
+overfitting,61,91,16,36
+overfitting,62,93,2,42
+overfitting,62,93,8,20
+overfitting,62,93,14,14
+overfitting,62,94,3,94
+overfitting,63,95,14,42
+overfitting,63,95,17,14

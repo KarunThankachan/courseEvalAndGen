@@ -1,0 +1,34 @@
+
+
+Data integration involves ingesting, transforming and integrating the
+transformed data for access. The data is integrated to allow for analytic
+solution development i.e. modeling and analysis. A popular example is
+integrating data into a data warehouse so that OLAP (Online Analytical
+Processing) servers, DSS (Decision Support) Systems, and other enterprise wise
+analytic tools can access the data. The data can also be moved to data marts
+within the data architecture so that other parts of the enterprise can access
+the data. When there is a data warehouse, data integration can be done with
+the assistance of an ETL (extract, transform, and load) mechanism.
+
+Once you have enriched and integrated your data, you are ready to visually
+explore your data and perform feature engineering. You might find that feature
+engineering is an extension of the transformation process done during data
+wrangling.
+
+Data Wrangling to Data Exploration
+
+In the next unit, we will be taking an indepth look into data exploration
+techniques. This is typically referred to as Exploratory Data Analysis (EDA).
+The results of an EDA exercise can give insights to the project. This is why
+it is important to begin the data understanding process with wrangling. At
+this point in the data science lifecycle, you have preprocessed your data for
+use during the EDA process and beyond. Remember: Data wrangling is not just
+for analytic solutions.
+
+The extensiveness of the data understanding phase shows that data quality can
+truly make or break an analytic solution. The data wrangling process has now
+informed the data science team on the state of their dataset, and might signal
+a need to source new data. If new data is sourced, then the data wrangling
+process is repeated. This is to say, the data understanding phase is
+iterative.
+

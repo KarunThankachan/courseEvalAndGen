@@ -3,6 +3,7 @@ import json
 
 def getAdditionalConceptDetails(concept_features):
     '''
+    Extract concept chapter density, concept locations in textbook
     '''
     concept_chapters = {}
     concept_locations = {}
@@ -13,7 +14,6 @@ def getAdditionalConceptDetails(concept_features):
         else:
             concept_chapters[concept[0]] = [concept[1]]
             concept_locations[concept[0]] = [[concept[1], concept[2], concept[3], concept[4]]]
-    
     # chapter density score
     concept_chapter_density = {}
     for concept, chapters in concept_chapters.items():
@@ -22,11 +22,13 @@ def getAdditionalConceptDetails(concept_features):
     return concept_chapter_density, concept_locations
 
 def getDADSCore(conceptA_locs, conceptB_locs):
-
+    '''
+    Get the DAD score for concept pair
+    '''
     # hyper parameter
     sent_imp = 0.5
     word_imp = 0.1
-
+    # extract concept pair for all possible concepts
     all_dad = 0
     for conceptA_loc in conceptA_locs:
         page_dad = 10000
@@ -54,36 +56,47 @@ def getDADSCore(conceptA_locs, conceptB_locs):
 
 def createAdditionalFeatures(path="results\\", filename='Networking_concepts.csv'):
     '''
+    Get additional feature for all possible concept pairs (ChapterDensity, DADScore)
     '''
     concept_features = []
     with open(path+filename) as csv_file:
         csv_reader = csv.reader(csv_file, delimiter=',')
         for row in csv_reader:
             concept_features.append(row)
-
+    # get chapter density
     concept_chapter_density, concept_locations = getAdditionalConceptDetails(concept_features)
     concepts = list(concept_locations.keys())
     print("Total Number of concepts: ", len(concepts))
-
+    # build chapter density and DAD scores
     concept_features = {}
     concept_count = 1
     for concept_A in concepts:
         for concept_B in concepts:
             if concept_A != concept_B:
+                # calculate DAD score
                 dad_score = getDADSCore(concept_locations[concept_A], concept_locations[concept_B])
+                # get chapter concentrations
                 concept_chapter_density_A = concept_chapter_density[concept_A]
                 concept_chapter_density_B = concept_chapter_density[concept_B]
+                # get concept pair, chapter concentration
                 complexity = ( concept_chapter_density_A + concept_chapter_density_B ) /  ( concept_chapter_density_A * concept_chapter_density_B )
+                # set concept features
                 concept_features[concept_A, concept_B] = [complexity , dad_score ]
         print("Concept", concept_count, "done")
         concept_count += 1
-
+    # write concept features to files
     filename_stub = filename.split('.')[0]
-    with open(filename_stub+"_additional", 'w') as outfile:
+    with open(path+filename_stub+"_additional", 'w') as outfile:
         for key, value in concept_features.items():
             out_str = key[0] + "," + key[1] + "," + str(value[0]) + "," + str(value[1]) + "\n"
             outfile.write(out_str)
-                    
 
-createAdditionalFeatures(path="results\\", filename='Networking_concepts.csv')
+
+createAdditionalFeatures(path="results\\", filename='Economics_concepts.csv')
+createAdditionalFeatures(path="results\\", filename='DBMS_concepts_features.csv')
+createAdditionalFeatures(path="results\\", filename='Precalculus_concepts_features.csv')
+# createAdditionalFeatures(path="results\\", filename='pythondatasciencehandbook_concepts.csv')
+# createAdditionalFeatures(path="results\\", filename='Foundations of Data Science - Cornell CS_concepts.csv')
+# createAdditionalFeatures(path="results\\", filename='pythondatasciencehandbook_concepts.csv')
+# createAdditionalFeatures(path="results\\", filename='Foundations of Data Science - Cornell CS_concepts.csv')
 

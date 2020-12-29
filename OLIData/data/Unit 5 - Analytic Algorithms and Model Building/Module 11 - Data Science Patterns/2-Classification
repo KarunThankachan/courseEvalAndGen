@@ -1,0 +1,195 @@
+
+
+Let us assume that you have a medical dataset that contains observations with
+features including patient age, weight, height, sex, and race; you have been
+presented with the task of identifying the category of diagnosis for these
+observations in your dataset (the category would be diabetic or not). It would
+take a long time for you to research each observation and compare their
+features and symptoms to classical symptoms of diabetes. Using a data science
+approach, you can assign a diagnosis to each observation based on the
+historical data for that diagnosis. You would be answering a classification
+problem. Classification works with an existing dataset that has labeled
+outcomes and seeks to label the outcomes of a new dataset. Below, you will
+find the different types of classification problems. Then later in the course,
+we will explore methods that can be used to solve classification problems.
+
+Binary Classification
+
+Classification tasks that are binary will classify observations in a dataset
+into two defined categories. The observations are grouped based on the
+presence of characteristics unique to one of the two categories. Examples can
+include a decision on a credit card application (i.e. approve/deny).
+
+Multi-Class Classification
+
+Also referred to as multinomial classification, classes in a classification
+task are three or more; observations can be classified into one of the three
+or more classes. Each observation can only be classified as one of the
+multiple classes, an observation can not be labeled to multiple classes at
+once. If a fruit image dataset is presented as a classification task, a valid
+assumption would be that the observations will be labeled as one type of fruit
+from the multiple classes. If the labels are orange, pineapple, peach, and
+mango, then each observation can only be classified as one type of fruit.
+
+Multi-Label Classification
+
+You want to be careful not to confuse multi-label classification and multi-
+class classification to have the same meaning. Unlike multi class
+classification that has an assumption of observations having one class out of
+the multiple classes; the multi-label classification allows for observations
+to be classified under multiple classes hence the term, multi-label
+classification.
+
+A quick thought: Can you think about a scenario were observations can belong
+to multiple classes at once (thereby leading them to be labeled under those
+classes)?  
+  
+---  
+  
+Multi-label classification can be applied to classifying textual data. If you
+watch movies, you know that some movies can belong to multiple genres e.g.
+Romantic Comedy, Romantic Drama, Thriller Comedy.
+
+Let us stick with this example and conceptually define how a multi-label
+classification task would pan out.
+
+You are tasked to classify movies based on their plot. We can assume that we
+have defined our analytic objective, defined our requirements, and we have
+gathered and prepared our data. When you classify the observations in this
+dataset, you might find Movie A will belong to Romance and Comedy. Let us see
+the different multi-label classification techniques and how they can handle
+problems with multi-labels without causing a dimensionality issue to your
+dataset, and jeopardize the performance of your model.
+
+Multi-label Classification Techniques
+
+  * Multi-label classification does not have constraints on the labels that an observation can have and this makes it difficult to learn. Using the OneVsRest Technique, your classifier makes the assumption that labels are mutually exclusive and there is no consideration for correlations between classes. 
+
+  * Similar to OneVsRest, the Binary Relevance technique trains a single label binary classifier for each class i.e. for each class, an observation will either be predicted as belonging to that class or not. This technique ignores any correlation between classes. 
+
+  * The algorithm for your classification task can also adapt the algorithm to perform multi-label classification. A popular example is using a multi-label version of the k-Nearest Neighbors (a supervised learning technique that makes the assumption that similar data points are always close together).
+
+Example: scikit-multilearn for MLkNN.
+
+  * You can transform your task into a multi-class task by training all unique class combinations on one multi-class classifier. 
+
+X
+
+|
+
+Y1
+
+|
+
+Y2
+
+|
+
+Y3  
+  
+---|---|---|---  
+  
+X1
+
+|
+
+0
+
+|
+
+1
+
+|
+
+1  
+  
+X2
+
+|
+
+1
+
+|
+
+1
+
+|
+
+0  
+  
+X3
+
+|
+
+1
+
+|
+
+1
+
+|
+
+0  
+  
+X4
+
+|
+
+1
+
+|
+
+0
+
+|
+
+1  
+  
+Here we see that observations X2 and X3 belong to the same classes. This
+technique will transform our task into a single multi class task and give a
+unique class to all possible combinations in your training data set.
+
+X
+
+|
+
+Y1  
+  
+---|---  
+  
+X1
+
+|
+
+1  
+  
+X2
+
+|
+
+2  
+  
+X3
+
+|
+
+2  
+  
+X4
+
+|
+
+3  
+  
+  * So far we have seen that OneVsRest, Binary Relevance and Label Powerset techniques do not consider correlations between classes. The Classifier Chains technique will build a chain of binary classifiers to take into account any correlations between classes. The classifiers that are constructed equal the number of classes i.e. if we have classes: comedy, drama, and romance, we will have three classifiers as well C1:C3. 
+
+We should mention Logistic Regression in this section because it is an
+important classification technique. You will learn more about it in the next
+module. Logistic regression uses a logistic function to model the probability
+of a class or event. Will you pass or fail a course, will you develop high
+blood pressure based on certain attributes, will 18-35 year old college
+educated men from Georgia vote for the democratic or republican presidential
+candidate in the 2020 presidential elections. The logistic regression model
+can have independent variables that are of diverse data types but the response
+is categorical.
+

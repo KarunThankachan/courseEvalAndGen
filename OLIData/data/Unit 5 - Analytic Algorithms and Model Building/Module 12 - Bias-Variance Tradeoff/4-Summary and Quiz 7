@@ -1,0 +1,31 @@
+
+
+  * Training Error is derived by calculating the classification error of a model on the exact data that was used to train the model.
+
+Test Error is important as it gives insight into the amount of errors to
+expect when making future predictions and it is used for model selection.
+
+Irreducible error, is the noise term in the true relationship that cannot
+fundamentally be reduced by any model.
+
+Reducible Error is the error resulting from a mismatch between f and f hat or
+the estimate of the relationship between x and y and its true relationship.
+
+  * The bias error is an error from erroneous assumptions in the learning algorithm. High bias can cause an algorithm to miss the relevant relationships between features and target outputs (underfitting). 
+
+The variance is an error from sensitivity to small fluctuations in the
+training set. High variance can cause an algorithm to model the random noise
+in the training data, rather than the intended outputs (overfitting).
+
+Bias-Variance can be decomposed as: σ² + Var(g) + Bias(g)²
+
+  * Model Assessment and Model Selection are key concepts of importance to every data scientist and necessary in the model understanding phase.
+
+Cross-validation can be performed by using the Leave one out or k-fold
+techniques. Both techniques have their pros and cons.
+
+  * In the next module, we will begin exploring the different supervised learning techniques. You will begin to see more about applying CV with those techniques, assessing and selecting the best models using supervised techniques.
+
+Please post your quiz questions in Piazza as PRIVATE or email your questions
+during the test taking period.
+

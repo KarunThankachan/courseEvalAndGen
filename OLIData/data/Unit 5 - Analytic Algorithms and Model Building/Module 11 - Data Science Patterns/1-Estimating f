@@ -1,0 +1,96 @@
+
+
+Prediction involves using a model to predict outcomes. If you want to predict
+the number of hospital beds that will be needed in the event of a surge in
+Ebola cases in the DRC using historic data from past outbreaks, we will assume
+that there is a linear relationship between the number of hospital beds needed
+and other variables related to the outbreak, you will fit a linear model on
+the training data and select the model that minimizes test error.
+
+Inference. Instances may arise when you need to understand how your dependent
+variable Y is affected by changes in independent variables. Your goal is not
+to make predictions in this case, instead you will estimate f by making
+inferences or gaining understanding on the relationship between your
+independent and dependent variables. You might also be interested in assessing
+if the relationship between your dependent variable and each independent
+variable can be explained using a linear equation.
+
+Estimating f
+
+When creating analytic solutions, you encounter the model understanding phase
+which might include using both linear and non-linear approaches to estimate f.
+When estimating f , you would have gathered a dataset, keeping in mind that
+the entire dataset will not be used to estimate f, instead we will use a
+portion of the dataset to train our model to estimate f. This dataset is
+called the training data set. A statistical method will be applied to the
+training data to then estimate f. Typically, you will use one of the following
+methods for this process:
+
+Parametric Methods assume that your dataset comes from a population that has a
+fixed set of parameters. Non-Parametric Methods seek an estimate of f that is
+close to the data points. A thin plate spline can be used to estimate f. It
+seeks to estimate f that is close to the observed data. Thin plate spline is a
+two-dimensional analog of a spline constructed of piecewise third-order
+polynomials which pass through a set of control points. A spline is a
+piecewise polynomial function that has a simple form locally but can be
+flexible globally. A polynomial is a mathematical expression that involves a
+sum of powers in variables multiplied by coefficients. Non parametric methods
+include Spearman correlation test and U-test for two independent means.
+
+The table below summarizes the differences between the two methods.
+
+Parametric Methods
+
+|
+
+Non-Parametric Methods  
+  
+---|---  
+  
+Models are built with a fixed number of parameters.
+
+|
+
+Models are built with any number of parameters.  
+  
+It has strong assumptions about data.
+
+|
+
+It has fewer assumptions about data.  
+  
+Needs less data than non-parametric methods e.g sign test.
+
+|
+
+Needs significant amount of data.  
+  
+Possess statistical power.
+
+|
+
+Has less statistical power.  
+  
+Source: ISLR1. Flexibility and Interpretability of Statistical Methods.
+
+You will study different methods to estimate f in future modules and you will
+find that some of those models are either very flexible with low
+interpretability or very interpretable with low flexibility. Take a look at
+the figure above, you will see that if you are interested in inference, a
+restrictive linear model that shows the relationship between your dependent
+variable (Y) and independent variables will be the best choice for estimating
+f. A generalized additive model (GAM) will extend a linear model to encompass
+non-linear relationships, making GAMs more flexible. Methods that are more
+flexible tend to allow for non-linear relationships and they have low
+interpretability than your less flexible methods. When prediction is the task
+of interest, flexibility is key and because interpretability is not a high
+concern, you can use the methods with less interpretability.
+
+Using a method with low interpretability is not the only route to take when
+pursuing a prediction task. This process of selecting the right method for a
+data science modeling task can be quite daunting but we will be exploring the
+different types of selection techniques throughout Unit 5. Going forward, we
+will discuss the different data science patterns and the methods that are used
+to estimate f. You will also learn about the criteria that is used to select
+the best model.
+

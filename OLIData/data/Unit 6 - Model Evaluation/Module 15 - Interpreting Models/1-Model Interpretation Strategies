@@ -1,0 +1,53 @@
+
+
+As a Data Scientist, model interpretation means more than one thing to you and
+to your clients; in most cases, it will mean different things to both parties.
+The Data Scientist is interested in understanding the results of a task and
+how it can assist the client and their end users in making decisions. A great
+resource by Marco Ribeiro explains end user empowerment as the secret weapon
+to building trust in a model. The example given is of a doctor using a model
+to predict whether a patient has the flu. There is a middle "man" between the
+prediction and the explanation of the prediction. This explanation is what the
+decision maker (Doctor in this case) will use to make the decision on the
+right diagnosis and treatment.
+
+Interpretability is important to data science and machine learning because it
+directly affects the human decision makers and their understanding of the
+predictions made by models. It is not enough to trust the predictions of a
+model based on prescribed metrics (which we cover in the next module), it is
+often important to know what is predicted and why the prediction was made.
+Understanding the why will make the problem clearer and affect problem solving
+for future challenges.
+
+Doshi Velez & Kim (2017) have explained in great detail some of the reasons
+why interpretability is important. The ever growing and unsatisfied curiosity
+of humans (and by extension our thirst for learning). Bias identification is
+another reason why interpretability is important. Why does a model grant loans
+to one person and not to another with similar credit scores, and income?
+Detecting bias can also lead to better acceptance. Finally, the data scientist
+and machine learning engineers can debug and audit models when those models
+are easily interpretable.
+
+Interpretability is not needed if a model does not have an impact of much
+significance or if the context in which it is applied has been extensively
+investigated (although this does not help with detecting bias. The studies
+conducted can still be laden with bias).
+
+Looking to the next module is an overview of the assessments or metrics that
+typically concern you as the data scientist. These metrics are a useful tool
+in deciding whether a model will be considered trustworthy.
+
+Reading: Should you trust that model?
+
+The authors of the above article proposed a technique to explain predictions
+and usefulness of any machine learning model. They have tested this technique
+with a number of classifiers including neural networks for text and image
+classification.
+
+Local Surrogate Models "explain individual predictions of black box models."
+
+Shapley Value is concerned with explaining a prediction by assessing the
+importance of features to the task.
+
+Additional Resource: Sara Hooker: The Myth of the Perfect Model
+

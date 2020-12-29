@@ -1,0 +1,46 @@
+
+
+Validating Requirements
+
+The requirements gathering process is not linear, it is important to consider
+evaluation at each step of the process. Doing this will ensure that errors are
+identified and fixed early, as it can be costly and time consuming for errors
+to go undetected. However, it is a best practice to conduct validation and
+verification exercises for your requirements after they have been defined. It
+is important to confirm that requirements meet the needs of the business, and
+users, and the requirements can be traced back to the defined business and
+analytic objectives.
+
+"A project team will validate and verify requirements to ensure that they have
+all the desired properties of high-quality requirements."- SWEBOK ISO/IEC TR
+19759:2005.
+
+Requirements should be validated to ensure that they are complete, correct,
+traceable, verifiable, and testable. It seems logical to perform validation
+when the solution has been developed but before it is delivered to the client.
+This is because you can test the actual solution, but what happens when you
+find errors that require the project team to start from the beginning of the
+development process? Time and money have been wasted! This grave mistake can
+be avoided if defined requirements are validated.
+
+Validating requirements will most likely involve testing without
+implementation but remember that the project team will also validate and
+verify the requirements throughout the solution development process.
+Validating requirements at this stage will ensure that solution developers
+will produce the right deliverables and save project time and cost.
+
+Requirements can be validated by following the steps below:
+
+  * Review requirements. The requirements management plan will be peer reviewed to identify that each documented requirement is verifiable and unambiguous. The peer review process should be well-defined so that reviewers can discuss their interpretations of requirements, this will reveal ambiguity (if any). The reviewers will produce a summary of defects document. This document will be used by the business analyst and project team to revise requirements.
+
+  * Prototype requirements. Prototyping can help the project and client team determine if the requirements can be considered complete. Simulations are a popular prototyping technique but at this stage of solution development, creating simulations will be time consuming. There are less time consuming prototyping techniques that can help validate requirements. Proof of concept (POC) prototypes and paper mockups can be used to demonstrate the feasibility and completeness of requirements. 
+
+  * Test requirements. Requirements can be validated by users. Acceptance tests are done to assess whether a solution will meet predefined criteria called acceptance criteria. Acceptance criteria are set by end-users of the solution. A project team might worry about the users inability to define the acceptance criteria. The project team can guide users in thinking about how the solution meets their needs. Acceptance criteria can be defined using the S.M.A.R.T. goals. Once acceptance criteria are set, users will conduct acceptance tests.
+
+A successful requirements gathering exercise is not only deemed successful
+when the activities in the requirements management plan have been completed.
+Once the results of the requirements gathering process have been documented,
+and validated, a formal sign off will confirm that all parties approve and
+accept the defined requirements. This is a signal that the project team can
+officially begin developing a solution/solutions.
+

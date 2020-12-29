@@ -1,0 +1,79 @@
+
+
+Dimensionality
+
+As you develop analytic models or perform exploratory data analysis, you will
+encounter datasets with a large number of variables. A small dataset can also
+become quite large post data cleansing, think about when you transform
+variables by creating new variables e.g. dummy variables. Considerations for a
+dataset with a large number of variables include issues with over-fitting, and
+computing costs. We think about the dimensionality of a model when we consider
+the number of variables used by the model. Famous mathematician, R. Bellman
+defined the curse of dimensionality as the problem caused by the exponential
+increase in volume associated with adding extra dimensions or variables to a
+space. This just means that when there are more features in a dataset, you are
+prone to more errors. A dataset with a large number of features could have
+lots of redundancy and noisy data with little benefit to your overall analytic
+objective. How can you address the curse of dimensionality without losing
+useful information? We use dimensionality reduction: this technique is
+sometimes referred to as feature extraction or factor selection. This
+technique is approached using mathematical modeling.
+
+Feature Extraction
+
+So far we have talked about techniques that focus on features of an
+observation. As you know by now, feature engineering informs the models that
+you will build and its techniques involve looking at features of the data.
+Now, we will explore a technique that is considered a model-based feature
+engineering technique.
+
+Principal Component Analysis (PCA) is used to reduce the dimensionality of a
+dataset. You might be asking yourself why we would reduce a dataset when we
+have talked about the importance of more data for better interpretation and
+solid performance from models. Well, when you have a dataset that has a large
+number of variables, you have to assess the relationship between those
+variables, identify variables that might violate the assumptions of your
+chosen ML model, and generally select the variables that are useful to your
+task. When implementing PCA, you will be reducing the dimension of your
+feature space.
+
+You use the Principal Component Analysis technique when you want to ensure
+variables in the dataset are independent of each other. It is a useful
+technique to use when there are variables that need to be dropped, but
+dropping these variables with PCA is better justified than using the omission
+technique since you are using mathematical modeling.
+
+There are other techniques for dimension reduction including Linear
+Discriminant Analysis (LDA) and those techniques are mentioned in a future
+unit as well as in your upcoming Machine Learning courses.
+
+Principal component analysis involves performing the eigendecomposition on the
+covariance matrix. A principal component analysis is a linear transformation
+technique as it finds a low dimensional representation of your high
+dimensional data. PCA will seek out a "small" number of dimensions in the
+dataset that are useful to the analytic task. PCA is considered an
+unsupervised technique and will be mentioned in that unit as well.
+
+The following steps are used when performing PCA.
+
+  * Standardize the data.
+
+  * Compute the Covariance matrix of dimensions in the data. The covariance matrix
+
+  * Compute the Eigenvectors and Eigenvalues from the covariance matrix. Eigenvector is a nonzero vector that changes by a scalar factor when that linear transformation is applied to it. Meanwhile an eigenvalue is known as a characteristic value1 or a set of scalars. 
+
+  * Sort eigenvalues in descending order and choose the top k Eigenvectors that correspond to the k largest eigenvalues.
+
+  * Construct the projection matrix W from the selected k Eigenvectors. 
+
+  * Transform the original data set X via W to obtain the new k-dimensional feature subspace Y. 
+
+PCA in Python Example: Principal Component Analysis in three (3) steps.  
+  
+---  
+  
+Reading: A Brief Article-Principal Component Analysis (Lever, Krzywinski and
+Altman, 2017)  
+  
+Hoffman, K. & Kunze. R.Linear AlgebraEnglewood Cliffs1971Second
+

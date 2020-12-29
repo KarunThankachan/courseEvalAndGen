@@ -1,0 +1,91 @@
+
+
+A data scientist’s role involves utilizing computational and statistical
+skills to uncover solutions that meet business needs. Throughout the process
+of discovery and solution development, a data scientist must find it most
+useful and efficient to focus on developing algorithms and building the models
+that will support the analytic solution for the business need. This unit sheds
+light on a crucial phase of the data science project lifecycle that will
+inform the solution development.
+
+Previously, you learned about understanding the business by defining a
+business problem, setting business and analytic objectives, and gathering
+requirements. Going forward, you will learn about the next phase in the data
+science project lifecycle, Data Understanding. The data understanding phase
+involves data acquisition and data preparation. Data acquisition involves
+gathering data from different sources and transforming the data into formats
+that are suitable for analytic solution development. As a data scientist, you
+will spend more than 70% of your time understanding, exploring, and
+transforming the data used for model building. This is important because the
+quality of your data has a direct impact on the quality of your analytic
+solution. Through your readings and discussions outside of this course, you
+will hear data professionals say "Garbage Data In-Garbage Decisions Out". You
+want to pay close attention to the data that is used to develop your analytic
+solution.
+
+Data Gathering Overview
+
+Now that the requirements phase is completed, the data science team will
+embark on data acquisition or data gathering. In this unit, we will describe
+the data gathering process to include data management considerations and its
+implications on the quality of data, data collection processes and tools, and
+the data wrangling pipeline. Although the data science project team might not
+be able to control the data management operations of their data sources,
+understanding the principles of data management will assist the team in
+gathering data that is reliable, valid, and has integrity. Even the most
+secure and reliable data needs to be transformed into a format that can be
+used to develop analytic solutions. This transformation process happens in
+various stages of the data gathering and processing phase. A popular term that
+is referenced in the data transformation process is Data Wrangling. This is
+the process of gathering, selecting, and transforming data to ensure that it
+is usable, free of noise and has as little bias as possible to meet defined
+analytic objectives. This process will include checking for missing values,
+identifying outliers, and formatting the data.
+
+Once the data is “wrangled”, the data science project team will continue to
+work with the data until it is ready to be used.
+
+Useful Skill: Prior to using APIs and web scraping tools to pull data from
+different sources. It is important to learn about the importance of quality
+data and how it can help you meet business and analytic objectives.
+
+Data Management
+
+You might be wondering if it is not enough to begin working on that analytic
+solution now that you have defined your objectives. Now that the project team
+has defined a data statement, set analytic objectives and gathered
+requirements. What more do you need to do to start modeling!
+
+Prematurely moving past the data understanding phase will result in bad
+results for your client. If your team does not understand data quality and how
+it affects your solution, your solution will be incomplete. Data management
+supports the data science process by making sure that the data housed within
+an organization is accessible and accurate. Data management is a strategic
+initiative, it is an organization’s way of acquiring, storing, securing and
+processing data.
+
+The data management structure is managed by the IT team in an organization.
+However, business users will participate in this initiative as well. Data
+management is such an important aspect of a business that over 100 data
+management practitioners compiled a best practices framework to guide
+organizations on managing their data and information infrastructure. The data
+management body of knowledge (DAMA-DMBOK) highlights eleven knowledge areas as
+shown in the figure below. These knowledge areas are instrumental to the
+success of an organization’s data infrastructure.
+
+The Eleven Knowledge Areas of Data Management
+
+Referencing the figure above, you will note that there are different skill
+sets and departments involved in the data management process. The data
+management process is not entirely a data science task.It is a data
+infrastructure task. Data management informs the data gathering process and
+can influence the implementation of analytic solutions. The data architects in
+an organization are responsible for designing the organization's data
+management framework. This framework will assist the data science team and
+other data stakeholders in the organization to use data based on defined
+policies and regulations to meet business and analytic objectives.
+
+Additional Reading: Data Management for DGPR.  
+  
+---  
+  

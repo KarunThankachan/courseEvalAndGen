@@ -1,0 +1,76 @@
+
+
+Once it is determined that an organization is Data Science ready, the project
+team will gather requirements that will enable the development of an analytics
+solution to meet the defined business need(s).
+
+Let us explore a scenario with a two-year college that is seeking to improve
+recruitment of new students and increase retention of existing students by
+10%, over the next five (5) years. The college would like to use predictive
+modeling to achieve this objective. The predictive model should provide
+insights that can inform business processes related to recruitment and
+retention.
+
+Upon meeting with project sponsors, assessing the client for data science
+readiness, and defining business and analytic objectives, the project team
+embarks on gathering requirements for this project. The business analyst (BA)
+identifies all necessary stakeholders and systems related to recruitment and
+retention in the college. The BA takes the lead in eliciting information about
+user needs and system constraints. In this scenario, requirements elicitation
+involves interviewing stakeholders and document analysis. Once user and system
+requirements are defined, it is time for the project team to define the
+requirements for the analytic solution.
+
+Data Requirements
+
+While distilling analytic objectives for this project, the project team
+determined that exploratory analysis of their prospective student data is
+needed to perform segmentation for targeted advertising and recruitment
+efforts. Prior to performing a segmentation task or cluster analysis, let us
+define the requirements for the data that will be explored.
+
+Defining data requirements involves understanding the data needed to reach the
+business and analytic objectives. Defining the data requirements will involve
+considerations for data sources, data management, and data extraction. The
+following questions must be answered to determine the data requirements:
+
+  * How can data be used to meet the business and analytic objectives? 
+
+  * What data is needed for developing the analytic solution? Can the data be collected from credible sources?
+
+  * How can the data be prepared to visualize and answer relevant questions?
+
+Model Requirements
+
+Although the talent for developing models resides within the project team, the
+model requirements are defined collaboratively. Model explainability is
+important to ensure that a client understands the insights that can be gleaned
+from the results/outputs from the model(s). Let’s consider the scenario above,
+the client will benefit from models that predict the probability of a
+prospective applicant enrolling in the college. Without understanding the
+output of a predictive model, the client is not able to decipher the
+observations that could have a positive yield from their engagement efforts.
+This can result in the college wasting funds in targeting prospective
+students, therefore leading to a failed solution.
+
+Model requirements describe the behavior and attributes of a model. The figure
+below highlights questions that should be answered defining requirements for a
+model/models:
+
+Figure 5: Defining Model Requirements
+
+Reports and Dashboards: "Reports are often considered as a solution for
+business intelligence projects. If the college needs to generate reports, the
+project team will work with the college to define the requirements for reports
+by inquiring about (1) the current reports used in the college and the changes
+that need to be made to the reports, (2) data sources for the reports, (3)
+considerations for users generating reports i.e. how can an authorized user
+customize a report to display the data they need?".
+
+Similar to traditional IT projects, requirements should also be gathered for
+analytic solutions that are packaged. i.e. not developed in-house or
+outsourced.
+
+Reading: Requirements for an IIoT (Industrial Internet of Things) Predictive
+Maintenance Solution.
+

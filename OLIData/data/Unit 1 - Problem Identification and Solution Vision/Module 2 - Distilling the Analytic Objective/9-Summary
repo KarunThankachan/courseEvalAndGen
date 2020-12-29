@@ -1,0 +1,25 @@
+
+
+  * This module focused on formulating the analytic objective, which is also considered a research hypothesis because it effectively posits that a certain technique improves a metric with regard to a population of problem instances.
+
+  * A well framed analytic objective will include the following elements:
+
+    * Understanding the business objective
+
+    * Identifying the problem
+
+    * Focusing on a well defined task
+
+    * Checking proposed method against the target insight
+
+    * Proposing data collection and curation methods
+
+    * Framing the analytic objective
+
+  * Analytic objectives can be reframed to focus on specific tasks, in which case an incremental step would become the main goal. 
+
+An analytic objective should state (1) what specific functionality, insight,
+or resource is gained from leveraging that data and methods you propose (2)
+relative to the current situation, and (3) assuming the project is successful
+as proposed.
+

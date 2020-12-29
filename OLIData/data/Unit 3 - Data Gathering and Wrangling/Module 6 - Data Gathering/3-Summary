@@ -1,0 +1,22 @@
+
+
+Data is a valuable asset to any organization's decision making process.
+Organizations are paying rapt attention to the management of their data
+infrastructure to ensure that their data is valid, reliable, secure and has
+integrity.
+
+  * This module covered material on data management and its implication for the data infrastructure of an organization. Data management involves storing and maintaining data that is collected by an organization. 
+
+  * There are key IT team members that are responsible for the data management framework of an organization. The data architect(s) handle the development of a data management plan and work with other IT team members especially data engineers to ensure that data is collected and stored securely. 
+
+  * The Data Management- Body of Knowledge (DAMA-DMBOK) provides a best practices guide for data management professionals and organizations with a data infrastructure. 
+
+  * The DAMA-DMBOK highlights eleven (11) areas of knowledge that will guide a data management professional in ensuring that an organization's data infrastructure follows best practices.
+
+  * The 11 data management areas of knowledge have impact on the quality of data and are highlighted in later sections of this course. In this unit, we describe data governance and its implications for the successful execution of data science projects.
+
+  * Data governance involves all data users in an organization. When implemented, it ensures there is a common understanding of an organization's data, its infrastructure, and the policies and regulations governing it. 
+
+Huberman, A. M., & Miles, M. B.Handbook of qualitative research.Data
+management and analysis methods428-444Sage Publications.1994
+

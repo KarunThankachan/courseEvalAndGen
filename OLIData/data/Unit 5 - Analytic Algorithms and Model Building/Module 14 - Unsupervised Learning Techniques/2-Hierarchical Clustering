@@ -1,0 +1,79 @@
+
+
+Let us explore the second type of clustering technique called the Hierarchical
+Clustering technique. Here, you will begin clustering to form hierarchies of
+clusters and those hierarchies are presented using a Dendrogram (reading a
+Dendrogram). There are two techniques used for hierarchical clustering.
+
+Agglomerative Clustering
+
+This technique involves starting the clustering process with one observation
+forming its own cluster. Clusters are then formed by combining or
+agglomerating the nearest clusters until there is one cluster left.
+Essentially, at each step of agglomerating clusters, the clusters with the
+smallest distance from each other will be combined. As shown in the figure
+below, the dataset with a-f observations will be combined using the
+agglomerative technique until there is one cluster left.
+
+The technique can take advantage of any distance measure but you will find
+that most studies will use the Euclidean distance as a distance metric.
+
+Raw Data-Source1
+
+  * The first round of merges finds clusters with observations/clusters b and c merged to form one cluster and d and e are also merged into one. now we have cluster a, bc, de and f. 
+
+  * Next, de and f are combined to form cluster a, bc, and def.
+
+  * Clusters are further combined to form a and bcdef.
+
+  * Finally, abcdef is formed. 
+
+Hierarchical Clustering Technique-Source1
+
+Merging Clusters
+
+Single Linkage Method is based on grouping clusters using the agglomerative
+method with two clusters merged at each step. Those clusters contain the
+closest observations that are not yet part of the same cluster. The distance
+between the nearest pair of observations in the two clusters are used to
+determine the best clusters to combine. This method will produce clusters that
+have small distances while ignoring observations in clusters that are further
+from it. As clusters are merged, the agglomerative algorithm uses a linkage
+method to evaluate the similarity (or dissimilarity) between formed clusters.
+
+Single linkage suffers from chaining. In order to merge two groups, only need
+one pair of points to be close, irrespective of all others. Therefore clusters
+can be too spread out, and not compact enough.
+
+Complete Linkage Method uses the maximum distance between data points within
+each cluster, also known as the farthest neighbor method, clusters are
+combined into larger clusters until all data points are in the same cluster.
+The distance between clusters is the distance between two data points (i.e.
+one per each cluster) that are farthest from each other. Complete linkage
+avoids chaining, but suffers from crowding; because its score is based on the
+worst-case dissimilarity between pairs, a point can be closer to points in
+other clusters than to points in its own cluster.
+
+Average Linkage Method is the average distance between data points within each
+cluster. You can think about the dissimilarity between clusters using the
+average linkage method as the average dissimilarity over all points in
+opposite groups.
+
+Centroid Linkage Method is based on maximum distance and uses the centroid
+distance between clusters. The mean for data points in a cluster is the
+centroid. In complete linkage, dissimilarity between clusters is the largest
+dissimilarity between two points in opposite groups.
+
+Divisive Clustering.This is the opposite of the agglomerative method. Data is
+clustered using a top-down approach. All data will belong to one cluster and
+then the largest clustered is split until each observation is in its own
+cluster. This method chooses the observation with the maximum average
+dissimilarity and then moves all observations to this cluster that are more
+similar to the new cluster than to the remainder. This method is great at
+identifying large clusters and the agglomerative method is great at
+identifying small clusters.
+
+Reading: Hierarchical Clustering of Words and Application to NLP Tasks  
+  
+---  
+  

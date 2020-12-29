@@ -1,0 +1,49 @@
+
+
+Throughout this course, you have learned about understanding your client's
+needs, develop and implement the right analytic solution to meet those
+objectives. At this stage, we want to think through the interpretability of
+models. This will be helpful for fixing issues with the model, and explaining
+why a model produced its results. Interpretability is a very important
+research area in Data Science and Machine Learning. We want to explain why a
+model produces certain results and what happens when there are changes within
+a model; also known as explainability. Interpretability ensures that a data
+scientist can measure the effects of any trade-offs within a model.
+
+Let us turn our attention to the accuracy of a model and how its results can
+proffer better solutions and decisions. As you know by now, errors can be the
+difference between a useful solution and a solution that will lead to loss of
+money and (with how data science solutions are integrated into everyday life)
+lives. Accuracy can be defined as the measurement used to determine the best
+model for a task. If the model can properly generalize new data, it will
+produce better results (such as predictions).
+
+There are certain sectors that are restricted by laws and standards in their
+use of certain techniques, an example is the banking and education industry.
+Some of these restrictions protect the consumers data and ensure that bias is
+not introduced into the decision making process. As you read on the last page,
+the more we learn about interpretability, and employ interpretability
+strategies, these issues might become a thing of the past. Accuracy is very
+important in these sectors and as we have learned, accuracy will typically
+lead to less interpretability. The big question is "how can we retain
+interpretability, while improving accuracy?"
+
+Hall (2016) has recommended the following steps:
+
+  * Train black box models and use them as benchmarks.
+
+  * Use different regression techniques.
+
+  * Use black box models in the deployment process.
+
+  * Train small interpretable ensemble models.
+
+  * Create nonlinear predictors using black box techniques.
+
+  * Explain black box models better using variable importance measures.
+
+Source: Rane-20181
+
+In the next module, we will discuss the different metrics to evaluate model
+accuracy.
+

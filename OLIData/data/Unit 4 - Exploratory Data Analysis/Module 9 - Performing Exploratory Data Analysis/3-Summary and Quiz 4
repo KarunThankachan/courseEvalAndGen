@@ -1,0 +1,12 @@
+
+
+  * The exploratory data analysis (EDA) process is comprised of visualizing data to allow a data scientist or a data analyst explore datasets to gain insights from the data. There are some non-graphical techniques that are used to explore data and as well as graphical techniques. Non-graphical techniques include using summary statistics to describe the data and the graphical techniques are used to describe the frequency distribution of the dataset. Both techniques are used to show the skewness and extreme outliers in a dataset.
+
+  * Summarizing data is dependent on the types of data present in your dataset. When you want to understand the observed data a.k.a your sample, you will key descriptors of a dataset. When you have a large data set, it is difficult to describe it in its raw form. You used specific techniques to summarize and describe your sample. Some of those techniques include Describing Central Tendency and Assessing Measures of Spread and Relationships. 
+
+  * Data visualizations have evolved greatly. Including info-graphics, plots, and statistical graphs. Communicating insights in the data clearly is a key step in the data science process. There is a skill to developing effective visualizations and not all data scientists will have these skills, however it is important to know how to use the tools that support visualization and be able to identify the right types of visualizations for the data types, and the best ways to tell your story with visualizations.
+
+  * Statistical Inference is the process of drawing an informed conclusion about an aspect of your entire dataset using statistical methods. Those conclusions are typically drawn using exploratory data analysis or summary statistics. The goal of this process is to use probability theory to make inferences about your data. 
+
+  * Estimation and Hypothesis Testing are techniques used for making statistical inference on population mean and also population proportion.
+

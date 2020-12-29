@@ -1,0 +1,46 @@
+
+
+Errors At All Phases
+
+A quick survey of both scholarly and practitioner literature, you will read
+that errors can make or break the analytic development process and render your
+analytic solution "of little use" to your client. Errors can start from the
+business understanding phase, when a data science team does not set the
+appropriate analytic objectives due to misunderstanding the business context
+and needs. This misunderstanding will lead to bloated costs, and scope creep.
+A data science team might also encounter errors during the data understanding
+phase. Issues with data that is not prepared adequately, or even worse
+collecting data that is not relevant to your analytic solution. Errors in the
+data understanding phase can occur due to inexperience within the data science
+team, and an attempt to deliver a solution hurriedly.
+
+Errors in Model Understanding
+
+The model understanding phase also presents errors that we should explore as
+we are learning about the different data science patterns and techniques that
+can be used to solve data related problems. Errors in this phase are used to
+validate models. Errors will reveal if the expected performance of a model
+will be sufficient for deploying to production. The models below are errors
+that you will hear about throughout your career as data scientists. As we
+learn about different techniques, we will further explore how to assess models
+based on certain error estimates.
+
+Training Error is derived by calculating the classification error of a model
+on the exact data that was used to train the model.
+
+Test Error is important as it gives insight into the amount of errors to
+expect when making future predictions and it is used for model selection. None
+of your training data set should be part of the test data as it can affect the
+accuracy of the test error.
+
+Irreducible error, is the noise term in the true relationship that cannot
+fundamentally be reduced by any model. When x can not determine y because
+there are other predictors that might improve the prediction error, you
+incorporate those variables.
+
+Reducible Error is the error resulting from a mismatch between f and f hat or
+the estimate of the relationship between x and y and its true relationship.
+
+As we explore the different methods, we will dive deeper into calculating the
+error rate for the models trained using those methods.
+

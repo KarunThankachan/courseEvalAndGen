@@ -1,0 +1,87 @@
+
+
+When evaluating the performance of a model, there are methods that allow for
+your model to be fit multiple times with different subsets of a dataset. Model
+Assessment and Model Selection are key concepts of importance to every data
+scientist. You will assess your model to see its performance and select the
+most fitting model. How then can you test and validate your model to ensure
+that real world data can be introduced to it?
+
+Cross Validation
+
+There are multiple scenarios where you will not have access to a large enough
+dataset to estimate the test error rate of a model. However, you can not use
+this as an excuse to not test and validate your model. You can employ a method
+called holding out. Here, you are using a subset of the observations in your
+training dataset to be used to validate your model. This process will allow
+you to predict the responses for the observations used to validate the model.
+This approach is called the Validation Set Approach and the data that was used
+during holding out is called the validation dataset. Similar to the results
+from fitting the model with the training data set, you will assess the error
+rate of the validation set approach, using the MSE (it will give an estimate
+of the test error rate for quantitative outputs).
+
+Consider that the test error rate for the validation data set will depend on
+the observations included in the validation data set versus the training data
+set. The validation data set test error rate might be overestimated when this
+approach is applied to statistical methods that require a large amount of
+observations.
+
+k-Fold Cross Validation. You should think about k as a number of groups that
+are formed as a result of splitting your dataset. Implementing k-fold cross
+validation is straight forward. The dataset should be shuffled randomly and
+split into the groups(according to the chosen value of k). Each group will be
+used as the hold out dataset, meanwhile the others will be used as a training
+dataset. Your model will be fit with the training dataset and then evaluated
+with the holdout dataset. You will evaluate the models using an evaluation
+criteria.
+
+Selecting k is not a random process, an inappropriate k will lead to a model
+that has high bias or high variance. Remember, you want a balanced model with
+low bias and low variance. The techniques used to choose the right value for k
+includes:
+
+Using a fixed value of 10. This number has been used because it has been used
+in various projects and empirically tested to show that the k=10 will result
+in a balanced model (low bias-low variance) and k at 10 and even 5 yield test
+error rates that do not suffer from bias-variance issues. k-fold cross
+validation is not costly to implement as other cross validation techniques. It
+can be applied to most learning methods. You should assess your model's bias
+by calculating the mean of all error estimates. The model's variance is
+assessed by computing the standard deviation of all the error estimates. The
+lower the value for the bias and variance, the better...and this means your
+model is balanced.
+
+The size of the dataset can also be used as k, this is known as the leave one
+out cross validation technique, where k is the number of observations in the
+dataset minus one observation.
+
+Leave One Out Cross Validation (LOOCV). This technique involves splitting the
+dataset to use one observation for validation and the rest of your dataset for
+training. LOOCV technique presents less bias as it does not overestimate the
+test error rate, the technique continues to fit the model with as many
+observations as are in the dataset. There is no randomness in the dataset
+split and this makes it costly to implement (think about this technique on a
+large dataset). A viable solution involves using polynomial regression to make
+the cost of this technique similar to that of fitting a single model. LOOCV
+can be used with any kind of predictive modeling.
+
+LOOCV will have a higher variance than the k-fold CV because with LOOCV,
+models are trained on almost identical set of observations and this will mean
+that the outputs will be positively correlated with each other. With k-fold
+CV, when k is less than n, the output of your models are not as correlated as
+is the case with the LOOCV models.
+
+Using Cross Validation with Regression and Classification Problems
+
+Classification Problems. When Y is qualitative, we use the number of
+misclassified observations as a measure of the model's test error. Regression
+Problems: When Y is quantitative, the Mean Square Error(MSE) is used to
+measure the test error. Cross validation estimates are assessed for accuracy
+by computing the MSE (for regression problems) or misclassification rate
+(classification problems).
+
+Cross Validation: Python  
+  
+---  
+  

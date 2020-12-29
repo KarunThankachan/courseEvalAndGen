@@ -1,0 +1,71 @@
+
+
+Proposing Datasets & Collection Methods
+
+Just as the methods proposed must be suitable to achieve the analytic goal, so
+must the data with which the methods are combined. The most important
+criterion in this regard is, of course, that the data is presumed to contain
+patterns that are informative for the analytic objective and allows one to
+successfully tackle the proposed task and make progress towards solving the
+problem in a data-driven way. Beyond this main requirement, and depending on
+the project context and proposed methods, specific data sources can be more or
+less suitable for the project. Possible considerations include:
+
+  * Is the dataset of the appropriate size for the proposed method? How many data points and how many features does it contain? 
+
+  * What distribution do the individual phenomena in the data follow? 
+
+  * Is the dataset raw or readily processable? What preprocessing is necessary and how will it influence the relevant patterns? 
+
+  * Is the data complete or are some parts of it missing? 
+
+  * Is the dataset clean or noisy? Does measurement error play a role? 
+
+  * Are there access or disclosure restrictions to the data? Is it confidential, private, sensitive, partially redacted, or classified? Is it subject to licensing restrictions? 
+
+Well-studied benchmark datasets are available to the data science community
+for many tasks. While prior work on a dataset is a good indicator of its
+utility for a task, it cannot replace the process of familiarizing yourself
+with it before commencing serious experimentation work. It is good practice to
+investigate the suitability of the proposed dataset for the task and method
+before moving on with the project, unless the exploration of the dataset
+itself is understood as part of the analytic goal. This is typically done
+through research and preliminary data surveys, possibly in collaboration with
+domain experts.
+
+While statistical analysis and machine learning are of course core pillars of
+data science, effective collection, curation, and interaction with data are
+equally important and regularly the subject of analytic objectives, and even
+entire projects. As such the core method and data component of an analytic
+objective need not necessarily always be about training a model on available
+data, but can also be about collecting data to enable subsequent analysis.
+
+When proposing data collection as part of an analytical objective, the
+collection methods must be scrutinized as to whether they are likely to
+succeed in producing a valuable dataset resource. Data collection, especially
+involving human annotators, is its own research field. Relevant considerations
+include:
+
+  * How well will the collection represent/approximate/cover the desired distribution of phenomena relevant to the problem? 
+
+  * Does the collection require human annotators? Can it be done using crowdworkers? 
+
+  * What qualifications do the human annotators need to possess? How can they be effectively trained for the task? 
+
+  * Do the human annotators need to be examined/tested before and/or after collection? 
+
+  * How should the annotation task be designed to ensure productive and correct annotation? How will agreement between annotators be measured? 
+
+  * How much data should be gathered to enable progress towards the analytic objective? How much data can be gathered given the budget? 
+
+  * Once the data has been gathered, what cleaning and curation needs to happen? 
+
+  * Are there any approvals/permissions that need to be obtained before the collection can proceed (e.g. human subject research)? 
+
+This course includes an introduction to data collection methods. For purposes
+of this unit, the main thing to take away is that collecting good datasets
+requires an amount of skill, care, and attention to detail comparable to those
+needed for doing good data analysis. Like core machine learning efforts, data
+collection projects are conducted with specific analytic objectives in mind
+and hence can be framed and assessed using the same template.
+
